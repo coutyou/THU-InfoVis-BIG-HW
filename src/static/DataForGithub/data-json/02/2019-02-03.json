@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-03",
+    "month": 2,
+    "day": 3,
+    "python": [
+        {
+            "name": "stanfordnlp",
+            "url": "https://github.com/stanfordnlp/stanfordnlp",
+            "star": 115,
+            "description": "Official Stanford NLP Python Library for Many Human Languages"
+        },
+        {
+            "name": "ASCII-generator",
+            "url": "https://github.com/vietnguyen91/ASCII-generator",
+            "star": 87,
+            "description": "ASCII generator (image to text, image to image, video to video)"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 77,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "apprise",
+            "url": "https://github.com/caronc/apprise",
+            "star": 72,
+            "description": "Apprise - Push Notifications that work with just about every platform!"
+        },
+        {
+            "name": "nlp-tutorial",
+            "url": "https://github.com/graykode/nlp-tutorial",
+            "star": 62,
+            "description": "Natural Language Processing Tutorial for Deep Learning Researchers"
+        },
+        {
+            "name": "pylane",
+            "url": "https://github.com/NtesEyes/pylane",
+            "star": 57,
+            "description": "An python vm injector with debug tools, based on gdb."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 39,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 35,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 39,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 37,
+            "description": "A collective list of free APIs for use in software and web development."
+        }
+    ],
+    "java": [
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 133,
+            "description": "A full-featured APP ( iOS & Android ) development assistant. You deserve it."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 122,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 76,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "symphony",
+            "url": "https://github.com/b3log/symphony",
+            "star": 47,
+            "description": "🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com"
+        },
+        {
+            "name": "giffun",
+            "url": "https://github.com/guolindev/giffun",
+            "star": 46,
+            "description": "一款开源的GIF在线分享App，乐趣就要和世界分享。"
+        },
+        {
+            "name": "Gaps",
+            "url": "https://github.com/JasonHHouse/Gaps",
+            "star": 46,
+            "description": "Find the missing movies in your Plex Server"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 40,
+            "description": "⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 32,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 33,
+            "description": "Apache Flink"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 28,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 213,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "awesome-podcasts",
+            "url": "https://github.com/rShetty/awesome-podcasts",
+            "star": 222,
+            "description": "Collection of awesome podcasts"
+        },
+        {
+            "name": "Intranet_Penetration_Tips",
+            "url": "https://github.com/Ridter/Intranet_Penetration_Tips",
+            "star": 188,
+            "description": "2018年初整理的一些内网渗透TIPS，后面更新的慢，所以公开出来希望跟小伙伴们一起更新维护~"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 137,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 101,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "interview",
+            "url": "https://github.com/aylei/interview",
+            "star": 102,
+            "description": "写在19年初的后端社招面试经历🤑"
+        },
+        {
+            "name": "chinese-programmer-wrong-pronunciation",
+            "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+            "star": 97,
+            "description": "中国程序员容易发音错误的单词"
+        },
+        {
+            "name": "GitHubDaily",
+            "url": "https://github.com/GitHubDaily/GitHubDaily",
+            "star": 96,
+            "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+        },
+        {
+            "name": "the-practical-linux-hardening-guide",
+            "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+            "star": 88,
+            "description": "🔥This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 57,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "flexsearch",
+            "url": "https://github.com/nextapps-de/flexsearch",
+            "star": 509,
+            "description": "Next-Generation full text search library for Browser and Node.js"
+        },
+        {
+            "name": "learn-react-app",
+            "url": "https://github.com/tyroprogrammer/learn-react-app",
+            "star": 346,
+            "description": "Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!"
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 181,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 108,
+            "description": "a javascript spreadsheet for web"
+        },
+        {
+            "name": "nodeppt",
+            "url": "https://github.com/ksky521/nodeppt",
+            "star": 99,
+            "description": "This is probably the best web presentation tool so far!"
+        },
+        {
+            "name": "nuclear",
+            "url": "https://github.com/nukeop/nuclear",
+            "star": 72,
+            "description": "Desktop music player for streaming from free sources"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 71,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 65,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 62,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "readability",
+            "url": "https://github.com/mozilla/readability",
+            "star": 70,
+            "description": "A standalone version of the readability lib"
+        }
+    ],
+    "html": [
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 22,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 6,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 5,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 8,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "30-seconds-of-css",
+            "url": "https://github.com/30-seconds/30-seconds-of-css",
+            "star": 7,
+            "description": "A curated collection of useful CSS snippets you can understand in 30 seconds or less."
+        },
+        {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "star": 6,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 7,
+            "description": "Simple management UI for Docker"
+        },
+        {
+            "name": "startbootstrap-sb-admin-2",
+            "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin-2",
+            "star": 5,
+            "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 5,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        }
+    ],
+    "go": [
+        {
+            "name": "websocketd",
+            "url": "https://github.com/joewalnes/websocketd",
+            "star": 85,
+            "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets."
+        },
+        {
+            "name": "cli",
+            "url": "https://github.com/urfave/cli",
+            "star": 59,
+            "description": "A simple, fast, and fun package for building command line apps in Go"
+        },
+        {
+            "name": "aresdb",
+            "url": "https://github.com/uber/aresdb",
+            "star": 57,
+            "description": "A GPU-powered real-time analytics storage and query engine."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 51,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "golangci-lint",
+            "url": "https://github.com/golangci/golangci-lint",
+            "star": 43,
+            "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 36,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 33,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "faker",
+            "url": "https://github.com/bxcodec/faker",
+            "star": 30,
+            "description": "Go (Golang) Fake Data Generator for Struct"
+        },
+        {
+            "name": "gitea",
+            "url": "https://github.com/go-gitea/gitea",
+            "star": 30,
+            "description": "Git with a cup of tea, painless self-hosted git service"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 27,
+            "description": "A platform for building proxies to bypass network restrictions."
+        }
+    ]
+}

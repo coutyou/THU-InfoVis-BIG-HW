@@ -1,0 +1,377 @@
+{
+    "date": "2019-01-24",
+    "month": 1,
+    "day": 24,
+    "python": [
+        {
+            "name": "LASER",
+            "url": "https://github.com/facebookresearch/LASER",
+            "star": 366,
+            "description": "Language-Agnostic SEntence Representations"
+        },
+        {
+            "name": "funNLP",
+            "url": "https://github.com/fighting41love/funNLP",
+            "star": 249,
+            "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…"
+        },
+        {
+            "name": "deep-learning-ocean",
+            "url": "https://github.com/osforscience/deep-learning-ocean",
+            "star": 230,
+            "description": "📡All You Need to Know About Deep Learning - A kick-starter"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/StevenBlack/hosts",
+            "star": 132,
+            "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category."
+        },
+        {
+            "name": "py12306",
+            "url": "https://github.com/pjialin/py12306",
+            "star": 100,
+            "description": "🚂12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 91,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "howmanypeoplearearound",
+            "url": "https://github.com/schollz/howmanypeoplearearound",
+            "star": 101,
+            "description": "Count the number of people around you👨‍👨‍👦by monitoring wifi signals📡"
+        },
+        {
+            "name": "datasets",
+            "url": "https://github.com/tensorflow/datasets",
+            "star": 89,
+            "description": "A collection of datasets ready to use with TensorFlow"
+        },
+        {
+            "name": "TorchSeg",
+            "url": "https://github.com/ycszen/TorchSeg",
+            "star": 90,
+            "description": "Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch."
+        },
+        {
+            "name": "catt",
+            "url": "https://github.com/skorokithakis/catt",
+            "star": 90,
+            "description": "Cast All The Things allows you to send videos from many, many online sources to your Chromecast."
+        }
+    ],
+    "java": [
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 220,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 157,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 104,
+            "description": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 92,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "nacos",
+            "url": "https://github.com/alibaba/nacos",
+            "star": 82,
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 67,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "java-almanac",
+            "url": "https://github.com/marchof/java-almanac",
+            "star": 65,
+            "description": "Some Java Historiography"
+        },
+        {
+            "name": "cim",
+            "url": "https://github.com/crossoverJie/cim",
+            "star": 60,
+            "description": "📲cim(cross IM) 适用于开发者的即时通讯系统"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 52,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/spring-cloud-incubator/spring-cloud-alibaba",
+            "star": 58,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 278,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 207,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 206,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 123,
+            "description": "📚面试必备基础知识"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 104,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 90,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "deep_learning_object_detection",
+            "url": "https://github.com/hoya012/deep_learning_object_detection",
+            "star": 83,
+            "description": "A paper list of object detection using deep learning."
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 81,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "request-for-implementation",
+            "url": "https://github.com/dtolnay/request-for-implementation",
+            "star": 81,
+            "description": "Crates that don't exist, but should"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 54,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "react-spring",
+            "url": "https://github.com/react-spring/react-spring",
+            "star": 339,
+            "description": "✌️A spring physics based React animation library"
+        },
+        {
+            "name": "fx_cast",
+            "url": "https://github.com/hensm/fx_cast",
+            "star": 245,
+            "description": "Implementation of the Chrome Sender API (Chromecast) within Firefox"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 206,
+            "description": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "nuclear",
+            "url": "https://github.com/nukeop/nuclear",
+            "star": 172,
+            "description": "Popcorn Time for music"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 127,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 119,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "fx",
+            "url": "https://github.com/antonmedv/fx",
+            "star": 117,
+            "description": "Command-line tool and terminal JSON viewer🔥"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 97,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "Musish",
+            "url": "https://github.com/Musish/Musish",
+            "star": 98,
+            "description": "Apple Music...ish"
+        },
+        {
+            "name": "shiny",
+            "url": "https://github.com/rikschennink/shiny",
+            "star": 98,
+            "description": "🌟Shiny reflections for mobile websites"
+        }
+    ],
+    "html": [
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 58,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 33,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "30-seconds-of-css",
+            "url": "https://github.com/30-seconds/30-seconds-of-css",
+            "star": 28,
+            "description": "A curated collection of useful CSS snippets you can understand in 30 seconds or less."
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 22,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 16,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 18,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "pytorch-doc-zh",
+            "url": "https://github.com/apachecn/pytorch-doc-zh",
+            "star": 11,
+            "description": "PyTorch 中文文档"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 14,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 14,
+            "description": "Simple management UI for Docker"
+        }
+    ],
+    "go": [
+        {
+            "name": "aws-lambda-container-image-converter",
+            "url": "https://github.com/awslabs/aws-lambda-container-image-converter",
+            "star": 384,
+            "description": "The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda layers, and publishes them as new layer versions."
+        },
+        {
+            "name": "konfig",
+            "url": "https://github.com/lalamove/konfig",
+            "star": 78,
+            "description": "Composable, observable and performant config handling for Go for the distributed processing era"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 56,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "soar",
+            "url": "https://github.com/XiaoMi/soar",
+            "star": 56,
+            "description": "SQL Optimizer And Rewriter"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 53,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "torsniff",
+            "url": "https://github.com/fanpei91/torsniff",
+            "star": 47,
+            "description": "torsniff - a sniffer fetching torrents from BitTorrent network"
+        },
+        {
+            "name": "timeliner",
+            "url": "https://github.com/mholt/timeliner",
+            "star": 49,
+            "description": "All your digital life on a single timeline, stored locally"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 42,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 43,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "mkcert",
+            "url": "https://github.com/FiloSottile/mkcert",
+            "star": 41,
+            "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+        }
+    ]
+}

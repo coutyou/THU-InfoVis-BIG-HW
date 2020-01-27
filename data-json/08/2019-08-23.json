@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-23",
+    "month": 8,
+    "day": 23,
+    "python": [
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 386,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 55,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "A-Light-and-Fast-Face-Detector-for-Edge-Devices",
+            "url": "https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices",
+            "star": 50,
+            "description": "a light and fast face detector for edge devices"
+        },
+        {
+            "name": "kubernetes-workshop",
+            "url": "https://github.com/eon01/kubernetes-workshop",
+            "star": 90,
+            "description": "⚙️A Gentle introduction to Kubernetes with more than just the basics.🌟Give it a star if you like it."
+        },
+        {
+            "name": "Chinese-PreTrained-XLNet",
+            "url": "https://github.com/ymcui/Chinese-PreTrained-XLNet",
+            "star": 17,
+            "description": "Pre-Trained Chinese XLNet（中文XLNet预训练模型）"
+        },
+        {
+            "name": "ShuffleNet-Series",
+            "url": "https://github.com/megvii-model/ShuffleNet-Series",
+            "star": 30,
+            "description": ""
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 27,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "compose",
+            "url": "https://github.com/docker/compose",
+            "star": 16,
+            "description": "Define and run multi-container applications with Docker"
+        },
+        {
+            "name": "numpy-ml",
+            "url": "https://github.com/ddbourgin/numpy-ml",
+            "star": 15,
+            "description": "Machine learning, in numpy"
+        },
+        {
+            "name": "django-rest-framework",
+            "url": "https://github.com/encode/django-rest-framework",
+            "star": 20,
+            "description": "Web APIs for Django.⚡️"
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 254,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/justauth/JustAuth",
+            "star": 377,
+            "description": "💯史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 84,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 30,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 100,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 20,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 100,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "holer",
+            "url": "https://github.com/wisdom-projects/holer",
+            "star": 12,
+            "description": "Holer exposes local servers behind NATs and firewalls to the public internet over secure tunnels."
+        },
+        {
+            "name": "cim",
+            "url": "https://github.com/crossoverJie/cim",
+            "star": 16,
+            "description": "📲cim(cross IM) 适用于开发者的即时通讯系统"
+        },
+        {
+            "name": "bazel",
+            "url": "https://github.com/bazelbuild/bazel",
+            "star": 8,
+            "description": "a fast, scalable, multi-language and extensible build system"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "google-cloud-4-words",
+            "url": "https://github.com/gregsramblings/google-cloud-4-words",
+            "star": 85,
+            "description": "The Google Cloud Developer's Cheat Sheet"
+        },
+        {
+            "name": "free-books",
+            "url": "https://github.com/ruanyf/free-books",
+            "star": 482,
+            "description": "互联网上的免费书籍"
+        },
+        {
+            "name": "awesome-actions",
+            "url": "https://github.com/sdras/awesome-actions",
+            "star": 38,
+            "description": "A curated list of awesome actions to use on GitHub"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/laravel/docs",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 17,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "industry-machine-learning",
+            "url": "https://github.com/firmai/industry-machine-learning",
+            "star": 104,
+            "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries."
+        },
+        {
+            "name": "starter-workflows",
+            "url": "https://github.com/actions/starter-workflows",
+            "star": 12,
+            "description": "Accelerating new GitHub Actions workflows"
+        },
+        {
+            "name": "awesome-coding-js",
+            "url": "https://github.com/ConardLi/awesome-coding-js",
+            "star": 39,
+            "description": "用JavaScript实现的算法和数据结构，附详细解释和刷题指南"
+        },
+        {
+            "name": "Deep-Learning-Interview-Book",
+            "url": "https://github.com/amusi/Deep-Learning-Interview-Book",
+            "star": 5,
+            "description": "深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）"
+        },
+        {
+            "name": "business-machine-learning",
+            "url": "https://github.com/firmai/business-machine-learning",
+            "star": 9,
+            "description": "A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "d3",
+            "url": "https://github.com/d3/d3",
+            "star": 80,
+            "description": "Bring data to life with SVG, Canvas and HTML.📊📈🎉"
+        },
+        {
+            "name": "airframe-react",
+            "url": "https://github.com/0wczar/airframe-react",
+            "star": 177,
+            "description": "Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe"
+        },
+        {
+            "name": "admin-bro",
+            "url": "https://github.com/SoftwareBrothers/admin-bro",
+            "star": 114,
+            "description": "AdminBro is an admin panel for apps written in node.js"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 145,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "front-end-interview-handbook",
+            "url": "https://github.com/yangshun/front-end-interview-handbook",
+            "star": 60,
+            "description": "🕸Almost complete answers to \"Front-end Job Interview Questions\" which you can use to interview potential candidates, test yourself or completely ignore"
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 111,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "incubator-superset",
+            "url": "https://github.com/apache/incubator-superset",
+            "star": 61,
+            "description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application"
+        },
+        {
+            "name": "js-xlsx",
+            "url": "https://github.com/SheetJS/js-xlsx",
+            "star": 30,
+            "description": "📗SheetJS Community Edition -- Spreadsheet Toolkit"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 47,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 15,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        }
+    ],
+    "html": [
+        {
+            "name": "JSSDK-Demo",
+            "url": "https://github.com/Cocos-BCX/JSSDK-Demo",
+            "star": 9,
+            "description": "JSSDK Demo"
+        },
+        {
+            "name": "book",
+            "url": "https://github.com/PaddlePaddle/book",
+            "star": 3,
+            "description": "Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）"
+        },
+        {
+            "name": "blackeye",
+            "url": "https://github.com/thelinuxchoice/blackeye",
+            "star": 2,
+            "description": "The most complete Phishing Tool, with 32 templates +1 customizable"
+        },
+        {
+            "name": "training-kit",
+            "url": "https://github.com/github/training-kit",
+            "star": 4,
+            "description": "Open source cheat sheets for Git and GitHub"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 16,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 10,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 2,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "ppts",
+            "url": "https://github.com/iv-web/ppts",
+            "star": 57,
+            "description": "团队对外分享ppt"
+        },
+        {
+            "name": "MatBlazor",
+            "url": "https://github.com/SamProf/MatBlazor",
+            "star": 2,
+            "description": "Material Design components for Blazor and Razor Components"
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 7,
+            "description": "Free Bootstrap 3 Admin Template"
+        }
+    ],
+    "go": [
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 21,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "cilium",
+            "url": "https://github.com/cilium/cilium",
+            "star": 19,
+            "description": "API Aware Networking and Security using BPF and XDP"
+        },
+        {
+            "name": "learn-go-with-tests",
+            "url": "https://github.com/quii/learn-go-with-tests",
+            "star": 232,
+            "description": "Learn Go with test-driven development"
+        },
+        {
+            "name": "dgraph",
+            "url": "https://github.com/dgraph-io/dgraph",
+            "star": 19,
+            "description": "Fast, Distributed Graph DB"
+        },
+        {
+            "name": "sampler",
+            "url": "https://github.com/sqshq/sampler",
+            "star": 129,
+            "description": "A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
+        },
+        {
+            "name": "reading-go",
+            "url": "https://github.com/developer-learning/reading-go",
+            "star": 18,
+            "description": "Go 夜读 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题。"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 54,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "flagger",
+            "url": "https://github.com/weaveworks/flagger",
+            "star": 12,
+            "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)"
+        },
+        {
+            "name": "mysql",
+            "url": "https://github.com/go-sql-driver/mysql",
+            "star": 10,
+            "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+        },
+        {
+            "name": "terraform-provider-azurerm",
+            "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+            "star": 4,
+            "description": "Terraform provider for Azure Resource Manager"
+        }
+    ]
+}

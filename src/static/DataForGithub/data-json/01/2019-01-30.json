@@ -1,0 +1,377 @@
+{
+    "date": "2019-01-30",
+    "month": 1,
+    "day": 30,
+    "python": [
+        {
+            "name": "apprise",
+            "url": "https://github.com/caronc/apprise",
+            "star": 736,
+            "description": "Apprise - Push Notifications that work with just about every platform!"
+        },
+        {
+            "name": "brumadinho_location",
+            "url": "https://github.com/dieegom/brumadinho_location",
+            "star": 348,
+            "description": "Criamos uma primeira versão de uma ferramenta para colocar latitude e longitude dos desaparecidos e, com base no fluxo de rejeitos, estimar a possível localização da pessoa."
+        },
+        {
+            "name": "yodaos",
+            "url": "https://github.com/yodaos-project/yodaos",
+            "star": 234,
+            "description": "AI OS for Web Community"
+        },
+        {
+            "name": "funNLP",
+            "url": "https://github.com/fighting41love/funNLP",
+            "star": 131,
+            "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…"
+        },
+        {
+            "name": "rtv",
+            "url": "https://github.com/michael-lazar/rtv",
+            "star": 94,
+            "description": "Browse Reddit from your terminal"
+        },
+        {
+            "name": "d2l-zh",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "star": 86,
+            "description": "《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。"
+        },
+        {
+            "name": "py12306",
+            "url": "https://github.com/pjialin/py12306",
+            "star": 77,
+            "description": "🚂12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理"
+        },
+        {
+            "name": "obstacle-tower-env",
+            "url": "https://github.com/Unity-Technologies/obstacle-tower-env",
+            "star": 77,
+            "description": "Obstacle Tower Environment"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 73,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 66,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        }
+    ],
+    "java": [
+        {
+            "name": "giffun",
+            "url": "https://github.com/guolindev/giffun",
+            "star": 770,
+            "description": "一款开源的GIF在线分享App，乐趣就要和世界分享。"
+        },
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 302,
+            "description": "Apache Flink"
+        },
+        {
+            "name": "symphony",
+            "url": "https://github.com/b3log/symphony",
+            "star": 273,
+            "description": "🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 121,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 106,
+            "description": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 91,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "nacos",
+            "url": "https://github.com/alibaba/nacos",
+            "star": 62,
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 49,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 46,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 28,
+            "description": "The \"REST With Spring\" Course:"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-practical-linux-hardening-guide",
+            "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+            "star": 533,
+            "description": "🔥This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+        },
+        {
+            "name": "techlead",
+            "url": "https://github.com/phodal/techlead",
+            "star": 393,
+            "description": "Path to Tech Lead: How to be a tech lead ? 迈向 Tech Lead 之路"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 250,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 164,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "awesome-mobile-web-development",
+            "url": "https://github.com/myshov/awesome-mobile-web-development",
+            "star": 149,
+            "description": "All that you need to create a great mobile web experience"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 124,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "Girl-Dress-",
+            "url": "https://github.com/greenaway07/Girl-Dress-",
+            "star": 91,
+            "description": "看到女装的项目的issue建议妹子建一个男装的项目，但是考虑到github的女性用户 数量貌似并不能达到女装的效果2333总之先建一个。"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 88,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 56,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "nginx-quick-reference",
+            "url": "https://github.com/trimstray/nginx-quick-reference",
+            "star": 79,
+            "description": "This notes describes how to improve Nginx performance, security and other important things."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 1105,
+            "description": "a javascript spreadsheet for web"
+        },
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 545,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "chameleon",
+            "url": "https://github.com/didi/chameleon",
+            "star": 470,
+            "description": "真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端"
+        },
+        {
+            "name": "hotkey",
+            "url": "https://github.com/github/hotkey",
+            "star": 196,
+            "description": "Global DOM element activation"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 134,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "import-http",
+            "url": "https://github.com/egoist/import-http",
+            "star": 136,
+            "description": "Import modules from URL instead of local node_modules"
+        },
+        {
+            "name": "fx",
+            "url": "https://github.com/antonmedv/fx",
+            "star": 120,
+            "description": "Command-line tool and terminal JSON viewer🔥"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 98,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "Gitter",
+            "url": "https://github.com/huangjianke/Gitter",
+            "star": 102,
+            "description": "Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 96,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        }
+    ],
+    "html": [
+        {
+            "name": "terminal.css",
+            "url": "https://github.com/Gioni06/terminal.css",
+            "star": 46,
+            "description": "Modern and minimalistic CSS framework for terminal enthusiasts"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 26,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "manuals",
+            "url": "https://github.com/skr-shop/manuals",
+            "star": 26,
+            "description": "Do design No code📖"
+        },
+        {
+            "name": "sleek-dashboard",
+            "url": "https://github.com/tafcoder/sleek-dashboard",
+            "star": 27,
+            "description": "Sleek Dashboard - Free Bootstrap 4 Admin Template and UI Kit"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 24,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 12,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 21,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 17,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 14,
+            "description": "Simple management UI for Docker"
+        }
+    ],
+    "go": [
+        {
+            "name": "websocketd",
+            "url": "https://github.com/joewalnes/websocketd",
+            "star": 316,
+            "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets."
+        },
+        {
+            "name": "aresdb",
+            "url": "https://github.com/uber/aresdb",
+            "star": 150,
+            "description": ""
+        },
+        {
+            "name": "demoit",
+            "url": "https://github.com/dgageot/demoit",
+            "star": 125,
+            "description": "Live coding demos without Context Switching"
+        },
+        {
+            "name": "go-tagexpr",
+            "url": "https://github.com/bytedance/go-tagexpr",
+            "star": 117,
+            "description": "An interesting go struct tag expression syntax for field validation, etc."
+        },
+        {
+            "name": "go-fastdfs",
+            "url": "https://github.com/sjqzhang/go-fastdfs",
+            "star": 69,
+            "description": "A simple fast, easy use distributed file system written by golang(similar fastdfs).一个简单的分布式文件存储服务（类fastdfs,称go-fastdfs），高性能，高可靠，运维方面省力省心，极其简单的设计让扩展随心所欲"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 59,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 53,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 43,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 43,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 37,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        }
+    ]
+}

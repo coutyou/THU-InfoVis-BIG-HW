@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-24",
+    "month": 2,
+    "day": 24,
+    "python": [
+        {
+            "name": "SC-FEGAN",
+            "url": "https://github.com/JoYoungjoo/SC-FEGAN",
+            "star": 139,
+            "description": "SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 115,
+            "description": "分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 100,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 71,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 60,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "cpython",
+            "url": "https://github.com/python/cpython",
+            "star": 53,
+            "description": "The Python programming language"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 56,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "wukong-robot",
+            "url": "https://github.com/wzpan/wukong-robot",
+            "star": 47,
+            "description": "🤖wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。"
+        },
+        {
+            "name": "lingvo",
+            "url": "https://github.com/tensorflow/lingvo",
+            "star": 45,
+            "description": "Lingvo"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 41,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 100,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 78,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 40,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 31,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "cim",
+            "url": "https://github.com/crossoverJie/cim",
+            "star": 36,
+            "description": "📲cim(cross IM) 适用于开发者的即时通讯系统"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 35,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "redis-manager",
+            "url": "https://github.com/ngbdf/redis-manager",
+            "star": 27,
+            "description": "Redis 一站式管理平台，支持集群创建、管理、监控、报警"
+        },
+        {
+            "name": "fisher",
+            "url": "https://github.com/fanxinglong/fisher",
+            "star": 27,
+            "description": "基于Spring cloud alibaba,oauth2和Element-UI-Admin的后台权限管理框架"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 22,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "geektime-spring-family",
+            "url": "https://github.com/geektime-geekbang/geektime-spring-family",
+            "star": 22,
+            "description": "极客时间视频课程《玩转Spring全家桶》"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 621,
+            "description": "Gitbook"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 239,
+            "description": "⭐️A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "Xiaomi_Kernel_OpenSource",
+            "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+            "star": 194,
+            "description": "Xiaomi Mobile Phone Kernel OpenSource"
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 168,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "awesome-falsehood",
+            "url": "https://github.com/kdeldycke/awesome-falsehood",
+            "star": 172,
+            "description": "💊Curated list of falsehoods programmers believe in."
+        },
+        {
+            "name": "How-To-Secure-A-Linux-Server",
+            "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+            "star": 159,
+            "description": "An evolving how-to guide for securing a Linux server."
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 147,
+            "description": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 110,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "nginx-quick-reference",
+            "url": "https://github.com/trimstray/nginx-quick-reference",
+            "star": 64,
+            "description": "⚡️These notes describes how to improve Nginx performance, security and other important things; @ssllabs A+ 100%."
+        },
+        {
+            "name": "CS-Interview-Knowledge-Map",
+            "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map",
+            "star": 59,
+            "description": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "codecrumbs",
+            "url": "https://github.com/Bogdan-Lyashenko/codecrumbs",
+            "star": 103,
+            "description": "Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing."
+        },
+        {
+            "name": "leon",
+            "url": "https://github.com/leon-ai/leon",
+            "star": 96,
+            "description": "🧠 Leon is your open-source personal assistant."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 73,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "git-history",
+            "url": "https://github.com/pomber/git-history",
+            "star": 70,
+            "description": "Quickly browse the history of a file from any git repository"
+        },
+        {
+            "name": "nsfwjs",
+            "url": "https://github.com/infinitered/nsfwjs",
+            "star": 68,
+            "description": "NSFW detection on the client-side via Tensorflow JS"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 62,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "berry",
+            "url": "https://github.com/yarnpkg/berry",
+            "star": 55,
+            "description": "📦🐈A modern, fast, reliable, package manager; part of the Yarn organization"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 51,
+            "description": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 45,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "next.js",
+            "url": "https://github.com/zeit/next.js",
+            "star": 45,
+            "description": "The React Framework"
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-IT-films",
+            "url": "https://github.com/greybax/awesome-IT-films",
+            "star": 110,
+            "description": "📺A curated list of awesome films about IT & geek people."
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 18,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "googlefonts-font-display-helper",
+            "url": "https://github.com/iamakulov/googlefonts-font-display-helper",
+            "star": 21,
+            "description": "A snippet generator to speed up Google Fonts rendering with font-display"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "WDScanner",
+            "url": "https://github.com/TideSec/WDScanner",
+            "star": 16,
+            "description": "WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署、密码定向破解、社工库查询等功能。"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 15,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 17,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "lectures",
+            "url": "https://github.com/uo-ec607/lectures",
+            "star": 15,
+            "description": "Lecture notes for EC 607"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 9,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 15,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        }
+    ],
+    "go": [
+        {
+            "name": "cds",
+            "url": "https://github.com/ovh/cds",
+            "star": 157,
+            "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform"
+        },
+        {
+            "name": "inlets",
+            "url": "https://github.com/alexellis/inlets",
+            "star": 79,
+            "description": "Expose your local endpoints to the Internet"
+        },
+        {
+            "name": "Venom",
+            "url": "https://github.com/Dliv3/Venom",
+            "star": 57,
+            "description": "Venom - A Multi-hop Proxy for Penetration Testers Written in Go"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 39,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 39,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 35,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "winc",
+            "url": "https://github.com/tadvi/winc",
+            "star": 31,
+            "description": "Common library for Go GUI apps on Windows"
+        },
+        {
+            "name": "dragonboat",
+            "url": "https://github.com/lni/dragonboat",
+            "star": 29,
+            "description": "A feature complete and high performance multi-group Raft library in Go."
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 26,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 22,
+            "description": "The world’s fastest framework for building websites."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-11",
+    "month": 7,
+    "day": 11,
+    "python": [
+        {
+            "name": "pepenude",
+            "url": "https://github.com/deep-man-yy/pepenude",
+            "star": 99,
+            "description": "PepeNude is an application that allows you to transform photos into entertaining results. CLI and GUI versions available."
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 149,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "jupyterhub",
+            "url": "https://github.com/jupyterhub/jupyterhub",
+            "star": 44,
+            "description": "Multi-user server for Jupyter notebooks"
+        },
+        {
+            "name": "BigGAN-PyTorch",
+            "url": "https://github.com/ajbrock/BigGAN-PyTorch",
+            "star": 12,
+            "description": "The author's officially unofficial PyTorch BigGAN implementation."
+        },
+        {
+            "name": "google-api-python-client",
+            "url": "https://github.com/googleapis/google-api-python-client",
+            "star": 11,
+            "description": "🐍The official Python client library for Google's discovery based APIs."
+        },
+        {
+            "name": "sentry",
+            "url": "https://github.com/getsentry/sentry",
+            "star": 16,
+            "description": "Sentry is cross-platform application monitoring, with a focus on error reporting."
+        },
+        {
+            "name": "yolov3",
+            "url": "https://github.com/ultralytics/yolov3",
+            "star": 14,
+            "description": "YOLOv3 in PyTorch > ONNX > CoreML > iOS"
+        },
+        {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "star": 25,
+            "description": "scikit-learn: machine learning in Python"
+        },
+        {
+            "name": "rasa",
+            "url": "https://github.com/RasaHQ/rasa",
+            "star": 16,
+            "description": "💬Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+        },
+        {
+            "name": "gensim",
+            "url": "https://github.com/RaRe-Technologies/gensim",
+            "star": 17,
+            "description": "Topic Modelling for Humans"
+        }
+    ],
+    "java": [
+        {
+            "name": "staffjoy",
+            "url": "https://github.com/spring2go/staffjoy",
+            "star": 147,
+            "description": "微服务和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈"
+        },
+        {
+            "name": "tech-weekly",
+            "url": "https://github.com/mercyblitz/tech-weekly",
+            "star": 60,
+            "description": "「小马哥技术周报」"
+        },
+        {
+            "name": "antlr4",
+            "url": "https://github.com/antlr/antlr4",
+            "star": 33,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+        },
+        {
+            "name": "CtCI-6th-Edition",
+            "url": "https://github.com/careercup/CtCI-6th-Edition",
+            "star": 5,
+            "description": "Cracking the Coding Interview 6th Ed. Solutions"
+        },
+        {
+            "name": "beam",
+            "url": "https://github.com/apache/beam",
+            "star": 5,
+            "description": "Apache Beam"
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 101,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "smile",
+            "url": "https://github.com/haifengl/smile",
+            "star": 7,
+            "description": "Statistical Machine Intelligence & Learning Engine"
+        },
+        {
+            "name": "jna",
+            "url": "https://github.com/java-native-access/jna",
+            "star": 8,
+            "description": "Java Native Access"
+        },
+        {
+            "name": "uid-generator",
+            "url": "https://github.com/baidu/uid-generator",
+            "star": 23,
+            "description": "UniqueID generator"
+        },
+        {
+            "name": "RxAndroid",
+            "url": "https://github.com/ReactiveX/RxAndroid",
+            "star": 12,
+            "description": "RxJava bindings for Android"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "nlp-library",
+            "url": "https://github.com/mihail911/nlp-library",
+            "star": 66,
+            "description": "curated collection of papers for the nlp practitioner📖👩‍🔬"
+        },
+        {
+            "name": "frontend-challenges",
+            "url": "https://github.com/felipefialho/frontend-challenges",
+            "star": 72,
+            "description": "💥Listing some playful open-source's challenges of jobs to test your knowledge"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/yygmind/blog",
+            "star": 168,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！"
+        },
+        {
+            "name": "android-developer-roadmap",
+            "url": "https://github.com/mobile-roadmap/android-developer-roadmap",
+            "star": 41,
+            "description": "Android Developer Roadmap 2019"
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 20,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "you-dont-know-js-ru",
+            "url": "https://github.com/azat-io/you-dont-know-js-ru",
+            "star": 14,
+            "description": "📚Russian translation of \"You Don't Know JS\" book series"
+        },
+        {
+            "name": "xiaozhi",
+            "url": "https://github.com/qq449245884/xiaozhi",
+            "star": 30,
+            "description": ""
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 13,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 78,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/grandyang/leetcode",
+            "star": 15,
+            "description": "Provide all my solutions and explanations in Chinese for all the Leetcode coding problems."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "Garbage",
+            "url": "https://github.com/qi19901212/Garbage",
+            "star": 102,
+            "description": "小程序云开发的垃圾分类小程序"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 765,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "d3",
+            "url": "https://github.com/d3/d3",
+            "star": 56,
+            "description": "Bring data to life with SVG, Canvas and HTML.📊📈🎉"
+        },
+        {
+            "name": "awx",
+            "url": "https://github.com/ansible/awx",
+            "star": 24,
+            "description": "AWX Project"
+        },
+        {
+            "name": "lodash",
+            "url": "https://github.com/lodash/lodash",
+            "star": 66,
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+        },
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 14,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 80,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 34,
+            "description": "💯Algorithms study materials, behavioral content and tips for rocking your coding interview"
+        },
+        {
+            "name": "react-navigation",
+            "url": "https://github.com/react-navigation/react-navigation",
+            "star": 13,
+            "description": "Routing and navigation for your React Native apps"
+        },
+        {
+            "name": "axios",
+            "url": "https://github.com/axios/axios",
+            "star": 61,
+            "description": "Promise based HTTP client for the browser and node.js"
+        }
+    ],
+    "html": [
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 1,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 9,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/knative/docs",
+            "star": 0,
+            "description": "User documentation for Knative components"
+        },
+        {
+            "name": "18.06-linalg-notes",
+            "url": "https://github.com/apachecn/18.06-linalg-notes",
+            "star": 2,
+            "description": "MIT-18.06-线性代数-完整笔记"
+        },
+        {
+            "name": "istio.io",
+            "url": "https://github.com/istio/istio.io",
+            "star": 1,
+            "description": "Source for the istio.io site"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 16,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 15,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "DIGITS",
+            "url": "https://github.com/NVIDIA/DIGITS",
+            "star": 2,
+            "description": "Deep Learning GPU Training System"
+        },
+        {
+            "name": "html",
+            "url": "https://github.com/whatwg/html",
+            "star": 1,
+            "description": "HTML Standard"
+        },
+        {
+            "name": "DetectionLab",
+            "url": "https://github.com/clong/DetectionLab",
+            "star": 10,
+            "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices"
+        }
+    ],
+    "go": [
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 87,
+            "description": "A Commander for modern Go CLI interactions"
+        },
+        {
+            "name": "pan-light",
+            "url": "https://github.com/peterq/pan-light",
+            "star": 434,
+            "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 59,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 21,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 39,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "sprig",
+            "url": "https://github.com/Masterminds/sprig",
+            "star": 16,
+            "description": "Useful template functions for Go templates."
+        },
+        {
+            "name": "learn-go-with-tests",
+            "url": "https://github.com/quii/learn-go-with-tests",
+            "star": 29,
+            "description": "Learn Go with test-driven development"
+        },
+        {
+            "name": "grpc-gateway",
+            "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+            "star": 16,
+            "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+        },
+        {
+            "name": "elastic",
+            "url": "https://github.com/olivere/elastic",
+            "star": 8,
+            "description": "Elasticsearch client for Go."
+        },
+        {
+            "name": "syncthing",
+            "url": "https://github.com/syncthing/syncthing",
+            "star": 35,
+            "description": "Open Source Continuous File Synchronization"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-16",
+    "month": 10,
+    "day": 16,
+    "python": [
+        {
+            "name": "detectron2",
+            "url": "https://github.com/facebookresearch/detectron2",
+            "star": 483,
+            "description": "Detectron2 is FAIR's next-generation research platform for object detection and segmentation."
+        },
+        {
+            "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "star": 416,
+            "description": "💎1MB轻量级通用人脸检测模型"
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 50,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "Awesome-WAF",
+            "url": "https://github.com/0xInfection/Awesome-WAF",
+            "star": 30,
+            "description": "🔥Everything awesome about web-application firewalls (WAF)."
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 78,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "hydra",
+            "url": "https://github.com/facebookresearch/hydra",
+            "star": 47,
+            "description": "Hydra is a framework for elegantly configuring complex applications"
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 14,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "CppCoreGuidelines",
+            "url": "https://github.com/isocpp/CppCoreGuidelines",
+            "star": 84,
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++"
+        },
+        {
+            "name": "Pytorch-UNet",
+            "url": "https://github.com/milesial/Pytorch-UNet",
+            "star": 6,
+            "description": "Pytorch implementation of the U-Net for image semantic segmentation, with dense CRF post-processing"
+        },
+        {
+            "name": "insightface",
+            "url": "https://github.com/deepinsight/insightface",
+            "star": 16,
+            "description": "Face Analysis Project on MXNet"
+        }
+    ],
+    "java": [
+        {
+            "name": "NewPipe",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "star": 81,
+            "description": "A libre lightweight streaming front-end for Android."
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 43,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "incubator-shardingsphere-example",
+            "url": "https://github.com/apache/incubator-shardingsphere-example",
+            "star": 3,
+            "description": "Sharding-Sphere examples"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 41,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 73,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 115,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "onemall",
+            "url": "https://github.com/YunaiV/onemall",
+            "star": 25,
+            "description": "mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 163,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "incubator-dolphinscheduler",
+            "url": "https://github.com/apache/incubator-dolphinscheduler",
+            "star": 19,
+            "description": "Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing."
+        },
+        {
+            "name": "karate",
+            "url": "https://github.com/intuit/karate",
+            "star": 7,
+            "description": "Test Automation Made Simple"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 54,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 158,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "guide",
+            "url": "https://github.com/uber-go/guide",
+            "star": 610,
+            "description": "The Uber Go Style Guide."
+        },
+        {
+            "name": "free-api",
+            "url": "https://github.com/fangzesheng/free-api",
+            "star": 777,
+            "description": "收集免费的接口服务,做一个api的搬运工"
+        },
+        {
+            "name": "The-Open-Book",
+            "url": "https://github.com/joeycastillo/The-Open-Book",
+            "star": 264,
+            "description": ""
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 65,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 200,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "Beginner-Network-Pentesting",
+            "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+            "star": 100,
+            "description": "Notes for Beginner Network Pentesting Course"
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 12,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 99,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 8,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        },
+        {
+            "name": "ccxt",
+            "url": "https://github.com/ccxt/ccxt",
+            "star": 13,
+            "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges"
+        },
+        {
+            "name": "luban-h5",
+            "url": "https://github.com/ly525/luban-h5",
+            "star": 68,
+            "description": "en: A mobile page builder/editor, similar with amolink. zh: 类似易企秀的H5制作、建站工具."
+        },
+        {
+            "name": "brave-browser",
+            "url": "https://github.com/brave/brave-browser",
+            "star": 30,
+            "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android"
+        },
+        {
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js",
+            "star": 34,
+            "description": "JavaScript 3D library."
+        },
+        {
+            "name": "vant",
+            "url": "https://github.com/youzan/vant",
+            "star": 35,
+            "description": "Lightweight Mobile UI Components built on Vue"
+        },
+        {
+            "name": "incubator-superset",
+            "url": "https://github.com/apache/incubator-superset",
+            "star": 25,
+            "description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application"
+        },
+        {
+            "name": "taro",
+            "url": "https://github.com/NervJS/taro",
+            "star": 28,
+            "description": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com/"
+        },
+        {
+            "name": "appwrite",
+            "url": "https://github.com/appwrite/appwrite",
+            "star": 170,
+            "description": "End to end backend server for frontend and mobile developers.👩‍💻👨‍💻"
+        },
+        {
+            "name": "drawio-desktop",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "star": 24,
+            "description": "Official electron build of draw.io"
+        }
+    ],
+    "html": [
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 15,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "Front-end-Web-Development-Interview-Question",
+            "url": "https://github.com/paddingme/Front-end-Web-Development-Interview-Question",
+            "star": 7,
+            "description": "前端开发面试题大收集，前端面试集锦❤️💝💘"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 42,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "SuperTinyIcons",
+            "url": "https://github.com/edent/SuperTinyIcons",
+            "star": 4,
+            "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos"
+        },
+        {
+            "name": "phantomjs",
+            "url": "https://github.com/ariya/phantomjs",
+            "star": 5,
+            "description": "Scriptable Headless Browser"
+        },
+        {
+            "name": "RDR2CollectorsMap",
+            "url": "https://github.com/jeanropke/RDR2CollectorsMap",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 9,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "webKnowledge",
+            "url": "https://github.com/huyaocode/webKnowledge",
+            "star": 10,
+            "description": "前端面试知识点总结"
+        },
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 4,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "awesome-resume",
+            "url": "https://github.com/resumejob/awesome-resume",
+            "star": 4,
+            "description": "包含简历常用例句"
+        }
+    ],
+    "go": [
+        {
+            "name": "vulcain",
+            "url": "https://github.com/dunglas/vulcain",
+            "star": 212,
+            "description": "Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "star": 45,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 30,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "go-filecoin",
+            "url": "https://github.com/filecoin-project/go-filecoin",
+            "star": 6,
+            "description": "Filecoin Full Node Implementation in Go"
+        },
+        {
+            "name": "wtf",
+            "url": "https://github.com/wtfutil/wtf",
+            "star": 16,
+            "description": "The personal information dashboard for your terminal."
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 1,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "iris",
+            "url": "https://github.com/kataras/iris",
+            "star": 12,
+            "description": "The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Routing on its bests, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. https://bit.ly/再次感谢您的支持 | https://bit.ly/iriscandothat1"
+        },
+        {
+            "name": "dnscrypt-proxy",
+            "url": "https://github.com/DNSCrypt/dnscrypt-proxy",
+            "star": 22,
+            "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols."
+        },
+        {
+            "name": "minio",
+            "url": "https://github.com/minio/minio",
+            "star": 17,
+            "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs"
+        },
+        {
+            "name": "influxdb",
+            "url": "https://github.com/influxdata/influxdb",
+            "star": 11,
+            "description": "Scalable datastore for metrics, events, and real-time analytics"
+        }
+    ]
+}

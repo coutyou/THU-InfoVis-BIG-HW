@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-15",
+    "month": 7,
+    "day": 15,
+    "python": [
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 186,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "xarray",
+            "url": "https://github.com/pydata/xarray",
+            "star": 28,
+            "description": "N-D labeled arrays and datasets in Python"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 89,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 475,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "anki",
+            "url": "https://github.com/dae/anki",
+            "star": 8,
+            "description": "Anki for desktop computers"
+        },
+        {
+            "name": "unlocker",
+            "url": "https://github.com/DrDonk/unlocker",
+            "star": 18,
+            "description": "VMware Workstation macOS"
+        },
+        {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "star": 22,
+            "description": "scikit-learn: machine learning in Python"
+        },
+        {
+            "name": "searx",
+            "url": "https://github.com/asciimoo/searx",
+            "star": 9,
+            "description": "Privacy-respecting metasearch engine"
+        },
+        {
+            "name": "dc_tts",
+            "url": "https://github.com/Kyubyong/dc_tts",
+            "star": 21,
+            "description": "A TensorFlow Implementation of DC-TTS: yet another text-to-speech model"
+        },
+        {
+            "name": "spaCy",
+            "url": "https://github.com/explosion/spaCy",
+            "star": 10,
+            "description": "💫Industrial-strength Natural Language Processing (NLP) with Python and Cython"
+        }
+    ],
+    "java": [
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 261,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "Document",
+            "url": "https://github.com/FangWW/Document",
+            "star": 49,
+            "description": "📘各种编程学习资料 (Android C C++ DataBase HTML5 JavaWeb ios python uml 人工智能 操作系统 数学 数据结构 程序员需要的技术 程序设计 编译原理 计算机组成与结构 计算机网络 设计模式 软件工程 面试经验)"
+        },
+        {
+            "name": "Nukkit",
+            "url": "https://github.com/NukkitX/Nukkit",
+            "star": 5,
+            "description": "Nuclear-Powered Server Software for Minecraft: Bedrock Edition."
+        },
+        {
+            "name": "pipeline",
+            "url": "https://github.com/PipelineAI/pipeline",
+            "star": 7,
+            "description": "PipelineAI: Real-Time Enterprise AI Platform"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 131,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "interview",
+            "url": "https://github.com/mission-peace/interview",
+            "star": 6,
+            "description": "Interview questions"
+        },
+        {
+            "name": "baritone",
+            "url": "https://github.com/cabaletta/baritone",
+            "star": 25,
+            "description": "google maps for block game"
+        },
+        {
+            "name": "SoloPi",
+            "url": "https://github.com/alipay/SoloPi",
+            "star": 220,
+            "description": "Soloπ 自动化测试工具"
+        },
+        {
+            "name": "litemall",
+            "url": "https://github.com/linlinjava/litemall",
+            "star": 28,
+            "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端"
+        },
+        {
+            "name": "kubernetes-client",
+            "url": "https://github.com/fabric8io/kubernetes-client",
+            "star": 6,
+            "description": "Java client for Kubernetes & OpenShift"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 398,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "Awesome-Cellular-Hacking",
+            "url": "https://github.com/W00t3k/Awesome-Cellular-Hacking",
+            "star": 120,
+            "description": "Awesome-Cellular-Hacking"
+        },
+        {
+            "name": "Learn_Deep_Learning_in_6_Weeks",
+            "url": "https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks",
+            "star": 2,
+            "description": "This is the Curriculum for \"Learn Deep Learning in 6 Weeks\" by Siraj Raval on Youtube"
+        },
+        {
+            "name": "awesome-graph-classification",
+            "url": "https://github.com/benedekrozemberczki/awesome-graph-classification",
+            "star": 8,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 48,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 41,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "Beginner-Network-Pentesting",
+            "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+            "star": 17,
+            "description": "Notes for Beginner Network Pentesting Course"
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 13,
+            "description": "Curated list of resources for college students"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 18,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "electron-ssr-backup",
+            "url": "https://github.com/qingshuisiyuan/electron-ssr-backup",
+            "star": 12,
+            "description": "electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "listmonk",
+            "url": "https://github.com/knadh/listmonk",
+            "star": 354,
+            "description": "High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React."
+        },
+        {
+            "name": "Rules",
+            "url": "https://github.com/lhie1/Rules",
+            "star": 21,
+            "description": "Rules / 规则：Surge / Shadowrocket / Quantumult"
+        },
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 32,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        },
+        {
+            "name": "scratch-gui",
+            "url": "https://github.com/LLK/scratch-gui",
+            "star": 10,
+            "description": "Graphical User Interface for creating and running Scratch 3.0 projects."
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 48,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "reaction",
+            "url": "https://github.com/reactioncommerce/reaction",
+            "star": 15,
+            "description": "Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes."
+        },
+        {
+            "name": "graphql-engine",
+            "url": "https://github.com/hasura/graphql-engine",
+            "star": 15,
+            "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events."
+        },
+        {
+            "name": "aws-serverless-airline-booking",
+            "url": "https://github.com/aws-samples/aws-serverless-airline-booking",
+            "star": 14,
+            "description": "Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking, Flight Preferences and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July."
+        },
+        {
+            "name": "VvvebJs",
+            "url": "https://github.com/givanz/VvvebJs",
+            "star": 32,
+            "description": "Drag and drop website builder javascript library."
+        },
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 201,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        }
+    ],
+    "html": [
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 9,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 9,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "docsy",
+            "url": "https://github.com/google/docsy",
+            "star": 16,
+            "description": "A set of Hugo doc templates for launching open source content."
+        },
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 0,
+            "description": "Modern Phishing Tool With Advanced Functionality [ Android-Support-Available ]"
+        },
+        {
+            "name": "zfaka",
+            "url": "https://github.com/zlkbdotnet/zfaka",
+            "star": 5,
+            "description": "免费、安全、稳定、高效的发卡系统，值得拥有!"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 3,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 3,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 11,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "wechat_web_devtools",
+            "url": "https://github.com/cytle/wechat_web_devtools",
+            "star": 3,
+            "description": "微信开发者工具(微信小程序)linux完美支持"
+        },
+        {
+            "name": "metasploitable3",
+            "url": "https://github.com/rapid7/metasploitable3",
+            "star": 3,
+            "description": "Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities."
+        }
+    ],
+    "go": [
+        {
+            "name": "pipeline",
+            "url": "https://github.com/tektoncd/pipeline",
+            "star": 54,
+            "description": "A K8s-native Pipeline resource."
+        },
+        {
+            "name": "hostyoself",
+            "url": "https://github.com/schollz/hostyoself",
+            "star": 100,
+            "description": "Host yo' self from your browser, your phone, your toaster."
+        },
+        {
+            "name": "ignite",
+            "url": "https://github.com/weaveworks/ignite",
+            "star": 62,
+            "description": "Ignite a Firecracker microVM"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 25,
+            "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk"
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 35,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 53,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "lumberjack",
+            "url": "https://github.com/natefinch/lumberjack",
+            "star": 10,
+            "description": "lumberjack is a log rolling package for Go"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 39,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "gitea",
+            "url": "https://github.com/go-gitea/gitea",
+            "star": 15,
+            "description": "Git with a cup of tea, painless self-hosted git service"
+        },
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 13,
+            "description": "Structured, pluggable logging for Go."
+        }
+    ]
+}

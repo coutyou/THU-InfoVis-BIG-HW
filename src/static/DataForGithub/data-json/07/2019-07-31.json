@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-31",
+    "month": 7,
+    "day": 31,
+    "python": [
+        {
+            "name": "chromego",
+            "url": "https://github.com/killgcd/chromego",
+            "star": 66,
+            "description": "ChromeGo 翻墙工具包"
+        },
+        {
+            "name": "Keras-BiGAN",
+            "url": "https://github.com/manicman1999/Keras-BiGAN",
+            "star": 25,
+            "description": "BiGAN implementation in Keras to detect similarities in Landscapes."
+        },
+        {
+            "name": "CppCoreGuidelines",
+            "url": "https://github.com/isocpp/CppCoreGuidelines",
+            "star": 22,
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++"
+        },
+        {
+            "name": "face_recognition",
+            "url": "https://github.com/ageitgey/face_recognition",
+            "star": 38,
+            "description": "The world's simplest facial recognition api for Python and the command line"
+        },
+        {
+            "name": "Reinforcement-learning-with-tensorflow",
+            "url": "https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow",
+            "star": 12,
+            "description": "Simple Reinforcement learning tutorials"
+        },
+        {
+            "name": "Orbit",
+            "url": "https://github.com/s0md3v/Orbit",
+            "star": 8,
+            "description": "Blockchain Transactions Investigation Tool"
+        },
+        {
+            "name": "grapheneX",
+            "url": "https://github.com/grapheneX/grapheneX",
+            "star": 37,
+            "description": "Automated System Hardening Framework"
+        },
+        {
+            "name": "coach",
+            "url": "https://github.com/NervanaSystems/coach",
+            "star": 5,
+            "description": "Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms"
+        },
+        {
+            "name": "doccano",
+            "url": "https://github.com/chakki-works/doccano",
+            "star": 5,
+            "description": "Open source text annotation tool for machine learning practitioner."
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 27,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        }
+    ],
+    "java": [
+        {
+            "name": "resilience4j",
+            "url": "https://github.com/resilience4j/resilience4j",
+            "star": 16,
+            "description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 32,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "xxl-job",
+            "url": "https://github.com/xuxueli/xxl-job",
+            "star": 33,
+            "description": "A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 82,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "presto",
+            "url": "https://github.com/prestosql/presto",
+            "star": 7,
+            "description": "Official home of the community version of Presto, the distributed SQL query engine for big data, under the auspices of the Presto Software Foundation."
+        },
+        {
+            "name": "redisson",
+            "url": "https://github.com/redisson/redisson",
+            "star": 14,
+            "description": "Redisson - Redis Java client with features of In-Memory Data Grid. Supports over 30 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC."
+        },
+        {
+            "name": "spring-boot-plus",
+            "url": "https://github.com/geekidea/spring-boot-plus",
+            "star": 31,
+            "description": "spring-boot-plus集成Spring Boot 2.1.6,Mybatis,Mybatis Plus,Druid,FastJson,Redis,Rabbit MQ,Kafka等，可使用代码生成器快速开发项目"
+        },
+        {
+            "name": "android-developer-roadmap",
+            "url": "https://github.com/MindorksOpenSource/android-developer-roadmap",
+            "star": 76,
+            "description": "Android Developer Roadmap - A complete roadmap to learn Android App Development"
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 12,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "openj9",
+            "url": "https://github.com/eclipse/openj9",
+            "star": 14,
+            "description": "Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 163,
+            "description": "Curated list of resources for college students"
+        },
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 91,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 597,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "SlimYOLOv3",
+            "url": "https://github.com/PengyiZhang/SlimYOLOv3",
+            "star": 85,
+            "description": "This page is for the SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications"
+        },
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 89,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 134,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 67,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "google-cloud-4-words",
+            "url": "https://github.com/gregsramblings/google-cloud-4-words",
+            "star": 48,
+            "description": "The Google Cloud Developer's Cheat Sheet"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 40,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "Blog",
+            "url": "https://github.com/mqyqingfeng/Blog",
+            "star": 30,
+            "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "github-do-not-ban-us",
+            "url": "https://github.com/1995parham/github-do-not-ban-us",
+            "star": 1128,
+            "description": "GitHub do not ban us from open source world🇮🇷"
+        },
+        {
+            "name": "internships",
+            "url": "https://github.com/Zackhardtoname/internships",
+            "star": 35,
+            "description": "A collection of internship applications for the summer of 2020"
+        },
+        {
+            "name": "gridstudio",
+            "url": "https://github.com/ricklamers/gridstudio",
+            "star": 149,
+            "description": "Grid studio is a web-based spreadsheet application with full integration of the Python programming language."
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 214,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        },
+        {
+            "name": "NeteaseCloudMusicApi",
+            "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+            "star": 72,
+            "description": "网易云音乐 Node.js API service"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 84,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 104,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "wtfjs",
+            "url": "https://github.com/denysdovhan/wtfjs",
+            "star": 43,
+            "description": "A list of funny and tricky JavaScript examples"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 58,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "curso-javascript-ninja",
+            "url": "https://github.com/da2k/curso-javascript-ninja",
+            "star": 7,
+            "description": "Curso Javascript Ninja"
+        }
+    ],
+    "html": [
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 12,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "intro.js",
+            "url": "https://github.com/usablica/intro.js",
+            "star": 12,
+            "description": "A better way for new feature introduction and step-by-step users guide for your website and project."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 23,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 7,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 4,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "aws-well-architected-labs",
+            "url": "https://github.com/awslabs/aws-well-architected-labs",
+            "star": 1,
+            "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices."
+        },
+        {
+            "name": "Front-end-Web-Development-Interview-Question",
+            "url": "https://github.com/paddingme/Front-end-Web-Development-Interview-Question",
+            "star": 5,
+            "description": "前端开发面试题大收集，前端面试集锦❤️💝💘"
+        },
+        {
+            "name": "qiubaiying.github.io",
+            "url": "https://github.com/qiubaiying/qiubaiying.github.io",
+            "star": 6,
+            "description": "BY Blog ->"
+        },
+        {
+            "name": "sketch-measure",
+            "url": "https://github.com/utom/sketch-measure",
+            "star": 3,
+            "description": "Make it a fun to create spec for developers and teammates"
+        },
+        {
+            "name": "tstp",
+            "url": "https://github.com/calthoff/tstp",
+            "star": 0,
+            "description": "This is an old repository for the exercises in \"The Self-Taught Programmer.\" Please see /selftaught."
+        }
+    ],
+    "go": [
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 53,
+            "description": "A Commander for modern Go CLI interactions"
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 30,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 36,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "buildah",
+            "url": "https://github.com/containers/buildah",
+            "star": 23,
+            "description": "A tool that facilitates building OCI images"
+        },
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 94,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "goconvey",
+            "url": "https://github.com/smartystreets/goconvey",
+            "star": 6,
+            "description": "Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go."
+        },
+        {
+            "name": "testify",
+            "url": "https://github.com/stretchr/testify",
+            "star": 10,
+            "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 100,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "coredns",
+            "url": "https://github.com/coredns/coredns",
+            "star": 11,
+            "description": "CoreDNS is a DNS server that chains plugins"
+        },
+        {
+            "name": "sqlx",
+            "url": "https://github.com/jmoiron/sqlx",
+            "star": 10,
+            "description": "general purpose extensions to golang's database/sql"
+        }
+    ]
+}

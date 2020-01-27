@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-15",
+    "month": 11,
+    "day": 15,
+    "python": [
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 1329,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "quay",
+            "url": "https://github.com/quay/quay",
+            "star": 637,
+            "description": "Build, Store, and Distribute your Applications and Containers"
+        },
+        {
+            "name": "Deep-Learning-with-TensorFlow-book",
+            "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+            "star": 181,
+            "description": "深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework."
+        },
+        {
+            "name": "python",
+            "url": "https://github.com/kubernetes-client/python",
+            "star": 5,
+            "description": "Official Python client library for kubernetes"
+        },
+        {
+            "name": "SeleniumBase",
+            "url": "https://github.com/seleniumbase/SeleniumBase",
+            "star": 106,
+            "description": "✅Easy Web Automation and Testing with Python."
+        },
+        {
+            "name": "c9-python-getting-started",
+            "url": "https://github.com/microsoft/c9-python-getting-started",
+            "star": 24,
+            "description": "Sample code for Channel 9 Python for Beginners course"
+        },
+        {
+            "name": "Arjun",
+            "url": "https://github.com/s0md3v/Arjun",
+            "star": 19,
+            "description": "HTTP parameter discovery suite."
+        },
+        {
+            "name": "modin",
+            "url": "https://github.com/modin-project/modin",
+            "star": 34,
+            "description": "Modin: Speed up your Pandas workflows by changing a single line of code"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 98,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "exercises",
+            "url": "https://github.com/Softwarepark/exercises",
+            "star": 14,
+            "description": "SoftwarePark exercises and dojos"
+        }
+    ],
+    "java": [
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 48,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "springfox",
+            "url": "https://github.com/springfox/springfox",
+            "star": 6,
+            "description": "Automated JSON API documentation for API's built with Spring"
+        },
+        {
+            "name": "DataX",
+            "url": "https://github.com/alibaba/DataX",
+            "star": 28,
+            "description": ""
+        },
+        {
+            "name": "lombok",
+            "url": "https://github.com/rzwitserloot/lombok",
+            "star": 7,
+            "description": "Very spicy additions to the Java programming language."
+        },
+        {
+            "name": "Sentinel",
+            "url": "https://github.com/alibaba/Sentinel",
+            "star": 66,
+            "description": "A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)"
+        },
+        {
+            "name": "jdk",
+            "url": "https://github.com/openjdk/jdk",
+            "star": 29,
+            "description": "Read-only mirror of https://hg.openjdk.java.net/jdk/jdk"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 36,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "cas",
+            "url": "https://github.com/apereo/cas",
+            "star": 10,
+            "description": "Apereo CAS - Enterprise Single Sign On for all earthlings and beyond."
+        },
+        {
+            "name": "java",
+            "url": "https://github.com/kubernetes-client/java",
+            "star": 3,
+            "description": "Official Java client library for kubernetes"
+        },
+        {
+            "name": "aviator",
+            "url": "https://github.com/killme2008/aviator",
+            "star": 6,
+            "description": "A high performance expression evaluator for java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 249,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 39,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome-programming-books",
+            "url": "https://github.com/jobbole/awesome-programming-books",
+            "star": 447,
+            "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等"
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 35,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 53,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "awesome-ida",
+            "url": "https://github.com/xrkk/awesome-ida",
+            "star": 111,
+            "description": "awesome IDA Pro resources collections. For Github Repos, extra info included: Star, Last Commit Time, Main Programming Language. Update Regularly!"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 192,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "git-flight-rules",
+            "url": "https://github.com/k88hudson/git-flight-rules",
+            "star": 94,
+            "description": "Flight rules for git"
+        },
+        {
+            "name": "sensitive-stop-words",
+            "url": "https://github.com/fwwdn/sensitive-stop-words",
+            "star": 7,
+            "description": "互联网常用敏感词、停止词词库"
+        },
+        {
+            "name": "starter-workflows",
+            "url": "https://github.com/actions/starter-workflows",
+            "star": 42,
+            "description": "Accelerating new GitHub Actions workflows"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "BullshitGenerator",
+            "url": "https://github.com/menzi11/BullshitGenerator",
+            "star": 1590,
+            "description": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this."
+        },
+        {
+            "name": "quark-h5",
+            "url": "https://github.com/huangwei9527/quark-h5",
+            "star": 186,
+            "description": "基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具"
+        },
+        {
+            "name": "drawio",
+            "url": "https://github.com/jgraph/drawio",
+            "star": 700,
+            "description": "Source to www.draw.io"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 74,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "react-interactive-paycard",
+            "url": "https://github.com/jasminmif/react-interactive-paycard",
+            "star": 215,
+            "description": "Interactive React Paycard"
+        },
+        {
+            "name": "selectize.js",
+            "url": "https://github.com/selectize/selectize.js",
+            "star": 4,
+            "description": "Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc."
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 40,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 33,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "markdown-here",
+            "url": "https://github.com/adam-p/markdown-here",
+            "star": 42,
+            "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending."
+        },
+        {
+            "name": "incubator-echarts",
+            "url": "https://github.com/apache/incubator-echarts",
+            "star": 35,
+            "description": "A powerful, interactive charting and visualization library for browser"
+        }
+    ],
+    "html": [
+        {
+            "name": "mxgraph",
+            "url": "https://github.com/jgraph/mxgraph",
+            "star": 16,
+            "description": "mxGraph is a fully client side JavaScript diagramming library"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 42,
+            "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning"
+        },
+        {
+            "name": "Tang",
+            "url": "https://github.com/KirikoXX/Tang",
+            "star": 7,
+            "description": "泡面哥汤达人的前世今生，从默默无闻到人人喊打【截止到2019年11月13日】"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 11,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "purecss-lace",
+            "url": "https://github.com/cyanharlow/purecss-lace",
+            "star": 41,
+            "description": "HTML/CSS drawing inspired by Flemish baroque oil portraits. Hand-coded entirely in HTML & CSS."
+        },
+        {
+            "name": "moveit_tutorials",
+            "url": "https://github.com/ros-planning/moveit_tutorials",
+            "star": 1,
+            "description": "A sphinx-based centralized documentation repo for MoveIt"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 44,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 2,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 1,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "chosen",
+            "url": "https://github.com/harvesthq/chosen",
+            "star": 3,
+            "description": "Chosen is a library for making long, unwieldy select boxes more friendly."
+        }
+    ],
+    "go": [
+        {
+            "name": "OpenDiablo2",
+            "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+            "star": 730,
+            "description": "An open source re-implementation of Diablo 2"
+        },
+        {
+            "name": "advanced-go-programming-book",
+            "url": "https://github.com/chai2010/advanced-go-programming-book",
+            "star": 135,
+            "description": "📚《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 18,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "validator",
+            "url": "https://github.com/go-playground/validator",
+            "star": 26,
+            "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+        },
+        {
+            "name": "mongo-go-driver",
+            "url": "https://github.com/mongodb/mongo-go-driver",
+            "star": 5,
+            "description": "The Go driver for MongoDB"
+        },
+        {
+            "name": "testify",
+            "url": "https://github.com/stretchr/testify",
+            "star": 15,
+            "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+        },
+        {
+            "name": "mapstructure",
+            "url": "https://github.com/mitchellh/mapstructure",
+            "star": 6,
+            "description": "Go library for decoding generic map values into native Go structures."
+        },
+        {
+            "name": "coredns",
+            "url": "https://github.com/coredns/coredns",
+            "star": 7,
+            "description": "CoreDNS is a DNS server that chains plugins"
+        },
+        {
+            "name": "govmomi",
+            "url": "https://github.com/vmware/govmomi",
+            "star": 3,
+            "description": "Go library for the VMware vSphere API"
+        },
+        {
+            "name": "cosmos-sdk",
+            "url": "https://github.com/cosmos/cosmos-sdk",
+            "star": 8,
+            "description": "⛓A Framework for Building High Value Public Blockchains✨"
+        }
+    ]
+}

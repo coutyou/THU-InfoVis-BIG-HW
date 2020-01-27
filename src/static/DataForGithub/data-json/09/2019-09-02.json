@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-02",
+    "month": 9,
+    "day": 2,
+    "python": [
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 396,
+            "description": "Deepfakes Software For All"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 175,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "spider_python",
+            "url": "https://github.com/xingag/spider_python",
+            "star": 44,
+            "description": "python爬虫"
+        },
+        {
+            "name": "craftassist",
+            "url": "https://github.com/facebookresearch/craftassist",
+            "star": 49,
+            "description": "A virtual assistant bot in Minecraft"
+        },
+        {
+            "name": "nlp",
+            "url": "https://github.com/microsoft/nlp",
+            "star": 122,
+            "description": "Natural Language Processing Best Practices & Examples"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 22,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "you-get",
+            "url": "https://github.com/soimort/you-get",
+            "star": 43,
+            "description": "⏬Dumb downloader that scrapes the web"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/public-apis/public-apis",
+            "star": 37,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "ML-From-Scratch",
+            "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+            "star": 43,
+            "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning."
+        },
+        {
+            "name": "RemoteFileTransfer",
+            "url": "https://github.com/1061700625/RemoteFileTransfer",
+            "star": 5,
+            "description": "远程文件传输程序，以知网为例"
+        }
+    ],
+    "java": [
+        {
+            "name": "hope-boot",
+            "url": "https://github.com/hope-for/hope-boot",
+            "star": 153,
+            "description": "🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 115,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 116,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "react-native-webview",
+            "url": "https://github.com/react-native-community/react-native-webview",
+            "star": 7,
+            "description": "React Native Cross-Platform WebView"
+        },
+        {
+            "name": "dubbo",
+            "url": "https://github.com/apache/dubbo",
+            "star": 28,
+            "description": "Apache Dubbo is a high-performance, java based, open source RPC framework."
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 47,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 24,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 31,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 17,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "MVVMHabit",
+            "url": "https://github.com/goldze/MVVMHabit",
+            "star": 15,
+            "description": "👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 145,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 274,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "regular-investing-in-box",
+            "url": "https://github.com/xiaolai/regular-investing-in-box",
+            "star": 59,
+            "description": "定投改变命运 —— 让时间陪你慢慢变富"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 68,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 91,
+            "description": ""
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 38,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "new-grads-2020",
+            "url": "https://github.com/cmackenzie1/new-grads-2020",
+            "star": 6,
+            "description": "A collection of new grad roles for 2020"
+        },
+        {
+            "name": "awesome-datascience",
+            "url": "https://github.com/academic/awesome-datascience",
+            "star": 8,
+            "description": "📝An awesome Data Science repository to learn and apply for real world problems."
+        },
+        {
+            "name": "dl-notes",
+            "url": "https://github.com/jianzhu/dl-notes",
+            "star": 59,
+            "description": ""
+        },
+        {
+            "name": "safeside",
+            "url": "https://github.com/google/safeside",
+            "star": 27,
+            "description": "A project to understand and mitigate software-observable side-channels"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "WebGL-Fluid-Simulation",
+            "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+            "star": 135,
+            "description": "Play with fluids in your browser (works even on mobile)"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 203,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "Web",
+            "url": "https://github.com/qianguyihao/Web",
+            "star": 27,
+            "description": "前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新..."
+        },
+        {
+            "name": "aos",
+            "url": "https://github.com/michalsnik/aos",
+            "star": 28,
+            "description": "Animate on scroll library"
+        },
+        {
+            "name": "themostdangerouswritingapp",
+            "url": "https://github.com/maebert/themostdangerouswritingapp",
+            "star": 33,
+            "description": "If you stop typing for more than five seconds, all progress will be lost."
+        },
+        {
+            "name": "leonsans",
+            "url": "https://github.com/cmiscm/leonsans",
+            "star": 1295,
+            "description": "Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim."
+        },
+        {
+            "name": "appwrite",
+            "url": "https://github.com/appwrite/appwrite",
+            "star": 24,
+            "description": "End to end backend server for frontend and mobile developers.👩‍💻👨‍💻"
+        },
+        {
+            "name": "isucon8-qualify",
+            "url": "https://github.com/isucon/isucon8-qualify",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/leonardomso/33-js-concepts",
+            "star": 34,
+            "description": "📜33 concepts every JavaScript developer should know."
+        },
+        {
+            "name": "flv.js",
+            "url": "https://github.com/bilibili/flv.js",
+            "star": 30,
+            "description": "HTML5 FLV Player"
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 107,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "ChineseNLP",
+            "url": "https://github.com/didi/ChineseNLP",
+            "star": 9,
+            "description": "Datasets, SOTA results of every fields of Chinese NLP"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 22,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 0,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "privacytools.io",
+            "url": "https://github.com/privacytoolsIO/privacytools.io",
+            "star": 0,
+            "description": "🛡️encryption against global mass surveillance"
+        },
+        {
+            "name": "electron-api-demos",
+            "url": "https://github.com/electron/electron-api-demos",
+            "star": 3,
+            "description": "Explore the Electron APIs"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 15,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 20,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 0,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 11,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        }
+    ],
+    "go": [
+        {
+            "name": "wtf",
+            "url": "https://github.com/wtfutil/wtf",
+            "star": 83,
+            "description": "The personal information dashboard for your terminal."
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 13,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "bettercap",
+            "url": "https://github.com/bettercap/bettercap",
+            "star": 10,
+            "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks."
+        },
+        {
+            "name": "pan-light",
+            "url": "https://github.com/peterq/pan-light",
+            "star": 19,
+            "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+            "name": "syncthing",
+            "url": "https://github.com/syncthing/syncthing",
+            "star": 11,
+            "description": "Open Source Continuous File Synchronization"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 39,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "otto",
+            "url": "https://github.com/robertkrimen/otto",
+            "star": 6,
+            "description": "A JavaScript interpreter in Go (golang)"
+        },
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 8,
+            "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 14,
+            "description": "A Commander for modern Go CLI interactions"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 17,
+            "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk"
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "date": "2019-08-16",
+    "month": 8,
+    "day": 16,
+    "python": [
+        {
+            "name": "Megatron-LM",
+            "url": "https://github.com/NVIDIA/Megatron-LM",
+            "star": 91,
+            "description": "Ongoing research training transformer language models at scale, including: BERT"
+        },
+        {
+            "name": "bsuite",
+            "url": "https://github.com/deepmind/bsuite",
+            "star": 81,
+            "description": "bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent"
+        },
+        {
+            "name": "tlroadmap",
+            "url": "https://github.com/tlbootcamp/tlroadmap",
+            "star": 44,
+            "description": "👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов"
+        },
+        {
+            "name": "matplotlib",
+            "url": "https://github.com/matplotlib/matplotlib",
+            "star": 34,
+            "description": "matplotlib: plotting with Python"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/public-apis/public-apis",
+            "star": 56,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "algo",
+            "url": "https://github.com/wangzheng0822/algo",
+            "star": 50,
+            "description": "数据结构和算法必知必会的50个代码实现"
+        },
+        {
+            "name": "bert-as-service",
+            "url": "https://github.com/hanxiao/bert-as-service",
+            "star": 15,
+            "description": "Mapping a variable-length sentence to a fixed-length vector using BERT model"
+        },
+        {
+            "name": "favorite-link",
+            "url": "https://github.com/guanguans/favorite-link",
+            "star": 28,
+            "description": "❤️每日收集喜欢的开源项目"
+        },
+        {
+            "name": "jieba",
+            "url": "https://github.com/fxsjy/jieba",
+            "star": 19,
+            "description": "结巴中文分词"
+        },
+        {
+            "name": "bert",
+            "url": "https://github.com/google-research/bert",
+            "star": 26,
+            "description": "TensorFlow code and pre-trained models for BERT"
+        }
+    ],
+    "java": [
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 90,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 307,
+            "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…"
+        },
+        {
+            "name": "baritone",
+            "url": "https://github.com/cabaletta/baritone",
+            "star": 24,
+            "description": "google maps for block game"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 120,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 115,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "hope-boot",
+            "url": "https://github.com/hope-for/hope-boot",
+            "star": 31,
+            "description": "🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。"
+        },
+        {
+            "name": "HikariCP",
+            "url": "https://github.com/brettwooldridge/HikariCP",
+            "star": 16,
+            "description": "光 HikariCP・A solid, high-performance, JDBC connection pool at last."
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 98,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "ExoPlayer",
+            "url": "https://github.com/google/ExoPlayer",
+            "star": 11,
+            "description": "An extensible media player for Android"
+        },
+        {
+            "name": "DataX",
+            "url": "https://github.com/alibaba/DataX",
+            "star": 17,
+            "description": ""
+        }
+    ],
+    "javascript": [
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 563,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "reactide",
+            "url": "https://github.com/reactide/reactide",
+            "star": 156,
+            "description": "Reactide is the first dedicated IDE for React web application development."
+        },
+        {
+            "name": "label-studio",
+            "url": "https://github.com/heartexlabs/label-studio",
+            "star": 141,
+            "description": "Label Studio is a multi-domain data labeling tool with standardized output format"
+        },
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 60,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "mc.js",
+            "url": "https://github.com/ian13456/mc.js",
+            "star": 365,
+            "description": "Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS."
+        },
+        {
+            "name": "uppy",
+            "url": "https://github.com/transloadit/uppy",
+            "star": 28,
+            "description": "The next open source file uploader for web browsers🐶"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 35,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "react-admin",
+            "url": "https://github.com/marmelab/react-admin",
+            "star": 19,
+            "description": "A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design"
+        },
+        {
+            "name": "wtfjs",
+            "url": "https://github.com/denysdovhan/wtfjs",
+            "star": 30,
+            "description": "A list of funny and tricky JavaScript examples"
+        },
+        {
+            "name": "aws-serverless-workshops",
+            "url": "https://github.com/aws-samples/aws-serverless-workshops",
+            "star": 6,
+            "description": "Code and walkthrough labs to set up serverless applications for Wild Rydes workshops"
+        }
+    ],
+    "html": [
+        {
+            "name": "ChineseNLP",
+            "url": "https://github.com/didi/ChineseNLP",
+            "star": 17,
+            "description": "Datasets, SOTA results of every fields of Chinese NLP"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 2,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 17,
+            "description": ""
+        },
+        {
+            "name": "keep-a-changelog",
+            "url": "https://github.com/olivierlacan/keep-a-changelog",
+            "star": 3,
+            "description": "If you build software, keep a changelog."
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 12,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 1,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "dotnet",
+            "url": "https://github.com/microsoft/dotnet",
+            "star": 4,
+            "description": "This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation."
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 6,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "webcomponents",
+            "url": "https://github.com/w3c/webcomponents",
+            "star": 5,
+            "description": "Web Components specifications"
+        },
+        {
+            "name": "mescroll",
+            "url": "https://github.com/mescroll/mescroll",
+            "star": 5,
+            "description": "精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)"
+        }
+    ],
+    "go": [
+        {
+            "name": "HFish",
+            "url": "https://github.com/hacklcx/HFish",
+            "star": 120,
+            "description": "Extend the enterprise security test open source honeypot system , Record hacker attacks. 扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段"
+        },
+        {
+            "name": "testify",
+            "url": "https://github.com/stretchr/testify",
+            "star": 17,
+            "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 15,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "telegraf",
+            "url": "https://github.com/influxdata/telegraf",
+            "star": 12,
+            "description": "The plugin-driven server agent for collecting & reporting metrics."
+        },
+        {
+            "name": "redis",
+            "url": "https://github.com/go-redis/redis",
+            "star": 18,
+            "description": "Type-safe Redis client for Golang"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 28,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 20,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "ingress-nginx",
+            "url": "https://github.com/kubernetes/ingress-nginx",
+            "star": 14,
+            "description": "NGINX Ingress Controller for Kubernetes"
+        },
+        {
+            "name": "test-infra",
+            "url": "https://github.com/kubernetes/test-infra",
+            "star": 4,
+            "description": "Test infrastructure for the Kubernetes project."
+        },
+        {
+            "name": "aks-engine",
+            "url": "https://github.com/Azure/aks-engine",
+            "star": 3,
+            "description": "AKS Engine: Units of Kubernetes on Azure!"
+        }
+    ]
+}

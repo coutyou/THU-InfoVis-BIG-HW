@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-04",
+    "month": 10,
+    "day": 4,
+    "python": [
+        {
+            "name": "buildbot",
+            "url": "https://github.com/buildbot/buildbot",
+            "star": 2,
+            "description": "Python-based continuous integration testing framework; your pull requests are more than welcome!"
+        },
+        {
+            "name": "integrations-core",
+            "url": "https://github.com/DataDog/integrations-core",
+            "star": 7,
+            "description": "Core integrations of the Datadog Agent"
+        },
+        {
+            "name": "streamlit",
+            "url": "https://github.com/streamlit/streamlit",
+            "star": 233,
+            "description": "Streamlit — The fastest way to build custom ML tools"
+        },
+        {
+            "name": "wemake-python-styleguide",
+            "url": "https://github.com/wemake-services/wemake-python-styleguide",
+            "star": 50,
+            "description": "The strictest and most opinionated python linter ever!"
+        },
+        {
+            "name": "pwnagotchi",
+            "url": "https://github.com/evilsocket/pwnagotchi",
+            "star": 35,
+            "description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFI pwning."
+        },
+        {
+            "name": "WebWhatsapp-Wrapper",
+            "url": "https://github.com/mukulhase/WebWhatsapp-Wrapper",
+            "star": 2,
+            "description": "An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018]"
+        },
+        {
+            "name": "RAdam",
+            "url": "https://github.com/LiyuanLucasLiu/RAdam",
+            "star": 3,
+            "description": "On the Variance of the Adaptive Learning Rate and Beyond"
+        },
+        {
+            "name": "synapse",
+            "url": "https://github.com/matrix-org/synapse",
+            "star": 5,
+            "description": "Synapse: Matrix reference homeserver"
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 27,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "gpytorch",
+            "url": "https://github.com/cornellius-gp/gpytorch",
+            "star": 0,
+            "description": "A highly efficient and modular implementation of Gaussian Processes in PyTorch"
+        }
+    ],
+    "java": [
+        {
+            "name": "testcontainers-java",
+            "url": "https://github.com/testcontainers/testcontainers-java",
+            "star": 2,
+            "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+        },
+        {
+            "name": "react-native-push-notification",
+            "url": "https://github.com/zo0r/react-native-push-notification",
+            "star": 3,
+            "description": "React Native Local and Remote Notifications"
+        },
+        {
+            "name": "Teaching-HEIGVD-AMT-MVC-simple-example",
+            "url": "https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-AMT-MVC-simple-example",
+            "star": 1,
+            "description": "A very simple example to demonstrate the MVC pattern with servlets and JSPs"
+        },
+        {
+            "name": "nifi",
+            "url": "https://github.com/apache/nifi",
+            "star": 1,
+            "description": "Mirror of Apache NiFi"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 16,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "antlr4",
+            "url": "https://github.com/antlr/antlr4",
+            "star": 3,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+        },
+        {
+            "name": "ksql",
+            "url": "https://github.com/confluentinc/ksql",
+            "star": 5,
+            "description": "KSQL - the Streaming SQL Engine for Apache Kafka"
+        },
+        {
+            "name": "openj9",
+            "url": "https://github.com/eclipse/openj9",
+            "star": 0,
+            "description": "Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo."
+        },
+        {
+            "name": "hapi-fhir",
+            "url": "https://github.com/jamesagnew/hapi-fhir",
+            "star": 2,
+            "description": "HAPI FHIR - Java API for HL7 FHIR Clients and Servers"
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 11,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 181,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "first-contributions",
+            "url": "https://github.com/firstcontributions/first-contributions",
+            "star": 93,
+            "description": "🚀✨Help beginners to contribute to open source projects"
+        },
+        {
+            "name": "awesome-for-beginners",
+            "url": "https://github.com/MunGell/awesome-for-beginners",
+            "star": 105,
+            "description": "A list of awesome beginners-friendly projects."
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 18,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "awesome-hacktoberfest-2019",
+            "url": "https://github.com/OtacilioN/awesome-hacktoberfest-2019",
+            "star": 11,
+            "description": "A curated list of awesome Hacktoberfest 2019 repositories"
+        },
+        {
+            "name": "azure-pipelines-yaml",
+            "url": "https://github.com/microsoft/azure-pipelines-yaml",
+            "star": 1,
+            "description": "Azure Pipelines YAML examples, templates, and community interaction"
+        },
+        {
+            "name": "checkm8gui",
+            "url": "https://github.com/emeryferrari/checkm8gui",
+            "star": 2,
+            "description": "A GUI version of axi0mX's ipwndfu exploit"
+        },
+        {
+            "name": "Analyzing-Visualizing-Data-PowerBI",
+            "url": "https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI",
+            "star": 3,
+            "description": "This repository contains the lab files and other resources for the free Microsoft course DAT207x: Analyzing and Visualizing Data with Power BI. To learn how to connect, explore, and visualize data with Power BI, sign up for this course on edX."
+        },
+        {
+            "name": "Interview-Preparation",
+            "url": "https://github.com/yashasvigirdhar/Interview-Preparation",
+            "star": 66,
+            "description": "Interview Preparation material for Senior Software Engineer - Android role"
+        },
+        {
+            "name": "Free-Algorithm-Books-1",
+            "url": "https://github.com/790013438/Free-Algorithm-Books-1",
+            "star": 3,
+            "description": ""
+        }
+    ],
+    "javascript": [
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 589,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 32,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "open-pixel-art",
+            "url": "https://github.com/twilio-labs/open-pixel-art",
+            "star": 26,
+            "description": "A collaborative pixel art project to teach people how to contribute to open-source"
+        },
+        {
+            "name": "node-oidc-provider",
+            "url": "https://github.com/panva/node-oidc-provider",
+            "star": 25,
+            "description": "OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js"
+        },
+        {
+            "name": "js-edu",
+            "url": "https://github.com/davojta/js-edu",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "Ghost",
+            "url": "https://github.com/TryGhost/Ghost",
+            "star": 5,
+            "description": "👻The #1 headless Node.js CMS for professional publishing"
+        },
+        {
+            "name": "flow-typed",
+            "url": "https://github.com/flow-typed/flow-typed",
+            "star": 1,
+            "description": "A central repository for Flow library definitions"
+        },
+        {
+            "name": "introduccion-a-js",
+            "url": "https://github.com/r-argentina-programa/introduccion-a-js",
+            "star": 6,
+            "description": ""
+        },
+        {
+            "name": "guessing-game",
+            "url": "https://github.com/rolling-scopes-school/guessing-game",
+            "star": 3,
+            "description": "Guessing game tests"
+        },
+        {
+            "name": "ramda",
+            "url": "https://github.com/ramda/ramda",
+            "star": 14,
+            "description": "🐏Practical functional Javascript"
+        }
+    ],
+    "html": [
+        {
+            "name": "patchwork",
+            "url": "https://github.com/jlord/patchwork",
+            "star": 1,
+            "description": "All the Git-it Workshop completers!"
+        },
+        {
+            "name": "django-DefectDojo",
+            "url": "https://github.com/DefectDojo/django-DefectDojo",
+            "star": 0,
+            "description": "DefectDojo is an open-source application vulnerability correlation and security orchestration tool."
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 0,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "hacktoberfest",
+            "url": "https://github.com/AliceWonderland/hacktoberfest",
+            "star": 11,
+            "description": "Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest"
+        },
+        {
+            "name": "simple-icons",
+            "url": "https://github.com/simple-icons/simple-icons",
+            "star": 6,
+            "description": "SVG icons for popular brands"
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 1,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "yourfirstpr.github.io",
+            "url": "https://github.com/yourfirstpr/yourfirstpr.github.io",
+            "star": 2,
+            "description": "✨the homepage of @yourfirstpr"
+        },
+        {
+            "name": "hacktoberfest-swag-list",
+            "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+            "star": 55,
+            "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all."
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 4,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "gci-winners",
+            "url": "https://github.com/Albert221/gci-winners",
+            "star": 1,
+            "description": "Website with a list of GCI winners."
+        }
+    ],
+    "go": [
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 13,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "hcl",
+            "url": "https://github.com/hashicorp/hcl",
+            "star": 5,
+            "description": "HCL is the HashiCorp configuration language."
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 1,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "argo-cd",
+            "url": "https://github.com/argoproj/argo-cd",
+            "star": 2,
+            "description": "Declarative continuous deployment for Kubernetes."
+        },
+        {
+            "name": "spark-on-k8s-operator",
+            "url": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator",
+            "star": 2,
+            "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes."
+        },
+        {
+            "name": "teleport",
+            "url": "https://github.com/gravitational/teleport",
+            "star": 2,
+            "description": "Privileged access management for elastic infrastructure."
+        },
+        {
+            "name": "cri-o",
+            "url": "https://github.com/cri-o/cri-o",
+            "star": 8,
+            "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+        },
+        {
+            "name": "telegraf",
+            "url": "https://github.com/influxdata/telegraf",
+            "star": 7,
+            "description": "The plugin-driven server agent for collecting & reporting metrics."
+        },
+        {
+            "name": "atlantis",
+            "url": "https://github.com/runatlantis/atlantis",
+            "star": 4,
+            "description": "Terraform Pull Request Automation"
+        },
+        {
+            "name": "go-swagger",
+            "url": "https://github.com/go-swagger/go-swagger",
+            "star": 4,
+            "description": "Swagger 2.0 implementation for go"
+        }
+    ]
+}

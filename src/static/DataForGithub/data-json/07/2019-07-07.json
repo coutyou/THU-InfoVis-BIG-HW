@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-07",
+    "month": 7,
+    "day": 7,
+    "python": [
+        {
+            "name": "open-deepnude",
+            "url": "https://github.com/open-deepnude/open-deepnude",
+            "star": 107,
+            "description": "Open source reverse-engineered clone of DeepNude"
+        },
+        {
+            "name": "numpy-ml",
+            "url": "https://github.com/ddbourgin/numpy-ml",
+            "star": 546,
+            "description": "Machine learning, in numpy"
+        },
+        {
+            "name": "bokeh",
+            "url": "https://github.com/bokeh/bokeh",
+            "star": 106,
+            "description": "Interactive Web Plotting for Python"
+        },
+        {
+            "name": "ChineseBQB",
+            "url": "https://github.com/zhaoolee/ChineseBQB",
+            "star": 224,
+            "description": "🇨🇳Chinese sticker pack / 中国表情包大集合"
+        },
+        {
+            "name": "autograd",
+            "url": "https://github.com/HIPS/autograd",
+            "star": 37,
+            "description": "Efficiently computes derivatives of numpy code."
+        },
+        {
+            "name": "dlrm",
+            "url": "https://github.com/facebookresearch/dlrm",
+            "star": 71,
+            "description": "An implementation of a deep learning recommendation model (DLRM)"
+        },
+        {
+            "name": "mat2vec",
+            "url": "https://github.com/materialsintelligence/mat2vec",
+            "star": 50,
+            "description": "Supplementary Materials for Tshitoyan et al. \"Unsupervised word embeddings capture latent knowledge from materials science literature\", Nature (2019)."
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 66,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "peewee",
+            "url": "https://github.com/coleifer/peewee",
+            "star": 6,
+            "description": "a small, expressive orm -- supports postgresql, mysql and sqlite"
+        },
+        {
+            "name": "pix2pixHD",
+            "url": "https://github.com/NVIDIA/pix2pixHD",
+            "star": 41,
+            "description": "Synthesizing and manipulating 2048x1024 images with conditional GANs"
+        }
+    ],
+    "java": [
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 114,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "v9porn",
+            "url": "https://github.com/techGay/v9porn",
+            "star": 59,
+            "description": "9*Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频"
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 50,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（16k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 36,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "tech-weekly",
+            "url": "https://github.com/mercyblitz/tech-weekly",
+            "star": 19,
+            "description": "「小马哥技术周报」"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 43,
+            "description": "一款基于代码生成器的JAVA快速开发平台！全新架构前后端分离：SpringBoot 2.x，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "FEBS-Shiro",
+            "url": "https://github.com/wuyouzhuguli/FEBS-Shiro",
+            "star": 7,
+            "description": "Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。预览地址：http://49.234.20.223:8080/login"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 36,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 34,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 15,
+            "description": "The \"REST With Spring\" Course:"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 170,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 189,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "reactjs-interview-questions",
+            "url": "https://github.com/sudheerj/reactjs-interview-questions",
+            "star": 5,
+            "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!"
+        },
+        {
+            "name": "nlp_chinese_corpus",
+            "url": "https://github.com/brightmart/nlp_chinese_corpus",
+            "star": 4,
+            "description": "大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP"
+        },
+        {
+            "name": "ToolChanger",
+            "url": "https://github.com/e3donline/ToolChanger",
+            "star": 6,
+            "description": "STPs / STLs / DXFs / PDFs"
+        },
+        {
+            "name": "android-architecture",
+            "url": "https://github.com/googlesamples/android-architecture",
+            "star": 12,
+            "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps."
+        },
+        {
+            "name": "TidyverseSkeptic",
+            "url": "https://github.com/matloff/TidyverseSkeptic",
+            "star": 8,
+            "description": "An opinionated view of the Tidyverse \"dialect\" of the R language."
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 10,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "The-Flask-Mega-Tutorial-zh",
+            "url": "https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh",
+            "star": 2,
+            "description": "翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程"
+        },
+        {
+            "name": "Flutter-Course-Resources",
+            "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+            "star": 5,
+            "description": ""
+        }
+    ],
+    "javascript": [
+        {
+            "name": "cesium",
+            "url": "https://github.com/AnalyticalGraphicsInc/cesium",
+            "star": 36,
+            "description": "An open-source JavaScript library for world-class 3D globes and maps🌎"
+        },
+        {
+            "name": "cli",
+            "url": "https://github.com/react-native-community/cli",
+            "star": 30,
+            "description": "React Native command line tools"
+        },
+        {
+            "name": "theme-ui",
+            "url": "https://github.com/system-ui/theme-ui",
+            "star": 12,
+            "description": "Build consistent, themeable React UIs based on design system constraints and design tokens"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 24,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "openlayers",
+            "url": "https://github.com/openlayers/openlayers",
+            "star": 6,
+            "description": "OpenLayers"
+        },
+        {
+            "name": "incubator-superset",
+            "url": "https://github.com/apache/incubator-superset",
+            "star": 7,
+            "description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application"
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 10,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "serverless-image-handler",
+            "url": "https://github.com/awslabs/serverless-image-handler",
+            "star": 6,
+            "description": "A solution to dynamically handle images on the fly, utilizing SharpJS"
+        },
+        {
+            "name": "material-shell",
+            "url": "https://github.com/PapyElGringo/material-shell",
+            "star": 44,
+            "description": "New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse/keyboard workflow to increase daily productivity and comfort"
+        },
+        {
+            "name": "quasar",
+            "url": "https://github.com/quasarframework/quasar",
+            "star": 16,
+            "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+        }
+    ],
+    "html": [
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 10,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "zfaka",
+            "url": "https://github.com/zlkbdotnet/zfaka",
+            "star": 8,
+            "description": "免费、安全、稳定、高效的发卡系统，值得拥有!"
+        },
+        {
+            "name": "electron-api-demos",
+            "url": "https://github.com/electron/electron-api-demos",
+            "star": 2,
+            "description": "Explore the Electron APIs"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 30,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 2,
+            "description": "The Ethereum Improvement Proposal repository"
+        },
+        {
+            "name": "book",
+            "url": "https://github.com/PaddlePaddle/book",
+            "star": 9,
+            "description": "Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 4,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "Adminator-admin-dashboard",
+            "url": "https://github.com/puikinsh/Adminator-admin-dashboard",
+            "star": 2,
+            "description": "Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more"
+        },
+        {
+            "name": "fonts",
+            "url": "https://github.com/google/fonts",
+            "star": 3,
+            "description": "Font files available from Google Fonts"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 2,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        }
+    ],
+    "go": [
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 38,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "goconvey",
+            "url": "https://github.com/smartystreets/goconvey",
+            "star": 18,
+            "description": "Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go."
+        },
+        {
+            "name": "helm",
+            "url": "https://github.com/helm/helm",
+            "star": 28,
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "pan-light",
+            "url": "https://github.com/peterq/pan-light",
+            "star": 128,
+            "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+            "name": "gocron",
+            "url": "https://github.com/ouqiang/gocron",
+            "star": 8,
+            "description": "定时任务管理系统"
+        },
+        {
+            "name": "validator",
+            "url": "https://github.com/go-playground/validator",
+            "star": 12,
+            "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+        },
+        {
+            "name": "dashboard",
+            "url": "https://github.com/kubernetes/dashboard",
+            "star": 9,
+            "description": "General-purpose web UI for Kubernetes clusters"
+        },
+        {
+            "name": "fzf",
+            "url": "https://github.com/junegunn/fzf",
+            "star": 14,
+            "description": "🌸A command-line fuzzy finder"
+        },
+        {
+            "name": "caddy",
+            "url": "https://github.com/caddyserver/caddy",
+            "star": 17,
+            "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS"
+        },
+        {
+            "name": "cosmos-sdk",
+            "url": "https://github.com/cosmos/cosmos-sdk",
+            "star": 7,
+            "description": "⛓Blockchain Application Framework✨"
+        }
+    ]
+}

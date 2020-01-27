@@ -1,0 +1,297 @@
+﻿Name,Language,Description,URL,Stars,Month
+Python,python,All Algorithms implemented in Python,https://github.com/TheAlgorithms/Python,3689,5
+PySnooper,python,Never use print for debugging again,https://github.com/cool-RR/PySnooper,755,5
+botorch,python,Bayesian optimization in PyTorch,https://github.com/pytorch/botorch,101,5
+primer,python,code that makes videos for this: youtube.com/c/primerlearning,https://github.com/Helpsypoo/primer,98,5
+graph2vec,python,"A parallel implementation of ""graph2vec: Learning Distributed Representations of Graphs"" (MLGWorkshop 2017).",https://github.com/benedekrozemberczki/graph2vec,90,5
+Vulmap,python,Vulmap Online Local Vulnerability Scanners Project,https://github.com/vulmon/Vulmap,71,5
+stackprinter,python,Debugging-friendly tracebacks for Python,https://github.com/cknd/stackprinter,66,5
+models,python,Models and examples built with TensorFlow,https://github.com/tensorflow/models,389,5
+system-design-primer,python,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer,481,5
+Python-100-Days,python,Python - 100天从新手到大师,https://github.com/jackfrued/Python-100-Days,45,5
+gpt-2,python,"Code for the paper ""Language Models are Unsupervised Multitask Learners""",https://github.com/openai/gpt-2,80,5
+youtube-dl,python,Command-line program to download videos from YouTube.com and other video sites,https://github.com/ytdl-org/youtube-dl,129,5
+AiLearning,python,AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP,https://github.com/apachecn/AiLearning,453,5
+tvm,python,TVM integration into PyTorch,https://github.com/pytorch/tvm,51,5
+DeepSwarm,python,Neural Architecture Search Powered by Swarm Intelligence🐜,https://github.com/Pattio/DeepSwarm,46,5
+faceswap,python,Non official project based on original /r/Deepfakes thread. Many thanks to him!,https://github.com/deepfakes/faceswap,37,5
+alibi,python,Algorithms for monitoring and explaining machine learning models,https://github.com/SeldonIO/alibi,44,5
+NeuronBlocks,python,NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego,https://github.com/microsoft/NeuronBlocks,181,5
+ChromeAppHeroes,python,"🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",https://github.com/zhaoolee/ChromeAppHeroes,222,5
+public-apis,python,A collective list of free APIs for use in software and web development.,https://github.com/toddmotto/public-apis,135,5
+awesome-python,python,"A curated list of awesome Python frameworks, libraries, software and resources",https://github.com/vinta/awesome-python,217,5
+open_stt,python,Russian open STT dataset,https://github.com/snakers4/open_stt,79,5
+graphics,python,TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow,https://github.com/tensorflow/graphics,674,5
+edgedb,python,The next generation object-relational database. A @MagicStack project.,https://github.com/edgedb/edgedb,414,5
+icecream,python,🍦Sweet and creamy print debugging.,https://github.com/gruns/icecream,145,5
+lighttrack,python,"Code for paper ""LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking""",https://github.com/Guanghan/lighttrack,87,5
+machine-learning-course,python,💬Machine Learning Course with Python,https://github.com/machinelearningmindset/machine-learning-course,1645,5
+pysot,python,"SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.",https://github.com/STVIR/pysot,560,5
+client,python,The official cli and python API client for W&B,https://github.com/wandb/client,439,5
+mobilenetv3,python,mobilenetv3 with pytorch，provide pre-train model,https://github.com/xiaolai-sqlai/mobilenetv3,167,5
+Awesome-PyTorch-Chinese,python,【干货】史上最全的PyTorch学习资源汇总,https://github.com/INTERMT/Awesome-PyTorch-Chinese,120,5
+stumpy,python,STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks,https://github.com/TDAmeritrade/stumpy,104,5
+cloudmarker,python,Cloud monitoring tool and framework,https://github.com/cloudmarker/cloudmarker,92,5
+uds,python,Unlimited Drive Storage by splitting binary files into base64,https://github.com/stewartmcgown/uds,681,5
+mathAI,python,一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。This is a mathematic expression recognition project.,https://github.com/Roujack/mathAI,98,5
+CVE-2019-0708,python,,https://github.com/k8gege/CVE-2019-0708,66,5
+PayloadsAllTheThings,python,A list of useful payloads and bypass for Web Application Security and Pentest/CTF,https://github.com/swisskyrepo/PayloadsAllTheThings,146,5
+black,python,The uncompromising Python code formatter,https://github.com/python/black,91,5
+fuzzDicts,python,"Web Pentesting Fuzz 字典,一个就够了。",https://github.com/TheKingOfDuck/fuzzDicts,165,5
+interpret,python,Fit interpretable models. Explain blackbox machine learning.,https://github.com/microsoft/interpret,47,5
+fast-bert,python,Super easy library for BERT based NLP models,https://github.com/kaushaltrivedi/fast-bert,44,5
+pythia,python,A modular framework for Visual Question Answering research from Facebook AI Research (FAIR),https://github.com/facebookresearch/pythia,682,5
+DeleteFB,python,Selenium script to delete all of your Facebook wall posts,https://github.com/weskerfoot/DeleteFB,340,5
+httpie,python,"As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp",https://github.com/jakubroztocil/httpie,212,5
+videoflow,python,Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.,https://github.com/videoflow/videoflow,367,5
+Machine-Learning,python,机器学习原理,https://github.com/shunliz/Machine-Learning,99,5
+maildown,python,A super simple CLI for sending emails,https://github.com/chris104957/maildown,102,5
+Vision_UI,python,UI visual interface for fastai,https://github.com/asvcode/Vision_UI,52,5
+minimalRL,python,Implementations of basic RL algorithms with minimal lines of codes! (pytorch based),https://github.com/seungeunrho/minimalRL,226,5
+ring,python,Python cache interface with clean API and built-in memcache & redis + asyncio support.,https://github.com/youknowone/ring,120,5
+fatt,python,fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic,https://github.com/0x4D31/fatt,86,5
+face_recognition,python,The world's simplest facial recognition api for Python and the command line,https://github.com/ageitgey/face_recognition,67,5
+CS-Notes,java,📚技术面试必备基础知识,https://github.com/CyC2018/CS-Notes,1781,5
+JavaGuide,java,【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。,https://github.com/Snailclimb/JavaGuide,1419,5
+flogger,java,A Fluent Logging API for Java,https://github.com/google/flogger,65,5
+Java,java,All Algorithms implemented in Java,https://github.com/TheAlgorithms/Java,127,5
+DoraemonKit,java,"简称 ""DoKit"" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。",https://github.com/didi/DoraemonKit,119,5
+tutorials,java,"The ""REST With Spring"" Course:",https://github.com/eugenp/tutorials,114,5
+spring-boot,java,Spring Boot,https://github.com/spring-projects/spring-boot,347,5
+ghidra,java,Ghidra is a software reverse engineering (SRE) framework,https://github.com/NationalSecurityAgency/ghidra,29,5
+advanced-java,java,😮互联网 Java 工程师进阶知识完全扫盲,https://github.com/doocs/advanced-java,774,5
+proxyee-down,java,http下载工具，基于http代理，支持多连接分块下载,https://github.com/proxyee-down-org/proxyee-down,24,5
+manifold,java,"Manifold re-energizes Java with powerful features like Type-safe Metaprogramming, Structural Typing, and Extension Methods.",https://github.com/manifold-systems/manifold,168,5
+mall,java,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,https://github.com/macrozheng/mall,966,5
+INFILTRATE2019,java,INFILTRATE 2019 Demo Materials,https://github.com/0xAlexei/INFILTRATE2019,39,5
+hope-boot,java,基于Spring Boot 2.x开发 整合：Spring Boot 2.x/Apache Shiro+JWT/Spring Data JPA+Mybatis+Tk.Mybatis+PageHelper/Redis/Flyway/Swagger/SSO/Thymeleaf 动态权限管理 AES+MD5+盐加解密 代码生成 日志记录 Google验证码登录 单点登录 项目地址：https://github.com/hope-for/hope-boot 主语言[java],https://github.com/hope-for/hope-boot,38,5
+hutool,java,A set of tools that keep Java sweet.,https://github.com/looly/hutool,32,5
+server,java,全开源即时通讯(IM)系统,https://github.com/wildfirechat/server,393,5
+AndroidProject,java,An advanced template project,https://github.com/getActivity/AndroidProject,90,5
+ip2region,java,"Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm",https://github.com/lionsoul2014/ip2region,91,5
+arthas,java,Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas,https://github.com/alibaba/arthas,84,5
+spring-boot-examples,java,about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。,https://github.com/ityouknow/spring-boot-examples,181,5
+LeetCodeAnimation,java,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）,https://github.com/MisterBooo/LeetCodeAnimation,2631,5
+learnxinyminutes-docs,java,Code documentation written as code! How novel and totally my idea!,https://github.com/adambard/learnxinyminutes-docs,203,5
+Linkage-RecyclerView,java,即使不用饿了么订餐，也请务必收藏好该库！🔥一行代码即可接入，二级联动订餐列表 - RecyclerView + AndroidX,https://github.com/KunMinX/Linkage-RecyclerView,368,5
+android-DarkTheme,java,,https://github.com/googlesamples/android-DarkTheme,67,5
+toBeTopJavaer,java,To Be Top Javaer - Java工程师成神之路,https://github.com/hollischuang/toBeTopJavaer,227,5
+eladmin,java,项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，前端菜单支持动态路由,https://github.com/elunez/eladmin,48,5
+bee,java,"Bee is an easy and high efficiency ORM framework.You don't need to write the Dao by yourself anymore. 有了简单、高效的ORM框架Bee,你可以不用再写dao代码。",https://github.com/automvc/bee,52,5
+flutter_boost,java,FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts,https://github.com/alibaba/flutter_boost,140,5
+open_nsfw_android,java,"色情图片离线识别，基于TensorFlow实现。识别只需200ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open_nsfw_python移植，tflite（6M）为训练好的模型，该模型文件可用于iOS、java、C++等平台",https://github.com/devzwy/open_nsfw_android,74,5
+litemall,java,又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端,https://github.com/linlinjava/litemall,203,5
+sia-task,java,微服务任务调度框架,https://github.com/siaorg/sia-task,241,5
+incubator-dubbo,java,"Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.",https://github.com/apache/incubator-dubbo,49,5
+uranus,java,Memo & Task web-app,https://github.com/resotto/uranus,42,5
+SoulPermission,java,a permission check or request for android,https://github.com/soulqw/SoulPermission,106,5
+apollo,java,Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。,https://github.com/ctripcorp/apollo,58,5
+halo,java,✍ Halo 可能是最好的 Java 博客系统,https://github.com/halo-dev/halo,50,5
+Data-Science--Cheat-Sheet,unknown,Cheat Sheets,https://github.com/abhat222/Data-Science--Cheat-Sheet,759,5
+ui-libraries,unknown,A collection of UI Frameworks and their platform implementations.,https://github.com/jefflombard/ui-libraries,203,5
+commit-messages-guide,unknown,A guide to understand the importance of commit messages and how to write them well,https://github.com/RomuloOliveira/commit-messages-guide,175,5
+support.996.ICU,unknown,Microsoft and GitHub Workers Support 996.ICU,https://github.com/MSWorkers/support.996.ICU,98,5
+awesome-developer-streams,unknown,"👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming",https://github.com/bnb/awesome-developer-streams,83,5
+golang-developer-roadmap-cn,unknown,在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。,https://github.com/Quorafind/golang-developer-roadmap-cn,64,5
+gitignore,unknown,A collection of useful .gitignore templates,https://github.com/github/gitignore,328,5
+awesome,unknown,😎Awesome lists about all kinds of interesting topics,https://github.com/sindresorhus/awesome,524,5
+golang-developer-roadmap,unknown,Roadmap to becoming a Go developer in 2019,https://github.com/Alikhll/golang-developer-roadmap,103,5
+You-Dont-Know-JS,unknown,A book series on JavaScript. @YDKJS on twitter.,https://github.com/getify/You-Dont-Know-JS,271,5
+LeetCodeAnimation,unknown,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）,https://github.com/MisterBooo/LeetCodeAnimation,838,5
+industry-machine-learning,unknown,A curated list of applied machine learning and data science notebooks and libraries accross different industries.,https://github.com/firmai/industry-machine-learning,107,5
+vscode-remote-release,unknown,"Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",https://github.com/Microsoft/vscode-remote-release,67,5
+developer-roadmap,unknown,Roadmap to becoming a web developer in 2019,https://github.com/kamranahmedse/developer-roadmap,552,5
+app-ideas,unknown,A Collection of application ideas which can be used to improve your coding skills.,https://github.com/florinpop17/app-ideas,53,5
+go-perfbook,unknown,Thoughts on Go performance optimization,https://github.com/dgryski/go-perfbook,1604,5
+PowerToys,unknown,Windows system utilities to maximize productivity,https://github.com/microsoft/PowerToys,1160,5
+FlutterCreateSubmissions2019,unknown,An Effort to gather all Flutter Create App submissions at one place from various resources.,https://github.com/pinkeshdarji/FlutterCreateSubmissions2019,83,5
+git-tips,unknown,Git的奇技淫巧,https://github.com/521xueweihan/git-tips,78,5
+free-programming-books,unknown,📚Freely available programming books,https://github.com/EbookFoundation/free-programming-books,118,5
+awesome-product-design,unknown,"A collection of bookmarks, resources, articles for product designers.",https://github.com/teoga/awesome-product-design,365,5
+FUNIT,unknown,Translate images to unseen domains in the test time with few example images.,https://github.com/NVlabs/FUNIT,217,5
+Bash-Oneliner,unknown,"A large collection of handy Bash one-liner commands focusing on data processing and for Linux system maintenance. I apologize that there won't be any citation of the code, but they are probably from dear Google and Stackoverflow.",https://github.com/onceupon/Bash-Oneliner,126,5
+awesome-typescript,unknown,A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript,https://github.com/dzharii/awesome-typescript,104,5
+gdut-course,unknown,广东工业大学计算机学院课程攻略,https://github.com/brenner8023/gdut-course,92,5
+awesome-decision-tree-papers,unknown,"A collection of research papers on decision, classification and regression trees with implementations.",https://github.com/benedekrozemberczki/awesome-decision-tree-papers,119,5
+awesome-go-China,unknown,"A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.",https://github.com/hyper0x/awesome-go-China,70,5
+architect-awesome,unknown,后端架构师技术图谱,https://github.com/xingshaocheng/architect-awesome,62,5
+hacker-laws,unknown,"💻📖Laws, Theories, Principles and Patterns that developers will find useful.",https://github.com/dwmkerr/hacker-laws,1610,5
+resilience-engineering,unknown,Resilience Engineering Notes,https://github.com/lorin/resilience-engineering,348,5
+choerodon,unknown,Open Source Multi-Cloud Application Platform.,https://github.com/choerodon/choerodon,151,5
+nlp-beginner,unknown,NLP上手教程,https://github.com/FudanNLP/nlp-beginner,185,5
+hacker-laws-zh,unknown,"💻📖Laws, Theories, Principles and Patterns that developers will find useful.(对开发人员有用的定律，理论，原则和模式。)",https://github.com/nusr/hacker-laws-zh,655,5
+electron-ssr-backup,unknown,"electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜",https://github.com/qingshuisiyuan/electron-ssr-backup,50,5
+The-Hackers-Hardware-Toolkit,unknown,The best hacker's gadgets for Red Team pentesters and security researchers.,https://github.com/yadox666/The-Hackers-Hardware-Toolkit,258,5
+the-art-of-command-line,unknown,"Master the command line, in one page",https://github.com/jlevy/the-art-of-command-line,2026,5
+Emergency-Response-Notes,unknown,应急响应实战笔记，一个安全工程师的自我修养。,https://github.com/Bypass007/Emergency-Response-Notes,155,5
+RenZhengfei,unknown,任正非思想,https://github.com/HuijieL/RenZhengfei,111,5
+Awesome,unknown,💻An awesome & curated list of best applications and tools for Windows.,https://github.com/Awesome-Windows/Awesome,91,5
+awesome-wasi,unknown,😎Curated list of awesome things regarding WebAssembly WASI ecosystem.,https://github.com/wasmerio/awesome-wasi,81,5
+stanford-cs-221-artificial-intelligence,unknown,VIP cheatsheets for Stanford's CS 221 Artificial Intelligence,https://github.com/afshinea/stanford-cs-221-artificial-intelligence,315,5
+awesome-scalability,unknown,"The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",https://github.com/binhnguyennus/awesome-scalability,725,5
+fs-pacer,unknown,,https://github.com/eloraiby/fs-pacer,68,5
+android-developer-roadmap,unknown,Android Developer Roadmap 2019,https://github.com/anacoimbrag/android-developer-roadmap,351,5
+ds-cheatsheets,unknown,List of Data Science Cheatsheets to rule the world,https://github.com/FavioVazquez/ds-cheatsheets,85,5
+pentest,unknown,渗透测试用到的东东,https://github.com/ring04h/pentest,80,5
+free-programming-books-zh_CN,unknown,📚免费的计算机编程类中文书籍，欢迎投稿,https://github.com/justjavac/free-programming-books-zh_CN,82,5
+leetcode,javascript,leetcode题解，记录自己的leecode解题之路。,https://github.com/azl397985856/leetcode,2548,5
+pastel,javascript,🎨Framework for effortlessly building Ink apps,https://github.com/vadimdemedes/pastel,256,5
+uppy,javascript,The next open source file uploader for web browsers🐶,https://github.com/transloadit/uppy,157,5
+svelte,javascript,Cybernetically enhanced web apps,https://github.com/sveltejs/svelte,1334,5
+SOUL,javascript,The SOUL programming language and API,https://github.com/soul-lang/SOUL,132,5
+relay,javascript,Relay is a JavaScript framework for building data-driven React applications.,https://github.com/facebook/relay,82,5
+ink,javascript,🌈React for interactive command-line apps,https://github.com/vadimdemedes/ink,83,5
+file-system-react,javascript,File System UI in Web using react,https://github.com/imshubhamsingh/file-system-react,79,5
+shepherd,javascript,Guide your users through a tour of your app,https://github.com/shipshapecode/shepherd,80,5
+react-useportal,javascript,🌀React hook for Portals,https://github.com/alex-cory/react-useportal,79,5
+response,javascript,Monzo's real-time incident response and reporting tool⚡️,https://github.com/monzo/response,141,5
+UnblockNeteaseMusic,javascript,Revive unavailable songs for Netease Cloud Music,https://github.com/nondanee/UnblockNeteaseMusic,137,5
+nodebestpractices,javascript,✅The largest Node.js best practices list (April 2019),https://github.com/i0natan/nodebestpractices,713,5
+libpku,javascript,贵校课程资料民间整理,https://github.com/lib-pku/libpku,267,5
+react,javascript,"A declarative, efficient, and flexible JavaScript library for building user interfaces.",https://github.com/facebook/react,586,5
+sql.js,javascript,SQLite compiled to JavaScript through Emscripten,https://github.com/kripken/sql.js,63,5
+vue,javascript,"🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",https://github.com/vuejs/vue,785,5
+use-http,javascript,🐶React hook for making isomorphic http requests,https://github.com/alex-cory/use-http,52,5
+react-material-dashboard,javascript,"React Dashboard made with Material UI’s components, React and of course create-react-app to boost your app development process!",https://github.com/devias-io/react-material-dashboard,172,5
+hyper,javascript,A terminal built on web technologies,https://github.com/zeit/hyper,159,5
+jsmpeg,javascript,MPEG1 Video Decoder in JavaScript,https://github.com/phoboslab/jsmpeg,126,5
+Lepton,javascript,💻Democratizing Snippet Management (macOS/Win/Linux),https://github.com/hackjutsu/Lepton,90,5
+lxhToolHTTPDecrypt,javascript,HTTPDecrypt,https://github.com/lyxhh/lxhToolHTTPDecrypt,76,5
+Web,javascript,Web前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...,https://github.com/qianguyihao/Web,316,5
+comlink,javascript,Comlink makes WebWorkers enjoyable.,https://github.com/GoogleChromeLabs/comlink,578,5
+amis,javascript,一种基于特定 JSON 格式生成 MIS 页面的工具,https://github.com/baidu/amis,85,5
+dinoql,javascript,A query language for JavaScript Objects using GraphQL syntax.,https://github.com/victorvoid/dinoql,285,5
+30-seconds-of-code,javascript,A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.,https://github.com/30-seconds/30-seconds-of-code,72,5
+training,javascript,🐝Custom Object Detection and Classification Training,https://github.com/cloud-annotations/training,197,5
+fusuma,javascript,✍️Fusuma makes slides with Markdown easily.,https://github.com/hiroppy/fusuma,343,5
+react-tetris,javascript,"Use React, Redux, Immutable to code Tetris.🎮",https://github.com/chvin/react-tetris,226,5
+tesseract.js,javascript,Pure Javascript OCR for 62 Languages📖🎉🖥,https://github.com/naptha/tesseract.js,133,5
+afd-blocker-plugin,javascript,AfD Blocker Browser Plugin,https://github.com/dieparteidiepartei/afd-blocker-plugin,103,5
+cash,javascript,An absurdly small jQuery alternative for modern browsers,https://github.com/kenwheeler/cash,102,5
+my-budget,javascript,"Free, open source offline cross-platform budgeting solution built with Electron.",https://github.com/reZach/my-budget,391,5
+baiduyun,javascript,🖖油猴脚本 一个脚本搞定百度网盘下载,https://github.com/syhyz1990/baiduyun,99,5
+ola,javascript,🌊Smooth animation library for interpolating numbers,https://github.com/franciscop/ola,232,5
+gitfolio,javascript,personal website + blog for every github user,https://github.com/imfunniee/gitfolio,731,5
+vhr,javascript,微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。,https://github.com/lenve/vhr,91,5
+i18nize-react,javascript,Internationalize react apps within a lunch break,https://github.com/Ghost---Shadow/i18nize-react,106,5
+tornis,javascript,Tornis helps you watch and respond to changes in your browser's viewport🌲,https://github.com/robb0wen/tornis,89,5
+WebGL-Fluid-Simulation,javascript,Play with fluids in your browser (works even on mobile),https://github.com/PavelDoGreat/WebGL-Fluid-Simulation,579,5
+scar,javascript,"Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.",https://github.com/cloudkj/scar,660,5
+sdk-js,javascript,Tanker client-side encryption SDK for JavaScript,https://github.com/TankerHQ/sdk-js,285,5
+Motrix,javascript,A full-featured download manager.,https://github.com/agalwood/Motrix,313,5
+NeteaseCloudMusicApi,javascript,网易云音乐 Node.js API service,https://github.com/Binaryify/NeteaseCloudMusicApi,130,5
+dlv,javascript,"Safe deep property access in 120 bytes. x = dlv(obj, 'a.b.x')",https://github.com/developit/dlv,139,5
+tiptap,javascript,A rich-text editor for Vue.js,https://github.com/scrumpy/tiptap,477,5
+pixi.js,javascript,"The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",https://github.com/pixijs/pixi.js,122,5
+dsa.js,javascript,Data Structures and Algorithms explained and implemented in JavaScript,https://github.com/amejiarosario/dsa.js,90,5
+youtube-dl-interactive,javascript,Interactively select the quality and format for youtube-dl,https://github.com/synox/youtube-dl-interactive,405,5
+zdog,javascript,"Flat, round, designer-friendly pseudo-3D engine",https://github.com/metafizzy/zdog,379,5
+xstyled,javascript,Consistent theme based CSS for styled-components💅,https://github.com/smooth-code/xstyled,373,5
+imgsquash,javascript,"Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.",https://github.com/eashish93/imgsquash,230,5
+react-vertex,javascript,◾️React Vertex | Hooks-based WebGL library for React,https://github.com/sghall/react-vertex,199,5
+awesome-mac,javascript," Now we have become very big, Different from the original idea. Collect premium software in various categories.",https://github.com/jaywcjlove/awesome-mac,191,5
+Springboot_v2,javascript,SpringBoot_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。,https://github.com/fuce1314/Springboot_v2,95,5
+linux-command,html,Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux,https://github.com/jaywcjlove/linux-command,933,5
+IsometricSass,html,Sass library to make isometric 2D without javascript,https://github.com/MorganCaron/IsometricSass,97,5
+zju-icicles,html,浙江大学课程攻略共享计划,https://github.com/QSCTech/zju-icicles,57,5
+Home-Assistant-Config,html,Home Assistant Configuration & Documentation for my Smart House.,https://github.com/JamesMcCarthy79/Home-Assistant-Config,79,5
+front-end-handbook-2019,html,[Book] 2019 edition of our front-end development handbook,https://github.com/FrontendMasters/front-end-handbook-2019,38,5
+water.css,html,A just-add-css collection of styles to make simple websites just a little nicer,https://github.com/kognise/water.css,110,5
+public-sans,html,"A strong, neutral, principles-driven, open source typeface for text or display",https://github.com/uswds/public-sans,17,5
+en.javascript.info,html,Modern JavaScript Tutorial,https://github.com/javascript-tutorial/en.javascript.info,70,5
+Elf,html,使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）,https://github.com/fguby/Elf,30,5
+Python-100-Days,html,Python - 100天从新手到大师,https://github.com/jackfrued/Python-100-Days,5069,5
+impatient-js-zh,html,📖[译] 写给不耐烦程序员的 JavaScript,https://github.com/apachecn/impatient-js-zh,28,5
+Front-end-Developer-Interview-Questions,html,"A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",https://github.com/h5bp/Front-end-Developer-Interview-Questions,38,5
+AdminLTE,html,AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x,https://github.com/ColorlibHQ/AdminLTE,59,5
+nndl.github.io,html,《神经网络与深度学习》 Neural Network and Deep Learning,https://github.com/nndl/nndl.github.io,239,5
+clash,html,Clash for openwrt,https://github.com/frainzy1477/clash,29,5
+windows-syscalls,html,Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10),https://github.com/j00ru/windows-syscalls,29,5
+dotnet,html,"This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.",https://github.com/microsoft/dotnet,26,5
+flutter-in-action,html,《Flutter实战》电子书,https://github.com/flutterchina/flutter-in-action,282,5
+Electron-elf,html,使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）,https://github.com/fguby/Electron-elf,47,5
+flag-icon-css,html,🎏A collection of all country flags in SVG — plus the CSS for easier integration,https://github.com/lipis/flag-icon-css,33,5
+vue-unit-test-with-jest,html,吃透本仓库，变身vue项目单体测试大神,https://github.com/holylovelqq/vue-unit-test-with-jest,32,5
+dom_diff,html,学海无涯，心存高远,https://github.com/zhangna0703/dom_diff,26,5
+go101,html,An online book focusing on Go syntax/semantics.,https://github.com/go101/go101,203,5
+styleguide,html,Style guides for Google-originated open-source projects,https://github.com/google/styleguide,22,5
+subspace,html,A simple WireGuard VPN server GUI,https://github.com/subspacecloud/subspace,46,5
+uix-kit,html,"A free web kits for fast web design and development, compatible with Bootstrap v4.",https://github.com/xizon/uix-kit,43,5
+gl,html,A (very experimental) project to bring WebGL to Svelte,https://github.com/sveltejs/gl,27,5
+Blog,html,【前端进阶】优质博文,https://github.com/YvetteLau/Blog,20,5
+golang101,html,Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书,https://github.com/golang101/golang101,24,5
+awesome-modern-cpp,html,A collection of resources on modern C++,https://github.com/rigtorp/awesome-modern-cpp,413,5
+human_dynamics,html,"project for paper ""Learning 3D Human Dynamics from Video""",https://github.com/akanazawa/human_dynamics,67,5
+csinva.github.io,html,"Source for chandan's website: contains notes, blogs, slides, and research.",https://github.com/csinva/csinva.github.io,46,5
+playground,html,,https://github.com/tailwindcss/playground,21,5
+fastText,html,Library for fast text representation and classification.,https://github.com/facebookresearch/fastText,16,5
+TrackRay,html,溯光 (TrackRay) 3 插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit）,https://github.com/iSafeBlue/TrackRay,20,5
+deeplearning_ai_books,html,deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）,https://github.com/fengdu78/deeplearning_ai_books,40,5
+personal-website,html,Code that'll help you kickstart a personal website that showcases your work as a software developer.,https://github.com/github/personal-website,21,5
+prototurk.com,html,Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.,https://github.com/tayfunerbilen/prototurk.com,6,5
+chromium_for_spider,html,为漏扫动态爬虫定制的浏览器,https://github.com/myvyang/chromium_for_spider,21,5
+learn-vim,html,无废话极简版Vim学习笔记！文章按主题分拆为多个章节，并尽量控制每节的信息量；通过文字色彩和字体，将命令、快捷键突出显示；在每节结尾，提供一个命令列表，以便回顾文中介绍的重要命令。如果这些文章能对喜欢Vim的朋友有所益处，我将不胜荣幸。,https://github.com/yyq123/learn-vim,21,5
+WebFundamentals,html,Best practices for modern web development,https://github.com/google/WebFundamentals,29,5
+sa-admin,html,一个基于iframe的多窗口后台模板，演示地址：http://sa-admin.dev33.cn,https://github.com/shengzhang666/sa-admin,15,5
+SideQuest,html,"A open app store for mobile android based VR devices such as the Oculus Go, Oculus Quest or even the Moverio BT 300 ( IKR? )",https://github.com/the-expanse/SideQuest,13,5
+Terminus2049.github.io,html,No more 404,https://github.com/Terminus2049/Terminus2049.github.io,10,5
+hyperblog,html,Un blog increíble para el curso de Git y Github de Platzi,https://github.com/freddier/hyperblog,18,5
+terrahub,html,Terraform Automation and Orchestration Tool (Open Source),https://github.com/TerraHubCorp/terrahub,11,5
+nullboard,html,"Nullboard is a minimalist kanban board, focused on compactness and readability.",https://github.com/apankrat/nullboard,47,5
+ATTACK-Tools,html,Utilities for MITRE™ ATT&CK,https://github.com/nshalabi/ATTACK-Tools,16,5
+documentation,html,Pantheon Docs,https://github.com/pantheon-systems/documentation,13,5
+website,html,Kubernetes website and documentation repo:,https://github.com/kubernetes/website,10,5
+index,html,企业内部导航页,https://github.com/openspug/index,13,5
+gameboy.live,go,"🕹️A basic gameboy emulator with terminal ""Cloud Gaming"" support",https://github.com/HFO4/gameboy.live,1338,5
+wails,go,Create desktop apps using Go and Web Technologies,https://github.com/wailsapp/wails,151,5
+footloose,go,Container Machines - Containers that look like Virtual Machines,https://github.com/weaveworks/footloose,42,5
+go,go,The Go programming language,https://github.com/golang/go,461,5
+termshark,go,"A terminal UI for tshark, inspired by Wireshark",https://github.com/gcla/termshark,41,5
+sshcode,go,Run VS Code on any server over SSH.,https://github.com/cdr/sshcode,38,5
+dexon,go,Official golang DEXON fullnode implementation,https://github.com/dexon-foundation/dexon,438,5
+kubernetes,go,Production-Grade Container Scheduling and Management,https://github.com/kubernetes/kubernetes,413,5
+awesome-go,go,"A curated list of awesome Go frameworks, libraries and software",https://github.com/avelino/awesome-go,170,5
+frp,go,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,https://github.com/fatedier/frp,124,5
+komiser,go,AWS Environment Inspector👮,https://github.com/mlabouardy/komiser,426,5
+terraformer,go,CLI tool to generate terraform files from existing infrastructure (reverse Terraform).,https://github.com/GoogleCloudPlatform/terraformer,265,5
+tml,go,🌈💻🎨A tiny markup language for terminal output. Makes formatting output in CLI apps easier!,https://github.com/liamg/tml,122,5
+termdash,go,Terminal based dashboard.,https://github.com/mum4k/termdash,96,5
+auxpi,go,🍭集合多家 API 的新一代图床,https://github.com/aimerforreimu/auxpi,176,5
+dexon-consensus,go,DEXON consensus Implementation & Simulation,https://github.com/dexon-foundation/dexon-consensus,187,5
+pie,go,🍕Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.,https://github.com/elliotchance/pie,48,5
+sqlflow,go,Brings SQL and AI together.,https://github.com/sql-machine-learning/sqlflow,788,5
+keda,go,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,https://github.com/kedacore/keda,283,5
+beam,go,A distributed knowledge graph store,https://github.com/eBay/beam,124,5
+kratos,go,Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。,https://github.com/bilibili/kratos,159,5
+mr2,go,Expose local server to external network,https://github.com/txthinking/mr2,85,5
+flipt,go,A feature flag solution that runs in your existing infrastructure,https://github.com/markphelps/flipt,109,5
+fyne,go,Cross platform GUI in Go based on Material Design,https://github.com/fyne-io/fyne,109,5
+caire,go,Content aware image resize library,https://github.com/esimov/caire,66,5
+profilinggo,go,A quick tour (or reminder) of Go performance tools,https://github.com/samonzeweb/profilinggo,93,5
+dicom,go,⚡High Performance DICOM Medical Image Parser in Go.,https://github.com/suyashkumar/dicom,48,5
+gin,go,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",https://github.com/gin-gonic/gin,201,5
+echoip,go,,https://github.com/alifarah9/echoip,163,5
+trivy,go,"A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",https://github.com/knqyf263/trivy,351,5
+gopenpgp,go,A high-level OpenPGP library,https://github.com/ProtonMail/gopenpgp,166,5
+uuid,go,,https://github.com/alifarah9/uuid,107,5
+uiprogress,go,A go library to render progress bars in terminal applications,https://github.com/gosuri/uiprogress,70,5
+v2ray-core,go,A platform for building proxies to bypass network restrictions.,https://github.com/v2ray/v2ray-core,64,5
+polaris,go,Validation of best practices in your Kubernetes clusters,https://github.com/reactiveops/polaris,56,5
+lantern,go,🔴蓝灯最新版本下载 https://github.com/getlantern/download🔴Lantern Latest Download https://github.com/getlantern/download🔴,https://github.com/getlantern/lantern,29,5
+go-git,go,A highly extensible Git implementation in pure Go.,https://github.com/src-d/go-git,26,5
+gopeed,go,"A fast download client,support HTTP&P2P.",https://github.com/monkeyWie/gopeed,21,5
+simple-computer,go,"the scott CPU from ""But How Do It Know?"" by J. Clark Scott",https://github.com/djhworld/simple-computer,265,5
+rio,go,Kubernetes based MicroPaaS,https://github.com/rancher/rio,168,5
+sail,go,"The universal standard for instant, pre-configured development environments.",https://github.com/cdr/sail,102,5
+reading-go,go,Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题。,https://github.com/developer-learning/reading-go,85,5
+Gaea,go,"Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team.",https://github.com/XiaoMi/Gaea,153,5
+nps,go,一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。,https://github.com/cnlh/nps,121,5
+g-fu,go,a Lisp to Go,https://github.com/codr7/g-fu,56,5
+VictoriaMetrics,go,"VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus",https://github.com/VictoriaMetrics/VictoriaMetrics,38,5
+hugo,go,The world’s fastest framework for building websites.,https://github.com/gohugoio/hugo,30,5
+grpcurl,go,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",https://github.com/fullstorydev/grpcurl,29,5
+dive-to-gosync-workshop,go,深入Go并发编程研讨课,https://github.com/smallnest/dive-to-gosync-workshop,168,5
+xuperunion,go,A highly flexible blockchain architecture with great transaction performance.,https://github.com/xuperchain/xuperunion,157,5
+unipdf,go,Golang PDF library for creating and processing PDF files (pure go),https://github.com/unidoc/unipdf,70,5
+expr,go,Evaluate expression in Go,https://github.com/antonmedv/expr,64,5
+gones,go,Yet Another NES Emulator Written in Go,https://github.com/vfreex/gones,50,5

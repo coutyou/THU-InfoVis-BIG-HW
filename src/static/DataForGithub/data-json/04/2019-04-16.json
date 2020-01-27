@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-16",
+    "month": 4,
+    "day": 16,
+    "python": [
+        {
+            "name": "eht-imaging",
+            "url": "https://github.com/achael/eht-imaging",
+            "star": 469,
+            "description": "Imaging, analysis, and simulation software for radio interferometry"
+        },
+        {
+            "name": "SPADE",
+            "url": "https://github.com/NVlabs/SPADE",
+            "star": 252,
+            "description": "Semantic Image Synthesis with SPADE"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 189,
+            "description": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "jumpcutter",
+            "url": "https://github.com/carykh/jumpcutter",
+            "star": 185,
+            "description": "Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw"
+        },
+        {
+            "name": "USTC-Course",
+            "url": "https://github.com/USTC-Resource/USTC-Course",
+            "star": 92,
+            "description": "❤️中国科学技术大学课程资源"
+        },
+        {
+            "name": "FCOS",
+            "url": "https://github.com/tianzhi0549/FCOS",
+            "star": 93,
+            "description": "FCOS: Fully Convolutional One-Stage Object Detection"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 87,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 55,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "modin",
+            "url": "https://github.com/modin-project/modin",
+            "star": 68,
+            "description": "Modin: Speed up your Pandas workflows by changing a single line of code"
+        },
+        {
+            "name": "thinkpad-tools",
+            "url": "https://github.com/devksingh4/thinkpad-tools",
+            "star": 66,
+            "description": "Tools to manage Thinkpad properties"
+        }
+    ],
+    "java": [
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 247,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 187,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 126,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 87,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 82,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "litemall",
+            "url": "https://github.com/linlinjava/litemall",
+            "star": 73,
+            "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 69,
+            "description": "Jeecg-boot 是一款基于代码生成器的智能开发平台！采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。提供强大的代码生成器， 前端页面代码和后端代码一键生成，不需要写任何代码，保持jeecg一贯的强大，绝对是全栈开发者福音！！ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同时，提高开发效率，追求更高的能力，No代码概念，一系列智能化在线开发。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 58,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 40,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 56,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "git-tips",
+            "url": "https://github.com/521xueweihan/git-tips",
+            "star": 658,
+            "description": "Git的奇技淫巧"
+        },
+        {
+            "name": "xg2xg",
+            "url": "https://github.com/jhuangtw-dev/xg2xg",
+            "star": 559,
+            "description": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+        },
+        {
+            "name": "Weekly-FE-Interview",
+            "url": "https://github.com/airuikun/Weekly-FE-Interview",
+            "star": 258,
+            "description": "每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。"
+        },
+        {
+            "name": "Awesome",
+            "url": "https://github.com/Awesome-Windows/Awesome",
+            "star": 255,
+            "description": "💻An awesome & curated list of best applications and tools for Windows."
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 233,
+            "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+        },
+        {
+            "name": "pumpkin-book",
+            "url": "https://github.com/datawhalechina/pumpkin-book",
+            "star": 110,
+            "description": "《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 103,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 111,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 95,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 93,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "octotree",
+            "url": "https://github.com/ovity/octotree",
+            "star": 509,
+            "description": "GitHub code tree on steroids"
+        },
+        {
+            "name": "squeezer",
+            "url": "https://github.com/SqueezerIO/squeezer",
+            "star": 502,
+            "description": "Squeezer Framework - Build serverless dApps"
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 410,
+            "description": "贵校课程资料民间整理"
+        },
+        {
+            "name": "Mermrender",
+            "url": "https://github.com/Schachte/Mermrender",
+            "star": 450,
+            "description": "🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)"
+        },
+        {
+            "name": "playroom",
+            "url": "https://github.com/seek-oss/playroom",
+            "star": 389,
+            "description": "Design with JSX, powered by your own component library."
+        },
+        {
+            "name": "js-cloudimage-360-view",
+            "url": "https://github.com/scaleflex/js-cloudimage-360-view",
+            "star": 196,
+            "description": "Engage your customers with a stunning 360 view of your products"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 141,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 141,
+            "description": "The best design tools for everything👉"
+        },
+        {
+            "name": "webiny-js",
+            "url": "https://github.com/Webiny/webiny-js",
+            "star": 141,
+            "description": "Serverless CMS (GraphQL + React)"
+        },
+        {
+            "name": "hacker-scripts",
+            "url": "https://github.com/NARKOZ/hacker-scripts",
+            "star": 115,
+            "description": "Based on a true story"
+        }
+    ],
+    "html": [
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 349,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 241,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 195,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "public-sans",
+            "url": "https://github.com/uswds/public-sans",
+            "star": 106,
+            "description": "A strong, neutral, principles-driven, open-source typeface for text or display"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 82,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 39,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 27,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "fdu-gradhotpot",
+            "url": "https://github.com/fdu-cooks/fdu-gradhotpot",
+            "star": 30,
+            "description": "Hotpot计划是复旦留学申请数据开源计划的代称，旨在为复旦学弟学妹无偿分享留学申请经验、暑研动态、海外生活/工作等一切相关信息。"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 25,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 22,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        }
+    ],
+    "go": [
+        {
+            "name": "space-cloud",
+            "url": "https://github.com/spaceuptech/space-cloud",
+            "star": 287,
+            "description": "Space Cloud is an open source, web server that provides instant Realtime APIs on any database of your choice. Build highly scalable apps with the agility of a prototype!"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 67,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 56,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 53,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 50,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "sealos",
+            "url": "https://github.com/fanux/sealos",
+            "star": 52,
+            "description": "Build a production kubernetes cluster!"
+        },
+        {
+            "name": "popeye",
+            "url": "https://github.com/derailed/popeye",
+            "star": 43,
+            "description": "🧭 A Kubernetes cluster resource sanitizer"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 39,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 37,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 38,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        }
+    ]
+}

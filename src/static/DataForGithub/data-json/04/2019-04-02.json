@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-02",
+    "month": 4,
+    "day": 2,
+    "python": [
+        {
+            "name": "Python-crawler-tutorial-starts-from-zero",
+            "url": "https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero",
+            "star": 309,
+            "description": "python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架"
+        },
+        {
+            "name": "bsed",
+            "url": "https://github.com/andrewbihl/bsed",
+            "star": 269,
+            "description": "Simple SQL-like syntax on top of Perl text processing."
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 169,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "pyright",
+            "url": "https://github.com/Microsoft/pyright",
+            "star": 92,
+            "description": "Static type checker for Python"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 83,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "USTC-Course",
+            "url": "https://github.com/USTC-Resource/USTC-Course",
+            "star": 73,
+            "description": "❤️中国科学技术大学课程资源"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 57,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "FastFCN",
+            "url": "https://github.com/wuhuikai/FastFCN",
+            "star": 71,
+            "description": "FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation."
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 67,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "acronym",
+            "url": "https://github.com/bacook17/acronym",
+            "star": 69,
+            "description": "ACRONYM (Acronym CReatiON for You and Me)"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 293,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 267,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "seata",
+            "url": "https://github.com/seata/seata",
+            "star": 76,
+            "description": "🔥Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 69,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 61,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 63,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 65,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "light-4j",
+            "url": "https://github.com/networknt/light-4j",
+            "star": 52,
+            "description": "A fast, lightweight and more productive microservices framework"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 40,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "poc-graphql",
+            "url": "https://github.com/righettod/poc-graphql",
+            "star": 52,
+            "description": "Research on GraphQL from an AppSec point of view."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 1303,
+            "description": "955 不加班的公司名单"
+        },
+        {
+            "name": "notes",
+            "url": "https://github.com/8483/notes",
+            "star": 397,
+            "description": "Full-stack web development notes."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 250,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 247,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "everyone-can-use-english",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "star": 228,
+            "description": "人人都能用英语"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 186,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "996ICU",
+            "url": "https://github.com/995icu/996ICU",
+            "star": 195,
+            "description": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 119,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "996.Law",
+            "url": "https://github.com/Y1ran/996.Law",
+            "star": 125,
+            "description": "联合仲裁发起地 | 法律板块(主站：996.ICU)"
+        },
+        {
+            "name": "pentest-guide",
+            "url": "https://github.com/Voorivex/pentest-guide",
+            "star": 106,
+            "description": "Penetration tests cases, resources and guidelines."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "You-Dont-Need-jQuery",
+            "url": "https://github.com/nefe/You-Dont-Need-jQuery",
+            "star": 562,
+            "description": "Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript."
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 388,
+            "description": "A web-based JavaScript（canvas） spreadsheet"
+        },
+        {
+            "name": "zhui",
+            "url": "https://github.com/zhui-team/zhui",
+            "star": 360,
+            "description": "🚀A Chinese style component library of react https://zhui-team.github.io/zhui/"
+        },
+        {
+            "name": "winXP",
+            "url": "https://github.com/ShizukuIchi/winXP",
+            "star": 323,
+            "description": "🏁Web based Windows XP desktop recreation."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 236,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 147,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "cube.js",
+            "url": "https://github.com/statsbotco/cube.js",
+            "star": 152,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "cursor-effects",
+            "url": "https://github.com/tholman/cursor-effects",
+            "star": 139,
+            "description": "Only 90's kids remember"
+        },
+        {
+            "name": "Tone.js",
+            "url": "https://github.com/Tonejs/Tone.js",
+            "star": 115,
+            "description": "A Web Audio framework for making interactive music in the browser."
+        },
+        {
+            "name": "laxxx",
+            "url": "https://github.com/alexfoxy/laxxx",
+            "star": 103,
+            "description": "Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!"
+        }
+    ],
+    "html": [
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 63,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 38,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 28,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 23,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 14,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 20,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 5,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "evtjs",
+            "url": "https://github.com/everitoken/evtjs",
+            "star": 24,
+            "description": "API Binding (SDK) for the everiToken blockchain."
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 19,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 14,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        }
+    ],
+    "go": [
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 212,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 202,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "vugu",
+            "url": "https://github.com/vugu/vugu",
+            "star": 146,
+            "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)"
+        },
+        {
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit",
+            "star": 102,
+            "description": "simple terminal UI for git commands"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 63,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 70,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 54,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 45,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "syncd",
+            "url": "https://github.com/dreamans/syncd",
+            "star": 44,
+            "description": "syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率."
+        },
+        {
+            "name": "owlcache",
+            "url": "https://github.com/xssed/owlcache",
+            "star": 45,
+            "description": "🦉owlcache is a lightweight, high-performance, non-centralized, distributed Key/Value memory-cached data sharing application written by Go (used as a lightweight database in certain scenarios). keyword : golang cache、go cache、golang nosql"
+        }
+    ]
+}

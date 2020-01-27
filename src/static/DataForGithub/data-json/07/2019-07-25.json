@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-25",
+    "month": 7,
+    "day": 25,
+    "python": [
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 183,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "APT_REPORT",
+            "url": "https://github.com/blackorbird/APT_REPORT",
+            "star": 43,
+            "description": "Interesting apt report collection and some special ioc express"
+        },
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 434,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "code_snippets",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "star": 24,
+            "description": ""
+        },
+        {
+            "name": "auto-sklearn",
+            "url": "https://github.com/automl/auto-sklearn",
+            "star": 18,
+            "description": "Automated Machine Learning with scikit-learn"
+        },
+        {
+            "name": "algorithms",
+            "url": "https://github.com/keon/algorithms",
+            "star": 15,
+            "description": "Minimal examples of data structures and algorithms in Python"
+        },
+        {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "star": 28,
+            "description": "scikit-learn: machine learning in Python"
+        },
+        {
+            "name": "byteps",
+            "url": "https://github.com/bytedance/byteps",
+            "star": 5,
+            "description": "A high performance and general PS framework for distributed training"
+        },
+        {
+            "name": "gym",
+            "url": "https://github.com/openai/gym",
+            "star": 22,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+        },
+        {
+            "name": "python",
+            "url": "https://github.com/kubernetes-client/python",
+            "star": 4,
+            "description": "Official Python client library for kubernetes"
+        }
+    ],
+    "java": [
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 219,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 329,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "rocketmq",
+            "url": "https://github.com/apache/rocketmq",
+            "star": 16,
+            "description": "Mirror of Apache RocketMQ"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 132,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 33,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "spring-cloud-kubernetes",
+            "url": "https://github.com/spring-cloud/spring-cloud-kubernetes",
+            "star": 11,
+            "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+        },
+        {
+            "name": "eureka",
+            "url": "https://github.com/Netflix/eureka",
+            "star": 10,
+            "description": "AWS Service registry for resilient mid-tier load balancing and failover."
+        },
+        {
+            "name": "SmartSwipe",
+            "url": "https://github.com/luckybilly/SmartSwipe",
+            "star": 20,
+            "description": "An android library to make swipe more easier and more powerful. https://luckybilly.github.io/SmartSwipe-tutorial/"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 36,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "material-components-android",
+            "url": "https://github.com/material-components/material-components-android",
+            "star": 8,
+            "description": "Modular and customizable Material Design UI components for Android"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 179,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r…"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 774,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "industry-machine-learning",
+            "url": "https://github.com/firmai/industry-machine-learning",
+            "star": 141,
+            "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries."
+        },
+        {
+            "name": "30-seconds-zh_CN",
+            "url": "https://github.com/b3log/30-seconds-zh_CN",
+            "star": 145,
+            "description": "📙前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。"
+        },
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 189,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "awesome-production-machine-learning",
+            "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+            "star": 127,
+            "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 157,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 64,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "English-level-up-tips-for-Chinese",
+            "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+            "star": 78,
+            "description": "可能是让你受益匪浅的英语进阶指南"
+        },
+        {
+            "name": "today-i-learned",
+            "url": "https://github.com/KieSun/today-i-learned",
+            "star": 20,
+            "description": "记录今天学了什么"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "cube.js",
+            "url": "https://github.com/cube-js/cube.js",
+            "star": 324,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 95,
+            "description": "Headless Chrome Node API"
+        },
+        {
+            "name": "WebGL-Fluid-Simulation",
+            "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+            "star": 42,
+            "description": "Play with fluids in your browser (works even on mobile)"
+        },
+        {
+            "name": "nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js",
+            "star": 33,
+            "description": "The Vue.js Framework"
+        },
+        {
+            "name": "taro-ui",
+            "url": "https://github.com/NervJS/taro-ui",
+            "star": 7,
+            "description": "一款基于 Taro 框架开发的多端 UI 组件库"
+        },
+        {
+            "name": "dash",
+            "url": "https://github.com/plotly/dash",
+            "star": 20,
+            "description": "Analytical Web Apps for Python. No JavaScript Required."
+        },
+        {
+            "name": "Front-End-Checklist",
+            "url": "https://github.com/thedaviddias/Front-End-Checklist",
+            "star": 93,
+            "description": "🗂The perfect Front-End Checklist for modern websites and meticulous developers"
+        },
+        {
+            "name": "openzeppelin-contracts",
+            "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+            "star": 2,
+            "description": "OpenZeppelin Contracts is a library for secure smart contract development."
+        },
+        {
+            "name": "netron",
+            "url": "https://github.com/lutzroeder/netron",
+            "star": 48,
+            "description": "Visualizer for neural network, deep learning and machine learning models"
+        },
+        {
+            "name": "js-xlsx",
+            "url": "https://github.com/SheetJS/js-xlsx",
+            "star": 26,
+            "description": "📗SheetJS Community Edition -- Spreadsheet Toolkit"
+        }
+    ],
+    "html": [
+        {
+            "name": "sourcegraph",
+            "url": "https://github.com/sourcegraph/sourcegraph",
+            "star": 8,
+            "description": "Code search and navigation tool (self-hosted)"
+        },
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 7,
+            "description": "Modern Phishing Tool With Advanced Functionality [ Android-Support-Available ]"
+        },
+        {
+            "name": "tools",
+            "url": "https://github.com/googlecodelabs/tools",
+            "star": 0,
+            "description": "Codelabs management & hosting tools"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 39,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 8,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 11,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 4,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "mescroll",
+            "url": "https://github.com/mescroll/mescroll",
+            "star": 5,
+            "description": "精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 11,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 1,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        }
+    ],
+    "go": [
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 110,
+            "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s."
+        },
+        {
+            "name": "packer",
+            "url": "https://github.com/hashicorp/packer",
+            "star": 37,
+            "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 22,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "rook",
+            "url": "https://github.com/rook/rook",
+            "star": 32,
+            "description": "Storage Orchestration for Kubernetes"
+        },
+        {
+            "name": "sarama",
+            "url": "https://github.com/Shopify/sarama",
+            "star": 5,
+            "description": "Sarama is a Go library for Apache Kafka 0.8, and up."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/json-iterator/go",
+            "star": 15,
+            "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\""
+        },
+        {
+            "name": "terraformer",
+            "url": "https://github.com/GoogleCloudPlatform/terraformer",
+            "star": 13,
+            "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code"
+        },
+        {
+            "name": "code",
+            "url": "https://github.com/goinaction/code",
+            "star": 2,
+            "description": "Source Code for Go In Action examples"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "star": 34,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "eksctl",
+            "url": "https://github.com/weaveworks/eksctl",
+            "star": 4,
+            "description": "The official CLI for Amazon EKS"
+        }
+    ]
+}

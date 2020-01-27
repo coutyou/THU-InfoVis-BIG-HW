@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-22",
+    "month": 7,
+    "day": 22,
+    "python": [
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 549,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "faceai",
+            "url": "https://github.com/vipstone/faceai",
+            "star": 298,
+            "description": "一款入门级的人脸、视频、文字检测以及识别的项目."
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 1717,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "baby-names-analysis",
+            "url": "https://github.com/PhantomInsights/baby-names-analysis",
+            "star": 49,
+            "description": "Data ETL & Analysis on the dataset 'Baby Names from Social Security Card Applications - National Data'."
+        },
+        {
+            "name": "video-object-removal",
+            "url": "https://github.com/zllrunning/video-object-removal",
+            "star": 80,
+            "description": "Just draw a bounding box and you can remove the object you want to remove."
+        },
+        {
+            "name": "Learning-to-See-in-the-Dark",
+            "url": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+            "star": 20,
+            "description": "Learning to See in the Dark. CVPR 2018"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 66,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "TBomb",
+            "url": "https://github.com/TheSpeedX/TBomb",
+            "star": 3,
+            "description": "This is a SMS And Call Bomber For Linux And Termux"
+        },
+        {
+            "name": "TecoGAN",
+            "url": "https://github.com/thunil/TecoGAN",
+            "star": 11,
+            "description": "This repo will contain source code and materials for the TecoGAN project, i.e. code for a TEmporally COherent GAN"
+        },
+        {
+            "name": "ipython",
+            "url": "https://github.com/ipython/ipython",
+            "star": 5,
+            "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
+        }
+    ],
+    "java": [
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 178,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 105,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "MinecraftForge",
+            "url": "https://github.com/MinecraftForge/MinecraftForge",
+            "star": 6,
+            "description": "Modifications to the Minecraft base files to assist in compatibility between mods."
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 1,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "Arduino",
+            "url": "https://github.com/arduino/Arduino",
+            "star": 6,
+            "description": "open-source electronics prototyping platform"
+        },
+        {
+            "name": "AndroidTutorialForBeginners",
+            "url": "https://github.com/hussien89aa/AndroidTutorialForBeginners",
+            "star": 6,
+            "description": "Step by step to build Android apps using Android Studio"
+        },
+        {
+            "name": "micronaut-predator",
+            "url": "https://github.com/micronaut-projects/micronaut-predator",
+            "star": 23,
+            "description": "Ahead of Time Data Repositories"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 33,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "android",
+            "url": "https://github.com/cSploit/android",
+            "star": 5,
+            "description": "cSploit - The most complete and advanced IT security professional toolkit on Android."
+        },
+        {
+            "name": "neo4j-apoc-procedures",
+            "url": "https://github.com/neo4j-contrib/neo4j-apoc-procedures",
+            "star": 4,
+            "description": "Awesome Procedures On Cypher for Neo4j 3.x - codenamed \"apoc\"                     If you like it, please ★ above ⇧"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "fuzz.txt",
+            "url": "https://github.com/Bo0oM/fuzz.txt",
+            "star": 40,
+            "description": "Potentially dangerous files"
+        },
+        {
+            "name": "regular-investing-in-box",
+            "url": "https://github.com/xiaolai/regular-investing-in-box",
+            "star": 314,
+            "description": "定投改变命运 —— 让时间陪你慢慢变富"
+        },
+        {
+            "name": "google-cloud-4-words",
+            "url": "https://github.com/gregsramblings/google-cloud-4-words",
+            "star": 70,
+            "description": "The Google Cloud Developer's Cheat Sheet"
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 643,
+            "description": "Curated list of resources for college students"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 49,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 222,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "The-Flask-Mega-Tutorial-zh",
+            "url": "https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh",
+            "star": 41,
+            "description": "翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 43,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "first-contributions",
+            "url": "https://github.com/firstcontributions/first-contributions",
+            "star": 7,
+            "description": "🚀✨Help beginners to contribute to open source projects"
+        },
+        {
+            "name": "OnJava8",
+            "url": "https://github.com/LingCoder/OnJava8",
+            "star": 45,
+            "description": "《On Java 8》中文版，又名《Java编程思想》 第5版"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "org-web",
+            "url": "https://github.com/DanielDe/org-web",
+            "star": 71,
+            "description": "org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive"
+        },
+        {
+            "name": "clean-code-javascript",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+            "star": 127,
+            "description": "🛁Clean Code concepts adapted for JavaScript"
+        },
+        {
+            "name": "brave-browser",
+            "url": "https://github.com/brave/brave-browser",
+            "star": 14,
+            "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 25,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "conference-app-in-a-box",
+            "url": "https://github.com/dabit3/conference-app-in-a-box",
+            "star": 21,
+            "description": "Full stack & cross platform app customizable & themeable for any event or conference."
+        },
+        {
+            "name": "searchbook",
+            "url": "https://github.com/sowdust/searchbook",
+            "star": 6,
+            "description": "A Firefox extension for executing some Graph-like searches against Facebook."
+        },
+        {
+            "name": "cgm-remote-monitor",
+            "url": "https://github.com/nightscout/cgm-remote-monitor",
+            "star": 6,
+            "description": "nightscout web monitor"
+        },
+        {
+            "name": "ace",
+            "url": "https://github.com/ajaxorg/ace",
+            "star": 16,
+            "description": "Ace (Ajax.org Cloud9 Editor)"
+        },
+        {
+            "name": "blockly",
+            "url": "https://github.com/google/blockly",
+            "star": 22,
+            "description": "The web-based visual programming editor."
+        },
+        {
+            "name": "fithero",
+            "url": "https://github.com/ferrannp/fithero",
+            "star": 13,
+            "description": "Track your gym progress with FitHero. Built with React Native."
+        }
+    ],
+    "html": [
+        {
+            "name": "go101",
+            "url": "https://github.com/go101/go101",
+            "star": 5,
+            "description": "An online book focusing on Go syntax/semantics."
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 3,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 3,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 2,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 38,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 2,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "pcc_2e",
+            "url": "https://github.com/ehmatthes/pcc_2e",
+            "star": 4,
+            "description": "Online resources for Python Crash Course (Second Edition), from No Starch Press"
+        },
+        {
+            "name": "electron-api-demos",
+            "url": "https://github.com/electron/electron-api-demos",
+            "star": 2,
+            "description": "Explore the Electron APIs"
+        },
+        {
+            "name": "ctf-wiki",
+            "url": "https://github.com/ctf-wiki/ctf-wiki",
+            "star": 1,
+            "description": "CTF Wiki Online. Come and join us, we need you!"
+        },
+        {
+            "name": "ru.javascript.info",
+            "url": "https://github.com/javascript-tutorial/ru.javascript.info",
+            "star": 4,
+            "description": "Современный учебник JavaScript"
+        }
+    ],
+    "go": [
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 39,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "cosmos-sdk",
+            "url": "https://github.com/cosmos/cosmos-sdk",
+            "star": 8,
+            "description": "⛓Blockchain Application Framework✨"
+        },
+        {
+            "name": "tinygo",
+            "url": "https://github.com/tinygo-org/tinygo",
+            "star": 50,
+            "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM."
+        },
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 17,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "tableflip",
+            "url": "https://github.com/cloudflare/tableflip",
+            "star": 48,
+            "description": "Graceful process restarts in Go"
+        },
+        {
+            "name": "rpcx",
+            "url": "https://github.com/smallnest/rpcx",
+            "star": 11,
+            "description": "Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it!"
+        },
+        {
+            "name": "community",
+            "url": "https://github.com/kubernetes/community",
+            "star": 13,
+            "description": "Kubernetes community content"
+        },
+        {
+            "name": "brook",
+            "url": "https://github.com/txthinking/brook",
+            "star": 9,
+            "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software"
+        },
+        {
+            "name": "goim",
+            "url": "https://github.com/Terry-Mao/goim",
+            "star": 15,
+            "description": "goim"
+        },
+        {
+            "name": "docker-registry-pruner",
+            "url": "https://github.com/tumblr/docker-registry-pruner",
+            "star": 7,
+            "description": "Tool to apply retention logic to docker images in a Docker Registry"
+        }
+    ]
+}

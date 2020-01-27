@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-05",
+    "month": 3,
+    "day": 5,
+    "python": [
+        {
+            "name": "wesng",
+            "url": "https://github.com/bitsadmin/wesng",
+            "star": 366,
+            "description": "Windows Exploit Suggester - Next Generation"
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 296,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "zero",
+            "url": "https://github.com/remoteinterview/zero",
+            "star": 283,
+            "description": "Zero is a web server to simplify web development."
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 266,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "lazynlp",
+            "url": "https://github.com/chiphuyen/lazynlp",
+            "star": 162,
+            "description": "Library to scrape and clean web pages to create massive datasets."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 128,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 121,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "maskscoring_rcnn",
+            "url": "https://github.com/zjhuang22/maskscoring_rcnn",
+            "star": 102,
+            "description": "Codes for paper \"Mask Scoring R-CNN\"."
+        },
+        {
+            "name": "subsync",
+            "url": "https://github.com/smacke/subsync",
+            "star": 100,
+            "description": "Automagically synchronize subtitles with video."
+        },
+        {
+            "name": "neural-mmo",
+            "url": "https://github.com/openai/neural-mmo",
+            "star": 85,
+            "description": "Neural MMO - A Massively Multiagent Game Environment"
+        }
+    ],
+    "java": [
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 226,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 192,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 113,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "bubble-navigation",
+            "url": "https://github.com/gauravk95/bubble-navigation",
+            "star": 110,
+            "description": "🎉[Android Library] A light-weight library to easily make beautiful Navigation Bar with ton of🎨customization option."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 102,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "AndroidProject",
+            "url": "https://github.com/getActivity/AndroidProject",
+            "star": 81,
+            "description": "An advanced template project"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 64,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 62,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 48,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "JGrowing",
+            "url": "https://github.com/javagrowing/JGrowing",
+            "star": 49,
+            "description": "Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 702,
+            "description": "Gitbook"
+        },
+        {
+            "name": "queueing_theory",
+            "url": "https://github.com/joelparkerhenderson/queueing_theory",
+            "star": 257,
+            "description": "Queueing theory: an introduction for software development"
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 238,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "distsys-class",
+            "url": "https://github.com/aphyr/distsys-class",
+            "star": 220,
+            "description": "Class materials for a distributed systems lecture series"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 163,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 144,
+            "description": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "golang-anything-recommend",
+            "url": "https://github.com/chunlintang/golang-anything-recommend",
+            "star": 136,
+            "description": "🔥让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章."
+        },
+        {
+            "name": "python_interview_question",
+            "url": "https://github.com/kenwoodjw/python_interview_question",
+            "star": 122,
+            "description": "关于python的面试题"
+        },
+        {
+            "name": "bootstrapping-calculator",
+            "url": "https://github.com/dvassallo/bootstrapping-calculator",
+            "star": 109,
+            "description": "Do you have enough savings to fund your business?"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 70,
+            "description": "后端架构师技术图谱"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "star": 395,
+            "description": "⭐️Companies that don't have a broken hiring process"
+        },
+        {
+            "name": "gpu.js",
+            "url": "https://github.com/gpujs/gpu.js",
+            "star": 226,
+            "description": "GPU Accelerated JavaScript"
+        },
+        {
+            "name": "vue-dev-server",
+            "url": "https://github.com/vuejs/vue-dev-server",
+            "star": 174,
+            "description": "A POC dev server that allows you to import `*.vue` files via native ES modules imports."
+        },
+        {
+            "name": "react-three-fiber",
+            "url": "https://github.com/drcmda/react-three-fiber",
+            "star": 150,
+            "description": "👌React renderer for THREE.js"
+        },
+        {
+            "name": "simple-streaming-datasource",
+            "url": "https://github.com/seanlaff/simple-streaming-datasource",
+            "star": 146,
+            "description": "End-to-end Grafana streaming datasource example"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 132,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 124,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "chameleon",
+            "url": "https://github.com/didi/chameleon",
+            "star": 122,
+            "description": "🦎一套代码运行多端，一端所见即多端所见"
+        },
+        {
+            "name": "taro",
+            "url": "https://github.com/NervJS/taro",
+            "star": 103,
+            "description": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。 https://taro.js.org/"
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 93,
+            "description": "Set up a modern web app by running one command."
+        }
+    ],
+    "html": [
+        {
+            "name": "automatic-app-landing-page",
+            "url": "https://github.com/emilbaehr/automatic-app-landing-page",
+            "star": 314,
+            "description": "A Jekyll theme for automatically generating and deploying landing page sites for mobile apps."
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 57,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 66,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "stisla",
+            "url": "https://github.com/stisla/stisla",
+            "star": 40,
+            "description": "Free Bootstrap Admin Template"
+        },
+        {
+            "name": "javascript-tutorial-zh",
+            "url": "https://github.com/xitu/javascript-tutorial-zh",
+            "star": 24,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 18,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 19,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 18,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "climanifeste",
+            "url": "https://github.com/climanifeste/climanifeste",
+            "star": 14,
+            "description": "Manifeste écologique des professionnels de l'informatique"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        }
+    ],
+    "go": [
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 328,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "tile38",
+            "url": "https://github.com/tidwall/tile38",
+            "star": 149,
+            "description": "Tile38 is a geospatial database, spatial index, and realtime geofence.🌐"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 139,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "kube-eagle",
+            "url": "https://github.com/google-cloud-tools/kube-eagle",
+            "star": 88,
+            "description": "A prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster."
+        },
+        {
+            "name": "PPGo_Job",
+            "url": "https://github.com/george518/PPGo_Job",
+            "star": 82,
+            "description": "PPGo_Job是一款可视化的、多人多权限的定时任务管理系统，采用golang开发，安装方便，资源消耗少，支持大并发，可同时管理多台服务器上的定时任务。"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 63,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 64,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 61,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "ebiten",
+            "url": "https://github.com/hajimehoshi/ebiten",
+            "star": 60,
+            "description": "A dead simple 2D game library in Go"
+        },
+        {
+            "name": "1m-go-tcp-server",
+            "url": "https://github.com/smallnest/1m-go-tcp-server",
+            "star": 53,
+            "description": "benchmarks for implementation of servers which support 1 million connections"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-19",
+    "month": 9,
+    "day": 19,
+    "python": [
+        {
+            "name": "d2l-zh",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "star": 371,
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。"
+        },
+        {
+            "name": "pytorch-transformers",
+            "url": "https://github.com/huggingface/pytorch-transformers",
+            "star": 158,
+            "description": "👾A library of state-of-the-art pretrained models for Natural Language Processing (NLP)"
+        },
+        {
+            "name": "30-seconds-of-python",
+            "url": "https://github.com/30-seconds/30-seconds-of-python",
+            "star": 258,
+            "description": "A curated collection of useful Python snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 187,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/public-apis/public-apis",
+            "star": 251,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "big-list-of-naughty-strings",
+            "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+            "star": 23,
+            "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data."
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 24,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "SpeedTorch",
+            "url": "https://github.com/Santosh-Gupta/SpeedTorch",
+            "star": 47,
+            "description": "Library for fastest pinned CPU <-> GPU transfer"
+        },
+        {
+            "name": "mne-python",
+            "url": "https://github.com/mne-tools/mne-python",
+            "star": 4,
+            "description": "MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python"
+        },
+        {
+            "name": "Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
+            "url": "https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
+            "star": 108,
+            "description": "PyTorch implementations of deep reinforcement learning algorithms and environments"
+        }
+    ],
+    "java": [
+        {
+            "name": "incubator-dolphinscheduler",
+            "url": "https://github.com/apache/incubator-dolphinscheduler",
+            "star": 105,
+            "description": "Apache DolphinScheduler"
+        },
+        {
+            "name": "views-widgets",
+            "url": "https://github.com/android/views-widgets",
+            "star": 49,
+            "description": "Multiple samples showing the best practices in views-widgets on Android."
+        },
+        {
+            "name": "TubeMQ",
+            "url": "https://github.com/Tencent/TubeMQ",
+            "star": 324,
+            "description": "TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 217,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 123,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 282,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 55,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 66,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 84,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "mybatis-3",
+            "url": "https://github.com/mybatis/mybatis-3",
+            "star": 16,
+            "description": "MyBatis SQL mapper framework for Java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-shodan-queries",
+            "url": "https://github.com/jakejarvis/awesome-shodan-queries",
+            "star": 87,
+            "description": "🔍A collection of interesting, funny, and depressing search queries to plug into https://shodan.io/👩‍💻"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/googlehosts/hosts",
+            "star": 44,
+            "description": "镜像：https://coding.net/u/scaffrey/p/hosts/git"
+        },
+        {
+            "name": "ECMAScript-new-features-list",
+            "url": "https://github.com/daumann/ECMAScript-new-features-list",
+            "star": 160,
+            "description": "A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019"
+        },
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 103,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 103,
+            "description": ""
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 112,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 95,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "awesome-flask",
+            "url": "https://github.com/humiaozuzu/awesome-flask",
+            "star": 9,
+            "description": "A curated list of awesome Flask resources and plugins"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 41,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "Blog",
+            "url": "https://github.com/mqyqingfeng/Blog",
+            "star": 25,
+            "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 52,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "bustag",
+            "url": "https://github.com/gxtrobot/bustag",
+            "star": 150,
+            "description": "a tag and recommend system for old bus driver"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 56,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 75,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "taro",
+            "url": "https://github.com/NervJS/taro",
+            "star": 23,
+            "description": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com/"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 78,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 48,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "yapi",
+            "url": "https://github.com/YMFE/yapi",
+            "star": 26,
+            "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台"
+        },
+        {
+            "name": "react-rainbow",
+            "url": "https://github.com/nexxtway/react-rainbow",
+            "star": 69,
+            "description": "React Rainbow Components. Build your web application in a snap."
+        },
+        {
+            "name": "joi",
+            "url": "https://github.com/hapijs/joi",
+            "star": 14,
+            "description": "🏢The most powerful data validation library for JS"
+        }
+    ],
+    "html": [
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 24,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 10,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "glTF",
+            "url": "https://github.com/KhronosGroup/glTF",
+            "star": 4,
+            "description": "glTF – Runtime 3D Asset Delivery"
+        },
+        {
+            "name": "startbootstrap-resume",
+            "url": "https://github.com/BlackrockDigital/startbootstrap-resume",
+            "star": 4,
+            "description": "A Bootstrap 4 resume/CV theme created by Start Bootstrap"
+        },
+        {
+            "name": "foundation-emails",
+            "url": "https://github.com/foundation/foundation-emails",
+            "star": 1,
+            "description": "Quickly create responsive HTML emails that work on any device and client. Even Outlook."
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "technical-books",
+            "url": "https://github.com/doocs/technical-books",
+            "star": 14,
+            "description": "😆国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习..."
+        },
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 4,
+            "description": "The Ethereum Improvement Proposal repository"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 65,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "Django-CRM",
+            "url": "https://github.com/MicroPyramid/Django-CRM",
+            "star": 0,
+            "description": "Open Source Python CRM based on Django aimed to salesforce compatible for migrating to"
+        }
+    ],
+    "go": [
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 99,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "traefik",
+            "url": "https://github.com/containous/traefik",
+            "star": 92,
+            "description": "The Cloud Native Edge Router"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 108,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "istio",
+            "url": "https://github.com/istio/istio",
+            "star": 34,
+            "description": "Connect, secure, control, and observe services."
+        },
+        {
+            "name": "dgraph",
+            "url": "https://github.com/dgraph-io/dgraph",
+            "star": 19,
+            "description": "Fast, Distributed Graph DB"
+        },
+        {
+            "name": "sarama",
+            "url": "https://github.com/Shopify/sarama",
+            "star": 10,
+            "description": "Sarama is a Go library for Apache Kafka 0.8, and up."
+        },
+        {
+            "name": "mux",
+            "url": "https://github.com/gorilla/mux",
+            "star": 11,
+            "description": "A powerful HTTP router and URL matcher for building Go web servers with🦍"
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 14,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 22,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "redis",
+            "url": "https://github.com/go-redis/redis",
+            "star": 12,
+            "description": "Type-safe Redis client for Golang"
+        }
+    ]
+}

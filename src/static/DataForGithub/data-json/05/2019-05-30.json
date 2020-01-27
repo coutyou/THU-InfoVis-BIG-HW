@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-30",
+    "month": 5,
+    "day": 30,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 326,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 60,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 68,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "fatt",
+            "url": "https://github.com/0x4D31/fatt",
+            "star": 73,
+            "description": "fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic"
+        },
+        {
+            "name": "graphics",
+            "url": "https://github.com/tensorflow/graphics",
+            "star": 71,
+            "description": "TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow"
+        },
+        {
+            "name": "face_recognition",
+            "url": "https://github.com/ageitgey/face_recognition",
+            "star": 61,
+            "description": "The world's simplest facial recognition api for Python and the command line"
+        },
+        {
+            "name": "pugsql",
+            "url": "https://github.com/mcfunley/pugsql",
+            "star": 68,
+            "description": "A HugSQL-inspired database library for Python"
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 61,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "ring",
+            "url": "https://github.com/youknowone/ring",
+            "star": 61,
+            "description": "Python cache interface with clean API and built-in memcache & redis + asyncio support."
+        },
+        {
+            "name": "cpython",
+            "url": "https://github.com/python/cpython",
+            "star": 50,
+            "description": "The Python programming language"
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 271,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 171,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 144,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 115,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 85,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "APIJSON",
+            "url": "https://github.com/APIJSON/APIJSON",
+            "star": 81,
+            "description": "🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents."
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 67,
+            "description": "✍ Halo 可能是最好的 Java 博客系统"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 63,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 33,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 44,
+            "description": "Spring Framework"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 660,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 414,
+            "description": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "android-developer-roadmap",
+            "url": "https://github.com/anacoimbrag/android-developer-roadmap",
+            "star": 146,
+            "description": "Android Developer Roadmap 2019"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 78,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 79,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 55,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 74,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 78,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 68,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "ds-cheatsheets",
+            "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+            "star": 66,
+            "description": "List of Data Science Cheatsheets to rule the world"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "zdog",
+            "url": "https://github.com/metafizzy/zdog",
+            "star": 1825,
+            "description": "Flat, round, designer-friendly pseudo-3D engine"
+        },
+        {
+            "name": "imgsquash",
+            "url": "https://github.com/eashish93/imgsquash",
+            "star": 221,
+            "description": "Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice."
+        },
+        {
+            "name": "youtube-dl-interactive",
+            "url": "https://github.com/synox/youtube-dl-interactive",
+            "star": 202,
+            "description": "Interactively select the quality and format for youtube-dl"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 143,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "alita",
+            "url": "https://github.com/areslabs/alita",
+            "star": 142,
+            "description": "一套把React Native代码转换成微信小程序代码的转换引擎工具"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 120,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "xstyled",
+            "url": "https://github.com/smooth-code/xstyled",
+            "star": 120,
+            "description": "Consistent theme based CSS for styled-components💅"
+        },
+        {
+            "name": "gitfolio",
+            "url": "https://github.com/imfunniee/gitfolio",
+            "star": 109,
+            "description": "personal website + blog for every github user"
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 105,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 89,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 87,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "endoflife.date",
+            "url": "https://github.com/captn3m0/endoflife.date",
+            "star": 60,
+            "description": "Informative site with EoL dates of everything"
+        },
+        {
+            "name": "wysiwyg-editor",
+            "url": "https://github.com/froala/wysiwyg-editor",
+            "star": 35,
+            "description": "The next generation Javascript WYSIWYG HTML Editor."
+        },
+        {
+            "name": "nullboard",
+            "url": "https://github.com/apankrat/nullboard",
+            "star": 31,
+            "description": "Nullboard is a minimalist kanban board, focused on compactness and readability."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 28,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 16,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "scikit-learn-doc-zh",
+            "url": "https://github.com/apachecn/scikit-learn-doc-zh",
+            "star": 20,
+            "description": "📖[译] scikit-learn（sklearn） 中文文档"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 16,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "index",
+            "url": "https://github.com/openspug/index",
+            "star": 16,
+            "description": "企业内部导航页"
+        }
+    ],
+    "go": [
+        {
+            "name": "xuperunion",
+            "url": "https://github.com/xuperchain/xuperunion",
+            "star": 193,
+            "description": "A highly flexible blockchain architecture with great transaction performance."
+        },
+        {
+            "name": "dive-to-gosync-workshop",
+            "url": "https://github.com/smallnest/dive-to-gosync-workshop",
+            "star": 113,
+            "description": "深入Go并发编程研讨课"
+        },
+        {
+            "name": "devdash",
+            "url": "https://github.com/Phantas0s/devdash",
+            "star": 115,
+            "description": "🍱Highly Configurable Terminal Dashboard for Developers"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 71,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "unioffice",
+            "url": "https://github.com/unidoc/unioffice",
+            "star": 66,
+            "description": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 61,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "offlinenotepad",
+            "url": "https://github.com/schollz/offlinenotepad",
+            "star": 61,
+            "description": "An offline-first, secure, private notepad.📔✏️"
+        },
+        {
+            "name": "VictoriaMetrics",
+            "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+            "star": 59,
+            "description": "VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus"
+        },
+        {
+            "name": "annie",
+            "url": "https://github.com/iawia002/annie",
+            "star": 49,
+            "description": "👾Fast, simple and clean video downloader"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 46,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-02",
+    "month": 5,
+    "day": 2,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 552,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 124,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "botorch",
+            "url": "https://github.com/pytorch/botorch",
+            "star": 101,
+            "description": "Bayesian optimization in PyTorch"
+        },
+        {
+            "name": "primer",
+            "url": "https://github.com/Helpsypoo/primer",
+            "star": 98,
+            "description": "code that makes videos for this: youtube.com/c/primerlearning"
+        },
+        {
+            "name": "graph2vec",
+            "url": "https://github.com/benedekrozemberczki/graph2vec",
+            "star": 90,
+            "description": "A parallel implementation of \"graph2vec: Learning Distributed Representations of Graphs\" (MLGWorkshop 2017)."
+        },
+        {
+            "name": "Vulmap",
+            "url": "https://github.com/vulmon/Vulmap",
+            "star": 71,
+            "description": "Vulmap Online Local Vulnerability Scanners Project"
+        },
+        {
+            "name": "stackprinter",
+            "url": "https://github.com/cknd/stackprinter",
+            "star": 66,
+            "description": "Debugging-friendly tracebacks for Python"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 39,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 51,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "Python-100-Days",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "star": 45,
+            "description": "Python - 100天从新手到大师"
+        }
+    ],
+    "java": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 102,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 70,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "flogger",
+            "url": "https://github.com/google/flogger",
+            "star": 65,
+            "description": "A Fluent Logging API for Java"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 46,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 40,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 23,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 27,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 29,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 26,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "proxyee-down",
+            "url": "https://github.com/proxyee-down-org/proxyee-down",
+            "star": 24,
+            "description": "http下载工具，基于http代理，支持多连接分块下载"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 370,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "ui-libraries",
+            "url": "https://github.com/jefflombard/ui-libraries",
+            "star": 203,
+            "description": "A collection of UI Frameworks and their platform implementations."
+        },
+        {
+            "name": "commit-messages-guide",
+            "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+            "star": 114,
+            "description": "A guide to understand the importance of commit messages and how to write them well"
+        },
+        {
+            "name": "support.996.ICU",
+            "url": "https://github.com/MSWorkers/support.996.ICU",
+            "star": 98,
+            "description": "Microsoft and GitHub Workers Support 996.ICU"
+        },
+        {
+            "name": "awesome-developer-streams",
+            "url": "https://github.com/bnb/awesome-developer-streams",
+            "star": 83,
+            "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming"
+        },
+        {
+            "name": "golang-developer-roadmap-cn",
+            "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+            "star": 64,
+            "description": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 41,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 51,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "golang-developer-roadmap",
+            "url": "https://github.com/Alikhll/golang-developer-roadmap",
+            "star": 51,
+            "description": "Roadmap to becoming a Go developer in 2019"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 43,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 599,
+            "description": "leetcode题解，记录自己的leecode解题之路。"
+        },
+        {
+            "name": "pastel",
+            "url": "https://github.com/vadimdemedes/pastel",
+            "star": 256,
+            "description": "🎨Framework for effortlessly building Ink apps"
+        },
+        {
+            "name": "uppy",
+            "url": "https://github.com/transloadit/uppy",
+            "star": 157,
+            "description": "The next open source file uploader for web browsers🐶"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 136,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "SOUL",
+            "url": "https://github.com/soul-lang/SOUL",
+            "star": 132,
+            "description": "The SOUL programming language and API"
+        },
+        {
+            "name": "relay",
+            "url": "https://github.com/facebook/relay",
+            "star": 82,
+            "description": "Relay is a JavaScript framework for building data-driven React applications."
+        },
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 83,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "file-system-react",
+            "url": "https://github.com/imshubhamsingh/file-system-react",
+            "star": 79,
+            "description": "File System UI in Web using react"
+        },
+        {
+            "name": "shepherd",
+            "url": "https://github.com/shipshapecode/shepherd",
+            "star": 80,
+            "description": "Guide your users through a tour of your app"
+        },
+        {
+            "name": "react-useportal",
+            "url": "https://github.com/alex-cory/react-useportal",
+            "star": 79,
+            "description": "🌀React hook for Portals"
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 123,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "IsometricSass",
+            "url": "https://github.com/MorganCaron/IsometricSass",
+            "star": 97,
+            "description": "Sass library to make isometric 2D without javascript"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 23,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "Home-Assistant-Config",
+            "url": "https://github.com/JamesMcCarthy79/Home-Assistant-Config",
+            "star": 26,
+            "description": "Home Assistant Configuration & Documentation for my Smart House."
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 19,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 18,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "public-sans",
+            "url": "https://github.com/uswds/public-sans",
+            "star": 17,
+            "description": "A strong, neutral, principles-driven, open source typeface for text or display"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 16,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "Elf",
+            "url": "https://github.com/fguby/Elf",
+            "star": 15,
+            "description": "使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）"
+        }
+    ],
+    "go": [
+        {
+            "name": "gameboy.live",
+            "url": "https://github.com/HFO4/gameboy.live",
+            "star": 319,
+            "description": "🕹️A basic gameboy emulator with terminal \"Cloud Gaming\" support"
+        },
+        {
+            "name": "wails",
+            "url": "https://github.com/wailsapp/wails",
+            "star": 70,
+            "description": "Create desktop apps using Go and Web Technologies"
+        },
+        {
+            "name": "footloose",
+            "url": "https://github.com/weaveworks/footloose",
+            "star": 42,
+            "description": "Container Machines - Containers that look like Virtual Machines"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 39,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "termshark",
+            "url": "https://github.com/gcla/termshark",
+            "star": 41,
+            "description": "A terminal UI for tshark, inspired by Wireshark"
+        },
+        {
+            "name": "sshcode",
+            "url": "https://github.com/cdr/sshcode",
+            "star": 38,
+            "description": "Run VS Code on any server over SSH."
+        },
+        {
+            "name": "dexon",
+            "url": "https://github.com/dexon-foundation/dexon",
+            "star": 35,
+            "description": "Official golang DEXON fullnode implementation"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 28,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 31,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 28,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-06",
+    "month": 2,
+    "day": 6,
+    "python": [
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 813,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 637,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "inter",
+            "url": "https://github.com/rsms/inter",
+            "star": 659,
+            "description": "The Inter font family"
+        },
+        {
+            "name": "stylegan",
+            "url": "https://github.com/NVlabs/stylegan",
+            "star": 182,
+            "description": "StyleGAN - Official TensorFlow Implementation"
+        },
+        {
+            "name": "ffhq-dataset",
+            "url": "https://github.com/NVlabs/ffhq-dataset",
+            "star": 149,
+            "description": "Flickr-Faces-HQ Dataset (FFHQ)"
+        },
+        {
+            "name": "hanabi-learning-environment",
+            "url": "https://github.com/deepmind/hanabi-learning-environment",
+            "star": 113,
+            "description": ""
+        },
+        {
+            "name": "gita",
+            "url": "https://github.com/nosarthur/gita",
+            "star": 107,
+            "description": "Manage multiple git repos side by side for sanity"
+        },
+        {
+            "name": "QuickDraw",
+            "url": "https://github.com/vietnguyen91/QuickDraw",
+            "star": 100,
+            "description": "Implementation of Quickdraw - an online game developed by Google"
+        },
+        {
+            "name": "XLM",
+            "url": "https://github.com/facebookresearch/XLM",
+            "star": 79,
+            "description": "PyTorch original implementation of Cross-lingual Language Model Pretraining."
+        },
+        {
+            "name": "apprise",
+            "url": "https://github.com/caronc/apprise",
+            "star": 76,
+            "description": "Apprise - Push Notifications that work with just about every platform!"
+        }
+    ],
+    "java": [
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 21,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "SmartYouTubeTV",
+            "url": "https://github.com/yuliskov/SmartYouTubeTV",
+            "star": 33,
+            "description": "Watch YouTube videos on your TV and set-top-box with comfort"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 25,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 26,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "Magisk",
+            "url": "https://github.com/topjohnwu/Magisk",
+            "star": 26,
+            "description": "A Magic Mask to Alter Android System Systemless-ly"
+        },
+        {
+            "name": "symphony",
+            "url": "https://github.com/b3log/symphony",
+            "star": 24,
+            "description": "🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 21,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 17,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "byte-buddy",
+            "url": "https://github.com/raphw/byte-buddy",
+            "star": 20,
+            "description": "Runtime code generation for the Java virtual machine."
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 18,
+            "description": "All Algorithms implemented in Java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "clean-code-typescript",
+            "url": "https://github.com/labs42io/clean-code-typescript",
+            "star": 333,
+            "description": "Clean Code concepts adapted for TypeScript"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 282,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "awesome-podcasts",
+            "url": "https://github.com/rShetty/awesome-podcasts",
+            "star": 159,
+            "description": "Collection of awesome podcasts"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 128,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 106,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 68,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "web-typography-glossary",
+            "url": "https://github.com/fontplus/web-typography-glossary",
+            "star": 62,
+            "description": "Webタイポグラフィの基礎知識と実践"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 54,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "first-contributions",
+            "url": "https://github.com/firstcontributions/first-contributions",
+            "star": 37,
+            "description": "🚀✨Help beginners to contribute to open source projects"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 35,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "flexsearch",
+            "url": "https://github.com/nextapps-de/flexsearch",
+            "star": 589,
+            "description": "Next-Generation full text search library for Browser and Node.js"
+        },
+        {
+            "name": "learn-react-app",
+            "url": "https://github.com/tyroprogrammer/learn-react-app",
+            "star": 185,
+            "description": "Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 107,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "stylelint",
+            "url": "https://github.com/stylelint/stylelint",
+            "star": 106,
+            "description": "A mighty, modern style linter"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 91,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/leonardomso/33-js-concepts",
+            "star": 87,
+            "description": "📜33 concepts every JavaScript developer should know."
+        },
+        {
+            "name": "minisearch",
+            "url": "https://github.com/lucaong/minisearch",
+            "star": 85,
+            "description": "Tiny but powerful fulltext search engine for browser and Node"
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 75,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 74,
+            "description": "A web-based JavaScript（canvas） spreadsheet"
+        },
+        {
+            "name": "axios",
+            "url": "https://github.com/axios/axios",
+            "star": 60,
+            "description": "Promise based HTTP client for the browser and node.js"
+        }
+    ],
+    "html": [
+        {
+            "name": "conferences",
+            "url": "https://github.com/CSS-Tricks/conferences",
+            "star": 16,
+            "description": "A public list of upcoming conferences https://conferences.css-tricks.com/"
+        },
+        {
+            "name": "hello-css",
+            "url": "https://github.com/Carpetsmoker/hello-css",
+            "star": 23,
+            "description": "A CSS template focused on readability"
+        },
+        {
+            "name": "spur-template",
+            "url": "https://github.com/HackerThemes/spur-template",
+            "star": 23,
+            "description": "A Bootstrap Admin Template"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 11,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 15,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "electron-api-demos",
+            "url": "https://github.com/electron/electron-api-demos",
+            "star": 14,
+            "description": "Explore the Electron APIs"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 13,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 11,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 9,
+            "description": "Modern JavaScript Tutorial"
+        }
+    ],
+    "go": [
+        {
+            "name": "gitin",
+            "url": "https://github.com/isacikgoz/gitin",
+            "star": 471,
+            "description": "commit/branch/workdir explorer for git"
+        },
+        {
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s",
+            "star": 153,
+            "description": "🐶Kubernetes CLI To Manage Your Clusters In Style!"
+        },
+        {
+            "name": "istio",
+            "url": "https://github.com/istio/istio",
+            "star": 120,
+            "description": "Connect, secure, control, and observe services."
+        },
+        {
+            "name": "gotop",
+            "url": "https://github.com/cjbassi/gotop",
+            "star": 84,
+            "description": "A terminal based graphical activity monitor inspired by gtop and vtop"
+        },
+        {
+            "name": "kube-capacity",
+            "url": "https://github.com/robscott/kube-capacity",
+            "star": 70,
+            "description": "A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster"
+        },
+        {
+            "name": "massivedl",
+            "url": "https://github.com/dimkouv/massivedl",
+            "star": 43,
+            "description": "Download a large list of files in parallel"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 37,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "aresdb",
+            "url": "https://github.com/uber/aresdb",
+            "star": 39,
+            "description": "A GPU-powered real-time analytics storage and query engine."
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 36,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "k3s",
+            "url": "https://github.com/ibuildthecloud/k3s",
+            "star": 34,
+            "description": "5 less then k8s. Lightweight Kubernetes."
+        }
+    ]
+}

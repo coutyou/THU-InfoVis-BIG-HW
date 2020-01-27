@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-14",
+    "month": 2,
+    "day": 14,
+    "python": [
+        {
+            "name": "ludwig",
+            "url": "https://github.com/uber/ludwig",
+            "star": 761,
+            "description": "Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code."
+        },
+        {
+            "name": "stylegan",
+            "url": "https://github.com/NVlabs/stylegan",
+            "star": 295,
+            "description": "StyleGAN - Official TensorFlow Implementation"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 275,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "clusterfuzz",
+            "url": "https://github.com/google/clusterfuzz",
+            "star": 208,
+            "description": "All your bug are belong to us."
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 151,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "dirty_sock",
+            "url": "https://github.com/initstring/dirty_sock",
+            "star": 137,
+            "description": "Ubuntu Linux privilege escalation exploit (CVE-2019-7304)"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 93,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 80,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 65,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "face_recognition",
+            "url": "https://github.com/ageitgey/face_recognition",
+            "star": 61,
+            "description": "The world's simplest facial recognition api for Python and the command line"
+        }
+    ],
+    "java": [
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 595,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 266,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 200,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "jib",
+            "url": "https://github.com/GoogleContainerTools/jib",
+            "star": 159,
+            "description": "⛵️Build container images for your Java applications."
+        },
+        {
+            "name": "symphony",
+            "url": "https://github.com/b3log/symphony",
+            "star": 124,
+            "description": "🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 101,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "geektime-spring-family",
+            "url": "https://github.com/geektime-geekbang/geektime-spring-family",
+            "star": 79,
+            "description": "极客时间视频课程《玩转Spring全家桶》"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 80,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 46,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 56,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "nginx-quick-reference",
+            "url": "https://github.com/trimstray/nginx-quick-reference",
+            "star": 512,
+            "description": "⚡️This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%."
+        },
+        {
+            "name": "How-To-Secure-A-Linux-Server",
+            "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+            "star": 303,
+            "description": "An evolving how-to guide for securing a Linux server."
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 267,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "nlp_chinese_corpus",
+            "url": "https://github.com/brightmart/nlp_chinese_corpus",
+            "star": 218,
+            "description": "大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 185,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "be-a-professional-programmer",
+            "url": "https://github.com/stanzhai/be-a-professional-programmer",
+            "star": 181,
+            "description": "成为专业程序员路上用到的各种优秀资料、神器及框架"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 121,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 75,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "IoTSecurity101",
+            "url": "https://github.com/V33RU/IoTSecurity101",
+            "star": 74,
+            "description": "From IoT Pentesting to IoT Security"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 48,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "git-history",
+            "url": "https://github.com/pomber/git-history",
+            "star": 656,
+            "description": "Quickly browse the history of any GitHub file"
+        },
+        {
+            "name": "not-paid",
+            "url": "https://github.com/kleampa/not-paid",
+            "star": 221,
+            "description": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away"
+        },
+        {
+            "name": "instant.page",
+            "url": "https://github.com/instantpage/instant.page",
+            "star": 201,
+            "description": "Make your site’s pages instant in 1 minute and improve your conversion rate by 1%"
+        },
+        {
+            "name": "windows95",
+            "url": "https://github.com/felixrieseberg/windows95",
+            "star": 159,
+            "description": "💩🚀Windows 95 in Electron. Runs on macOS, Linux, and Windows."
+        },
+        {
+            "name": "uppy",
+            "url": "https://github.com/transloadit/uppy",
+            "star": 160,
+            "description": "The next open source file uploader for web browsers🐶"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 116,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 119,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "chameleon",
+            "url": "https://github.com/didi/chameleon",
+            "star": 114,
+            "description": "🦎一套代码运行多端，一端所见即多端所见"
+        },
+        {
+            "name": "bootstrap",
+            "url": "https://github.com/twbs/bootstrap",
+            "star": 99,
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+        },
+        {
+            "name": "qoa",
+            "url": "https://github.com/klaussinani/qoa",
+            "star": 110,
+            "description": "💬Minimal interactive command-line prompts"
+        }
+    ],
+    "html": [
+        {
+            "name": "relaks-wordpress-example",
+            "url": "https://github.com/trambarhq/relaks-wordpress-example",
+            "star": 61,
+            "description": "Building a zero-latency WordPress front-end"
+        },
+        {
+            "name": "SecurityWorker",
+            "url": "https://github.com/qiaozi-tech/SecurityWorker",
+            "star": 46,
+            "description": "The best javascript code protection solution ever."
+        },
+        {
+            "name": "security-txt",
+            "url": "https://github.com/securitytxt/security-txt",
+            "star": 33,
+            "description": "A proposed standard that allows websites to define security policies."
+        },
+        {
+            "name": "convolve",
+            "url": "https://github.com/mikepound/convolve",
+            "star": 32,
+            "description": "Simple demonstration of separable convolutions"
+        },
+        {
+            "name": "WDScanner",
+            "url": "https://github.com/TideSec/WDScanner",
+            "star": 20,
+            "description": "WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署、密码定向破解、社工库查询等功能。"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 18,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "qiubaiying.github.io",
+            "url": "https://github.com/qiubaiying/qiubaiying.github.io",
+            "star": 8,
+            "description": "BY Blog ->"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 12,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 14,
+            "description": "Modern JavaScript Tutorial"
+        }
+    ],
+    "go": [
+        {
+            "name": "1m-go-websockets",
+            "url": "https://github.com/eranyanay/1m-go-websockets",
+            "star": 370,
+            "description": "handling 1M websockets connections in Go"
+        },
+        {
+            "name": "lorca",
+            "url": "https://github.com/zserge/lorca",
+            "star": 352,
+            "description": "Build cross-platform modern desktop apps in Go + HTML5"
+        },
+        {
+            "name": "csvq",
+            "url": "https://github.com/mithrandie/csvq",
+            "star": 165,
+            "description": "SQL-like query language for csv"
+        },
+        {
+            "name": "fathom",
+            "url": "https://github.com/usefathom/fathom",
+            "star": 83,
+            "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact."
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 76,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "chat",
+            "url": "https://github.com/tinode/chat",
+            "star": 79,
+            "description": "Instant messaging server; backend in Go; Android, web command line clients; chatbots"
+        },
+        {
+            "name": "up",
+            "url": "https://github.com/apex/up",
+            "star": 82,
+            "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 66,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 65,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "certificates",
+            "url": "https://github.com/smallstep/certificates",
+            "star": 68,
+            "description": "🛡️An online certificate authority and related tools for secure automated certificate management, so you can use TLS everywhere."
+        }
+    ]
+}

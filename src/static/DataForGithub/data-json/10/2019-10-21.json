@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-21",
+    "month": 10,
+    "day": 21,
+    "python": [
+        {
+            "name": "thefuck",
+            "url": "https://github.com/nvbn/thefuck",
+            "star": 78,
+            "description": "Magnificent app which corrects your previous console command."
+        },
+        {
+            "name": "data-science-ipython-notebooks",
+            "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+            "star": 40,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+        },
+        {
+            "name": "KnowledgeGraphData",
+            "url": "https://github.com/ownthink/KnowledgeGraphData",
+            "star": 211,
+            "description": "史上最大规模1.4亿中文知识图谱开源下载"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 27,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "zipline",
+            "url": "https://github.com/quantopian/zipline",
+            "star": 7,
+            "description": "Zipline, a Pythonic Algorithmic Trading Library"
+        },
+        {
+            "name": "gym",
+            "url": "https://github.com/openai/gym",
+            "star": 18,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+        },
+        {
+            "name": "mlcourse.ai",
+            "url": "https://github.com/Yorko/mlcourse.ai",
+            "star": 12,
+            "description": "Open Machine Learning Course"
+        },
+        {
+            "name": "code_snippets",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "star": 9,
+            "description": ""
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 53,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "tensortrade",
+            "url": "https://github.com/notadamking/tensortrade",
+            "star": 56,
+            "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents."
+        }
+    ],
+    "java": [
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 24,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 77,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "Algorithms",
+            "url": "https://github.com/williamfiset/Algorithms",
+            "star": 34,
+            "description": "A collection of algorithms and data structures"
+        },
+        {
+            "name": "guava",
+            "url": "https://github.com/google/guava",
+            "star": 25,
+            "description": "Google core libraries for Java"
+        },
+        {
+            "name": "angel",
+            "url": "https://github.com/Angel-ML/angel",
+            "star": 8,
+            "description": "A Flexible and Powerful Parameter Server for large-scale machine learning"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 24,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "algs4",
+            "url": "https://github.com/kevin-wayne/algs4",
+            "star": 13,
+            "description": "Algorithms, 4th edition textbook code and libraries"
+        },
+        {
+            "name": "data-structures",
+            "url": "https://github.com/williamfiset/data-structures",
+            "star": 10,
+            "description": "A collection of powerful data structures"
+        },
+        {
+            "name": "Interview-Questions",
+            "url": "https://github.com/rishabh115/Interview-Questions",
+            "star": 2,
+            "description": "Most comprehensive list📋of tech interview questions📘of companies scraped from Geeksforgeeks, CareerCup and Glassdoor."
+        },
+        {
+            "name": "FirebaseUI-Android",
+            "url": "https://github.com/firebase/FirebaseUI-Android",
+            "star": 2,
+            "description": "Optimized UI components for Firebase"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "reverse-interview-zh",
+            "url": "https://github.com/yifeikong/reverse-interview-zh",
+            "star": 315,
+            "description": "技术面试最后反问面试官的话"
+        },
+        {
+            "name": "awesome-libra",
+            "url": "https://github.com/reed-hong/awesome-libra",
+            "star": 70,
+            "description": "A Curated List of Awesome Facebook Libra Resources"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 59,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "xg2xg",
+            "url": "https://github.com/jhuangtw-dev/xg2xg",
+            "star": 88,
+            "description": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+        },
+        {
+            "name": "email-marketing-regulations",
+            "url": "https://github.com/threeheartsdigital/email-marketing-regulations",
+            "star": 13,
+            "description": "A repository of email marketing legislation around the World, compiled by EmailOctopus."
+        },
+        {
+            "name": "interpretability-literature",
+            "url": "https://github.com/amarasovic/interpretability-literature",
+            "star": 14,
+            "description": ""
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 19,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "android",
+            "url": "https://github.com/LineageOS/android",
+            "star": 0,
+            "description": ""
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/dapr/docs",
+            "star": 10,
+            "description": "User documentation for Dapr"
+        },
+        {
+            "name": "p1xt-guides",
+            "url": "https://github.com/P1xt/p1xt-guides",
+            "star": 5,
+            "description": "Programming curricula"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 11,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 109,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 27,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "switchblade",
+            "url": "https://github.com/SwitchbladeBot/switchblade",
+            "star": 3,
+            "description": "The open source Discord bot that solves all of your problems."
+        },
+        {
+            "name": "node",
+            "url": "https://github.com/nodejs/node",
+            "star": 39,
+            "description": "Node.js JavaScript runtime✨🐢🚀✨"
+        },
+        {
+            "name": "etcher",
+            "url": "https://github.com/balena-io/etcher",
+            "star": 12,
+            "description": "Flash OS images to SD cards & USB drives, safely and easily."
+        },
+        {
+            "name": "WebWorldWind",
+            "url": "https://github.com/NASAWorldWind/WebWorldWind",
+            "star": 6,
+            "description": "The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages."
+        },
+        {
+            "name": "strapi",
+            "url": "https://github.com/strapi/strapi",
+            "star": 80,
+            "description": "🚀Open source Node.js Headless CMS to easily build customisable APIs"
+        },
+        {
+            "name": "MagicMirror",
+            "url": "https://github.com/MichMich/MagicMirror",
+            "star": 14,
+            "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+        },
+        {
+            "name": "training",
+            "url": "https://github.com/cloud-annotations/training",
+            "star": 17,
+            "description": "🐝Custom Object Detection and Classification Training"
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 361,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "pcc_2e",
+            "url": "https://github.com/ehmatthes/pcc_2e",
+            "star": 0,
+            "description": "Online resources for Python Crash Course (Second Edition), from No Starch Press"
+        },
+        {
+            "name": "simple-icons",
+            "url": "https://github.com/simple-icons/simple-icons",
+            "star": 3,
+            "description": "SVG icons for popular brands"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 9,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "tsunamidemocratic.github.io",
+            "url": "https://github.com/tsunamidemocratic/tsunamidemocratic.github.io",
+            "star": 3,
+            "description": ""
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": 1,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "bn.javascript.info",
+            "url": "https://github.com/javascript-tutorial/bn.javascript.info",
+            "star": 2,
+            "description": "Modern JavaScript Tutorial in Bengali"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 0,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 3,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "stisla",
+            "url": "https://github.com/stisla/stisla",
+            "star": 2,
+            "description": "Free Bootstrap Admin Template"
+        }
+    ],
+    "go": [
+        {
+            "name": "dapr",
+            "url": "https://github.com/dapr/dapr",
+            "star": 349,
+            "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge."
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 12,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "Amass",
+            "url": "https://github.com/OWASP/Amass",
+            "star": 27,
+            "description": "In-depth Attack Surface Mapping and Asset Discovery"
+        },
+        {
+            "name": "lnd",
+            "url": "https://github.com/lightningnetwork/lnd",
+            "star": 5,
+            "description": "Lightning Network Daemon⚡️"
+        },
+        {
+            "name": "arduino-cli",
+            "url": "https://github.com/arduino/arduino-cli",
+            "star": 3,
+            "description": "Arduino command line interface"
+        },
+        {
+            "name": "hub",
+            "url": "https://github.com/github/hub",
+            "star": 12,
+            "description": "A command-line tool that makes git easier to use with GitHub."
+        },
+        {
+            "name": "inlets",
+            "url": "https://github.com/inlets/inlets",
+            "star": 24,
+            "description": "Expose your local endpoints to the Internet"
+        },
+        {
+            "name": "dirstalk",
+            "url": "https://github.com/stefanoj3/dirstalk",
+            "star": 7,
+            "description": "Modern alternative to dirbuster/dirb"
+        },
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 21,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 17,
+            "description": "A Commander for modern Go CLI interactions"
+        }
+    ]
+}

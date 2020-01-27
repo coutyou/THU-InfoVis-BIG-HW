@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-04",
+    "month": 4,
+    "day": 4,
+    "python": [
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 421,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "PyTorch-BigGraph",
+            "url": "https://github.com/facebookresearch/PyTorch-BigGraph",
+            "star": 357,
+            "description": "Software used for generating embeddings from large-scale graph-structured data."
+        },
+        {
+            "name": "docker-py",
+            "url": "https://github.com/docker/docker-py",
+            "star": 357,
+            "description": "A Python library for the Docker Engine API"
+        },
+        {
+            "name": "CDCS",
+            "url": "https://github.com/geekinglcq/CDCS",
+            "star": 300,
+            "description": "Chinese Data Competitions' Solutions"
+        },
+        {
+            "name": "mathematics_dataset",
+            "url": "https://github.com/deepmind/mathematics_dataset",
+            "star": 196,
+            "description": ""
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 115,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "adaptive",
+            "url": "https://github.com/python-adaptive/adaptive",
+            "star": 121,
+            "description": "📈Tools for adaptive and parallel samping of mathematical functions"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 77,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "Learn-Web-Hacking",
+            "url": "https://github.com/LyleMi/Learn-Web-Hacking",
+            "star": 91,
+            "description": "Study Notes For Web Hacking"
+        },
+        {
+            "name": "Python-crawler-tutorial-starts-from-zero",
+            "url": "https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero",
+            "star": 86,
+            "description": "python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架"
+        }
+    ],
+    "java": [
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 513,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 324,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 198,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "seata",
+            "url": "https://github.com/seata/seata",
+            "star": 172,
+            "description": "🔥Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 136,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 112,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 59,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 61,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 60,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 62,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 848,
+            "description": "955 不加班的公司名单"
+        },
+        {
+            "name": "pumpkin-book",
+            "url": "https://github.com/datawhalechina/pumpkin-book",
+            "star": 611,
+            "description": "《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book"
+        },
+        {
+            "name": "996ICU",
+            "url": "https://github.com/995icu/996ICU",
+            "star": 332,
+            "description": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 252,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 184,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "RE-iOS-Apps",
+            "url": "https://github.com/ivRodriguezCA/RE-iOS-Apps",
+            "star": 170,
+            "description": "A completely free, open source and online course about Reverse Engineering iOS Applications."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 134,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "everyone-can-use-english",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "star": 161,
+            "description": "人人都能用英语"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 149,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 133,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "AutoPiano",
+            "url": "https://github.com/WarpPrism/AutoPiano",
+            "star": 312,
+            "description": "自由钢琴 AutoPiano，喜欢可以star ( http://crystalworld.gitee.io/qpiano/#/ )"
+        },
+        {
+            "name": "react-loops",
+            "url": "https://github.com/leebyron/react-loops",
+            "star": 233,
+            "description": "React Loops works with React Hooks as part of the React Velcro Architecture"
+        },
+        {
+            "name": "You-Dont-Need-jQuery",
+            "url": "https://github.com/nefe/You-Dont-Need-jQuery",
+            "star": 228,
+            "description": "Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 203,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "pizzaql",
+            "url": "https://github.com/pizzaql/pizzaql",
+            "star": 180,
+            "description": "🍕[WIP] Modern OSS Order Management System for Pizza Restaurants"
+        },
+        {
+            "name": "react-three-fiber",
+            "url": "https://github.com/drcmda/react-three-fiber",
+            "star": 169,
+            "description": "👌A React-renderer for Three.js"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 118,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "formal",
+            "url": "https://github.com/kevinwolfcr/formal",
+            "star": 119,
+            "description": "👔Elegant form management primitives for the react hooks era."
+        },
+        {
+            "name": "winXP",
+            "url": "https://github.com/ShizukuIchi/winXP",
+            "star": 107,
+            "description": "🏁Web based Windows XP desktop recreation."
+        },
+        {
+            "name": "perflink",
+            "url": "https://github.com/lukejacksonn/perflink",
+            "star": 107,
+            "description": "Low friction JavaScript benchmarks that you can share via URL"
+        }
+    ],
+    "html": [
+        {
+            "name": "Unifiedtransform",
+            "url": "https://github.com/changeweb/Unifiedtransform",
+            "star": 201,
+            "description": "A school management Software"
+        },
+        {
+            "name": "zjcqoo.github.io",
+            "url": "https://github.com/zjcqoo/zjcqoo.github.io",
+            "star": 41,
+            "description": "test"
+        },
+        {
+            "name": "frontendDaily",
+            "url": "https://github.com/kujian/frontendDaily",
+            "star": 41,
+            "description": "前端开发技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch"
+        },
+        {
+            "name": "patchwork",
+            "url": "https://github.com/jlord/patchwork",
+            "star": null,
+            "description": "All the Git-it Workshop completers!"
+        },
+        {
+            "name": "evtjs",
+            "url": "https://github.com/everitoken/evtjs",
+            "star": 26,
+            "description": "API Binding (SDK) for the everiToken blockchain."
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 19,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 22,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 21,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 21,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 11,
+            "description": "30 Day Vanilla JS Challenge"
+        }
+    ],
+    "go": [
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 232,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "goweight",
+            "url": "https://github.com/jondot/goweight",
+            "star": 125,
+            "description": "A tool to analyze and troubleshoot a Go binary size."
+        },
+        {
+            "name": "vugu",
+            "url": "https://github.com/vugu/vugu",
+            "star": 120,
+            "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 61,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 65,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "GoMet",
+            "url": "https://github.com/mimah/GoMet",
+            "star": 58,
+            "description": "Multi-platform agent written in Golang. TCP forwarding, socks5, tunneling, pivoting, shell, download, exec"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 52,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 53,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 52,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 48,
+            "description": "百度网盘客户端 - Go语言编写"
+        }
+    ]
+}

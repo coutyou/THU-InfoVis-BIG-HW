@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-03",
+    "month": 4,
+    "day": 3,
+    "python": [
+        {
+            "name": "CDCS",
+            "url": "https://github.com/geekinglcq/CDCS",
+            "star": 433,
+            "description": "Chinese Data Competitions' Solutions"
+        },
+        {
+            "name": "PyTorch-BigGraph",
+            "url": "https://github.com/facebookresearch/PyTorch-BigGraph",
+            "star": 230,
+            "description": "Software used for generating embeddings from large-scale graph-structured data."
+        },
+        {
+            "name": "Python-crawler-tutorial-starts-from-zero",
+            "url": "https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero",
+            "star": 188,
+            "description": "python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架"
+        },
+        {
+            "name": "fireprox",
+            "url": "https://github.com/ustayready/fireprox",
+            "star": 174,
+            "description": "AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation"
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 114,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 116,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 75,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 85,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "pytorch-lightning",
+            "url": "https://github.com/williamFalcon/pytorch-lightning",
+            "star": 87,
+            "description": "Rapid research framework for Pytorch. The researcher's version of keras"
+        },
+        {
+            "name": "dabl",
+            "url": "https://github.com/amueller/dabl",
+            "star": 80,
+            "description": "Data Analysis Baseline Library"
+        }
+    ],
+    "java": [
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 968,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 290,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 240,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "AWS-Java-Samples",
+            "url": "https://github.com/wazcov/AWS-Java-Samples",
+            "star": 137,
+            "description": "A repository of basic AWS samples to get you started connecting to various AWS Services like SQS."
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 104,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 66,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 50,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 65,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 64,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "APIJSON",
+            "url": "https://github.com/TommyLemon/APIJSON",
+            "star": 57,
+            "description": "🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 988,
+            "description": "955 不加班的公司名单"
+        },
+        {
+            "name": "Awesome-Interview",
+            "url": "https://github.com/Awesome-Interview/Awesome-Interview",
+            "star": 299,
+            "description": "Collection of awesome interview references."
+        },
+        {
+            "name": "notes",
+            "url": "https://github.com/8483/notes",
+            "star": 297,
+            "description": "Full-stack web development notes."
+        },
+        {
+            "name": "996ICU",
+            "url": "https://github.com/995icu/996ICU",
+            "star": 269,
+            "description": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 239,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "RE-iOS-Apps",
+            "url": "https://github.com/ivRodriguezCA/RE-iOS-Apps",
+            "star": 239,
+            "description": "A completely free, open source and online course about Reverse Engineering iOS Applications."
+        },
+        {
+            "name": "everyone-can-use-english",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "star": 229,
+            "description": "人人都能用英语"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 203,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 179,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 129,
+            "description": "Cheat Sheets"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "react-loops",
+            "url": "https://github.com/leebyron/react-loops",
+            "star": 404,
+            "description": "React Loops works with React Hooks as part of the React Velcro Architecture"
+        },
+        {
+            "name": "You-Dont-Need-jQuery",
+            "url": "https://github.com/nefe/You-Dont-Need-jQuery",
+            "star": 392,
+            "description": "Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 228,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "zhui",
+            "url": "https://github.com/zhui-team/zhui",
+            "star": 228,
+            "description": "🚀A Chinese style component library of react https://zhui-team.github.io/zhui/"
+        },
+        {
+            "name": "AutoPiano",
+            "url": "https://github.com/WarpPrism/AutoPiano",
+            "star": 216,
+            "description": "自由钢琴 AutoPiano，喜欢可以star"
+        },
+        {
+            "name": "perflink",
+            "url": "https://github.com/lukejacksonn/perflink",
+            "star": 211,
+            "description": "Low friction JavaScript benchmarks that you can share via URL"
+        },
+        {
+            "name": "winXP",
+            "url": "https://github.com/ShizukuIchi/winXP",
+            "star": 173,
+            "description": "🏁Web based Windows XP desktop recreation."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 139,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 134,
+            "description": "A web-based JavaScript（canvas） spreadsheet"
+        },
+        {
+            "name": "cube.js",
+            "url": "https://github.com/statsbotco/cube.js",
+            "star": 110,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        }
+    ],
+    "html": [
+        {
+            "name": "Unifiedtransform",
+            "url": "https://github.com/changeweb/Unifiedtransform",
+            "star": 165,
+            "description": "A school management Software"
+        },
+        {
+            "name": "Pseudo-original",
+            "url": "https://github.com/bunian/Pseudo-original",
+            "star": 32,
+            "description": "ai Pseudo original,文章伪原创"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 24,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 29,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 28,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 24,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 22,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "patchwork",
+            "url": "https://github.com/jlord/patchwork",
+            "star": null,
+            "description": "All the Git-it Workshop completers!"
+        },
+        {
+            "name": "DetectionLab",
+            "url": "https://github.com/clong/DetectionLab",
+            "star": 19,
+            "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices"
+        }
+    ],
+    "go": [
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 404,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "goweight",
+            "url": "https://github.com/jondot/goweight",
+            "star": 147,
+            "description": "A tool to analyze and troubleshoot a Go binary size."
+        },
+        {
+            "name": "vugu",
+            "url": "https://github.com/vugu/vugu",
+            "star": 94,
+            "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 71,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 75,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit",
+            "star": 75,
+            "description": "simple terminal UI for git commands"
+        },
+        {
+            "name": "go-echarts",
+            "url": "https://github.com/chenjiandongx/go-echarts",
+            "star": 72,
+            "description": "🎨The adorable charts library for Golang"
+        },
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 69,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "GoMet",
+            "url": "https://github.com/mimah/GoMet",
+            "star": 66,
+            "description": "Multi-platform implant written in Golang. TCP forwarding, socks5, tunneling, pivoting, shell, download, exec"
+        },
+        {
+            "name": "awesome-golang-leetcode",
+            "url": "https://github.com/kylesliu/awesome-golang-leetcode",
+            "star": 62,
+            "description": "📝LeetCode of algorithms with golang solution(updating)."
+        }
+    ]
+}

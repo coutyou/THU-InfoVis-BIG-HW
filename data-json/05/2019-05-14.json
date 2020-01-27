@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-14",
+    "month": 5,
+    "day": 14,
+    "python": [
+        {
+            "name": "machine-learning-course",
+            "url": "https://github.com/machinelearningmindset/machine-learning-course",
+            "star": 902,
+            "description": "💬Machine Learning Course with Python"
+        },
+        {
+            "name": "pysot",
+            "url": "https://github.com/STVIR/pysot",
+            "star": 460,
+            "description": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask."
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 376,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "client",
+            "url": "https://github.com/wandb/client",
+            "star": 195,
+            "description": "The official cli and python API client for W&B"
+        },
+        {
+            "name": "mobilenetv3",
+            "url": "https://github.com/xiaolai-sqlai/mobilenetv3",
+            "star": 167,
+            "description": "mobilenetv3 with pytorch，provide pre-train model"
+        },
+        {
+            "name": "graphics",
+            "url": "https://github.com/tensorflow/graphics",
+            "star": 136,
+            "description": "TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow"
+        },
+        {
+            "name": "Awesome-PyTorch-Chinese",
+            "url": "https://github.com/INTERMT/Awesome-PyTorch-Chinese",
+            "star": 120,
+            "description": "【干货】史上最全的PyTorch学习资源汇总"
+        },
+        {
+            "name": "stumpy",
+            "url": "https://github.com/TDAmeritrade/stumpy",
+            "star": 104,
+            "description": "STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks"
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 91,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "cloudmarker",
+            "url": "https://github.com/cloudmarker/cloudmarker",
+            "star": 92,
+            "description": "Cloud monitoring tool and framework"
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 489,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 224,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "Linkage-RecyclerView",
+            "url": "https://github.com/KunMinX/Linkage-RecyclerView",
+            "star": 209,
+            "description": "即使不用饿了么订餐，也请务必收藏好该库！🔥一行代码即可接入，二级联动订餐列表 - Even if you don't order by Eleme, please be sure to collect the library!🔥This secondary linkage list widget can be accessed by minimum one line of code. Supporting by RecyclerView & AndroidX."
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 176,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 112,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 92,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 100,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 48,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，前端菜单支持动态路由"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 43,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "bee",
+            "url": "https://github.com/automvc/bee",
+            "star": 52,
+            "description": "Bee is an easy and high efficiency ORM framework.You don't need to write the Dao by yourself anymore. 有了简单、高效的ORM框架Bee,你可以不用再写dao代码。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "PowerToys",
+            "url": "https://github.com/microsoft/PowerToys",
+            "star": 262,
+            "description": "Windows system utilities to maximize productivity"
+        },
+        {
+            "name": "go-perfbook",
+            "url": "https://github.com/dgryski/go-perfbook",
+            "star": 153,
+            "description": "Thoughts on Go performance optimization"
+        },
+        {
+            "name": "awesome-decision-tree-papers",
+            "url": "https://github.com/benedekrozemberczki/awesome-decision-tree-papers",
+            "star": 119,
+            "description": "A collection of research papers on decision, classification and regression trees with implementations."
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 82,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 56,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "awesome-go-China",
+            "url": "https://github.com/hyper0x/awesome-go-China",
+            "star": 70,
+            "description": "A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 64,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome-product-design",
+            "url": "https://github.com/teoga/awesome-product-design",
+            "star": 69,
+            "description": "A collection of bookmarks, resources, articles for product designers."
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 62,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 65,
+            "description": "Roadmap to becoming a web developer in 2019"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "comlink",
+            "url": "https://github.com/GoogleChromeLabs/comlink",
+            "star": 356,
+            "description": "Comlink makes WebWorkers enjoyable."
+        },
+        {
+            "name": "fusuma",
+            "url": "https://github.com/hiroppy/fusuma",
+            "star": 343,
+            "description": "✍️Fusuma makes slides with Markdown easily."
+        },
+        {
+            "name": "react-tetris",
+            "url": "https://github.com/chvin/react-tetris",
+            "star": 226,
+            "description": "Use React, Redux, Immutable to code Tetris.🎮"
+        },
+        {
+            "name": "dinoql",
+            "url": "https://github.com/victorvoid/dinoql",
+            "star": 199,
+            "description": "A customizable GraphQL style query language for interacting with JavaScript objects."
+        },
+        {
+            "name": "training",
+            "url": "https://github.com/cloud-annotations/training",
+            "star": 130,
+            "description": "🐝Custom Object Detection and Classification Training"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 130,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "tesseract.js",
+            "url": "https://github.com/naptha/tesseract.js",
+            "star": 133,
+            "description": "Pure Javascript OCR for 62 Languages📖🎉🖥"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 109,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "afd-blocker-plugin",
+            "url": "https://github.com/dieparteidiepartei/afd-blocker-plugin",
+            "star": 103,
+            "description": "AfD Blocker Browser Plugin"
+        },
+        {
+            "name": "cash",
+            "url": "https://github.com/kenwheeler/cash",
+            "star": 102,
+            "description": "An absurdly small jQuery alternative for modern browsers"
+        }
+    ],
+    "html": [
+        {
+            "name": "Python-100-Days",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "star": 812,
+            "description": "Python - 100天从新手到大师"
+        },
+        {
+            "name": "go101",
+            "url": "https://github.com/go101/go101",
+            "star": 151,
+            "description": "An online book focusing on Go syntax/semantics."
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 95,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 45,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "subspace",
+            "url": "https://github.com/subspacecloud/subspace",
+            "star": 46,
+            "description": "A simple WireGuard VPN server GUI"
+        },
+        {
+            "name": "uix-kit",
+            "url": "https://github.com/xizon/uix-kit",
+            "star": 43,
+            "description": "A free web kits for fast web design and development, compatible with Bootstrap v4."
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 30,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "gl",
+            "url": "https://github.com/sveltejs/gl",
+            "star": 27,
+            "description": "A (very experimental) project to bring WebGL to Svelte"
+        },
+        {
+            "name": "Blog",
+            "url": "https://github.com/YvetteLau/Blog",
+            "star": 20,
+            "description": "【前端进阶】优质博文"
+        },
+        {
+            "name": "golang101",
+            "url": "https://github.com/golang101/golang101",
+            "star": 24,
+            "description": "Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书"
+        }
+    ],
+    "go": [
+        {
+            "name": "gameboy.live",
+            "url": "https://github.com/HFO4/gameboy.live",
+            "star": 615,
+            "description": "🕹️A basic gameboy emulator with terminal \"Cloud Gaming\" support"
+        },
+        {
+            "name": "sqlflow",
+            "url": "https://github.com/sql-machine-learning/sqlflow",
+            "star": 193,
+            "description": "Brings SQL and AI together."
+        },
+        {
+            "name": "profilinggo",
+            "url": "https://github.com/samonzeweb/profilinggo",
+            "star": 93,
+            "description": "A quick tour (or reminder) of Go performance tools"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 56,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 48,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 44,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "dicom",
+            "url": "https://github.com/suyashkumar/dicom",
+            "star": 48,
+            "description": "⚡High Performance DICOM Medical Image Parser in Go."
+        },
+        {
+            "name": "komiser",
+            "url": "https://github.com/mlabouardy/komiser",
+            "star": 43,
+            "description": "☁️Cloud Environment Inspector👮🔒💰"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 43,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 41,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        }
+    ]
+}

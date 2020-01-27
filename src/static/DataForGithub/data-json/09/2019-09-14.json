@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-14",
+    "month": 9,
+    "day": 14,
+    "python": [
+        {
+            "name": "ctrl",
+            "url": "https://github.com/salesforce/ctrl",
+            "star": 96,
+            "description": "Conditional Transformer Language Model for Controllable Generation (https://einstein.ai/presentations/ctrl.pdf)"
+        },
+        {
+            "name": "30-seconds-of-python",
+            "url": "https://github.com/30-seconds/30-seconds-of-python",
+            "star": 23,
+            "description": "A curated collection of useful Python snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "elasticdl",
+            "url": "https://github.com/sql-machine-learning/elasticdl",
+            "star": 20,
+            "description": "Kubernetes-native Deep Learning Framework"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 21,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "DeepPrivacy",
+            "url": "https://github.com/hukkelas/DeepPrivacy",
+            "star": 13,
+            "description": "DeepPrivacy: A Generative Adversarial Network for Face Anonymization"
+        },
+        {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "star": 23,
+            "description": "💻A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!"
+        },
+        {
+            "name": "elasticsearch-dsl-py",
+            "url": "https://github.com/elastic/elasticsearch-dsl-py",
+            "star": 2,
+            "description": "High level Python client for Elasticsearch"
+        },
+        {
+            "name": "mypy",
+            "url": "https://github.com/python/mypy",
+            "star": 11,
+            "description": "Optional static typing for Python 3 and 2 (PEP 484)"
+        },
+        {
+            "name": "py12306",
+            "url": "https://github.com/pjialin/py12306",
+            "star": 106,
+            "description": "🚂12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理"
+        },
+        {
+            "name": "algo",
+            "url": "https://github.com/wangzheng0822/algo",
+            "star": 7,
+            "description": "数据结构和算法必知必会的50个代码实现"
+        }
+    ],
+    "java": [
+        {
+            "name": "NewPipe",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "star": 12,
+            "description": "A libre lightweight streaming front-end for Android."
+        },
+        {
+            "name": "bistoury",
+            "url": "https://github.com/qunarcorp/bistoury",
+            "star": 13,
+            "description": "Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案"
+        },
+        {
+            "name": "TubeMQ",
+            "url": "https://github.com/Tencent/TubeMQ",
+            "star": 12,
+            "description": "TubeMQ focuses on high-performance storage and transmission of massive data in large data scenarios"
+        },
+        {
+            "name": "dddsample-core",
+            "url": "https://github.com/citerus/dddsample-core",
+            "star": 8,
+            "description": "This is the new home of the original DDD Sample app (previously hosted at sf.net).."
+        },
+        {
+            "name": "nifi",
+            "url": "https://github.com/apache/nifi",
+            "star": 2,
+            "description": "Mirror of Apache NiFi"
+        },
+        {
+            "name": "spring-cloud-config",
+            "url": "https://github.com/spring-cloud/spring-cloud-config",
+            "star": 9,
+            "description": "External configuration (server and client) for Spring Cloud"
+        },
+        {
+            "name": "keycloak",
+            "url": "https://github.com/keycloak/keycloak",
+            "star": 4,
+            "description": "Open Source Identity and Access Management For Modern Applications and Services"
+        },
+        {
+            "name": "camunda-bpm-platform",
+            "url": "https://github.com/camunda/camunda-bpm-platform",
+            "star": 2,
+            "description": "Flexible framework for workflow and decision automation"
+        },
+        {
+            "name": "gitlab-plugin",
+            "url": "https://github.com/jenkinsci/gitlab-plugin",
+            "star": 0,
+            "description": "A Jenkins plugin for interfacing with GitLab"
+        },
+        {
+            "name": "SpringCloud",
+            "url": "https://github.com/zhoutaoo/SpringCloud",
+            "star": 25,
+            "description": "基于SpringCloud2.0的微服务开发脚手架，整合了spring-security-oauth2、apollo、eureka、feign、hystrix、springcloud-gateway、springcloud-bus等。治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Hacking-Security-Ebooks",
+            "url": "https://github.com/yeahhub/Hacking-Security-Ebooks",
+            "star": 175,
+            "description": "Top 100 Hacking & Security E-Books (Free Download) - Powered by Yeahhub.com"
+        },
+        {
+            "name": "awesome-actions",
+            "url": "https://github.com/sdras/awesome-actions",
+            "star": 54,
+            "description": "A curated list of awesome actions to use on GitHub"
+        },
+        {
+            "name": "lectures",
+            "url": "https://github.com/rolling-scopes-school/lectures",
+            "star": 11,
+            "description": ""
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 65,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 27,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "new-grads-2020",
+            "url": "https://github.com/cmackenzie1/new-grads-2020",
+            "star": 10,
+            "description": "A collection of new grad roles for 2020"
+        },
+        {
+            "name": "tasks",
+            "url": "https://github.com/rolling-scopes-school/tasks",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "Red-Teaming-Toolkit",
+            "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+            "star": 10,
+            "description": "A collection of open source and commercial tools that aid in red team operations."
+        },
+        {
+            "name": "StabilityGuide",
+            "url": "https://github.com/StabilityMan/StabilityGuide",
+            "star": 4,
+            "description": "【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。"
+        },
+        {
+            "name": "backend",
+            "url": "https://github.com/kottans/backend",
+            "star": 5,
+            "description": "Kottans backend course🎓"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 76,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "opendatacam",
+            "url": "https://github.com/opendatacam/opendatacam",
+            "star": 79,
+            "description": "An open source tool to quantify the world"
+        },
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 86,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "borderlands",
+            "url": "https://github.com/rockdevourer/borderlands",
+            "star": 3,
+            "description": "Interact with Shift"
+        },
+        {
+            "name": "fabric.js",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "star": 17,
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 46,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "appium-desktop",
+            "url": "https://github.com/appium/appium-desktop",
+            "star": 1,
+            "description": "Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux"
+        },
+        {
+            "name": "react-grid-layout",
+            "url": "https://github.com/STRML/react-grid-layout",
+            "star": 16,
+            "description": "A draggable and resizable grid layout with responsive breakpoints, for React."
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 22,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "js-cookie",
+            "url": "https://github.com/js-cookie/js-cookie",
+            "star": 9,
+            "description": "A simple, lightweight JavaScript API for handling browser cookies"
+        }
+    ],
+    "html": [
+        {
+            "name": "xss-payload-list",
+            "url": "https://github.com/payloadbox/xss-payload-list",
+            "star": 0,
+            "description": "🎯Cross Site Scripting ( XSS ) Vulnerability Payload List"
+        },
+        {
+            "name": "mkdocs-material",
+            "url": "https://github.com/squidfunk/mkdocs-material",
+            "star": 4,
+            "description": "A Material Design theme for MkDocs"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 37,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "foundation-emails",
+            "url": "https://github.com/foundation/foundation-emails",
+            "star": 1,
+            "description": "Quickly create responsive HTML emails that work on any device and client. Even Outlook."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 4,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "dropcss",
+            "url": "https://github.com/leeoniya/dropcss",
+            "star": 3,
+            "description": "An exceptionally fast, thorough and tiny unused-CSS cleaner"
+        },
+        {
+            "name": "pdfs",
+            "url": "https://github.com/tpn/pdfs",
+            "star": 1,
+            "description": "Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)"
+        },
+        {
+            "name": "MSEdgeExplainers",
+            "url": "https://github.com/MicrosoftEdge/MSEdgeExplainers",
+            "star": 1,
+            "description": "Home for explainer documents originated by the Microsoft Edge team"
+        },
+        {
+            "name": "masonry",
+            "url": "https://github.com/desandro/masonry",
+            "star": 3,
+            "description": "🏩Cascading grid layout plugin"
+        },
+        {
+            "name": "TranslatorX",
+            "url": "https://github.com/pingfangx/TranslatorX",
+            "star": 57,
+            "description": "JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.2 汉化包 DataGrip 2019.2 汉化包 GoLand 2019.2 汉化包 IntelliJ IDEA 2019.2 汉化包 PhpStorm 2019.2 汉化包 PyCharm 2019.2 汉化包 Rider 2019.2 汉化包 RubyMine 2019.2 汉化包 WebStorm 2019.2 汉化包"
+        }
+    ],
+    "go": [
+        {
+            "name": "client",
+            "url": "https://github.com/keybase/client",
+            "star": 89,
+            "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron"
+        },
+        {
+            "name": "terraform-provider-aws",
+            "url": "https://github.com/terraform-providers/terraform-provider-aws",
+            "star": 11,
+            "description": "Terraform AWS provider"
+        },
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 9,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 9,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "resty",
+            "url": "https://github.com/go-resty/resty",
+            "star": 5,
+            "description": "Simple HTTP and REST client library for Go"
+        },
+        {
+            "name": "cadence",
+            "url": "https://github.com/uber/cadence",
+            "star": 43,
+            "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way."
+        },
+        {
+            "name": "argo",
+            "url": "https://github.com/argoproj/argo",
+            "star": 9,
+            "description": "Argo Workflows: Get stuff done with Kubernetes."
+        },
+        {
+            "name": "go-patterns",
+            "url": "https://github.com/tmrts/go-patterns",
+            "star": 81,
+            "description": "Curated list of Go design patterns, recipes and idioms"
+        },
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 3,
+            "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+            "name": "kops",
+            "url": "https://github.com/kubernetes/kops",
+            "star": 8,
+            "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-06-05",
+    "month": 6,
+    "day": 5,
+    "python": [
+        {
+            "name": "EfficientNet-PyTorch",
+            "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+            "star": 288,
+            "description": "A PyTorch implementation of EfficientNet"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 146,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "kedro",
+            "url": "https://github.com/quantumblacklabs/kedro",
+            "star": 133,
+            "description": "A Python library for building robust production-ready data and analytics pipelines"
+        },
+        {
+            "name": "macOS-Simple-KVM",
+            "url": "https://github.com/foxlet/macOS-Simple-KVM",
+            "star": 122,
+            "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM."
+        },
+        {
+            "name": "gluon-ts",
+            "url": "https://github.com/awslabs/gluon-ts",
+            "star": 92,
+            "description": "GluonTS - Probabilistic Time Series Modeling in Python"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 73,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "funNLP",
+            "url": "https://github.com/fighting41love/funNLP",
+            "star": 78,
+            "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 66,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "panel",
+            "url": "https://github.com/pyviz/panel",
+            "star": 77,
+            "description": "A high-level app and dashboarding solution for Python"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 67,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        }
+    ],
+    "java": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 191,
+            "description": "📚Basic Knowledge of Technical Interview（技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计）"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 206,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 184,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 167,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 142,
+            "description": "Jeecg-Boot 是一款基于代码生成器的快速开发平台！采用前后端分离架构：SpringBoot 2.x，Mybatis，Shiro，JWT，Vue&Ant Design。强大的代码生成器让前端和后台代码一键生成，不需要写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 89,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 79,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "sitewhere",
+            "url": "https://github.com/sitewhere/sitewhere",
+            "star": 59,
+            "description": "SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture. SiteWhere provides REST APIs for all syste…"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 41,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 30,
+            "description": "The \"REST With Spring\" Course:"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 949,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 161,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 159,
+            "description": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "Mathematics_for_Beginners",
+            "url": "https://github.com/llSourcell/Mathematics_for_Beginners",
+            "star": 136,
+            "description": "This is the formula sheet for \"Mathematics for Beginners\" by Siraj Raval on Youtube"
+        },
+        {
+            "name": "kinto",
+            "url": "https://github.com/ookamiinc/kinto",
+            "star": 104,
+            "description": "均等 — Kinto is a Japanese font family adapted to match size & balance with Latin characters in user interfaces. A project based off Google Noto fonts."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 88,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 62,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 81,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "industry-machine-learning",
+            "url": "https://github.com/firmai/industry-machine-learning",
+            "star": 79,
+            "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries."
+        },
+        {
+            "name": "CPython-Internals",
+            "url": "https://github.com/zpoint/CPython-Internals",
+            "star": 73,
+            "description": "Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython 源码阅读笔记, 多图展示底层实现细节"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "entropic",
+            "url": "https://github.com/entropic-dev/entropic",
+            "star": 415,
+            "description": "a package registry for anything, but mostly javascript"
+        },
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 359,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "zdog",
+            "url": "https://github.com/metafizzy/zdog",
+            "star": 267,
+            "description": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG"
+        },
+        {
+            "name": "medium-to-own-blog",
+            "url": "https://github.com/mathieudutour/medium-to-own-blog",
+            "star": 173,
+            "description": "Switch from Medium to your own blog in a few minutes"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 144,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 127,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "mpx",
+            "url": "https://github.com/didi/mpx",
+            "star": 91,
+            "description": "MPX - An enhanced miniprogram framework with data reactivity and deep optimizition."
+        },
+        {
+            "name": "PapaParse",
+            "url": "https://github.com/mholt/PapaParse",
+            "star": 86,
+            "description": "Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 71,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "puppeteer-recorder",
+            "url": "https://github.com/checkly/puppeteer-recorder",
+            "star": 71,
+            "description": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script."
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 35,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 34,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "comicgen",
+            "url": "https://github.com/gramener/comicgen",
+            "star": 33,
+            "description": "Create comics for your website or app"
+        },
+        {
+            "name": "scikit-learn-doc-zh",
+            "url": "https://github.com/apachecn/scikit-learn-doc-zh",
+            "star": 26,
+            "description": "📖[译] scikit-learn（sklearn） 中文文档"
+        },
+        {
+            "name": "practical_ggplot2",
+            "url": "https://github.com/clauswilke/practical_ggplot2",
+            "star": 23,
+            "description": "Step-by-step examples of building publication-quality figures in ggplot2"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 6,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "data-science-at-the-command-line",
+            "url": "https://github.com/jeroenjanssens/data-science-at-the-command-line",
+            "star": 23,
+            "description": "Data Science at the Command Line"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 15,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 10,
+            "description": "Kubernetes website and documentation repo:"
+        }
+    ],
+    "go": [
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 215,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "zinx",
+            "url": "https://github.com/aceld/zinx",
+            "star": 73,
+            "description": "基于Golang解决的长连接并发服务器框架"
+        },
+        {
+            "name": "go-for-apache-dubbo",
+            "url": "https://github.com/dubbo/go-for-apache-dubbo",
+            "star": 69,
+            "description": "Go Implementation For Apache Dubbo"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 60,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 48,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go-streams",
+            "url": "https://github.com/reugn/go-streams",
+            "star": 57,
+            "description": "Go stream processing library"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 51,
+            "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download🔴Lantern Latest Download https://github.com/getlantern/download🔴"
+        },
+        {
+            "name": "brook",
+            "url": "https://github.com/txthinking/brook",
+            "star": 47,
+            "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 44,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 40,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-13",
+    "month": 8,
+    "day": 13,
+    "python": [
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 154,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "UGATIT",
+            "url": "https://github.com/taki0112/UGATIT",
+            "star": 126,
+            "description": "Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 143,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 133,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "favorite-link",
+            "url": "https://github.com/guanguans/favorite-link",
+            "star": 129,
+            "description": "❤️每日收集喜欢的开源项目"
+        },
+        {
+            "name": "BurpExtension-WhatsApp-Decryption-CheckPoint",
+            "url": "https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint",
+            "star": 10,
+            "description": "This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol (This repository will be updated after BlackHat 2019)"
+        },
+        {
+            "name": "DeepCreamPy",
+            "url": "https://github.com/deeppomf/DeepCreamPy",
+            "star": 6,
+            "description": "Decensoring Hentai with Deep Neural Networks"
+        },
+        {
+            "name": "google-research",
+            "url": "https://github.com/google-research/google-research",
+            "star": 47,
+            "description": "Google AI Research"
+        },
+        {
+            "name": "gym",
+            "url": "https://github.com/openai/gym",
+            "star": 47,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+        },
+        {
+            "name": "AttackSurfaceMapper",
+            "url": "https://github.com/superhedgy/AttackSurfaceMapper",
+            "star": 32,
+            "description": "AttackSurfaceMapper is a tool that aims to automate the reconnaissance process."
+        }
+    ],
+    "java": [
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 171,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 128,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 152,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 107,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "C-OCR",
+            "url": "https://github.com/ctripcorp/C-OCR",
+            "star": 195,
+            "description": "C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 48,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 31,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（18k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 74,
+            "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 32,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 125,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "regular-investing-in-box",
+            "url": "https://github.com/xiaolai/regular-investing-in-box",
+            "star": 130,
+            "description": "定投改变命运 —— 让时间陪你慢慢变富"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 196,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "Shift-AI-models-to-real-world-products",
+            "url": "https://github.com/lonelygo/Shift-AI-models-to-real-world-products",
+            "star": 87,
+            "description": "Share some useful guides and references about how to shift AI models to real world products or projects."
+        },
+        {
+            "name": "awesome-deep-learning",
+            "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+            "star": 38,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
+        },
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 332,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 40,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 20,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 28,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "fig-standards",
+            "url": "https://github.com/php-fig/fig-standards",
+            "star": 20,
+            "description": "Standards either proposed or approved by the Framework Interop Group"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 45,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "mc.js",
+            "url": "https://github.com/ian13456/mc.js",
+            "star": 278,
+            "description": "Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS."
+        },
+        {
+            "name": "internships",
+            "url": "https://github.com/Zackhardtoname/internships",
+            "star": 24,
+            "description": "A collection of internship applications for the summer of 2020"
+        },
+        {
+            "name": "fullPage.js",
+            "url": "https://github.com/alvarotrigo/fullPage.js",
+            "star": 64,
+            "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple"
+        },
+        {
+            "name": "discord.js",
+            "url": "https://github.com/discordjs/discord.js",
+            "star": 4,
+            "description": "A powerful JavaScript library for interacting with the Discord API"
+        },
+        {
+            "name": "Mellow",
+            "url": "https://github.com/eycorsican/Mellow",
+            "star": 5,
+            "description": "A V2Ray client that can handle all TCP/UDP/ICMP traffic."
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 38,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "udemy-docker-mastery",
+            "url": "https://github.com/BretFisher/udemy-docker-mastery",
+            "star": 6,
+            "description": "Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud"
+        },
+        {
+            "name": "webui-aria2",
+            "url": "https://github.com/ziahamza/webui-aria2",
+            "star": 3,
+            "description": "The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser."
+        },
+        {
+            "name": "WBOT",
+            "url": "https://github.com/vasani-arpit/WBOT",
+            "star": 6,
+            "description": "A simple Web based BOT for WhatsApp™ in NodeJS😜. Working as of📅Aug 9th, 2019"
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/freearhey/iptv",
+            "star": 15,
+            "description": "Collection of 7000+ publicly available IPTV channels from all over the world."
+        }
+    ],
+    "html": [
+        {
+            "name": "gohugo-theme-ananke",
+            "url": "https://github.com/budparr/gohugo-theme-ananke",
+            "star": 1,
+            "description": "Ananke: A theme for Hugo Sites"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 10,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 2,
+            "description": "Modern Phishing Tool With Advanced Functionality [ Android-Support-Available ]"
+        },
+        {
+            "name": "ace",
+            "url": "https://github.com/bopoda/ace",
+            "star": 0,
+            "description": "Twitter bootstrap 3 admin template"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 28,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 3,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 1,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 4,
+            "description": "Free Bootstrap 3 Admin Template"
+        },
+        {
+            "name": "datasciencecoursera",
+            "url": "https://github.com/mGalarnyk/datasciencecoursera",
+            "star": 3,
+            "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions."
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 8,
+            "description": "30 Day Vanilla JS Challenge"
+        }
+    ],
+    "go": [
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 62,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "torrent",
+            "url": "https://github.com/anacrolix/torrent",
+            "star": 11,
+            "description": "Full-featured BitTorrent-client package and utilities"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 40,
+            "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 47,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "harmony",
+            "url": "https://github.com/harmony-one/harmony",
+            "star": 5,
+            "description": "The core protocol of harmony"
+        },
+        {
+            "name": "cloud-torrent",
+            "url": "https://github.com/jpillora/cloud-torrent",
+            "star": 8,
+            "description": "☁️Cloud Torrent: a self-hosted remote torrent client"
+        },
+        {
+            "name": "clash",
+            "url": "https://github.com/Dreamacro/clash",
+            "star": 15,
+            "description": "A rule-based tunnel in Go."
+        },
+        {
+            "name": "slack-term",
+            "url": "https://github.com/erroneousboat/slack-term",
+            "star": 8,
+            "description": "Slack client for your terminal"
+        },
+        {
+            "name": "gloo",
+            "url": "https://github.com/solo-io/gloo",
+            "star": 5,
+            "description": "An Envoy-Powered API Gateway"
+        },
+        {
+            "name": "Amass",
+            "url": "https://github.com/OWASP/Amass",
+            "star": 3,
+            "description": "In-depth DNS Enumeration and Network Mapping"
+        }
+    ]
+}

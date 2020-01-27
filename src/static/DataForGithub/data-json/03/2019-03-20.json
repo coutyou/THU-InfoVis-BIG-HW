@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-20",
+    "month": 3,
+    "day": 20,
+    "python": [
+        {
+            "name": "paper-tips-and-tricks",
+            "url": "https://github.com/Wookai/paper-tips-and-tricks",
+            "star": 920,
+            "description": "Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab."
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 244,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 185,
+            "description": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 111,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "dragonfly",
+            "url": "https://github.com/dragonfly/dragonfly",
+            "star": 111,
+            "description": "An open source python library for scalable Bayesian optimisation."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 79,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 86,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 77,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 74,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 63,
+            "description": "A collective list of free APIs for use in software and web development."
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 201,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 113,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 103,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 85,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "SpringBoot-Learning",
+            "url": "https://github.com/dyc87112/SpringBoot-Learning",
+            "star": 74,
+            "description": "Spring Boot基础教程"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 63,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 65,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 39,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 46,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 47,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "SPADE",
+            "url": "https://github.com/NVlabs/SPADE",
+            "star": 882,
+            "description": ""
+        },
+        {
+            "name": "js-dev-reads",
+            "url": "https://github.com/twhite96/js-dev-reads",
+            "star": 589,
+            "description": "A list of books📚and articles📝for the discerning web developer to read."
+        },
+        {
+            "name": "awesome-uses",
+            "url": "https://github.com/wesbos/awesome-uses",
+            "star": 369,
+            "description": "Awesome Uses Page"
+        },
+        {
+            "name": "Machine-Learning-Study-Path-March-2019",
+            "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+            "star": 331,
+            "description": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+        },
+        {
+            "name": "The-Hacker-Playbook-3-Translation",
+            "url": "https://github.com/Snowming04/The-Hacker-Playbook-3-Translation",
+            "star": 298,
+            "description": "对 The Hacker Playbook 3 的翻译。"
+        },
+        {
+            "name": "V",
+            "url": "https://github.com/vlang-io/V",
+            "star": 265,
+            "description": "Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 132,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 129,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 125,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 105,
+            "description": "Roadmap to becoming a web developer in 2019"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "laxxx",
+            "url": "https://github.com/alexfoxy/laxxx",
+            "star": 616,
+            "description": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 276,
+            "description": "油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速"
+        },
+        {
+            "name": "construct-js",
+            "url": "https://github.com/francisrstokes/construct-js",
+            "star": 224,
+            "description": "🛠️A library for creating byte level data structures."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 195,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "send",
+            "url": "https://github.com/mozilla/send",
+            "star": 174,
+            "description": "Simple, private file sharing from the makers of Firefox"
+        },
+        {
+            "name": "webiny-js",
+            "url": "https://github.com/Webiny/webiny-js",
+            "star": 168,
+            "description": "Serverless CMS (GraphQL + React)"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 115,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "generative.fm",
+            "url": "https://github.com/generative-music/generative.fm",
+            "star": 121,
+            "description": "A platform for playing generative music in the browser."
+        },
+        {
+            "name": "nsfwjs",
+            "url": "https://github.com/infinitered/nsfwjs",
+            "star": 108,
+            "description": "NSFW detection on the client-side via Tensorflow JS"
+        },
+        {
+            "name": "wechat-format",
+            "url": "https://github.com/lyricat/wechat-format",
+            "star": 105,
+            "description": "微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML"
+        }
+    ],
+    "html": [
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 51,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "lets-get-arrested",
+            "url": "https://github.com/hamukazu/lets-get-arrested",
+            "star": 32,
+            "description": "This project is intended to protest against the police in Japan"
+        },
+        {
+            "name": "Panda-Learning",
+            "url": "https://github.com/Alivon/Panda-Learning",
+            "star": 30,
+            "description": "学习强国xuexiqiangguo--熊猫学习Panda-Learning是一个辅助学习 学习强国的程序,帮助挤不出时间，却仍然需要学习的积极分子，学习强国(xuexiqiangguo)"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 23,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 19,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "Unifiedtransform",
+            "url": "https://github.com/changeweb/Unifiedtransform",
+            "star": 18,
+            "description": "A school management Software"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 20,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "KGQA_HLM",
+            "url": "https://github.com/chizhu/KGQA_HLM",
+            "star": 19,
+            "description": "基于知识图谱的《红楼梦》人物关系可视化及问答系统"
+        },
+        {
+            "name": "frontendDaily",
+            "url": "https://github.com/kujian/frontendDaily",
+            "star": 19,
+            "description": "前端开发技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 14,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        }
+    ],
+    "go": [
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 94,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "mitmengine",
+            "url": "https://github.com/cloudflare/mitmengine",
+            "star": 92,
+            "description": "A MITM (monster-in-the-middle) detection tool. Used to build MALCOLM:"
+        },
+        {
+            "name": "kaf",
+            "url": "https://github.com/infinimesh/kaf",
+            "star": 87,
+            "description": "Modern CLI for Apache Kafka, written in Go."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 68,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "kubeedge",
+            "url": "https://github.com/kubeedge/kubeedge",
+            "star": 65,
+            "description": "Kubernetes Native Edge Computing Framework"
+        },
+        {
+            "name": "go-flutter",
+            "url": "https://github.com/go-flutter-desktop/go-flutter",
+            "star": 73,
+            "description": "Bringing Flutter to Windows, MacOS and Linux - through the power of Go and GLFW."
+        },
+        {
+            "name": "traefik",
+            "url": "https://github.com/containous/traefik",
+            "star": 60,
+            "description": "The Cloud Native Edge Router"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 51,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 40,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 41,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        }
+    ]
+}

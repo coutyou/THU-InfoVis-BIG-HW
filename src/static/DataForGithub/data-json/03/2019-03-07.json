@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-07",
+    "month": 3,
+    "day": 7,
+    "python": [
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 247,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "m2cgen",
+            "url": "https://github.com/BayesWitnesses/m2cgen",
+            "star": 254,
+            "description": "Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies"
+        },
+        {
+            "name": "USTC-Course",
+            "url": "https://github.com/USTC-Resource/USTC-Course",
+            "star": 181,
+            "description": "❤️中国科学技术大学课程资源"
+        },
+        {
+            "name": "neural-mmo",
+            "url": "https://github.com/openai/neural-mmo",
+            "star": 182,
+            "description": "Neural MMO - A Massively Multiagent Game Environment"
+        },
+        {
+            "name": "maskscoring_rcnn",
+            "url": "https://github.com/zjhuang22/maskscoring_rcnn",
+            "star": 138,
+            "description": "Codes for paper \"Mask Scoring R-CNN\"."
+        },
+        {
+            "name": "ludwig",
+            "url": "https://github.com/uber/ludwig",
+            "star": 133,
+            "description": "Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code."
+        },
+        {
+            "name": "bullet",
+            "url": "https://github.com/Mckinsey666/bullet",
+            "star": 125,
+            "description": "🚅Interactive prompts made simple. Build a prompt like stacking blocks."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 103,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 111,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 97,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 265,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 177,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 120,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 94,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 54,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "sofa-jraft",
+            "url": "https://github.com/alipay/sofa-jraft",
+            "star": 78,
+            "description": "An industrial-grade java implementation of RAFT consensus algorithm."
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 72,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 52,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "SimFix",
+            "url": "https://github.com/xgdsmileboy/SimFix",
+            "star": 66,
+            "description": "Automatically fix programs by leveraging existing patches from other projects and similar code snippets from the faulty project."
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 56,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 4809,
+            "description": ""
+        },
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 484,
+            "description": "Gitbook"
+        },
+        {
+            "name": "python_interview_question",
+            "url": "https://github.com/kenwoodjw/python_interview_question",
+            "star": 379,
+            "description": "关于python的面试题"
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 370,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 171,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 98,
+            "description": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 95,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 87,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 73,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 82,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 145,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "storybook",
+            "url": "https://github.com/storybooks/storybook",
+            "star": 123,
+            "description": "UI component dev & test: React, React Native, Vue, Angular, Ember & more!"
+        },
+        {
+            "name": "jsproxy",
+            "url": "https://github.com/EtherDream/jsproxy",
+            "star": 123,
+            "description": "一个基于浏览器端 JS 实现的在线代理"
+        },
+        {
+            "name": "taro",
+            "url": "https://github.com/NervJS/taro",
+            "star": 116,
+            "description": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。 https://taro.js.org/"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 96,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 98,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "star": 88,
+            "description": "⭐️Companies that don't have a broken hiring process"
+        },
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 88,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 76,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "gpu.js",
+            "url": "https://github.com/gpujs/gpu.js",
+            "star": 75,
+            "description": "GPU Accelerated JavaScript"
+        }
+    ],
+    "html": [
+        {
+            "name": "lets-get-arrested",
+            "url": "https://github.com/hamukazu/lets-get-arrested",
+            "star": 438,
+            "description": "This project is intended to protest against the police in Japan"
+        },
+        {
+            "name": "A-Whirlwind-Tour-of-Python-zh-tw",
+            "url": "https://github.com/doggy8088/A-Whirlwind-Tour-of-Python-zh-tw",
+            "star": 99,
+            "description": "A Whirlwind Tour of Python (正體中文版)"
+        },
+        {
+            "name": "automatic-app-landing-page",
+            "url": "https://github.com/emilbaehr/automatic-app-landing-page",
+            "star": 72,
+            "description": "A Jekyll theme for automatically generating and deploying landing page sites for mobile apps."
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 53,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 62,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "quickchart",
+            "url": "https://github.com/typpo/quickchart",
+            "star": 58,
+            "description": "Google Image Charts alternative"
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 35,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "bestofml",
+            "url": "https://github.com/RemoteML/bestofml",
+            "star": 34,
+            "description": "The best resources around Machine Learning"
+        },
+        {
+            "name": "gckit",
+            "url": "https://github.com/SeongBrave/gckit",
+            "star": 31,
+            "description": "代码生成工具"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 17,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        }
+    ],
+    "go": [
+        {
+            "name": "kraken",
+            "url": "https://github.com/uber/kraken",
+            "star": 688,
+            "description": "P2P docker registry capable of distributing TBs of data in seconds"
+        },
+        {
+            "name": "tile38",
+            "url": "https://github.com/tidwall/tile38",
+            "star": 151,
+            "description": "Tile38 is a geospatial database, spatial index, and realtime geofence.🌐"
+        },
+        {
+            "name": "nutsdb",
+            "url": "https://github.com/xujiajun/nutsdb",
+            "star": 146,
+            "description": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set."
+        },
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 144,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "makisu",
+            "url": "https://github.com/uber/makisu",
+            "star": 112,
+            "description": "Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes."
+        },
+        {
+            "name": "vulcanizer",
+            "url": "https://github.com/github/vulcanizer",
+            "star": 104,
+            "description": "GitHub's ops focused Elasticsearch library"
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 76,
+            "description": "A microservice framework"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 67,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "pebble",
+            "url": "https://github.com/petermattis/pebble",
+            "star": 72,
+            "description": "RocksDB/LevelDB inspired key-value database in Go"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 62,
+            "description": "A platform for building proxies to bypass network restrictions."
+        }
+    ]
+}

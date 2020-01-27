@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-04",
+    "month": 2,
+    "day": 4,
+    "python": [
+        {
+            "name": "ASCII-generator",
+            "url": "https://github.com/vietnguyen91/ASCII-generator",
+            "star": 192,
+            "description": "ASCII generator (image to text, image to image, video to video)"
+        },
+        {
+            "name": "stanfordnlp",
+            "url": "https://github.com/stanfordnlp/stanfordnlp",
+            "star": 71,
+            "description": "Official Stanford NLP Python Library for Many Human Languages"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 55,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "IPOsint",
+            "url": "https://github.com/j3ssie/IPOsint",
+            "star": 51,
+            "description": "Discovery IP Address of the target"
+        },
+        {
+            "name": "manim",
+            "url": "https://github.com/3b1b/manim",
+            "star": 43,
+            "description": "Animation engine for explanatory math videos"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 36,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "apprise",
+            "url": "https://github.com/caronc/apprise",
+            "star": 36,
+            "description": "Apprise - Push Notifications that work with just about every platform!"
+        },
+        {
+            "name": "pwndb",
+            "url": "https://github.com/davidtavarez/pwndb",
+            "star": 33,
+            "description": "Search for leaked credentials"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 28,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 26,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        }
+    ],
+    "java": [
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 63,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 47,
+            "description": "A full-featured APP ( iOS & Android ) development assistant. You deserve it."
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 40,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "symphony",
+            "url": "https://github.com/b3log/symphony",
+            "star": 32,
+            "description": "🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com"
+        },
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 21,
+            "description": "Apache Flink"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 21,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "giffun",
+            "url": "https://github.com/guolindev/giffun",
+            "star": 20,
+            "description": "一款开源的GIF在线分享App，乐趣就要和世界分享。"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 13,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "santa-tracker-android",
+            "url": "https://github.com/google/santa-tracker-android",
+            "star": 19,
+            "description": "Ho Ho Ho"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 13,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 292,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "awesome-podcasts",
+            "url": "https://github.com/rShetty/awesome-podcasts",
+            "star": 176,
+            "description": "Collection of awesome podcasts"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 148,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 111,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "Consolas",
+            "url": "https://github.com/PiotrGrochowski/Consolas",
+            "star": 109,
+            "description": "The Consolas font since I became a designer of it starting at version 8.0. It's of course open source."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 99,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "Intranet_Penetration_Tips",
+            "url": "https://github.com/Ridter/Intranet_Penetration_Tips",
+            "star": 72,
+            "description": "2018年初整理的一些内网渗透TIPS，后面更新的慢，所以公开出来希望跟小伙伴们一起更新维护~"
+        },
+        {
+            "name": "the-practical-linux-hardening-guide",
+            "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+            "star": 66,
+            "description": "🔥This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+        },
+        {
+            "name": "chinese-programmer-wrong-pronunciation",
+            "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+            "star": 64,
+            "description": "中国程序员容易发音错误的单词"
+        },
+        {
+            "name": "interview",
+            "url": "https://github.com/aylei/interview",
+            "star": 62,
+            "description": "写在19年初的后端社招面试经历🤑"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "flexsearch",
+            "url": "https://github.com/nextapps-de/flexsearch",
+            "star": 386,
+            "description": "Next-Generation full text search library for Browser and Node.js"
+        },
+        {
+            "name": "learn-react-app",
+            "url": "https://github.com/tyroprogrammer/learn-react-app",
+            "star": 203,
+            "description": "Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!"
+        },
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 124,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "speedometer-pwa",
+            "url": "https://github.com/justinribeiro/speedometer-pwa",
+            "star": 111,
+            "description": "A tiny no-frills speedometer progressive web app based on Geolocation API, AmbientLightSensor API, and WakeLock API."
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 98,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "nodeppt",
+            "url": "https://github.com/ksky521/nodeppt",
+            "star": 90,
+            "description": "This is probably the best web presentation tool so far!"
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 81,
+            "description": "A web-based JavaScript（canvas） spreadsheet"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 69,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 69,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "github-spray",
+            "url": "https://github.com/Annihil/github-spray",
+            "star": 65,
+            "description": "👾Draw on your GitHub contribution graph ░▒▓█"
+        }
+    ],
+    "html": [
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 17,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 11,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "animated-deno-logo",
+            "url": "https://github.com/denolib/animated-deno-logo",
+            "star": 12,
+            "description": "Animated Deno Logo"
+        },
+        {
+            "name": "build-your-own-mint",
+            "url": "https://github.com/yyx990803/build-your-own-mint",
+            "star": 10,
+            "description": "Build your own personal finance analytics using Plaid, Google Sheets and CircleCI."
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "zenbot",
+            "url": "https://github.com/DeviaVir/zenbot",
+            "star": 8,
+            "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB."
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 7,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "node_passport_login",
+            "url": "https://github.com/bradtraversy/node_passport_login",
+            "star": 7,
+            "description": "Node.js login, registration and access control using Express and Passport"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 7,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 7,
+            "description": "A collection of resources on modern C++"
+        }
+    ],
+    "go": [
+        {
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s",
+            "star": 149,
+            "description": "🐶Kubernetes CLI To Manage Your Clusters In Style!"
+        },
+        {
+            "name": "aresdb",
+            "url": "https://github.com/uber/aresdb",
+            "star": 48,
+            "description": "A GPU-powered real-time analytics storage and query engine."
+        },
+        {
+            "name": "cli",
+            "url": "https://github.com/urfave/cli",
+            "star": 46,
+            "description": "A simple, fast, and fun package for building command line apps in Go"
+        },
+        {
+            "name": "websocketd",
+            "url": "https://github.com/joewalnes/websocketd",
+            "star": 43,
+            "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets."
+        },
+        {
+            "name": "docui",
+            "url": "https://github.com/skanehira/docui",
+            "star": 33,
+            "description": "TUI Tool for Docker"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 30,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 30,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "syncthing",
+            "url": "https://github.com/syncthing/syncthing",
+            "star": 28,
+            "description": "Open Source Continuous File Synchronization"
+        },
+        {
+            "name": "mgmt",
+            "url": "https://github.com/purpleidea/mgmt",
+            "star": 27,
+            "description": "Next generation distributed, event-driven, parallel config management!"
+        },
+        {
+            "name": "mkcert",
+            "url": "https://github.com/FiloSottile/mkcert",
+            "star": 24,
+            "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+        }
+    ]
+}

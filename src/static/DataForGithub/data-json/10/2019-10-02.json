@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-02",
+    "month": 10,
+    "day": 2,
+    "python": [
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 21,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "impersonator",
+            "url": "https://github.com/svip-lab/impersonator",
+            "star": 127,
+            "description": "PyTorch implementation of our ICCV 2019 paper: Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/geekcomputers/Python",
+            "star": 144,
+            "description": "My Python Examples"
+        },
+        {
+            "name": "ipwndfu",
+            "url": "https://github.com/axi0mX/ipwndfu",
+            "star": 407,
+            "description": "open-source jailbreaking tool for many iOS devices"
+        },
+        {
+            "name": "thefuck",
+            "url": "https://github.com/nvbn/thefuck",
+            "star": 202,
+            "description": "Magnificent app which corrects your previous console command."
+        },
+        {
+            "name": "CheatSheetSeries",
+            "url": "https://github.com/OWASP/CheatSheetSeries",
+            "star": 74,
+            "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+        },
+        {
+            "name": "albert_zh",
+            "url": "https://github.com/brightmart/albert_zh",
+            "star": 52,
+            "description": "A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 33,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "keras",
+            "url": "https://github.com/keras-team/keras",
+            "star": 21,
+            "description": "Deep Learning for humans"
+        },
+        {
+            "name": "luigi",
+            "url": "https://github.com/spotify/luigi",
+            "star": 6,
+            "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
+        }
+    ],
+    "java": [
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 79,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 25,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "tech-weekly",
+            "url": "https://github.com/mercyblitz/tech-weekly",
+            "star": 10,
+            "description": "「小马哥技术周报」"
+        },
+        {
+            "name": "antlr4",
+            "url": "https://github.com/antlr/antlr4",
+            "star": 6,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 19,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 19,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "conductor",
+            "url": "https://github.com/Netflix/conductor",
+            "star": 2,
+            "description": "Conductor is a microservices orchestration engine - https://netflix.github.io/conductor/"
+        },
+        {
+            "name": "springfox",
+            "url": "https://github.com/springfox/springfox",
+            "star": 4,
+            "description": "Automated JSON API documentation for API's built with Spring"
+        },
+        {
+            "name": "bazel",
+            "url": "https://github.com/bazelbuild/bazel",
+            "star": 10,
+            "description": "a fast, scalable, multi-language and extensible build system"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 17,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 47,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "awesome-for-beginners",
+            "url": "https://github.com/MunGell/awesome-for-beginners",
+            "star": 56,
+            "description": "A list of awesome beginners-friendly projects."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 46,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "javascript-questions",
+            "url": "https://github.com/lydiahallie/javascript-questions",
+            "star": 18,
+            "description": "A long list of (advanced) JavaScript questions, and their explanations✨"
+        },
+        {
+            "name": "how-to-exit-vim",
+            "url": "https://github.com/hakluke/how-to-exit-vim",
+            "star": 67,
+            "description": "Below are some simple methods for exiting vim."
+        },
+        {
+            "name": "rust-book-summary",
+            "url": "https://github.com/psibi/rust-book-summary",
+            "star": 18,
+            "description": "Summary of the Rust book"
+        },
+        {
+            "name": "HEAD",
+            "url": "https://github.com/joshbuchea/HEAD",
+            "star": 240,
+            "description": "🗿A list of everything that *could* go in the head of your document"
+        },
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 14,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        },
+        {
+            "name": "Privilege-Escalation",
+            "url": "https://github.com/Ignitetechnologies/Privilege-Escalation",
+            "star": 21,
+            "description": "This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples."
+        },
+        {
+            "name": "CNC-Machine-V3",
+            "url": "https://github.com/leonvandenbeukel/CNC-Machine-V3",
+            "star": 0,
+            "description": "Homemade 3D Printed CNC Machine V3"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 347,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "APT_CyberCriminal_Campagin_Collections",
+            "url": "https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections",
+            "star": 19,
+            "description": "APT & CyberCriminal Campaign Collection"
+        },
+        {
+            "name": "introduccion-a-js",
+            "url": "https://github.com/r-argentina-programa/introduccion-a-js",
+            "star": 11,
+            "description": ""
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 40,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 18,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "tabler",
+            "url": "https://github.com/tabler/tabler",
+            "star": 43,
+            "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap"
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 34,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 100,
+            "description": "✅The largest Node.js best practices list (September 2019)"
+        },
+        {
+            "name": "clean-code-javascript",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+            "star": 17,
+            "description": "🛁Clean Code concepts adapted for JavaScript"
+        },
+        {
+            "name": "node",
+            "url": "https://github.com/nodejs/node",
+            "star": 29,
+            "description": "Node.js JavaScript runtime✨🐢🚀✨"
+        }
+    ],
+    "html": [
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 42,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "hacktoberfest-swag-list",
+            "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+            "star": 34,
+            "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all."
+        },
+        {
+            "name": "hacktoberfest",
+            "url": "https://github.com/AliceWonderland/hacktoberfest",
+            "star": 7,
+            "description": "Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest"
+        },
+        {
+            "name": "hugo-book",
+            "url": "https://github.com/alex-shpak/hugo-book",
+            "star": 2,
+            "description": "Hugo documentation theme as simple as plain book"
+        },
+        {
+            "name": "keep-a-changelog",
+            "url": "https://github.com/olivierlacan/keep-a-changelog",
+            "star": 11,
+            "description": "If you build software, keep a changelog."
+        },
+        {
+            "name": "awesome-creative-coding",
+            "url": "https://github.com/terkelg/awesome-creative-coding",
+            "star": 4,
+            "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources."
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 15,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 3,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "RDR2CollectorsMap",
+            "url": "https://github.com/jeanropke/RDR2CollectorsMap",
+            "star": 4,
+            "description": ""
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 4,
+            "description": "Firebase Quickstart Samples for Web"
+        }
+    ],
+    "go": [
+        {
+            "name": "gofpdf",
+            "url": "https://github.com/jung-kurt/gofpdf",
+            "star": 19,
+            "description": "A PDF document generator with high level support for text, drawing and images"
+        },
+        {
+            "name": "go-swagger",
+            "url": "https://github.com/go-swagger/go-swagger",
+            "star": 3,
+            "description": "Swagger 2.0 implementation for go"
+        },
+        {
+            "name": "dep",
+            "url": "https://github.com/golang/dep",
+            "star": 8,
+            "description": "Go dependency management tool"
+        },
+        {
+            "name": "rudder-server",
+            "url": "https://github.com/rudderlabs/rudder-server",
+            "star": 93,
+            "description": "Privacy and Security focused Segment-alternative, in Golang and React"
+        },
+        {
+            "name": "mattermost-server",
+            "url": "https://github.com/mattermost/mattermost-server",
+            "star": 12,
+            "description": "Open source Slack-alternative in Golang and React - Mattermost"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 42,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 15,
+            "description": "Curated applications for Kubernetes"
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 1,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "coredns",
+            "url": "https://github.com/coredns/coredns",
+            "star": 6,
+            "description": "CoreDNS is a DNS server that chains plugins"
+        },
+        {
+            "name": "hydra",
+            "url": "https://github.com/ory/hydra",
+            "star": 7,
+            "description": "OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language."
+        }
+    ]
+}

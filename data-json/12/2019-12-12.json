@@ -1,0 +1,377 @@
+{
+    "date": "2019-12-12",
+    "month": 12,
+    "day": 12,
+    "python": [
+        {
+            "name": "PythonPlantsVsZombies",
+            "url": "https://github.com/marblexu/PythonPlantsVsZombies",
+            "star": 218,
+            "description": "a simple PlantsVsZombies game"
+        },
+        {
+            "name": "alpha_vantage",
+            "url": "https://github.com/RomelTorres/alpha_vantage",
+            "star": 37,
+            "description": "A python wrapper for Alpha Vantage API for financial data."
+        },
+        {
+            "name": "30-Days-Of-Python",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "star": 42,
+            "description": "A 30 days of python programming challenge"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 132,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "dronesploit",
+            "url": "https://github.com/dhondta/dronesploit",
+            "star": 60,
+            "description": "Drone pentesting framework console"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 77,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 15,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 23,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "skillbox-chat",
+            "url": "https://github.com/manchenkoff/skillbox-chat",
+            "star": 47,
+            "description": "Skillbox demo application for the Python course"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 344,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        }
+    ],
+    "java": [
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 94,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 158,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 33,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "material-components-android",
+            "url": "https://github.com/material-components/material-components-android",
+            "star": 48,
+            "description": "Modular and customizable Material Design UI components for Android"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 124,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 24,
+            "description": "Just Announced - \"Learn Spring Security OAuth\":"
+        },
+        {
+            "name": "Hystrix",
+            "url": "https://github.com/Netflix/Hystrix",
+            "star": 14,
+            "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable."
+        },
+        {
+            "name": "rocketmq-externals",
+            "url": "https://github.com/apache/rocketmq-externals",
+            "star": 8,
+            "description": "Mirror of Apache RocketMQ (Incubating)"
+        },
+        {
+            "name": "nifi",
+            "url": "https://github.com/apache/nifi",
+            "star": 2,
+            "description": "Mirror of Apache NiFi"
+        },
+        {
+            "name": "micrometer",
+            "url": "https://github.com/micrometer-metrics/micrometer",
+            "star": 3,
+            "description": "An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "fengrenjie",
+            "url": "https://github.com/renjie-feng-trash/fengrenjie",
+            "star": 202,
+            "description": "这个repo是为了锤北大垃圾教授——冯仁杰"
+        },
+        {
+            "name": "awesome-reverse-engineering",
+            "url": "https://github.com/alphaSeclab/awesome-reverse-engineering",
+            "star": 77,
+            "description": "Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect!"
+        },
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 159,
+            "description": "【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 137,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "javascript-questions",
+            "url": "https://github.com/lydiahallie/javascript-questions",
+            "star": 30,
+            "description": "A long list of (advanced) JavaScript questions, and their explanations✨"
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 75,
+            "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+        },
+        {
+            "name": "web-development-2020-course-list",
+            "url": "https://github.com/andrews1022/web-development-2020-course-list",
+            "star": 190,
+            "description": "A list of Udemy courses from Brad Traversy's Web Development 2020 video"
+        },
+        {
+            "name": "API-Security-Checklist",
+            "url": "https://github.com/shieldfy/API-Security-Checklist",
+            "star": 16,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API"
+        },
+        {
+            "name": "Production-Level-Deep-Learning",
+            "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+            "star": 49,
+            "description": "A guideline for building practical production-level deep learning systems to be deployed in real world applications."
+        },
+        {
+            "name": "Cookbook",
+            "url": "https://github.com/andkret/Cookbook",
+            "star": 34,
+            "description": "The Data Engineering Cookbook"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "How-To-Ask-Questions-The-Smart-Way",
+            "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+            "star": 70,
+            "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer",
+            "star": 55,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "gekko",
+            "url": "https://github.com/askmike/gekko",
+            "star": 12,
+            "description": "A bitcoin trading bot written in node - https://gekko.wizb.it/"
+        },
+        {
+            "name": "react-native-swiper",
+            "url": "https://github.com/leecade/react-native-swiper",
+            "star": 7,
+            "description": "The best Swiper component for React Native."
+        },
+        {
+            "name": "jest",
+            "url": "https://github.com/facebook/jest",
+            "star": 23,
+            "description": "Delightful JavaScript Testing."
+        },
+        {
+            "name": "generator-jhipster",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "star": 12,
+            "description": "Open Source application platform for creating Spring Boot + Angular/React projects in seconds!"
+        },
+        {
+            "name": "incubator-superset",
+            "url": "https://github.com/apache/incubator-superset",
+            "star": 22,
+            "description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application"
+        },
+        {
+            "name": "quasar",
+            "url": "https://github.com/quasarframework/quasar",
+            "star": 23,
+            "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 123,
+            "description": "✅The largest Node.js best practices list (November 2019)"
+        },
+        {
+            "name": "Watch-Me-Build-a-Trading-Bot",
+            "url": "https://github.com/llSourcell/Watch-Me-Build-a-Trading-Bot",
+            "star": 3,
+            "description": "This is the code for \"Watch Me Build a Trading Bot\" by Siraj Raval on Youtube"
+        }
+    ],
+    "html": [
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 5,
+            "description": "The Ethereum Improvement Proposal repository"
+        },
+        {
+            "name": "foundation-sites",
+            "url": "https://github.com/foundation/foundation-sites",
+            "star": 7,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device."
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 3,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "zenbot",
+            "url": "https://github.com/DeviaVir/zenbot",
+            "star": 7,
+            "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB."
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 9,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 8,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "sal",
+            "url": "https://github.com/mciastek/sal",
+            "star": 9,
+            "description": "🚀Performance focused, lightweight scroll animation library🚀"
+        },
+        {
+            "name": "responsive-html-email-template",
+            "url": "https://github.com/leemunroe/responsive-html-email-template",
+            "star": 9,
+            "description": "A free simple responsive HTML email template"
+        },
+        {
+            "name": "chosen",
+            "url": "https://github.com/harvesthq/chosen",
+            "star": 0,
+            "description": "Chosen is a library for making long, unwieldy select boxes more friendly."
+        },
+        {
+            "name": "datasciencecoursera",
+            "url": "https://github.com/mGalarnyk/datasciencecoursera",
+            "star": 1,
+            "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions."
+        }
+    ],
+    "go": [
+        {
+            "name": "docker-slim",
+            "url": "https://github.com/docker-slim/docker-slim",
+            "star": 1249,
+            "description": "DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)"
+        },
+        {
+            "name": "cron",
+            "url": "https://github.com/robfig/cron",
+            "star": 13,
+            "description": "a cron library for go"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 21,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 212,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "operator-sdk",
+            "url": "https://github.com/operator-framework/operator-sdk",
+            "star": 6,
+            "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+        },
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 46,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "cri-o",
+            "url": "https://github.com/cri-o/cri-o",
+            "star": 6,
+            "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+        },
+        {
+            "name": "cosmos-sdk",
+            "url": "https://github.com/cosmos/cosmos-sdk",
+            "star": 4,
+            "description": "⛓A Framework for Building High Value Public Blockchains✨"
+        },
+        {
+            "name": "terragrunt",
+            "url": "https://github.com/gruntwork-io/terragrunt",
+            "star": 5,
+            "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules."
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 62,
+            "description": "The world’s fastest framework for building websites."
+        }
+    ]
+}

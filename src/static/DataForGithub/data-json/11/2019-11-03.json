@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-03",
+    "month": 11,
+    "day": 3,
+    "python": [
+        {
+            "name": "streamlit",
+            "url": "https://github.com/streamlit/streamlit",
+            "star": 283,
+            "description": "Streamlit — The fastest way to build custom ML tools"
+        },
+        {
+            "name": "SinGAN",
+            "url": "https://github.com/tamarott/SinGAN",
+            "star": 297,
+            "description": "Official pytorch implementation of the paper: \"SinGAN: Learning a Generative Model from a Single Natural Image\""
+        },
+        {
+            "name": "DeepLearningExamples",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "star": 65,
+            "description": "Deep Learning Examples"
+        },
+        {
+            "name": "mypy",
+            "url": "https://github.com/python/mypy",
+            "star": 27,
+            "description": "Optional static typing for Python 3 and 2 (PEP 484)"
+        },
+        {
+            "name": "python-patterns",
+            "url": "https://github.com/faif/python-patterns",
+            "star": 32,
+            "description": "A collection of design patterns/idioms in Python"
+        },
+        {
+            "name": "dash",
+            "url": "https://github.com/plotly/dash",
+            "star": 84,
+            "description": "Analytical Web Apps for Python & R. No JavaScript Required."
+        },
+        {
+            "name": "nni",
+            "url": "https://github.com/microsoft/nni",
+            "star": 17,
+            "description": "An open source AutoML toolkit for neural architecture search and hyper-parameter tuning."
+        },
+        {
+            "name": "seq2seq-couplet",
+            "url": "https://github.com/wb14123/seq2seq-couplet",
+            "star": 96,
+            "description": "Play couplet with seq2seq model. 用深度学习对对联。"
+        },
+        {
+            "name": "optuna",
+            "url": "https://github.com/pfnet/optuna",
+            "star": 10,
+            "description": "A hyperparameter optimization framework"
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 136,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        }
+    ],
+    "java": [
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 144,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 108,
+            "description": "大数据入门指南⭐️"
+        },
+        {
+            "name": "alf.io",
+            "url": "https://github.com/alfio-event/alf.io",
+            "star": 133,
+            "description": "alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups"
+        },
+        {
+            "name": "libgdx",
+            "url": "https://github.com/libgdx/libgdx",
+            "star": 11,
+            "description": "Desktop/Android/HTML5/iOS Java game development framework"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 93,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 64,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 121,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "flink-learning",
+            "url": "https://github.com/zhisheng17/flink-learning",
+            "star": 19,
+            "description": "flink learning blog. http://www.54tianzhisheng.cn"
+        },
+        {
+            "name": "glide",
+            "url": "https://github.com/bumptech/glide",
+            "star": 16,
+            "description": "An image loading and caching library for Android focused on smooth scrolling"
+        },
+        {
+            "name": "SmartRefreshLayout",
+            "url": "https://github.com/scwang90/SmartRefreshLayout",
+            "star": 22,
+            "description": "🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Cookbook",
+            "url": "https://github.com/andkret/Cookbook",
+            "star": 95,
+            "description": "The Data Engineering Cookbook"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 290,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "Best-websites-a-programmer-should-visit",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "star": 185,
+            "description": "🔗Some useful websites for programmers."
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 111,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 73,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 84,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "SSR",
+            "url": "https://github.com/DuyaoSS/SSR",
+            "star": 19,
+            "description": "毒药笔记"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 135,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "python_for_data_analysis_2nd_chinese_version",
+            "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version",
+            "star": 87,
+            "description": "《利用Python进行数据分析·第2版》"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 100,
+            "description": "🤓Build your own (insert technology here)"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "BullshitGenerator",
+            "url": "https://github.com/menzi11/BullshitGenerator",
+            "star": 902,
+            "description": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this."
+        },
+        {
+            "name": "taobaoVisitingVenues",
+            "url": "https://github.com/sleepybear1113/taobaoVisitingVenues",
+            "star": 119,
+            "description": "双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android"
+        },
+        {
+            "name": "chinese-independent-blogs",
+            "url": "https://github.com/timqian/chinese-independent-blogs",
+            "star": 398,
+            "description": "中文独立博客列表"
+        },
+        {
+            "name": "BlockChain",
+            "url": "https://github.com/itheima1/BlockChain",
+            "star": 136,
+            "description": "黑马程序员 120天全栈区块链开发 开源教程"
+        },
+        {
+            "name": "kbone",
+            "url": "https://github.com/wechat-miniprogram/kbone",
+            "star": 66,
+            "description": "Web 与小程序同构解决方案"
+        },
+        {
+            "name": "AutoPiano",
+            "url": "https://github.com/WarpPrism/AutoPiano",
+            "star": 108,
+            "description": "自由钢琴🎹AutoPiano ( https://www.autopiano.cn ) Simple & Elegant Piano Online"
+        },
+        {
+            "name": "Administrative-divisions-of-China",
+            "url": "https://github.com/modood/Administrative-divisions-of-China",
+            "star": 52,
+            "description": "中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。"
+        },
+        {
+            "name": "jamstack-cms",
+            "url": "https://github.com/jamstack-cms/jamstack-cms",
+            "star": 52,
+            "description": "Modern full stack CMS. Built with GraphQL, AWS Amplify, and Serverless technologies."
+        },
+        {
+            "name": "Rocket.Chat",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "star": 17,
+            "description": "The ultimate Free Open Source Solution for team communications."
+        },
+        {
+            "name": "clean-code-javascript",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+            "star": 68,
+            "description": "🛁Clean Code concepts adapted for JavaScript"
+        }
+    ],
+    "html": [
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 4,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 5,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "OpenClash",
+            "url": "https://github.com/vernesong/OpenClash",
+            "star": 10,
+            "description": "A Clash Client For OpenWrt"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 15,
+            "description": "支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 26,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 7,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "compat-table",
+            "url": "https://github.com/kangax/compat-table",
+            "star": 4,
+            "description": "ECMAScript 5/6/7 compatibility tables"
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 3,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "tabler",
+            "url": "https://github.com/tabler/tabler",
+            "star": 31,
+            "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap"
+        },
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 5,
+            "description": "The Ethereum Improvement Proposal repository"
+        }
+    ],
+    "go": [
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 21,
+            "description": "A Go microservices development framework"
+        },
+        {
+            "name": "clash",
+            "url": "https://github.com/Dreamacro/clash",
+            "star": 32,
+            "description": "A rule-based tunnel in Go."
+        },
+        {
+            "name": "cloud-torrent",
+            "url": "https://github.com/jpillora/cloud-torrent",
+            "star": 52,
+            "description": "☁️Cloud Torrent: a self-hosted remote torrent client"
+        },
+        {
+            "name": "go-admin",
+            "url": "https://github.com/GoAdminGroup/go-admin",
+            "star": 125,
+            "description": "A dataviz framework help gopher to build a admin panel in ten minutes"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 33,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 70,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 42,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "fasthttp",
+            "url": "https://github.com/valyala/fasthttp",
+            "star": 65,
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http"
+        },
+        {
+            "name": "iris",
+            "url": "https://github.com/kataras/iris",
+            "star": 21,
+            "description": "感谢中国开发商 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bi…"
+        },
+        {
+            "name": "jaeger",
+            "url": "https://github.com/jaegertracing/jaeger",
+            "star": 35,
+            "description": "CNCF Jaeger, a Distributed Tracing Platform"
+        }
+    ]
+}

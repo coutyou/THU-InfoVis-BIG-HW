@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-26",
+    "month": 7,
+    "day": 26,
+    "python": [
+        {
+            "name": "mmaction",
+            "url": "https://github.com/open-mmlab/mmaction",
+            "star": 19,
+            "description": ""
+        },
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 357,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "wtfpython-cn",
+            "url": "https://github.com/leisurelicht/wtfpython-cn",
+            "star": 72,
+            "description": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译"
+        },
+        {
+            "name": "bluekeep",
+            "url": "https://github.com/0xeb-bp/bluekeep",
+            "star": 36,
+            "description": "Public work for CVE-2019-0708"
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 129,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "programming-talks",
+            "url": "https://github.com/hellerve/programming-talks",
+            "star": 69,
+            "description": "Awesome & interesting talks about programming"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 26,
+            "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "wtfpython",
+            "url": "https://github.com/satwikkansal/wtfpython",
+            "star": 21,
+            "description": "A collection of surprising Python snippets and lesser-known features."
+        },
+        {
+            "name": "APT_REPORT",
+            "url": "https://github.com/blackorbird/APT_REPORT",
+            "star": 27,
+            "description": "Interesting apt report collection and some special ioc express"
+        },
+        {
+            "name": "tensor2tensor",
+            "url": "https://github.com/tensorflow/tensor2tensor",
+            "star": 8,
+            "description": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research."
+        }
+    ],
+    "java": [
+        {
+            "name": "poli",
+            "url": "https://github.com/shzlw/poli",
+            "star": 89,
+            "description": "An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 281,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 135,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "x-boot",
+            "url": "https://github.com/Exrick/x-boot",
+            "star": 24,
+            "description": "基于Spring Boot 2.x的前后端分离开发平台X-Boot 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/Spring Data JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID生成 动态权限管理 数据权限 工作流 代码生成 日志记录 定时任务 第三方社交账号、短信登录 单点登录"
+        },
+        {
+            "name": "spring-security",
+            "url": "https://github.com/spring-projects/spring-security",
+            "star": 3,
+            "description": "Spring Security"
+        },
+        {
+            "name": "kylin",
+            "url": "https://github.com/apache/kylin",
+            "star": 8,
+            "description": "Apache Kylin"
+        },
+        {
+            "name": "pulsar",
+            "url": "https://github.com/apache/pulsar",
+            "star": 12,
+            "description": "Apache Pulsar - distributed pub-sub messaging system"
+        },
+        {
+            "name": "QMUI_Android",
+            "url": "https://github.com/Tencent/QMUI_Android",
+            "star": 20,
+            "description": "提高 Android UI 开发效率的 UI 库"
+        },
+        {
+            "name": "p3c",
+            "url": "https://github.com/alibaba/p3c",
+            "star": 34,
+            "description": "Alibaba Java Coding Guidelines pmd implements and IDE plugin"
+        },
+        {
+            "name": "react-native-navigation",
+            "url": "https://github.com/wix/react-native-navigation",
+            "star": 3,
+            "description": "A complete native navigation solution for React Native"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "technology_books",
+            "url": "https://github.com/arpitjindal97/technology_books",
+            "star": 77,
+            "description": "Premium eBook free for Geeks"
+        },
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 187,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 366,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 235,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r…"
+        },
+        {
+            "name": "English-level-up-tips-for-Chinese",
+            "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+            "star": 111,
+            "description": "可能是让你受益匪浅的英语进阶指南"
+        },
+        {
+            "name": "awesome-production-machine-learning",
+            "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+            "star": 56,
+            "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+        },
+        {
+            "name": "AMD_Vanilla",
+            "url": "https://github.com/AMD-OSX/AMD_Vanilla",
+            "star": 10,
+            "description": "Native AMD macOS via Clover KernelToPatch"
+        },
+        {
+            "name": "30-seconds-zh_CN",
+            "url": "https://github.com/b3log/30-seconds-zh_CN",
+            "star": 71,
+            "description": "📙前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。"
+        },
+        {
+            "name": "flink-training-course",
+            "url": "https://github.com/flink-china/flink-training-course",
+            "star": 34,
+            "description": "Flink 中文视频课程（持续更新...）"
+        },
+        {
+            "name": "industry-machine-learning",
+            "url": "https://github.com/firmai/industry-machine-learning",
+            "star": 138,
+            "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "cube.js",
+            "url": "https://github.com/cube-js/cube.js",
+            "star": 225,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "Front-End-Checklist",
+            "url": "https://github.com/thedaviddias/Front-End-Checklist",
+            "star": 97,
+            "description": "🗂The perfect Front-End Checklist for modern websites and meticulous developers"
+        },
+        {
+            "name": "500lines",
+            "url": "https://github.com/aosabook/500lines",
+            "star": 52,
+            "description": "500 Lines or Less"
+        },
+        {
+            "name": "generator-jhipster",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "star": 11,
+            "description": "Open Source application generator for creating Spring Boot + Angular/React projects in seconds!"
+        },
+        {
+            "name": "site-kit-wp",
+            "url": "https://github.com/google/site-kit-wp",
+            "star": 8,
+            "description": "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+        },
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/leonardomso/33-js-concepts",
+            "star": 23,
+            "description": "📜33 concepts every JavaScript developer should know."
+        },
+        {
+            "name": "franz",
+            "url": "https://github.com/meetfranz/franz",
+            "star": 9,
+            "description": "Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more."
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 33,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "aws-serverless-workshops",
+            "url": "https://github.com/aws-samples/aws-serverless-workshops",
+            "star": 6,
+            "description": "Code and walkthrough labs to set up serverless applications for Wild Rydes workshops"
+        },
+        {
+            "name": "socket.io",
+            "url": "https://github.com/socketio/socket.io",
+            "star": 17,
+            "description": "Realtime application framework (Node.JS server)"
+        }
+    ],
+    "html": [
+        {
+            "name": "proposal-nullish-coalescing",
+            "url": "https://github.com/tc39/proposal-nullish-coalescing",
+            "star": 35,
+            "description": "Nullish coalescing proposal x ?? y"
+        },
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 117,
+            "description": ""
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 7,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 8,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 10,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 12,
+            "description": "Modern Phishing Tool With Advanced Functionality [ Android-Support-Available ]"
+        },
+        {
+            "name": "computer-science-flash-cards",
+            "url": "https://github.com/jwasham/computer-science-flash-cards",
+            "star": 6,
+            "description": "Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization."
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 1,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "awesome-angular",
+            "url": "https://github.com/PatrickJS/awesome-angular",
+            "star": 0,
+            "description": "📄A curated list of awesome Angular resources"
+        },
+        {
+            "name": "500LineorLess_CN",
+            "url": "https://github.com/HT524/500LineorLess_CN",
+            "star": 15,
+            "description": "500 line or less 中文翻译计划。"
+        }
+    ],
+    "go": [
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 142,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 108,
+            "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 73,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "influxdb",
+            "url": "https://github.com/influxdata/influxdb",
+            "star": 55,
+            "description": "Scalable datastore for metrics, events, and real-time analytics"
+        },
+        {
+            "name": "kruise",
+            "url": "https://github.com/openkruise/kruise",
+            "star": 11,
+            "description": "Automate application workloads management on Kubernetes"
+        },
+        {
+            "name": "testify",
+            "url": "https://github.com/stretchr/testify",
+            "star": 14,
+            "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+        },
+        {
+            "name": "origin",
+            "url": "https://github.com/openshift/origin",
+            "star": 10,
+            "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone"
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 23,
+            "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 11,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "packer",
+            "url": "https://github.com/hashicorp/packer",
+            "star": 26,
+            "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+        }
+    ]
+}

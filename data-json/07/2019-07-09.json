@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-09",
+    "month": 7,
+    "day": 9,
+    "python": [
+        {
+            "name": "numpy-ml",
+            "url": "https://github.com/ddbourgin/numpy-ml",
+            "star": 409,
+            "description": "Machine learning, in numpy"
+        },
+        {
+            "name": "RLTrader",
+            "url": "https://github.com/notadamking/RLTrader",
+            "star": 87,
+            "description": "A profitable cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym"
+        },
+        {
+            "name": "zipline",
+            "url": "https://github.com/quantopian/zipline",
+            "star": 63,
+            "description": "Zipline, a Pythonic Algorithmic Trading Library"
+        },
+        {
+            "name": "bokeh",
+            "url": "https://github.com/bokeh/bokeh",
+            "star": 109,
+            "description": "Interactive Web Plotting for Python"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 61,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "esim-response-selection",
+            "url": "https://github.com/alibaba/esim-response-selection",
+            "star": 60,
+            "description": "ESIM for Multi-turn Response Selection Task"
+        },
+        {
+            "name": "pyodide",
+            "url": "https://github.com/iodide-project/pyodide",
+            "star": 35,
+            "description": "The Python scientific stack, compiled to WebAssembly"
+        },
+        {
+            "name": "mne-python",
+            "url": "https://github.com/mne-tools/mne-python",
+            "star": 4,
+            "description": "MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python"
+        },
+        {
+            "name": "ChineseBQB",
+            "url": "https://github.com/zhaoolee/ChineseBQB",
+            "star": 227,
+            "description": "🇨🇳Chinese sticker pack / 中国表情包大集合"
+        },
+        {
+            "name": "YOLOv3-model-pruning",
+            "url": "https://github.com/Lam1360/YOLOv3-model-pruning",
+            "star": 77,
+            "description": "对 YOLOv3 做模型剪枝（network slimming），对于 oxford hand 数据集（因项目需要），模型剪枝后的参数量减少 80%，Infer 的速度达到原来 2 倍，mAP 基本不变"
+        }
+    ],
+    "java": [
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 260,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 23,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 208,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "CtCI-6th-Edition",
+            "url": "https://github.com/careercup/CtCI-6th-Edition",
+            "star": 18,
+            "description": "Cracking the Coding Interview 6th Ed. Solutions"
+        },
+        {
+            "name": "tech-weekly",
+            "url": "https://github.com/mercyblitz/tech-weekly",
+            "star": 39,
+            "description": "「小马哥技术周报」"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 172,
+            "description": "一款基于代码生成器的JAVA快速开发平台！全新架构前后端分离：SpringBoot 2.x，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "pulsar",
+            "url": "https://github.com/apache/pulsar",
+            "star": 10,
+            "description": "Apache Pulsar - distributed pub-sub messaging system"
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 38,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（16k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "antlr4",
+            "url": "https://github.com/antlr/antlr4",
+            "star": 12,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+        },
+        {
+            "name": "NewPipe",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "star": 7,
+            "description": "A libre lightweight streaming front-end for Android."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 327,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "LiteratureDL4Graph",
+            "url": "https://github.com/DeepGraphLearning/LiteratureDL4Graph",
+            "star": 222,
+            "description": ""
+        },
+        {
+            "name": "android-developer-roadmap",
+            "url": "https://github.com/mobile-roadmap/android-developer-roadmap",
+            "star": 82,
+            "description": "Android Developer Roadmap 2019"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 63,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "p1xt-guides",
+            "url": "https://github.com/P1xt/p1xt-guides",
+            "star": 5,
+            "description": "Programming curricula"
+        },
+        {
+            "name": "awesome-object-detection",
+            "url": "https://github.com/amusi/awesome-object-detection",
+            "star": 20,
+            "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html"
+        },
+        {
+            "name": "my-git",
+            "url": "https://github.com/xirong/my-git",
+            "star": 7,
+            "description": "Individual collecting material of learning git（有关 git 的学习资料）"
+        },
+        {
+            "name": "Safety-Project-Collection",
+            "url": "https://github.com/Bypass007/Safety-Project-Collection",
+            "star": 59,
+            "description": "收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。"
+        },
+        {
+            "name": "The-Economist",
+            "url": "https://github.com/nailperry-zd/The-Economist",
+            "star": 18,
+            "description": "The Economist 经济学人，持续更新"
+        },
+        {
+            "name": "awesome-github-vue",
+            "url": "https://github.com/opendigg/awesome-github-vue",
+            "star": 7,
+            "description": "Vue相关开源项目库汇总"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "desafio-1",
+            "url": "https://github.com/maratonadev/desafio-1",
+            "star": 17,
+            "description": "Desafio 1 ~ Grupo Pão de Açúcar"
+        },
+        {
+            "name": "edex-ui",
+            "url": "https://github.com/GitSquared/edex-ui",
+            "star": 97,
+            "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support."
+        },
+        {
+            "name": "cli",
+            "url": "https://github.com/react-native-community/cli",
+            "star": 5,
+            "description": "React Native command line tools"
+        },
+        {
+            "name": "jexcel",
+            "url": "https://github.com/paulhodel/jexcel",
+            "star": 52,
+            "description": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software."
+        },
+        {
+            "name": "gridsome",
+            "url": "https://github.com/gridsome/gridsome",
+            "star": 19,
+            "description": "⚡️A Modern Site Generator for Vue.js"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 49,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "WebGL-Fluid-Simulation",
+            "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+            "star": 18,
+            "description": "Play with fluids in your browser (works even on mobile)"
+        },
+        {
+            "name": "cgm-remote-monitor",
+            "url": "https://github.com/nightscout/cgm-remote-monitor",
+            "star": 5,
+            "description": "nightscout web monitor"
+        },
+        {
+            "name": "joplin",
+            "url": "https://github.com/laurent22/joplin",
+            "star": 10,
+            "description": "Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 31,
+            "description": "谷歌访问助手破解版"
+        }
+    ],
+    "html": [
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 26,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "zfaka",
+            "url": "https://github.com/zlkbdotnet/zfaka",
+            "star": 9,
+            "description": "免费、安全、稳定、高效的发卡系统，值得拥有!"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 22,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 11,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "geektime-ELK",
+            "url": "https://github.com/onebirdrocks/geektime-ELK",
+            "star": 5,
+            "description": "ELK Training"
+        },
+        {
+            "name": "metasploitable3",
+            "url": "https://github.com/rapid7/metasploitable3",
+            "star": 4,
+            "description": "Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities."
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 5,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "scikit-learn-doc-zh",
+            "url": "https://github.com/apachecn/scikit-learn-doc-zh",
+            "star": 2,
+            "description": "📖[译] scikit-learn（sklearn） 中文文档"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 1,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "seekpassword",
+            "url": "https://github.com/Wsine/seekpassword",
+            "star": 5,
+            "description": "SeekPassword is a software inspired by FlowerPassword"
+        }
+    ],
+    "go": [
+        {
+            "name": "pan-light",
+            "url": "https://github.com/peterq/pan-light",
+            "star": 519,
+            "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 90,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 14,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "goconvey",
+            "url": "https://github.com/smartystreets/goconvey",
+            "star": 12,
+            "description": "Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go."
+        },
+        {
+            "name": "qt",
+            "url": "https://github.com/therecipe/qt",
+            "star": 19,
+            "description": "Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 37,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "raft",
+            "url": "https://github.com/hashicorp/raft",
+            "star": 12,
+            "description": "Golang implementation of the Raft consensus protocol"
+        },
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 21,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "dnscrypt-proxy",
+            "url": "https://github.com/jedisct1/dnscrypt-proxy",
+            "star": 8,
+            "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols."
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 49,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        }
+    ]
+}

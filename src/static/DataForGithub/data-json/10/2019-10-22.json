@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-22",
+    "month": 10,
+    "day": 22,
+    "python": [
+        {
+            "name": "pwnagotchi",
+            "url": "https://github.com/evilsocket/pwnagotchi",
+            "star": 90,
+            "description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning."
+        },
+        {
+            "name": "KnowledgeGraphData",
+            "url": "https://github.com/ownthink/KnowledgeGraphData",
+            "star": 277,
+            "description": "史上最大规模1.4亿中文知识图谱开源下载"
+        },
+        {
+            "name": "zipline",
+            "url": "https://github.com/quantopian/zipline",
+            "star": 83,
+            "description": "Zipline, a Pythonic Algorithmic Trading Library"
+        },
+        {
+            "name": "tensortrade",
+            "url": "https://github.com/notadamking/tensortrade",
+            "star": 59,
+            "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents."
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 127,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "chrome_password_grabber",
+            "url": "https://github.com/x899/chrome_password_grabber",
+            "star": 31,
+            "description": "Get unencrypted 'Saved Password' from Google Chrome"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 91,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "data-science-ipython-notebooks",
+            "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+            "star": 45,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+        },
+        {
+            "name": "machine_learning_examples",
+            "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+            "star": 5,
+            "description": "A collection of machine learning examples and tutorials."
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 38,
+            "description": "🔎Find usernames across social networks"
+        }
+    ],
+    "java": [
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 40,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "Algorithms",
+            "url": "https://github.com/williamfiset/Algorithms",
+            "star": 30,
+            "description": "A collection of algorithms and data structures"
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 39,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 114,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "bazel",
+            "url": "https://github.com/bazelbuild/bazel",
+            "star": 24,
+            "description": "a fast, scalable, multi-language and extensible build system"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 10,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw"
+        },
+        {
+            "name": "CtCI-6th-Edition",
+            "url": "https://github.com/careercup/CtCI-6th-Edition",
+            "star": 8,
+            "description": "Cracking the Coding Interview 6th Ed. Solutions"
+        },
+        {
+            "name": "data-structures",
+            "url": "https://github.com/williamfiset/data-structures",
+            "star": 15,
+            "description": "A collection of powerful data structures"
+        },
+        {
+            "name": "algs4",
+            "url": "https://github.com/kevin-wayne/algs4",
+            "star": 9,
+            "description": "Algorithms, 4th edition textbook code and libraries"
+        },
+        {
+            "name": "Pix-EzViewer",
+            "url": "https://github.com/Notsfsssf/Pix-EzViewer",
+            "star": 11,
+            "description": "一个支持免代理直连及查看动图的第三方Pixiv android客户端"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "p1xt-guides",
+            "url": "https://github.com/P1xt/p1xt-guides",
+            "star": 5,
+            "description": "Programming curricula"
+        },
+        {
+            "name": "reverse-interview-zh",
+            "url": "https://github.com/yifeikong/reverse-interview-zh",
+            "star": 412,
+            "description": "技术面试最后反问面试官的话"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 31,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "uber_go_guide_cn",
+            "url": "https://github.com/xxjwxc/uber_go_guide_cn",
+            "star": 55,
+            "description": "The Uber Go Style Guide . Uber Go 语言编码规范中文版"
+        },
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 16,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        },
+        {
+            "name": "Machine-Learning-Yearning-Vietnamese-Translation",
+            "url": "https://github.com/aivivn/Machine-Learning-Yearning-Vietnamese-Translation",
+            "star": 15,
+            "description": ""
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 47,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 65,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "awesome-cli-apps",
+            "url": "https://github.com/agarrharr/awesome-cli-apps",
+            "star": 21,
+            "description": "🖥📊🕹🛠A curated list of command line apps"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 73,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/leonardomso/33-js-concepts",
+            "star": 46,
+            "description": "📜33 concepts every JavaScript developer should know."
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 214,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "react-developer-roadmap",
+            "url": "https://github.com/adam-golab/react-developer-roadmap",
+            "star": 18,
+            "description": "Roadmap to becoming a React developer in 2019"
+        },
+        {
+            "name": "WebGL-Fluid-Simulation",
+            "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+            "star": 10,
+            "description": "Play with fluids in your browser (works even on mobile)"
+        },
+        {
+            "name": "bypass-paywalls-chrome",
+            "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+            "star": 10,
+            "description": "Bypass Paywalls for Chrome"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 44,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/stephentian/33-js-concepts",
+            "star": 10,
+            "description": "📜每个 JavaScript 工程师都应懂的33个概念 @leonardomso"
+        },
+        {
+            "name": "react-redux-firebase",
+            "url": "https://github.com/prescottprue/react-redux-firebase",
+            "star": 4,
+            "description": "Redux bindings for Firebase. Includes React Hooks and Higher Order Components."
+        },
+        {
+            "name": "markdown-here",
+            "url": "https://github.com/adam-p/markdown-here",
+            "star": 31,
+            "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending."
+        },
+        {
+            "name": "reactstrap",
+            "url": "https://github.com/reactstrap/reactstrap",
+            "star": 5,
+            "description": "Simple React Bootstrap 4 components"
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 540,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 68,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "algorithm004-04",
+            "url": "https://github.com/algorithm004-04/algorithm004-04",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 4,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 14,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "dragon-book-exercise-answers",
+            "url": "https://github.com/fool2fish/dragon-book-exercise-answers",
+            "star": 9,
+            "description": "Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 10,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "web-api-auth-examples",
+            "url": "https://github.com/spotify/web-api-auth-examples",
+            "star": 2,
+            "description": "Basic examples to authenticate and fetch data using the Spotify Web API"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 5,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 13,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        }
+    ],
+    "go": [
+        {
+            "name": "dapr",
+            "url": "https://github.com/dapr/dapr",
+            "star": 452,
+            "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge."
+        },
+        {
+            "name": "bettercap",
+            "url": "https://github.com/bettercap/bettercap",
+            "star": 20,
+            "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks."
+        },
+        {
+            "name": "gocache",
+            "url": "https://github.com/eko/gocache",
+            "star": 38,
+            "description": "☔️A complete Go cache library that brings you multiple ways of managing your caches"
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 51,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "Amass",
+            "url": "https://github.com/OWASP/Amass",
+            "star": 27,
+            "description": "In-depth Attack Surface Mapping and Asset Discovery"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 30,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "serf",
+            "url": "https://github.com/hashicorp/serf",
+            "star": 2,
+            "description": "Service orchestration and management tool."
+        },
+        {
+            "name": "lnd",
+            "url": "https://github.com/lightningnetwork/lnd",
+            "star": 9,
+            "description": "Lightning Network Daemon⚡️"
+        },
+        {
+            "name": "cli",
+            "url": "https://github.com/docker/cli",
+            "star": 5,
+            "description": "The Docker CLI"
+        },
+        {
+            "name": "yay",
+            "url": "https://github.com/Jguer/yay",
+            "star": 8,
+            "description": "Yet another Yogurt - An AUR Helper written in Go"
+        }
+    ]
+}

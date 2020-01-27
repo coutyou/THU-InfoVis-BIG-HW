@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-23",
+    "month": 3,
+    "day": 23,
+    "python": [
+        {
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi",
+            "star": 315,
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+        },
+        {
+            "name": "requests-async",
+            "url": "https://github.com/encode/requests-async",
+            "star": 201,
+            "description": "async-await support for `requests`.🍰"
+        },
+        {
+            "name": "BigGAN-PyTorch",
+            "url": "https://github.com/ajbrock/BigGAN-PyTorch",
+            "star": 198,
+            "description": "The author's officially unofficial PyTorch BigGAN implementation."
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 142,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "pytorch-pretrained-BigGAN",
+            "url": "https://github.com/huggingface/pytorch-pretrained-BigGAN",
+            "star": 133,
+            "description": "🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts."
+        },
+        {
+            "name": "paper-tips-and-tricks",
+            "url": "https://github.com/Wookai/paper-tips-and-tricks",
+            "star": 111,
+            "description": "Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab."
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 67,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 56,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 62,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 62,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 166,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "rars",
+            "url": "https://github.com/TheThirdOne/rars",
+            "star": 121,
+            "description": "RARS -- RISC-V Assembler and Runtime Simulator"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 83,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "apkgrabber",
+            "url": "https://github.com/hemker/apkgrabber",
+            "star": 88,
+            "description": "APKGrabber is a tool that simplifies the process of finding updates for your installed apps."
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 60,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "x7",
+            "url": "https://github.com/x-ream/x7",
+            "star": 38,
+            "description": ""
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 58,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 55,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 28,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "SpringBoot-Learning",
+            "url": "https://github.com/dyc87112/SpringBoot-Learning",
+            "star": 46,
+            "description": "Spring Boot基础教程"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Machine-Learning-Study-Path-March-2019",
+            "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+            "star": 525,
+            "description": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+        },
+        {
+            "name": "Reddit-Privacy-Megathread",
+            "url": "https://github.com/aaronthecodpro/Reddit-Privacy-Megathread",
+            "star": 200,
+            "description": ""
+        },
+        {
+            "name": "SPADE",
+            "url": "https://github.com/NVlabs/SPADE",
+            "star": 185,
+            "description": ""
+        },
+        {
+            "name": "js-dev-reads",
+            "url": "https://github.com/twhite96/js-dev-reads",
+            "star": 180,
+            "description": "A list of books📚and articles📝for the discerning web developer to read."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 145,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 99,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome-uses",
+            "url": "https://github.com/wesbos/awesome-uses",
+            "star": 112,
+            "description": "Awesome Uses Page"
+        },
+        {
+            "name": "horseshoe",
+            "url": "https://github.com/veedrin/horseshoe",
+            "star": 89,
+            "description": "🍧代号马蹄铁。以专题为单位的学习。目前已发布 { Grid专题 } { Flex专题 } { Git专题 } { Regex专题 } { Redux专题 } { React专题 }"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 83,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 63,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 414,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "laxxx",
+            "url": "https://github.com/alexfoxy/laxxx",
+            "star": 275,
+            "description": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!"
+        },
+        {
+            "name": "wechat-format",
+            "url": "https://github.com/lyricat/wechat-format",
+            "star": 246,
+            "description": "微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 228,
+            "description": "油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 127,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "Mosaic",
+            "url": "https://github.com/Authman2/Mosaic",
+            "star": 109,
+            "description": "🎨A front-end JavaScript library for building user interfaces."
+        },
+        {
+            "name": "stereogram-raycaster",
+            "url": "https://github.com/ammonb/stereogram-raycaster",
+            "star": 96,
+            "description": "A raycaster that renders to random dot stereogram"
+        },
+        {
+            "name": "npk",
+            "url": "https://github.com/Coalfire-Research/npk",
+            "star": 91,
+            "description": "A mostly-serverless distributed hash cracking platform"
+        },
+        {
+            "name": "gifify",
+            "url": "https://github.com/vvo/gifify",
+            "star": 78,
+            "description": "😻Convert any video file to an optimized animated GIF."
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 72,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        }
+    ],
+    "html": [
+        {
+            "name": "WeChatAgreement.WebApi.Simple",
+            "url": "https://github.com/changtuiqie/WeChatAgreement.WebApi.Simple",
+            "star": 97,
+            "description": "mac微信,ipad微信 webapi封装好的实现方案，免IIS一键部署。 可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等"
+        },
+        {
+            "name": "Panda-Learning",
+            "url": "https://github.com/Alivon/Panda-Learning",
+            "star": 60,
+            "description": "学习强国xuexiqiangguo--熊猫学习Panda-Learning是一个辅助学习 学习强国的程序,帮助挤不出时间，却仍然需要学习的积极分子，学习强国(xuexiqiangguo)"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 42,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 30,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "evtjs",
+            "url": "https://github.com/everitoken/evtjs",
+            "star": 32,
+            "description": "API Binding (SDK) for the everiToken blockchain."
+        },
+        {
+            "name": "lets-get-arrested",
+            "url": "https://github.com/hamukazu/lets-get-arrested",
+            "star": 24,
+            "description": "This project is intended to protest against the police in Japan"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 22,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "micromodal",
+            "url": "https://github.com/ghosh/micromodal",
+            "star": 19,
+            "description": "⭕ Tiny javascript library for creating accessible modal dialogs"
+        },
+        {
+            "name": "bottle",
+            "url": "https://github.com/interplanaria/bottle",
+            "star": 16,
+            "description": "Bitcoin Browser"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 12,
+            "description": "Kubernetes website and documentation repo:"
+        }
+    ],
+    "go": [
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 525,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "pipeline",
+            "url": "https://github.com/tektoncd/pipeline",
+            "star": 84,
+            "description": "A K8s-native Pipeline resource."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 78,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubesphere",
+            "url": "https://github.com/kubesphere/kubesphere",
+            "star": 78,
+            "description": "Enterprise Container Management Platform"
+        },
+        {
+            "name": "countdown",
+            "url": "https://github.com/antonmedv/countdown",
+            "star": 70,
+            "description": "Terminal countdown timer"
+        },
+        {
+            "name": "awesome-golang-leetcode",
+            "url": "https://github.com/kylesliu/awesome-golang-leetcode",
+            "star": 71,
+            "description": "📝LeetCode of algorithms with golang solution(updating)."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 60,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "porter",
+            "url": "https://github.com/kubesphere/porter",
+            "star": 65,
+            "description": "LB controller for Kubernetes on bare metal"
+        },
+        {
+            "name": "docker-debug",
+            "url": "https://github.com/zeromake/docker-debug",
+            "star": 61,
+            "description": "use new container attach on already container go on debug"
+        },
+        {
+            "name": "openpitrix",
+            "url": "https://github.com/openpitrix/openpitrix",
+            "star": 60,
+            "description": "Application Management Platform on Multi-Cloud Environment"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-04",
+    "month": 3,
+    "day": 4,
+    "python": [
+        {
+            "name": "zero",
+            "url": "https://github.com/remoteinterview/zero",
+            "star": 229,
+            "description": "Zero is a web server to simplify web development."
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 169,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 145,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "d6tflow",
+            "url": "https://github.com/d6t/d6tflow",
+            "star": 128,
+            "description": "Python library for building highly effective data science workflows"
+        },
+        {
+            "name": "lazynlp",
+            "url": "https://github.com/chiphuyen/lazynlp",
+            "star": 122,
+            "description": "Library to scrape and clean web pages to create massive datasets."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 99,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 99,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "subsync",
+            "url": "https://github.com/smacke/subsync",
+            "star": 94,
+            "description": "Automagically synchronize subtitles with video."
+        },
+        {
+            "name": "bullet",
+            "url": "https://github.com/Mckinsey666/bullet",
+            "star": 65,
+            "description": "🚅Beautiful Python prompts made simple. Build a prompt like stacking blocks."
+        },
+        {
+            "name": "pghoard",
+            "url": "https://github.com/aiven/pghoard",
+            "star": 64,
+            "description": "PostgreSQL backup and restore service"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 131,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 81,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 64,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 48,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 47,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "bubble-navigation",
+            "url": "https://github.com/gauravk95/bubble-navigation",
+            "star": 46,
+            "description": "🎉[Android Library] A light-weight library to easily make beautiful Navigation Bar with ton of🎨customization option."
+        },
+        {
+            "name": "rocketmq",
+            "url": "https://github.com/apache/rocketmq",
+            "star": 23,
+            "description": "Mirror of Apache RocketMQ"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 30,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 32,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 36,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "distsys-class",
+            "url": "https://github.com/aphyr/distsys-class",
+            "star": 467,
+            "description": "Class materials for a distributed systems lecture series"
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 127,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 105,
+            "description": "Gitbook"
+        },
+        {
+            "name": "python_interview_question",
+            "url": "https://github.com/kenwoodjw/python_interview_question",
+            "star": 94,
+            "description": "关于python的面试题"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 82,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 71,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 43,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 53,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 55,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 40,
+            "description": "📚Freely available programming books"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "star": 367,
+            "description": "⭐️Companies that don't have a broken hiring process"
+        },
+        {
+            "name": "gpu.js",
+            "url": "https://github.com/gpujs/gpu.js",
+            "star": 145,
+            "description": "GPU Accelerated JavaScript"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 124,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "hooks-perf-issues",
+            "url": "https://github.com/ryardley/hooks-perf-issues",
+            "star": 116,
+            "description": "This repo demonstrates a situation where it is slower to use React hooks than classes"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 100,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "grpchat",
+            "url": "https://github.com/enfipy/grpchat",
+            "star": 73,
+            "description": "Chat based on gRPC"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 63,
+            "description": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "cleave.js",
+            "url": "https://github.com/nosir/cleave.js",
+            "star": 62,
+            "description": "Format input text content when you are typing..."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 55,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "NodeMail",
+            "url": "https://github.com/Vincedream/NodeMail",
+            "star": 53,
+            "description": "💗用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件"
+        }
+    ],
+    "html": [
+        {
+            "name": "automatic-app-landing-page",
+            "url": "https://github.com/emilbaehr/automatic-app-landing-page",
+            "star": 232,
+            "description": "A Jekyll theme for automatically generating and deploying landing page sites for mobile apps."
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 67,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 20,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 18,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "evtjs",
+            "url": "https://github.com/everitoken/evtjs",
+            "star": 17,
+            "description": "API Binding (SDK) for the everiToken blockchain."
+        },
+        {
+            "name": "climanifeste",
+            "url": "https://github.com/climanifeste/climanifeste",
+            "star": 18,
+            "description": "Manifeste écologique des professionnels de l'informatique"
+        },
+        {
+            "name": "javascript-tutorial-zh",
+            "url": "https://github.com/xitu/javascript-tutorial-zh",
+            "star": 19,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "stisla",
+            "url": "https://github.com/stisla/stisla",
+            "star": 13,
+            "description": "Free Bootstrap Admin Template"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 6,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        }
+    ],
+    "go": [
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 158,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "kube-eagle",
+            "url": "https://github.com/google-cloud-tools/kube-eagle",
+            "star": 55,
+            "description": "A prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster."
+        },
+        {
+            "name": "1m-go-tcp-server",
+            "url": "https://github.com/smallnest/1m-go-tcp-server",
+            "star": 52,
+            "description": "benchmarks for implementation of servers which support 1 million connections"
+        },
+        {
+            "name": "1m-go-websockets",
+            "url": "https://github.com/eranyanay/1m-go-websockets",
+            "star": 45,
+            "description": "handling 1M websockets connections in Go"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 37,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 39,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 31,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "immutable",
+            "url": "https://github.com/benbjohnson/immutable",
+            "star": 34,
+            "description": "Immutable collections for Go"
+        },
+        {
+            "name": "CovenantSQL",
+            "url": "https://github.com/CovenantSQL/CovenantSQL",
+            "star": 31,
+            "description": "a SQL database with Blockchain features."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 27,
+            "description": "The Go programming language"
+        }
+    ]
+}

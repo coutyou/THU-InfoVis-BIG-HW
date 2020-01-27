@@ -1,0 +1,377 @@
+{
+    "date": "2019-01-17",
+    "month": 1,
+    "day": 17,
+    "python": [
+        {
+            "name": "py12306",
+            "url": "https://github.com/pjialin/py12306",
+            "star": 521,
+            "description": "🚂12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 376,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "deep-learning-ocean",
+            "url": "https://github.com/osforscience/deep-learning-ocean",
+            "star": 331,
+            "description": "📡All You Need to Know About Deep Learning - A kick-starter"
+        },
+        {
+            "name": "project_alias",
+            "url": "https://github.com/bjoernkarmann/project_alias",
+            "star": 219,
+            "description": "Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you."
+        },
+        {
+            "name": "ESFileExplorerOpenPortVuln",
+            "url": "https://github.com/fs0c131y/ESFileExplorerOpenPortVuln",
+            "star": 162,
+            "description": "ES File Explorer Open Port Vulnerability - CVE-2019-6447"
+        },
+        {
+            "name": "super-inspire-end",
+            "url": "https://github.com/super-inspire/super-inspire-end",
+            "star": 148,
+            "description": "在不到30s内得到一个干净的开箱即用的临时linux系统.(暂时提供Ubuntu, Centos, Alpine进行测试, 后续会提供更多)"
+        },
+        {
+            "name": "CopyTranslator",
+            "url": "https://github.com/elliottzheng/CopyTranslator",
+            "star": 148,
+            "description": "Foreign language reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1)"
+        },
+        {
+            "name": "Gasyori100knock",
+            "url": "https://github.com/yoyoyo-yo/Gasyori100knock",
+            "star": 109,
+            "description": ""
+        },
+        {
+            "name": "awesome-python-applications",
+            "url": "https://github.com/mahmoud/awesome-python-applications",
+            "star": 98,
+            "description": "💿Free software that works great, and also happens to be open-source Python."
+        },
+        {
+            "name": "ObjectDetection-OneStageDet",
+            "url": "https://github.com/TencentYoutuResearch/ObjectDetection-OneStageDet",
+            "star": 88,
+            "description": ""
+        }
+    ],
+    "java": [
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 255,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 201,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 148,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 130,
+            "description": "⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 122,
+            "description": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 67,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 56,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "DDMQ",
+            "url": "https://github.com/didi/DDMQ",
+            "star": 54,
+            "description": "DDMQ is a distributed messaging product with low latency, high throughput and high availability."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 34,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 48,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "A-Programmers-Guide-to-English",
+            "url": "https://github.com/yujiangshui/A-Programmers-Guide-to-English",
+            "star": 403,
+            "description": "专为程序员编写的英语学习指南 v1.1"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 362,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 120,
+            "description": "📚面试必备基础知识"
+        },
+        {
+            "name": "gamedesign-playlist",
+            "url": "https://github.com/kkga/gamedesign-playlist",
+            "star": 128,
+            "description": ""
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 114,
+            "description": "A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+        },
+        {
+            "name": "awesome-react",
+            "url": "https://github.com/enaqx/awesome-react",
+            "star": 111,
+            "description": "A collection of awesome things regarding React ecosystem."
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 95,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 72,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 77,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "GitHubDaily",
+            "url": "https://github.com/GitHubDaily/GitHubDaily",
+            "star": 62,
+            "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "nuclear",
+            "url": "https://github.com/nukeop/nuclear",
+            "star": 934,
+            "description": "Popcorn Time for music"
+        },
+        {
+            "name": "shiny",
+            "url": "https://github.com/rikschennink/shiny",
+            "star": 723,
+            "description": "🌟Shiny reflections for mobile websites"
+        },
+        {
+            "name": "anime",
+            "url": "https://github.com/juliangarnier/anime",
+            "star": 324,
+            "description": "JavaScript animation engine"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/i0natan/nodebestpractices",
+            "star": 278,
+            "description": "The largest Node.js best practices list (January 2019)"
+        },
+        {
+            "name": "BitVision",
+            "url": "https://github.com/shobrook/BitVision",
+            "star": 245,
+            "description": "Bitcoin forecasting, trading, and charting software that works entirely in the terminal"
+        },
+        {
+            "name": "earth-reverse-engineering",
+            "url": "https://github.com/retroplasma/earth-reverse-engineering",
+            "star": 227,
+            "description": "WIP"
+        },
+        {
+            "name": "CSS-Inspiration",
+            "url": "https://github.com/chokcoco/CSS-Inspiration",
+            "star": 202,
+            "description": "CSS Inspiration，在这里找到写 CSS 的灵感！"
+        },
+        {
+            "name": "alasql",
+            "url": "https://github.com/agershun/alasql",
+            "star": 160,
+            "description": "AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 146,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 135,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        }
+    ],
+    "html": [
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 54,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 43,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "wtf-2019-rsc",
+            "url": "https://github.com/jennybc/wtf-2019-rsc",
+            "star": 6,
+            "description": "What They Forgot to Teach You About R, 2019 January 15/16 @ rstudio::conf"
+        },
+        {
+            "name": "dataviz",
+            "url": "https://github.com/clauswilke/dataviz",
+            "star": 25,
+            "description": "A book covering the fundamentals of data visualization."
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 19,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "security_whitepapers",
+            "url": "https://github.com/bl4de/security_whitepapers",
+            "star": 16,
+            "description": "Collection of misc IT Security related whitepapers, presentations, slides - hacking, bug bounty, web application security, XSS, CSRF, SQLi"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 16,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "frida-all-in-one",
+            "url": "https://github.com/hookmaster/frida-all-in-one",
+            "star": 14,
+            "description": "《FRIDA操作手册》by @hluwa @r0ysue"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 13,
+            "description": "《Flutter实战》电子书"
+        }
+    ],
+    "go": [
+        {
+            "name": "act",
+            "url": "https://github.com/nektos/act",
+            "star": 253,
+            "description": "Run your GitHub Actions locally"
+        },
+        {
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi",
+            "star": 160,
+            "description": "Manage your dotfiles securely across multiple machines."
+        },
+        {
+            "name": "openedge",
+            "url": "https://github.com/baidu/openedge",
+            "star": 105,
+            "description": "Extend cloud computing, data and service seamlessly to edge devices."
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 100,
+            "description": "A microservice framework"
+        },
+        {
+            "name": "sower",
+            "url": "https://github.com/wweir/sower",
+            "star": 98,
+            "description": "Yet another cross platform transparent proxy tool"
+        },
+        {
+            "name": "stegify",
+            "url": "https://github.com/DimitarPetrov/stegify",
+            "star": 82,
+            "description": "Go tool for LSB steganography, capable of hiding any file within an image."
+        },
+        {
+            "name": "syncd",
+            "url": "https://github.com/dreamans/syncd",
+            "star": 76,
+            "description": "syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 59,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "dragonboat",
+            "url": "https://github.com/lni/dragonboat",
+            "star": 61,
+            "description": "A feature complete and high performance multi-group Raft library in Go."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 54,
+            "description": "The Go programming language"
+        }
+    ]
+}

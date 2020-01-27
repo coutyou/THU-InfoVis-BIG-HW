@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-13",
+    "month": 7,
+    "day": 13,
+    "python": [
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 211,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "Archery",
+            "url": "https://github.com/hhyo/Archery",
+            "star": 34,
+            "description": "SQL审核查询平台"
+        },
+        {
+            "name": "wagtail",
+            "url": "https://github.com/wagtail/wagtail",
+            "star": 33,
+            "description": "A Django content management system focused on flexibility and user experience"
+        },
+        {
+            "name": "DeepSDF",
+            "url": "https://github.com/facebookresearch/DeepSDF",
+            "star": 21,
+            "description": "Learning Continuous Signed Distance Functions for Shape Representation"
+        },
+        {
+            "name": "adaptive-span",
+            "url": "https://github.com/facebookresearch/adaptive-span",
+            "star": 29,
+            "description": "Adaptive Attention Span in Transformers"
+        },
+        {
+            "name": "QCSuper",
+            "url": "https://github.com/P1sec/QCSuper",
+            "star": 48,
+            "description": "QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things."
+        },
+        {
+            "name": "insightface",
+            "url": "https://github.com/deepinsight/insightface",
+            "star": 31,
+            "description": "Face Analysis Project on MXNet"
+        },
+        {
+            "name": "CheatSheetSeries",
+            "url": "https://github.com/OWASP/CheatSheetSeries",
+            "star": 22,
+            "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+        },
+        {
+            "name": "Shielded_detector",
+            "url": "https://github.com/tangzixiang0304/Shielded_detector",
+            "star": 4,
+            "description": ""
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 45,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        }
+    ],
+    "java": [
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 223,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "SoloPi",
+            "url": "https://github.com/alipay/SoloPi",
+            "star": 130,
+            "description": "Soloπ 自动化测试工具"
+        },
+        {
+            "name": "staffjoy",
+            "url": "https://github.com/spring2go/staffjoy",
+            "star": 30,
+            "description": "微服务和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈"
+        },
+        {
+            "name": "lucene-solr",
+            "url": "https://github.com/apache/lucene-solr",
+            "star": 4,
+            "description": "Mirror of Apache Lucene + Solr"
+        },
+        {
+            "name": "mockito",
+            "url": "https://github.com/mockito/mockito",
+            "star": 6,
+            "description": "Most popular Mocking framework for unit tests written in Java"
+        },
+        {
+            "name": "uid-generator",
+            "url": "https://github.com/baidu/uid-generator",
+            "star": 14,
+            "description": "UniqueID generator"
+        },
+        {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "star": 16,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+        },
+        {
+            "name": "cas",
+            "url": "https://github.com/apereo/cas",
+            "star": 6,
+            "description": "Apereo CAS - Enterprise Single Sign On for all earthlings and beyond."
+        },
+        {
+            "name": "dbeaver",
+            "url": "https://github.com/dbeaver/dbeaver",
+            "star": 11,
+            "description": "Free universal database tool and SQL client"
+        },
+        {
+            "name": "CoolMeeting",
+            "url": "https://github.com/lenve/CoolMeeting",
+            "star": 9,
+            "description": "更多 Java 教程----->"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Awesome-Cellular-Hacking",
+            "url": "https://github.com/W00t3k/Awesome-Cellular-Hacking",
+            "star": 100,
+            "description": "Awesome-Cellular-Hacking"
+        },
+        {
+            "name": "modern-js-cheatsheet",
+            "url": "https://github.com/mbeaudru/modern-js-cheatsheet",
+            "star": 54,
+            "description": "Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects."
+        },
+        {
+            "name": "cryptocoding",
+            "url": "https://github.com/veorq/cryptocoding",
+            "star": 50,
+            "description": "Guidelines for low-level cryptography software"
+        },
+        {
+            "name": "ds-cheatsheets",
+            "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+            "star": 10,
+            "description": "List of Data Science Cheatsheets to rule the world"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 210,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 34,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "flink-training-course",
+            "url": "https://github.com/flink-china/flink-training-course",
+            "star": 4,
+            "description": "Flink 中文视频课程（持续更新...）"
+        },
+        {
+            "name": "awesome-computer-vision",
+            "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+            "star": 16,
+            "description": "A curated list of awesome computer vision resources"
+        },
+        {
+            "name": "frontend-challenges",
+            "url": "https://github.com/felipefialho/frontend-challenges",
+            "star": 38,
+            "description": "💥Listing some playful open-source's challenges of jobs to test your knowledge"
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 1,
+            "description": "The CocoaPods Master Repo"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 210,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "swift-evolution",
+            "url": "https://github.com/apple/swift-evolution",
+            "star": 24,
+            "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language."
+        },
+        {
+            "name": "Thief-Book",
+            "url": "https://github.com/cteams/Thief-Book",
+            "star": 36,
+            "description": "一款真正的跨平台摸鱼神器"
+        },
+        {
+            "name": "vCards",
+            "url": "https://github.com/metowolf/vCards",
+            "star": 52,
+            "description": "📡️vCards 中国黄页 - 优化 iOS 来电、信息界面体验"
+        },
+        {
+            "name": "site-kit-wp",
+            "url": "https://github.com/google/site-kit-wp",
+            "star": 9,
+            "description": "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 13,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "docusaurus",
+            "url": "https://github.com/facebook/docusaurus",
+            "star": 77,
+            "description": "Easy to maintain open source documentation websites."
+        },
+        {
+            "name": "js-xlsx",
+            "url": "https://github.com/SheetJS/js-xlsx",
+            "star": 19,
+            "description": "📗SheetJS Community Edition -- Spreadsheet Toolkit"
+        },
+        {
+            "name": "lodash",
+            "url": "https://github.com/lodash/lodash",
+            "star": 22,
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+        },
+        {
+            "name": "material-components-web",
+            "url": "https://github.com/material-components/material-components-web",
+            "star": 13,
+            "description": "Modular and customizable Material Design UI components for the web"
+        }
+    ],
+    "html": [
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 2,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "hover-effect",
+            "url": "https://github.com/robin-dela/hover-effect",
+            "star": 13,
+            "description": "Javascript library to draw and animate images on hover"
+        },
+        {
+            "name": "DetectionLab",
+            "url": "https://github.com/clong/DetectionLab",
+            "star": 2,
+            "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices"
+        },
+        {
+            "name": "html-email-templates",
+            "url": "https://github.com/designmodo/html-email-templates",
+            "star": 2,
+            "description": "Free HTML Email Templates created using the Postcards - https://designmodo.com/postcards/"
+        },
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 5,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 9,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "DIGITS",
+            "url": "https://github.com/NVIDIA/DIGITS",
+            "star": 1,
+            "description": "Deep Learning GPU Training System"
+        },
+        {
+            "name": "masonry",
+            "url": "https://github.com/desandro/masonry",
+            "star": 2,
+            "description": "🏩Cascading grid layout plugin"
+        },
+        {
+            "name": "rellax",
+            "url": "https://github.com/dixonandmoe/rellax",
+            "star": 5,
+            "description": "Lightweight, vanilla javascript parallax library"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 4,
+            "description": "Kubernetes website and documentation repo:"
+        }
+    ],
+    "go": [
+        {
+            "name": "ignite",
+            "url": "https://github.com/weaveworks/ignite",
+            "star": 66,
+            "description": "Ignite a Firecracker microVM"
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 39,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "istio",
+            "url": "https://github.com/istio/istio",
+            "star": 8,
+            "description": "Connect, secure, control, and observe services."
+        },
+        {
+            "name": "kruise",
+            "url": "https://github.com/openkruise/kruise",
+            "star": 11,
+            "description": "Automate application workloads management on Kubernetes"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 23,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 33,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "helmfile",
+            "url": "https://github.com/roboll/helmfile",
+            "star": 2,
+            "description": "Deploy Kubernetes Helm Charts"
+        },
+        {
+            "name": "origin",
+            "url": "https://github.com/openshift/origin",
+            "star": 7,
+            "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone"
+        },
+        {
+            "name": "go-cloud",
+            "url": "https://github.com/google/go-cloud",
+            "star": 7,
+            "description": "The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go."
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 22,
+            "description": "A microservice development framework"
+        }
+    ]
+}

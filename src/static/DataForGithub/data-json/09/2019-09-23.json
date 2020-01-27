@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-23",
+    "month": 9,
+    "day": 23,
+    "python": [
+        {
+            "name": "c9-python-getting-started",
+            "url": "https://github.com/microsoft/c9-python-getting-started",
+            "star": 218,
+            "description": "Sample code for Channel 9 Python for Beginners course"
+        },
+        {
+            "name": "multi-agent-emergence-environments",
+            "url": "https://github.com/openai/multi-agent-emergence-environments",
+            "star": 56,
+            "description": "Environment generation code for the paper \"Emergent Tool Use From Multi-Agent Autocurricula\""
+        },
+        {
+            "name": "PayloadsAllTheThings",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "star": 14,
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF"
+        },
+        {
+            "name": "shadowsocks",
+            "url": "https://github.com/shadowsocks/shadowsocks",
+            "star": 24,
+            "description": ""
+        },
+        {
+            "name": "pwnagotchi",
+            "url": "https://github.com/evilsocket/pwnagotchi",
+            "star": 114,
+            "description": "(⌐■_■) - Deep Reinforcement Learning vs WiFI"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 41,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "Shadowrocket-ADBlock-Rules",
+            "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+            "star": 20,
+            "description": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。"
+        },
+        {
+            "name": "distribution-is-all-you-need",
+            "url": "https://github.com/graykode/distribution-is-all-you-need",
+            "star": 37,
+            "description": "The basic distribution probability Tutorial for Deep Learning Researchers"
+        },
+        {
+            "name": "zipline",
+            "url": "https://github.com/quantopian/zipline",
+            "star": 2,
+            "description": "Zipline, a Pythonic Algorithmic Trading Library"
+        },
+        {
+            "name": "unlocker",
+            "url": "https://github.com/DrDonk/unlocker",
+            "star": 7,
+            "description": "VMware Workstation macOS"
+        }
+    ],
+    "java": [
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 67,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 26,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 53,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 22,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 229,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 26,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://biedian.me"
+        },
+        {
+            "name": "Algorithms",
+            "url": "https://github.com/williamfiset/Algorithms",
+            "star": 13,
+            "description": "A collection of algorithms"
+        },
+        {
+            "name": "XQuickEnergy",
+            "url": "https://github.com/pansong291/XQuickEnergy",
+            "star": 4,
+            "description": "快速收取蚂蚁森林能量"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 28,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "data-structures",
+            "url": "https://github.com/williamfiset/data-structures",
+            "star": 4,
+            "description": "A collection of powerful data structures"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "cascadia-code",
+            "url": "https://github.com/microsoft/cascadia-code",
+            "star": 775,
+            "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+        },
+        {
+            "name": "Fantastic-Front-End-Toolbox",
+            "url": "https://github.com/jamesctucker/Fantastic-Front-End-Toolbox",
+            "star": 94,
+            "description": "A catalogue of front-end tools, technologies, and resources for developers."
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 89,
+            "description": ""
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 153,
+            "description": "✅Curated list of resources for college students"
+        },
+        {
+            "name": "Machine-Learning-Session",
+            "url": "https://github.com/shuhuai007/Machine-Learning-Session",
+            "star": 67,
+            "description": ""
+        },
+        {
+            "name": "Awesome-Hacking-Resources",
+            "url": "https://github.com/vitalysim/Awesome-Hacking-Resources",
+            "star": 51,
+            "description": "A collection of hacking / penetration testing resources to make you better!"
+        },
+        {
+            "name": "Share-SSR-V2ray",
+            "url": "https://github.com/selierlin/Share-SSR-V2ray",
+            "star": 12,
+            "description": "🃏Free SS/SSR/V2ray 免费分享节点账号信息网站"
+        },
+        {
+            "name": "class2019Fall",
+            "url": "https://github.com/hsnam95/class2019Fall",
+            "star": 10,
+            "description": ""
+        },
+        {
+            "name": "chef-sugar",
+            "url": "https://github.com/sethvargo/chef-sugar",
+            "star": 11,
+            "description": ""
+        },
+        {
+            "name": "ACL4SSR",
+            "url": "https://github.com/ACL4SSR/ACL4SSR",
+            "star": 8,
+            "description": "SSR 去广告ACL规则/SS完整GFWList规则，Telegram频道订阅地址"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "Profiles",
+            "url": "https://github.com/ConnersHua/Profiles",
+            "star": 20,
+            "description": "Clash、Kitsunebi、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件"
+        },
+        {
+            "name": "dribbble2react",
+            "url": "https://github.com/react-ui-kit/dribbble2react",
+            "star": 3,
+            "description": "Transform Dribbble designs to React-Native code & YouTube video tutorials"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 25,
+            "description": "🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki"
+        },
+        {
+            "name": "theme-ui",
+            "url": "https://github.com/system-ui/theme-ui",
+            "star": 3,
+            "description": "Build consistent, themeable React apps based on constraint-based design principles"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 24,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 5,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 36,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 29,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "gekko",
+            "url": "https://github.com/askmike/gekko",
+            "star": 7,
+            "description": "A bitcoin trading bot written in node - https://gekko.wizb.it/"
+        },
+        {
+            "name": "Pokemon-Showdown",
+            "url": "https://github.com/Zarel/Pokemon-Showdown",
+            "star": 5,
+            "description": "Pokémon battle simulator."
+        }
+    ],
+    "html": [
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 21,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 24,
+            "description": "支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 5,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 20,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "qiubaiying.github.io",
+            "url": "https://github.com/qiubaiying/qiubaiying.github.io",
+            "star": 5,
+            "description": "BY Blog ->"
+        },
+        {
+            "name": "larabbs",
+            "url": "https://github.com/summerblue/larabbs",
+            "star": 1,
+            "description": "A forum project base on Laravel"
+        },
+        {
+            "name": "cs231n.github.io",
+            "url": "https://github.com/cs231n/cs231n.github.io",
+            "star": 2,
+            "description": "Public facing notes page"
+        },
+        {
+            "name": "hexo-theme-matery",
+            "url": "https://github.com/blinkfox/hexo-theme-matery",
+            "star": 4,
+            "description": "A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。"
+        },
+        {
+            "name": "manual",
+            "url": "https://github.com/v2ray/manual",
+            "star": 4,
+            "description": "Source code for https://www.v2ray.com/"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 3,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        }
+    ],
+    "go": [
+        {
+            "name": "ristretto",
+            "url": "https://github.com/dgraph-io/ristretto",
+            "star": 129,
+            "description": "A high performance memory-bound Go cache"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 172,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "gnet",
+            "url": "https://github.com/panjf2000/gnet",
+            "star": 98,
+            "description": "⚡️A high-performance, lightweight, nonblocking and event-loop networking library written in pure Go.🔥"
+        },
+        {
+            "name": "brook",
+            "url": "https://github.com/txthinking/brook",
+            "star": 44,
+            "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software"
+        },
+        {
+            "name": "goflyway",
+            "url": "https://github.com/coyove/goflyway",
+            "star": 10,
+            "description": "An encrypted HTTP server"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 26,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "dgraph",
+            "url": "https://github.com/dgraph-io/dgraph",
+            "star": 30,
+            "description": "Fast, Distributed Graph DB"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 25,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "singo",
+            "url": "https://github.com/Gourouting/singo",
+            "star": 7,
+            "description": "Gin+Gorm开发Golang API快速开发脚手架"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 21,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        }
+    ]
+}

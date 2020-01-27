@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-26",
+    "month": 8,
+    "day": 26,
+    "python": [
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 292,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "AutoTimer",
+            "url": "https://github.com/KalleHallden/AutoTimer",
+            "star": 24,
+            "description": ""
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 182,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "sqlmap",
+            "url": "https://github.com/sqlmapproject/sqlmap",
+            "star": 13,
+            "description": "Automatic SQL injection and database takeover tool"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 45,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "manim",
+            "url": "https://github.com/3b1b/manim",
+            "star": 47,
+            "description": "Animation engine for explanatory math videos"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 18,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "code_snippets",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "star": 10,
+            "description": ""
+        },
+        {
+            "name": "pytorch-generative-adversarial-networks",
+            "url": "https://github.com/devnag/pytorch-generative-adversarial-networks",
+            "star": 11,
+            "description": "A very simple generative adversarial network (GAN) in PyTorch"
+        },
+        {
+            "name": "votenet",
+            "url": "https://github.com/facebookresearch/votenet",
+            "star": 113,
+            "description": "Deep Hough Voting for 3D Object Detection in Point Clouds"
+        }
+    ],
+    "java": [
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 141,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot-api-project-seed",
+            "url": "https://github.com/lihengming/spring-boot-api-project-seed",
+            "star": 95,
+            "description": "🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~"
+        },
+        {
+            "name": "angel",
+            "url": "https://github.com/Angel-ML/angel",
+            "star": 181,
+            "description": "A Flexible and Powerful Parameter Server for large-scale machine learning"
+        },
+        {
+            "name": "mcMMO",
+            "url": "https://github.com/mcMMO-Dev/mcMMO",
+            "star": 4,
+            "description": "The RPG Lover's Mod!"
+        },
+        {
+            "name": "GLAU_BCSC0002",
+            "url": "https://github.com/dbc2201/GLAU_BCSC0002",
+            "star": 2,
+            "description": "This is the official repository for the course Object-Oriented Programming BCSC0002 for GLA University 2019"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 3,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "LintCode",
+            "url": "https://github.com/awangdev/LintCode",
+            "star": 12,
+            "description": "Java Solutions to problems on LintCode/LeetCode"
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 10,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 50,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "Auto.js",
+            "url": "https://github.com/hyb1996/Auto.js",
+            "star": 5,
+            "description": "A UiAutomator on android, does not need root access"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "pumpkin-book",
+            "url": "https://github.com/datawhalechina/pumpkin-book",
+            "star": 90,
+            "description": "《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book"
+        },
+        {
+            "name": "first-contributions",
+            "url": "https://github.com/firstcontributions/first-contributions",
+            "star": 41,
+            "description": "🚀✨Help beginners to contribute to open source projects"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 34,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 188,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "AMD_Vanilla",
+            "url": "https://github.com/AMD-OSX/AMD_Vanilla",
+            "star": 3,
+            "description": "Native AMD macOS via Clover KernelToPatch"
+        },
+        {
+            "name": "javascript-questions",
+            "url": "https://github.com/lydiahallie/javascript-questions",
+            "star": 33,
+            "description": "A long list of (advanced) JavaScript questions, and their explanations✨Updated weekly!"
+        },
+        {
+            "name": "Behinder",
+            "url": "https://github.com/rebeyond/Behinder",
+            "star": 16,
+            "description": "“冰蝎”动态二进制加密网站管理客户端"
+        },
+        {
+            "name": "1",
+            "url": "https://github.com/1jie/1",
+            "star": 4,
+            "description": "这里是直播平台永久回家页，有最新app下载地址。"
+        },
+        {
+            "name": "awesome-cpp",
+            "url": "https://github.com/fffaraz/awesome-cpp",
+            "star": 20,
+            "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+        },
+        {
+            "name": "awesome-c",
+            "url": "https://github.com/kozross/awesome-c",
+            "star": 3,
+            "description": "A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 257,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "bank",
+            "url": "https://github.com/pietrzakadrian/bank",
+            "star": 120,
+            "description": "Full Stack Web Application using ReactJS+Redux with NodeJS (Express+TypeORM), WebSocket, RESTful API and MySQL"
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 91,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        },
+        {
+            "name": "the-super-tiny-compiler",
+            "url": "https://github.com/jamiebuilds/the-super-tiny-compiler",
+            "star": 159,
+            "description": "⛄️Possibly the smallest compiler ever"
+        },
+        {
+            "name": "MikuTools",
+            "url": "https://github.com/Ice-Hazymoon/MikuTools",
+            "star": 120,
+            "description": "一个轻量的工具集合"
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 87,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "fullstack-course4",
+            "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+            "star": 5,
+            "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course"
+        },
+        {
+            "name": "node",
+            "url": "https://github.com/nodejs/node",
+            "star": 43,
+            "description": "Node.js JavaScript runtime✨🐢🚀✨"
+        },
+        {
+            "name": "now",
+            "url": "https://github.com/zeit/now",
+            "star": 9,
+            "description": "Now platform monorepo containing the CLI, TypeScript client, and Builders"
+        },
+        {
+            "name": "MagicMirror",
+            "url": "https://github.com/MichMich/MagicMirror",
+            "star": 19,
+            "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+        }
+    ],
+    "html": [
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "Dism-Multi-language",
+            "url": "https://github.com/Chuyu-Team/Dism-Multi-language",
+            "star": 8,
+            "description": "Dism++ Multi-language Support & BUG Report"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 2,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 3,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "ppts",
+            "url": "https://github.com/iv-web/ppts",
+            "star": 45,
+            "description": "团队对外分享ppt"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 3,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        },
+        {
+            "name": "svelte-material-ui",
+            "url": "https://github.com/hperrin/svelte-material-ui",
+            "star": 2,
+            "description": "Svelte Material UI Components"
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 0,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "wallets-recovery",
+            "url": "https://github.com/nvk/wallets-recovery",
+            "star": 0,
+            "description": "Information about wallet defaults for external recovery"
+        },
+        {
+            "name": "hermit",
+            "url": "https://github.com/Track3/hermit",
+            "star": 0,
+            "description": "A minimal & fast Hugo theme for bloggers"
+        }
+    ],
+    "go": [
+        {
+            "name": "annie",
+            "url": "https://github.com/iawia002/annie",
+            "star": 75,
+            "description": "👾Fast, simple and clean video downloader"
+        },
+        {
+            "name": "clash",
+            "url": "https://github.com/Dreamacro/clash",
+            "star": 18,
+            "description": "A rule-based tunnel in Go."
+        },
+        {
+            "name": "gopsutil",
+            "url": "https://github.com/shirou/gopsutil",
+            "star": 15,
+            "description": "psutil for golang"
+        },
+        {
+            "name": "torrent",
+            "url": "https://github.com/anacrolix/torrent",
+            "star": 10,
+            "description": "Full-featured BitTorrent-client package and utilities"
+        },
+        {
+            "name": "rio",
+            "url": "https://github.com/rancher/rio",
+            "star": 8,
+            "description": "Kubernetes based MicroPaaS"
+        },
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 12,
+            "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+            "name": "installer",
+            "url": "https://github.com/openshift/installer",
+            "star": 4,
+            "description": "Install an OpenShift cluster"
+        },
+        {
+            "name": "goofys",
+            "url": "https://github.com/kahing/goofys",
+            "star": 13,
+            "description": "a high-performance, POSIX-ish Amazon S3 file system written in Go"
+        },
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 16,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 28,
+            "description": "The world’s fastest framework for building websites."
+        }
+    ]
+}

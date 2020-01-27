@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-29",
+    "month": 9,
+    "day": 29,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/geekcomputers/Python",
+            "star": 138,
+            "description": "My Python Examples"
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 213,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 231,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 11,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "rlpyt",
+            "url": "https://github.com/astooke/rlpyt",
+            "star": 28,
+            "description": "Reinforcement Learning in PyTorch"
+        },
+        {
+            "name": "electricitymap-contrib",
+            "url": "https://github.com/tmrowco/electricitymap-contrib",
+            "star": 121,
+            "description": "A real-time visualisation of the CO2 emissions of electricity consumption"
+        },
+        {
+            "name": "autokeras",
+            "url": "https://github.com/keras-team/autokeras",
+            "star": 5,
+            "description": "Accessible AutoML for deep learning."
+        },
+        {
+            "name": "aws-cli",
+            "url": "https://github.com/aws/aws-cli",
+            "star": 3,
+            "description": "Universal Command Line Interface for Amazon Web Services"
+        },
+        {
+            "name": "code_snippets",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "star": 10,
+            "description": ""
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 16,
+            "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        }
+    ],
+    "java": [
+        {
+            "name": "jenkins",
+            "url": "https://github.com/jenkinsci/jenkins",
+            "star": 6,
+            "description": "Jenkins automation server"
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 23,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "mybatis-3",
+            "url": "https://github.com/mybatis/mybatis-3",
+            "star": 8,
+            "description": "MyBatis SQL mapper framework for Java"
+        },
+        {
+            "name": "che",
+            "url": "https://github.com/eclipse/che",
+            "star": 3,
+            "description": "Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE."
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 22,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "data-structures",
+            "url": "https://github.com/williamfiset/data-structures",
+            "star": 9,
+            "description": "A collection of powerful data structures"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 71,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "testcontainers-java",
+            "url": "https://github.com/testcontainers/testcontainers-java",
+            "star": 2,
+            "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 15,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "JCSprout",
+            "url": "https://github.com/crossoverJie/JCSprout",
+            "star": 5,
+            "description": "👨‍🎓Java Core Sprout : basic, concurrent, algorithm"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 66,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "workshop-p5-intro",
+            "url": "https://github.com/mattdesl/workshop-p5-intro",
+            "star": 28,
+            "description": "Intro to Creative Coding workshop with p5.js and Tone.js"
+        },
+        {
+            "name": "nlp-roadmap",
+            "url": "https://github.com/graykode/nlp-roadmap",
+            "star": 84,
+            "description": "ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP"
+        },
+        {
+            "name": "API-Security-Checklist",
+            "url": "https://github.com/shieldfy/API-Security-Checklist",
+            "star": 132,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API"
+        },
+        {
+            "name": "google-cloud-4-words",
+            "url": "https://github.com/gregsramblings/google-cloud-4-words",
+            "star": 10,
+            "description": "The Google Cloud Developer's Cheat Sheet"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 16,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 74,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "PLMpapers",
+            "url": "https://github.com/thunlp/PLMpapers",
+            "star": 58,
+            "description": "Must-read Papers on pre-trained language models."
+        },
+        {
+            "name": "awesome-blazor",
+            "url": "https://github.com/AdrienTorris/awesome-blazor",
+            "star": 21,
+            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+        },
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 31,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "d3",
+            "url": "https://github.com/d3/d3",
+            "star": 21,
+            "description": "Bring data to life with SVG, Canvas and HTML.📊📈🎉"
+        },
+        {
+            "name": "carbon",
+            "url": "https://github.com/carbon-design-system/carbon",
+            "star": 28,
+            "description": "A design system built by IBM"
+        },
+        {
+            "name": "Web",
+            "url": "https://github.com/qianguyihao/Web",
+            "star": 69,
+            "description": "前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新..."
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 50,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "javascript",
+            "url": "https://github.com/airbnb/javascript",
+            "star": 33,
+            "description": "JavaScript Style Guide"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 116,
+            "description": "✅The largest Node.js best practices list (September 2019)"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 76,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 62,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 52,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "BaiduExporter",
+            "url": "https://github.com/acgotaku/BaiduExporter",
+            "star": 10,
+            "description": "Assistant for Baidu to export download links to aria2/aria2-rpc"
+        }
+    ],
+    "html": [
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 94,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 22,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "hacktoberfest-swag-list",
+            "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+            "star": 31,
+            "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all."
+        },
+        {
+            "name": "facebook360_dep",
+            "url": "https://github.com/facebook/facebook360_dep",
+            "star": 14,
+            "description": "Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 19,
+            "description": "支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel"
+        },
+        {
+            "name": "aws-well-architected-labs",
+            "url": "https://github.com/awslabs/aws-well-architected-labs",
+            "star": 1,
+            "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices."
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 6,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "ecma262",
+            "url": "https://github.com/tc39/ecma262",
+            "star": 9,
+            "description": "Status, process, and documents for ECMA-262"
+        },
+        {
+            "name": "swagger-codegen-generators",
+            "url": "https://github.com/swagger-api/swagger-codegen-generators",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "book",
+            "url": "https://github.com/PaddlePaddle/book",
+            "star": 1,
+            "description": "Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）"
+        }
+    ],
+    "go": [
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 25,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "kit",
+            "url": "https://github.com/go-kit/kit",
+            "star": 23,
+            "description": "A standard library for microservices."
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 10,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 11,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "pq",
+            "url": "https://github.com/lib/pq",
+            "star": 2,
+            "description": "Pure Go Postgres driver for database/sql"
+        },
+        {
+            "name": "client_golang",
+            "url": "https://github.com/prometheus/client_golang",
+            "star": 9,
+            "description": "Prometheus instrumentation library for Go applications"
+        },
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 17,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        },
+        {
+            "name": "echo",
+            "url": "https://github.com/labstack/echo",
+            "star": 15,
+            "description": "High performance, minimalist Go web framework"
+        },
+        {
+            "name": "lnd",
+            "url": "https://github.com/lightningnetwork/lnd",
+            "star": 4,
+            "description": "Lightning Network Daemon⚡️"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 36,
+            "description": "Production-Grade Container Scheduling and Management"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-30",
+    "month": 7,
+    "day": 30,
+    "python": [
+        {
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models",
+            "star": 78,
+            "description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 129,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "apple_bleee",
+            "url": "https://github.com/hexway/apple_bleee",
+            "star": 74,
+            "description": "Apple BLE research"
+        },
+        {
+            "name": "grapheneX",
+            "url": "https://github.com/grapheneX/grapheneX",
+            "star": 90,
+            "description": "Automated System Hardening Framework"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 25,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "optuna",
+            "url": "https://github.com/pfnet/optuna",
+            "star": 17,
+            "description": "A hyperparameter optimization framework"
+        },
+        {
+            "name": "httpx",
+            "url": "https://github.com/encode/httpx",
+            "star": 41,
+            "description": "A next generation HTTP client for Python.🦋"
+        },
+        {
+            "name": "chromego",
+            "url": "https://github.com/killgcd/chromego",
+            "star": 48,
+            "description": "ChromeGo 翻墙工具包"
+        },
+        {
+            "name": "Automagica",
+            "url": "https://github.com/OakwoodAI/Automagica",
+            "star": 28,
+            "description": "🤖Open Source (Smart) Robotic Process Automation"
+        },
+        {
+            "name": "mycroft-core",
+            "url": "https://github.com/MycroftAI/mycroft-core",
+            "star": 10,
+            "description": "Mycroft Core, the Mycroft Artificial Intelligence platform."
+        }
+    ],
+    "java": [
+        {
+            "name": "interview",
+            "url": "https://github.com/mission-peace/interview",
+            "star": 14,
+            "description": "Interview questions"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 16,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "spring-boot-plus",
+            "url": "https://github.com/geekidea/spring-boot-plus",
+            "star": 47,
+            "description": "spring-boot-plus集成Spring Boot 2.1.6,Mybatis,Mybatis Plus,Druid,FastJson,Redis,Rabbit MQ,Kafka等，可使用代码生成器快速开发项目"
+        },
+        {
+            "name": "EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "star": 25,
+            "description": "An Unofficial E-Hentai Application for Android"
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 5,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "milkman",
+            "url": "https://github.com/warmuuh/milkman",
+            "star": 19,
+            "description": ""
+        },
+        {
+            "name": "Leetcode",
+            "url": "https://github.com/fishercoder1534/Leetcode",
+            "star": 16,
+            "description": "Complete solutions to Leetcode problems; updated daily. (I'm looking for long-term contributors/partners to this repo! Send me PRs if you're interested! - 9/5/2018)"
+        },
+        {
+            "name": "dubbo-samples",
+            "url": "https://github.com/apache/dubbo-samples",
+            "star": 6,
+            "description": "samples for Apache Dubbo"
+        },
+        {
+            "name": "Signal-Android",
+            "url": "https://github.com/signalapp/Signal-Android",
+            "star": 7,
+            "description": "A private messenger for Android."
+        },
+        {
+            "name": "tech-weekly",
+            "url": "https://github.com/mercyblitz/tech-weekly",
+            "star": 20,
+            "description": "「小马哥技术周报」"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 75,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        },
+        {
+            "name": "SlimYOLOv3",
+            "url": "https://github.com/PengyiZhang/SlimYOLOv3",
+            "star": 79,
+            "description": "This page is for the SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 85,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "midTbot_esp32",
+            "url": "https://github.com/bdring/midTbot_esp32",
+            "star": 46,
+            "description": "A Small and Simple Pen Plotter"
+        },
+        {
+            "name": "Flutter-Course-Resources",
+            "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+            "star": 52,
+            "description": ""
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 158,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "git-flight-rules",
+            "url": "https://github.com/k88hudson/git-flight-rules",
+            "star": 137,
+            "description": "Flight rules for git"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 54,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "petition",
+            "url": "https://github.com/otvorete/petition",
+            "star": 99,
+            "description": "ПОКАЖЕТЕ НИ КОДА!"
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 275,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "github-do-not-ban-us",
+            "url": "https://github.com/1995parham/github-do-not-ban-us",
+            "star": 2175,
+            "description": "Github do not ban us from open source world🇮🇷"
+        },
+        {
+            "name": "ch-download",
+            "url": "https://github.com/alekseylovchikov/ch-download",
+            "star": 40,
+            "description": "download video from coursehunters.net"
+        },
+        {
+            "name": "gridstudio",
+            "url": "https://github.com/ricklamers/gridstudio",
+            "star": 88,
+            "description": "Grid studio is a web-based spreadsheet application with full integration of the Python programming language."
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 164,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        },
+        {
+            "name": "jexcel",
+            "url": "https://github.com/paulhodel/jexcel",
+            "star": 172,
+            "description": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software."
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 41,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 40,
+            "description": "💯Materials to help you rock your next coding interview"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 57,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "500lines",
+            "url": "https://github.com/aosabook/500lines",
+            "star": 38,
+            "description": "500 Lines or Less"
+        },
+        {
+            "name": "MikuTools",
+            "url": "https://github.com/Ice-Hazymoon/MikuTools",
+            "star": 62,
+            "description": "一个轻量的工具集合"
+        }
+    ],
+    "html": [
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 23,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 2,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "qiubaiying.github.io",
+            "url": "https://github.com/qiubaiying/qiubaiying.github.io",
+            "star": 6,
+            "description": "BY Blog ->"
+        },
+        {
+            "name": "github-markdown-css",
+            "url": "https://github.com/sindresorhus/github-markdown-css",
+            "star": 2,
+            "description": "The minimal amount of CSS to replicate the GitHub Markdown style"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 5,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 17,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "sketch-measure",
+            "url": "https://github.com/utom/sketch-measure",
+            "star": 5,
+            "description": "Make it a fun to create spec for developers and teammates"
+        },
+        {
+            "name": "kagerou",
+            "url": "https://github.com/hibiyasleep/kagerou",
+            "star": 2,
+            "description": "ACT-FF14 OverlayPlugin Skin - Modern, easily configurable, always up-to-date."
+        },
+        {
+            "name": "intro.js",
+            "url": "https://github.com/usablica/intro.js",
+            "star": 30,
+            "description": "A better way for new feature introduction and step-by-step users guide for your website and project."
+        },
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 1,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        }
+    ],
+    "go": [
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 71,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        },
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 125,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 92,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "installer",
+            "url": "https://github.com/openshift/installer",
+            "star": 3,
+            "description": "Install an OpenShift cluster"
+        },
+        {
+            "name": "skopeo",
+            "url": "https://github.com/containers/skopeo",
+            "star": 34,
+            "description": "Work with remote images registries - retrieving information, images, signing content"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 48,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 34,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "gods",
+            "url": "https://github.com/emirpasic/gods",
+            "star": 37,
+            "description": "GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …"
+        },
+        {
+            "name": "proposal",
+            "url": "https://github.com/golang/proposal",
+            "star": 7,
+            "description": "Go Project Design Documents"
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 106,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        }
+    ]
+}

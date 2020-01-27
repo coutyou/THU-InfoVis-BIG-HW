@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-06",
+    "month": 11,
+    "day": 6,
+    "python": [
+        {
+            "name": "spleeter",
+            "url": "https://github.com/deezer/spleeter",
+            "star": 973,
+            "description": "Deezer source separation library including pretrained models."
+        },
+        {
+            "name": "DeepCTR",
+            "url": "https://github.com/shenweichen/DeepCTR",
+            "star": 9,
+            "description": "Easy-to-use,Modular and Extendible package of deep-learning based CTR models."
+        },
+        {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "star": 153,
+            "description": "💻A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!"
+        },
+        {
+            "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "star": 42,
+            "description": "💎1MB lightweight face detection model (1MB轻量级人脸检测模型)"
+        },
+        {
+            "name": "rockstar",
+            "url": "https://github.com/avinassh/rockstar",
+            "star": 114,
+            "description": "Makes you a Rockstar C++ Programmer in 2 minutes"
+        },
+        {
+            "name": "cloud-custodian",
+            "url": "https://github.com/cloud-custodian/cloud-custodian",
+            "star": 6,
+            "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources"
+        },
+        {
+            "name": "ambassador",
+            "url": "https://github.com/datawire/ambassador",
+            "star": 4,
+            "description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy"
+        },
+        {
+            "name": "httpx",
+            "url": "https://github.com/encode/httpx",
+            "star": 17,
+            "description": "A next generation HTTP client for Python.🦋"
+        },
+        {
+            "name": "interpy-zh",
+            "url": "https://github.com/eastlakeside/interpy-zh",
+            "star": 61,
+            "description": "📘《Python进阶》（Intermediate Python 中文版）"
+        },
+        {
+            "name": "aws-cloudformation-templates",
+            "url": "https://github.com/awslabs/aws-cloudformation-templates",
+            "star": 6,
+            "description": "A collection of useful CloudFormation templates"
+        }
+    ],
+    "java": [
+        {
+            "name": "HanLP",
+            "url": "https://github.com/hankcs/HanLP",
+            "star": 90,
+            "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁"
+        },
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 311,
+            "description": "大数据入门指南⭐️"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 119,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "react-native-camera",
+            "url": "https://github.com/react-native-community/react-native-camera",
+            "star": 8,
+            "description": "A Camera component for React Native. Also supports barcode scanning!"
+        },
+        {
+            "name": "selenium",
+            "url": "https://github.com/SeleniumHQ/selenium",
+            "star": 14,
+            "description": "A browser automation framework and ecosystem."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 33,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 151,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "h2o-3",
+            "url": "https://github.com/h2oai/h2o-3",
+            "star": 4,
+            "description": "Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc."
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 27,
+            "description": "一款基于代码生成器的JAVA快速开发平台！采用最新技术，前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 43,
+            "description": "Design patterns implemented in Java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "fanhaodaquan",
+            "url": "https://github.com/imfht/fanhaodaquan",
+            "star": 192,
+            "description": "番号大全。"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 65,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 133,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+        },
+        {
+            "name": "few-shot-vid2vid",
+            "url": "https://github.com/NVlabs/few-shot-vid2vid",
+            "star": 115,
+            "description": ""
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 249,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 101,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 4,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "coding-music",
+            "url": "https://github.com/xaca/coding-music",
+            "star": 8,
+            "description": "Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar."
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 65,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "modern-cpp-features",
+            "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+            "star": 16,
+            "description": "A cheatsheet of modern C++ language and library features."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "BullshitGenerator",
+            "url": "https://github.com/menzi11/BullshitGenerator",
+            "star": 837,
+            "description": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this."
+        },
+        {
+            "name": "taobaoVisitingVenues",
+            "url": "https://github.com/sleepybear1113/taobaoVisitingVenues",
+            "star": 136,
+            "description": "双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android"
+        },
+        {
+            "name": "BlockChain",
+            "url": "https://github.com/itheima1/BlockChain",
+            "star": 112,
+            "description": "黑马程序员 120天全栈区块链开发 开源教程"
+        },
+        {
+            "name": "webogram",
+            "url": "https://github.com/zhukov/webogram",
+            "star": 14,
+            "description": "Telegram web application, GPL v3"
+        },
+        {
+            "name": "slate",
+            "url": "https://github.com/slatedocs/slate",
+            "star": 22,
+            "description": "Beautiful static documentation for your API"
+        },
+        {
+            "name": "Administrative-divisions-of-China",
+            "url": "https://github.com/modood/Administrative-divisions-of-China",
+            "star": 53,
+            "description": "中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 41,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 118,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "Mobile-Security-Framework-MobSF",
+            "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+            "star": 7,
+            "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis."
+        },
+        {
+            "name": "fabric.js",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "star": 10,
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+        }
+    ],
+    "html": [
+        {
+            "name": "DevOps-Guide",
+            "url": "https://github.com/Tikam02/DevOps-Guide",
+            "star": 355,
+            "description": "DevOps Guide from basic to advanced with Interview Questions and Notes🔥"
+        },
+        {
+            "name": "Disclosures",
+            "url": "https://github.com/badd1e/Disclosures",
+            "star": 23,
+            "description": "Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 11,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 5,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/digitalocean/nginxconfig.io",
+            "star": 55,
+            "description": "⚙️NGiИX config generator on steroids💉"
+        },
+        {
+            "name": "istio.io",
+            "url": "https://github.com/istio/istio.io",
+            "star": 2,
+            "description": "Source for the istio.io site"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 14,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "chosen",
+            "url": "https://github.com/harvesthq/chosen",
+            "star": 3,
+            "description": "Chosen is a library for making long, unwieldy select boxes more friendly."
+        },
+        {
+            "name": "nsfocus-rsas-knowledge-base",
+            "url": "https://github.com/biggerwing/nsfocus-rsas-knowledge-base",
+            "star": 34,
+            "description": "绿盟科技漏洞扫描器(RSAS)漏洞库"
+        },
+        {
+            "name": "bandinchina",
+            "url": "https://github.com/caffeine-overload/bandinchina",
+            "star": 14,
+            "description": "Naming and shaming companies who kowtow to Chinese censorship requests"
+        }
+    ],
+    "go": [
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 16,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 22,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        },
+        {
+            "name": "opentelemetry-go",
+            "url": "https://github.com/open-telemetry/opentelemetry-go",
+            "star": 11,
+            "description": ""
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 20,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 88,
+            "description": "A Go microservices development framework"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 11,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "spikeSystem",
+            "url": "https://github.com/GuoZhaoran/spikeSystem",
+            "star": 46,
+            "description": ""
+        },
+        {
+            "name": "helmfile",
+            "url": "https://github.com/roboll/helmfile",
+            "star": 5,
+            "description": "Deploy Kubernetes Helm Charts"
+        },
+        {
+            "name": "confluent-kafka-go",
+            "url": "https://github.com/confluentinc/confluent-kafka-go",
+            "star": 4,
+            "description": "Confluent's Apache Kafka Golang client"
+        },
+        {
+            "name": "ent",
+            "url": "https://github.com/facebookincubator/ent",
+            "star": 27,
+            "description": "An entity framework for Go"
+        }
+    ]
+}

@@ -1,0 +1,439 @@
+{
+    "date": "2019-01-07",
+    "month": 1,
+    "day": 7,
+    "python": [
+        {
+            "name": "uncaptcha2",
+            "url": "https://github.com/ecthros/uncaptcha2",
+            "star": 493,
+            "description": "defeating the latest version of ReCaptcha with 91% accuracy"
+        },
+        {
+            "name": "litecli",
+            "url": "https://github.com/dbcli/litecli",
+            "star": 250,
+            "description": "CLI for SQLite Databases with auto-completion and syntax highlighting"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 204,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "edge-connect",
+            "url": "https://github.com/knazeri/edge-connect",
+            "star": 116,
+            "description": "EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. https://arxiv.org/abs/1901.00212"
+        },
+        {
+            "name": "pycm",
+            "url": "https://github.com/sepandhaghighi/pycm",
+            "star": 80,
+            "description": "Multi-class confusion matrix library in Python"
+        },
+        {
+            "name": "flair",
+            "url": "https://github.com/zalandoresearch/flair",
+            "star": 84,
+            "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 59,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/TheYahya/sherlock",
+            "star": 57,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 48,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "awesome-python-applications",
+            "url": "https://github.com/mahmoud/awesome-python-applications",
+            "star": 50,
+            "description": "💿Free software that works great, and also happens to be open-source Python."
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 189,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 113,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 66,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 56,
+            "description": "😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 35,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "cim",
+            "url": "https://github.com/crossoverJie/cim",
+            "star": 35,
+            "description": "📲cim(cross IM) 适用于开发者的即时通讯系统"
+        },
+        {
+            "name": "symphony",
+            "url": "https://github.com/b3log/symphony",
+            "star": 32,
+            "description": "🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 24,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 24,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 17,
+            "description": "Spring Framework"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 162,
+            "description": "📚Computer Science Learning Notes"
+        },
+        {
+            "name": "algorithms",
+            "url": "https://github.com/jeffgerickson/algorithms",
+            "star": 167,
+            "description": "Bug-tracking for Jeff's algorithms book, notes, etc."
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 161,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "pwc",
+            "url": "https://github.com/zziz/pwc",
+            "star": 124,
+            "description": "Papers with code. Sorted by stars. Updated weekly."
+        },
+        {
+            "name": "Girls-In-AI",
+            "url": "https://github.com/YZHANG1270/Girls-In-AI",
+            "star": 97,
+            "description": "Coding is the new sexy."
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 67,
+            "description": "💫A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 62,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 60,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 47,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 34,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "deeptraffic",
+            "url": "https://github.com/lexfridman/deeptraffic",
+            "star": 298,
+            "description": "DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series."
+        },
+        {
+            "name": "string-similarity",
+            "url": "https://github.com/aceakash/string-similarity",
+            "star": 177,
+            "description": "Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance."
+        },
+        {
+            "name": "fbt",
+            "url": "https://github.com/facebookincubator/fbt",
+            "star": 171,
+            "description": "A JavaScript Internationalization Framework"
+        },
+        {
+            "name": "react-with-gesture",
+            "url": "https://github.com/drcmda/react-with-gesture",
+            "star": 138,
+            "description": "👇Bread n butter utility for component-tied mouse/touch gestures in React"
+        },
+        {
+            "name": "learn-json-web-tokens",
+            "url": "https://github.com/dwyl/learn-json-web-tokens",
+            "star": 124,
+            "description": "🔐Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)"
+        },
+        {
+            "name": "Here",
+            "url": "https://github.com/caijinyc/Here",
+            "star": 114,
+            "description": "Here Music 一个 使用 Electron + React 开发的音乐客户端"
+        },
+        {
+            "name": "doom-fire-algorithm",
+            "url": "https://github.com/filipedeschamps/doom-fire-algorithm",
+            "star": 111,
+            "description": "Fire effect from Doom implemented in plain JavaScript"
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 65,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "jetpack",
+            "url": "https://github.com/KidkArolis/jetpack",
+            "star": 69,
+            "description": "🚀Jetpack – webpack made more convenient."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 65,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        }
+    ],
+    "html": [
+        {
+            "name": "build-your-own-mint",
+            "url": "https://github.com/yyx990803/build-your-own-mint",
+            "star": 531,
+            "description": "Build your own personal finance analytics using Plaid, Google Sheets and CircleCI."
+        },
+        {
+            "name": "dimage.js",
+            "url": "https://github.com/jjkaufman/dimage.js",
+            "star": 33,
+            "description": "Never settle for two dimensions"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 13,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "home_assistant",
+            "url": "https://github.com/seangreen2/home_assistant",
+            "star": 14,
+            "description": ""
+        },
+        {
+            "name": "OSCP-Prep",
+            "url": "https://github.com/RustyShackleford221/OSCP-Prep",
+            "star": 12,
+            "description": "A comprehensive guide/material for anyone looking to get into infosec or take the OSCP exam"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 11,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 11,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 12,
+            "description": "A collection of resources on modern C++"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 7,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 10,
+            "description": "Library for fast text representation and classification."
+        }
+    ],
+    "dart": [
+        {
+            "name": "flutter",
+            "url": "https://github.com/flutter/flutter",
+            "star": 71,
+            "description": "Flutter makes it easy and fast to build beautiful mobile apps."
+        },
+        {
+            "name": "awesome-flutter",
+            "url": "https://github.com/Solido/awesome-flutter",
+            "star": 45,
+            "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+        },
+        {
+            "name": "GSYGithubAppFlutter",
+            "url": "https://github.com/CarGuo/GSYGithubAppFlutter",
+            "star": 15,
+            "description": "超完整的Flutter项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://g…"
+        },
+        {
+            "name": "flutter-examples",
+            "url": "https://github.com/nisrulz/flutter-examples",
+            "star": 12,
+            "description": "[Examples] Simple basic isolated apps, for budding flutter devs."
+        },
+        {
+            "name": "plugins",
+            "url": "https://github.com/flutter/plugins",
+            "star": 10,
+            "description": "Plugins for Flutter, including FlutterFire, maintained by the Flutter team"
+        },
+        {
+            "name": "sdk",
+            "url": "https://github.com/dart-lang/sdk",
+            "star": 11,
+            "description": "The Dart SDK, including the VM, dart2js, core libraries, and more."
+        },
+        {
+            "name": "flutter_architecture_samples",
+            "url": "https://github.com/brianegan/flutter_architecture_samples",
+            "star": 9,
+            "description": "TodoMVC for Flutter"
+        },
+        {
+            "name": "Flutter-learning",
+            "url": "https://github.com/AweiLoveAndroid/Flutter-learning",
+            "star": 9,
+            "description": "🔥👍🌟⭐️⭐️⭐️Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。"
+        },
+        {
+            "name": "Flare-Flutter",
+            "url": "https://github.com/2d-inc/Flare-Flutter",
+            "star": 9,
+            "description": ""
+        },
+        {
+            "name": "flutter_hooks",
+            "url": "https://github.com/rrousselGit/flutter_hooks",
+            "star": 8,
+            "description": "React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget."
+        }
+    ],
+    "go": [
+        {
+            "name": "tilt",
+            "url": "https://github.com/windmilleng/tilt",
+            "star": 407,
+            "description": "Local Kubernetes development with no stress"
+        },
+        {
+            "name": "Modlishka",
+            "url": "https://github.com/drk1wi/Modlishka",
+            "star": 129,
+            "description": "Modlishka. Reverse Proxy. Phishing NG."
+        },
+        {
+            "name": "skipper",
+            "url": "https://github.com/zalando/skipper",
+            "star": 121,
+            "description": "An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress"
+        },
+        {
+            "name": "dragonboat",
+            "url": "https://github.com/lni/dragonboat",
+            "star": 109,
+            "description": "Dragonboat is a feature complete and high performance multi-group Raft library in Go."
+        },
+        {
+            "name": "gaia",
+            "url": "https://github.com/gaia-pipeline/gaia",
+            "star": 95,
+            "description": "Build powerful pipelines in any programming language."
+        },
+        {
+            "name": "txqr",
+            "url": "https://github.com/divan/txqr",
+            "star": 68,
+            "description": "Transfer data via animated QR codes"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 44,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "syncthing",
+            "url": "https://github.com/syncthing/syncthing",
+            "star": 41,
+            "description": "Open Source Continuous File Synchronization"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 39,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 36,
+            "description": "A microservice framework"
+        }
+    ]
+}

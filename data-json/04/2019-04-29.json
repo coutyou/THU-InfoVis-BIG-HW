@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-29",
+    "month": 4,
+    "day": 29,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 2725,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 366,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 109,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "Python-100-Days",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "star": 94,
+            "description": "Python - 100天从新手到大师"
+        },
+        {
+            "name": "Learn-Web-Hacking",
+            "url": "https://github.com/LyleMi/Learn-Web-Hacking",
+            "star": 91,
+            "description": "Study Notes For Web Hacking"
+        },
+        {
+            "name": "dirmap",
+            "url": "https://github.com/H4ckForJob/dirmap",
+            "star": 90,
+            "description": "一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 66,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "LearningToPaint",
+            "url": "https://github.com/hzwer/LearningToPaint",
+            "star": 79,
+            "description": "A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning."
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 76,
+            "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "stackprinter",
+            "url": "https://github.com/cknd/stackprinter",
+            "star": 71,
+            "description": "Debugging-friendly tracebacks for Python"
+        }
+    ],
+    "java": [
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 446,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 209,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 168,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "UI2018",
+            "url": "https://github.com/zincPower/UI2018",
+            "star": 159,
+            "description": "安卓高级UI代码整理和博客代码Demo"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 134,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 115,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JGrowing",
+            "url": "https://github.com/javagrowing/JGrowing",
+            "star": 104,
+            "description": "Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。"
+        },
+        {
+            "name": "j2cl",
+            "url": "https://github.com/google/j2cl",
+            "star": 94,
+            "description": "Java to Closure JavaScript transpiler"
+        },
+        {
+            "name": "poster-generater",
+            "url": "https://github.com/qbhy/poster-generater",
+            "star": 70,
+            "description": "⚡⚡⚡海报生成器. 只需要一个简单的 json 配置即可生成你需要的海报..."
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 57,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "support.996.ICU",
+            "url": "https://github.com/MSWorkers/support.996.ICU",
+            "star": 406,
+            "description": "Microsoft and GitHub Workers Support 996.ICU"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 331,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "golang-developer-roadmap-cn",
+            "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+            "star": 173,
+            "description": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。"
+        },
+        {
+            "name": "commit-messages-guide",
+            "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+            "star": 132,
+            "description": "A guide to understand the importance of commit messages and how to write them well"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 108,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 109,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "git-tips",
+            "url": "https://github.com/521xueweihan/git-tips",
+            "star": 108,
+            "description": "Git的奇技淫巧"
+        },
+        {
+            "name": "golang-developer-roadmap",
+            "url": "https://github.com/Alikhll/golang-developer-roadmap",
+            "star": 113,
+            "description": "Roadmap to becoming a Go developer in 2019"
+        },
+        {
+            "name": "one-python-craftsman",
+            "url": "https://github.com/piglei/one-python-craftsman",
+            "star": 78,
+            "description": "\"One Python Craftsman\" is a collection of articles on how to write better python codes."
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 71,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "uppy",
+            "url": "https://github.com/transloadit/uppy",
+            "star": 370,
+            "description": "The next open source file uploader for web browsers🐶"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 318,
+            "description": "leetcode题解，记录自己的leecode解题之路。"
+        },
+        {
+            "name": "shepherd",
+            "url": "https://github.com/shipshapecode/shepherd",
+            "star": 247,
+            "description": "Guide your users through a tour of your app"
+        },
+        {
+            "name": "tool",
+            "url": "https://github.com/Louiszhai/tool",
+            "star": 194,
+            "description": "开发效率提升：Mac生产力工具链推荐"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 190,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "mini-github",
+            "url": "https://github.com/kezhenxu94/mini-github",
+            "star": 185,
+            "description": "GitHub WeChat Mini Program (可能是全网功能最全的 GitHub 微信小程序)"
+        },
+        {
+            "name": "NeteaseCloudMusicApi",
+            "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+            "star": 112,
+            "description": "网易云音乐 Node.js API service"
+        },
+        {
+            "name": "baseui",
+            "url": "https://github.com/uber-web/baseui",
+            "star": 144,
+            "description": "A React Component library implementing the Base design language"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 112,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 92,
+            "description": "贵校课程资料民间整理"
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 263,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "design-tips",
+            "url": "https://github.com/caneco/design-tips",
+            "star": 83,
+            "description": "The “🔥Design Tips” series, now in TailwindCSS"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 69,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "watchme",
+            "url": "https://github.com/vsoch/watchme",
+            "star": 61,
+            "description": "Reproducible watchers for research"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 39,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "live2D",
+            "url": "https://github.com/fguby/live2D",
+            "star": 22,
+            "description": "来定制一个自己专属的live2D看板娘吧(๑•̀ㅂ•́)و✧"
+        },
+        {
+            "name": "OUCML",
+            "url": "https://github.com/OUCMachineLearning/OUCML",
+            "star": 20,
+            "description": ""
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 17,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "ConardLi.github.io",
+            "url": "https://github.com/ConardLi/ConardLi.github.io",
+            "star": 16,
+            "description": "ConardLi 写blog的地方"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 13,
+            "description": "Style guides for Google-originated open-source projects"
+        }
+    ],
+    "go": [
+        {
+            "name": "websocket",
+            "url": "https://github.com/nhooyr/websocket",
+            "star": 202,
+            "description": "A minimal and idiomatic WebSocket library for Go"
+        },
+        {
+            "name": "kratos",
+            "url": "https://github.com/bilibili/kratos",
+            "star": 157,
+            "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。"
+        },
+        {
+            "name": "termshark",
+            "url": "https://github.com/gcla/termshark",
+            "star": 118,
+            "description": "A terminal UI for tshark, inspired by Wireshark"
+        },
+        {
+            "name": "sshcode",
+            "url": "https://github.com/cdr/sshcode",
+            "star": 115,
+            "description": "Run VS Code on any server over SSH."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 66,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "k3os",
+            "url": "https://github.com/rancher/k3os",
+            "star": 71,
+            "description": "Purpose built OS for Kubernetes and fully managed by Kubernetes."
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 65,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 60,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "beehive",
+            "url": "https://github.com/muesli/beehive",
+            "star": 63,
+            "description": "A flexible event/agent & automation system with lots of bees🐝"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 53,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        }
+    ]
+}

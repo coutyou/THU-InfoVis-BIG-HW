@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-09",
+    "month": 9,
+    "day": 9,
+    "python": [
+        {
+            "name": "data-science-ipython-notebooks",
+            "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+            "star": 48,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+        },
+        {
+            "name": "tf-quant-finance",
+            "url": "https://github.com/google/tf-quant-finance",
+            "star": 51,
+            "description": "High-performance TensorFlow library for quantitative finance."
+        },
+        {
+            "name": "RustPython",
+            "url": "https://github.com/RustPython/RustPython",
+            "star": 11,
+            "description": "A Python Interpreter written in Rust"
+        },
+        {
+            "name": "lutris",
+            "url": "https://github.com/lutris/lutris",
+            "star": 13,
+            "description": "Lutris client - Open Source gaming platform for GNU/Linux"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 42,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 78,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "zipline",
+            "url": "https://github.com/quantopian/zipline",
+            "star": 4,
+            "description": "Zipline, a Pythonic Algorithmic Trading Library"
+        },
+        {
+            "name": "easy12306",
+            "url": "https://github.com/zhaipro/easy12306",
+            "star": 63,
+            "description": "使用机器学习算法完成对12306验证码的自动识别"
+        },
+        {
+            "name": "spinningup",
+            "url": "https://github.com/openai/spinningup",
+            "star": 10,
+            "description": "An educational resource to help anyone learn deep reinforcement learning."
+        },
+        {
+            "name": "instabot.py",
+            "url": "https://github.com/instabot-py/instabot.py",
+            "star": 4,
+            "description": "Instagram bot. It works without instagram api, need only login and password. Write on python."
+        }
+    ],
+    "java": [
+        {
+            "name": "SkyStone",
+            "url": "https://github.com/FIRST-Tech-Challenge/SkyStone",
+            "star": 6,
+            "description": "FTC SDK"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 27,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://bt.biedian.me"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 25,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 33,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 2,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "antlr4",
+            "url": "https://github.com/antlr/antlr4",
+            "star": 6,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+        },
+        {
+            "name": "termux-app",
+            "url": "https://github.com/termux/termux-app",
+            "star": 9,
+            "description": "Android terminal and Linux environment - app repository."
+        },
+        {
+            "name": "backtobackswe",
+            "url": "https://github.com/bephrem1/backtobackswe",
+            "star": 9,
+            "description": "Code Examples For Back To Back SWE Lessons"
+        },
+        {
+            "name": "sofa-rpc",
+            "url": "https://github.com/sofastack/sofa-rpc",
+            "star": 3,
+            "description": "SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework."
+        },
+        {
+            "name": "bistoury",
+            "url": "https://github.com/qunarcorp/bistoury",
+            "star": 53,
+            "description": "Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "eng-practices",
+            "url": "https://github.com/google/eng-practices",
+            "star": 893,
+            "description": "Google's Engineering Practices documentation"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 66,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "leeml-notes",
+            "url": "https://github.com/datawhalechina/leeml-notes",
+            "star": 68,
+            "description": "李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes"
+        },
+        {
+            "name": "Java-Interview",
+            "url": "https://github.com/gzc426/Java-Interview",
+            "star": 39,
+            "description": "Java 面试必会 直通BAT"
+        },
+        {
+            "name": "1024app-android",
+            "url": "https://github.com/yuuwill/1024app-android",
+            "star": 5,
+            "description": "草榴官方客户端，小草客户端，Android"
+        },
+        {
+            "name": "binance-official-api-docs",
+            "url": "https://github.com/binance-exchange/binance-official-api-docs",
+            "star": 4,
+            "description": "Official Documentation for the Binance APIs and Streams"
+        },
+        {
+            "name": "awesome-public-datasets",
+            "url": "https://github.com/awesomedata/awesome-public-datasets",
+            "star": 32,
+            "description": "A topic-centric list of HQ open datasets. PR ☛☛☛"
+        },
+        {
+            "name": "download",
+            "url": "https://github.com/getlantern/download",
+            "star": 8,
+            "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 21,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "nlp-beginner",
+            "url": "https://github.com/FudanNLP/nlp-beginner",
+            "star": 7,
+            "description": "NLP上手教程"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "vue-form-making",
+            "url": "https://github.com/GavinZhuLei/vue-form-making",
+            "star": 67,
+            "description": "基于Vue的表单设计器，让表单开发简单而高效。"
+        },
+        {
+            "name": "chakra-ui",
+            "url": "https://github.com/chakra-ui/chakra-ui",
+            "star": 196,
+            "description": "⚡️Simple, Modular & Accessible UI Components for your React Applications"
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 36,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "draqula",
+            "url": "https://github.com/vadimdemedes/draqula",
+            "star": 76,
+            "description": "🧛 GraphQL client for minimalistic React apps"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 29,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "fanqiang",
+            "url": "https://github.com/bannedbook/fanqiang",
+            "star": 16,
+            "description": "翻墙-科学上网"
+        },
+        {
+            "name": "500lines",
+            "url": "https://github.com/aosabook/500lines",
+            "star": 20,
+            "description": "500 Lines or Less"
+        },
+        {
+            "name": "awesome-selfhosted",
+            "url": "https://github.com/Kickball/awesome-selfhosted",
+            "star": 31,
+            "description": "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers."
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 39,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "academicpages.github.io",
+            "url": "https://github.com/academicpages/academicpages.github.io",
+            "star": 7,
+            "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes"
+        }
+    ],
+    "html": [
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 57,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 5,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 5,
+            "description": "Modern Phishing Tool With Advanced Functionality [ Android-Support-Available ]"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 6,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 8,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "ctf-wiki",
+            "url": "https://github.com/ctf-wiki/ctf-wiki",
+            "star": 3,
+            "description": "CTF Wiki Online. Come and join us, we need you!"
+        },
+        {
+            "name": "simple-icons",
+            "url": "https://github.com/simple-icons/simple-icons",
+            "star": 10,
+            "description": "SVG icons for popular brands"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 2,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 15,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Django-CRM",
+            "url": "https://github.com/MicroPyramid/Django-CRM",
+            "star": 4,
+            "description": "Open Source Python CRM based on Django aimed to salesforce compatible for migrating to"
+        }
+    ],
+    "go": [
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 36,
+            "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk"
+        },
+        {
+            "name": "community",
+            "url": "https://github.com/kubernetes/community",
+            "star": 46,
+            "description": "Kubernetes community content"
+        },
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 21,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 24,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "clash",
+            "url": "https://github.com/Dreamacro/clash",
+            "star": 9,
+            "description": "A rule-based tunnel in Go."
+        },
+        {
+            "name": "hub",
+            "url": "https://github.com/github/hub",
+            "star": 10,
+            "description": "A command-line tool that makes git easier to use with GitHub."
+        },
+        {
+            "name": "badger",
+            "url": "https://github.com/dgraph-io/badger",
+            "star": 13,
+            "description": "Fast key-value DB in Go."
+        },
+        {
+            "name": "dnscrypt-proxy",
+            "url": "https://github.com/jedisct1/dnscrypt-proxy",
+            "star": 8,
+            "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols."
+        },
+        {
+            "name": "evilginx2",
+            "url": "https://github.com/kgretzky/evilginx2",
+            "star": 9,
+            "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication"
+        },
+        {
+            "name": "annie",
+            "url": "https://github.com/iawia002/annie",
+            "star": 24,
+            "description": "👾Fast, simple and clean video downloader"
+        }
+    ]
+}

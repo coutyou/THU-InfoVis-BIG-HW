@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-17",
+    "month": 11,
+    "day": 17,
+    "python": [
+        {
+            "name": "Deep-Learning-with-TensorFlow-book",
+            "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+            "star": 762,
+            "description": "深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework."
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 1523,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 130,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "dagster",
+            "url": "https://github.com/dagster-io/dagster",
+            "star": 15,
+            "description": "A Python library for building data applications: ETL, ML, Data Pipelines, and more."
+        },
+        {
+            "name": "jwt_tool",
+            "url": "https://github.com/ticarpi/jwt_tool",
+            "star": 160,
+            "description": "🐍A toolkit for testing, tweaking and cracking JSON Web Tokens"
+        },
+        {
+            "name": "Tacotron-2",
+            "url": "https://github.com/Rayhane-mamah/Tacotron-2",
+            "star": 37,
+            "description": "DeepMind's Tacotron-2 Tensorflow implementation"
+        },
+        {
+            "name": "ActionDetection-DBG",
+            "url": "https://github.com/TencentYoutuResearch/ActionDetection-DBG",
+            "star": 55,
+            "description": ""
+        },
+        {
+            "name": "numpy-ml",
+            "url": "https://github.com/ddbourgin/numpy-ml",
+            "star": 67,
+            "description": "Machine learning, in numpy"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 164,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "crauEmu",
+            "url": "https://github.com/DSecurity/crauEmu",
+            "star": 30,
+            "description": "crauEmu is a modified version of uEmu for developing and analyzing payloads for code-reuse attacks"
+        }
+    ],
+    "java": [
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 146,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 380,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 86,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "incubator-dolphinscheduler",
+            "url": "https://github.com/apache/incubator-dolphinscheduler",
+            "star": 35,
+            "description": "Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 186,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "redis-manager",
+            "url": "https://github.com/ngbdf/redis-manager",
+            "star": 227,
+            "description": "Redis 一站式管理平台，支持集群创建、管理、监控、报警"
+        },
+        {
+            "name": "jmc",
+            "url": "https://github.com/openjdk/jmc",
+            "star": 47,
+            "description": "https://openjdk.java.net/projects/jmc/"
+        },
+        {
+            "name": "presto",
+            "url": "https://github.com/prestodb/presto",
+            "star": 23,
+            "description": "The official home of the Presto distributed SQL query engine for big data"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 67,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "hutool",
+            "url": "https://github.com/looly/hutool",
+            "star": 68,
+            "description": "A set of tools that keep Java sweet."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "starter-workflows",
+            "url": "https://github.com/actions/starter-workflows",
+            "star": 90,
+            "description": "Accelerating new GitHub Actions workflows"
+        },
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 153,
+            "description": "【 互联网 Java 工程师大厂面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，后端同学必看。"
+        },
+        {
+            "name": "statrethinking_winter2019",
+            "url": "https://github.com/rmcelreath/statrethinking_winter2019",
+            "star": 90,
+            "description": "Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019"
+        },
+        {
+            "name": "rfcs",
+            "url": "https://github.com/vuejs/rfcs",
+            "star": 10,
+            "description": "RFCs for substantial changes / feature additions to Vue core"
+        },
+        {
+            "name": "awsome-domain-adaptation",
+            "url": "https://github.com/zhaoxin94/awsome-domain-adaptation",
+            "star": 8,
+            "description": "A collection of AWESOME things about domian adaptation"
+        },
+        {
+            "name": "Beginner-Network-Pentesting",
+            "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+            "star": 120,
+            "description": "Notes for Beginner Network Pentesting Course"
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 480,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "awesome-actions",
+            "url": "https://github.com/sdras/awesome-actions",
+            "star": 81,
+            "description": "A curated list of awesome actions to use on GitHub"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 77,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "StabilityGuide",
+            "url": "https://github.com/StabilityMan/StabilityGuide",
+            "star": 16,
+            "description": "【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "quark-h5",
+            "url": "https://github.com/huangwei9527/quark-h5",
+            "star": 384,
+            "description": "基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具"
+        },
+        {
+            "name": "BullshitGenerator",
+            "url": "https://github.com/menzi11/BullshitGenerator",
+            "star": 2808,
+            "description": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this."
+        },
+        {
+            "name": "brave-browser",
+            "url": "https://github.com/brave/brave-browser",
+            "star": 102,
+            "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 219,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "parcel",
+            "url": "https://github.com/parcel-bundler/parcel",
+            "star": 35,
+            "description": "📦🚀Blazing fast, zero configuration web application bundler"
+        },
+        {
+            "name": "react-table",
+            "url": "https://github.com/tannerlinsley/react-table",
+            "star": 33,
+            "description": "⚛️Hooks for building fast and extendable tables and datagrids for React"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 190,
+            "description": "✅The largest Node.js best practices list (November 2019)"
+        },
+        {
+            "name": "faker.js",
+            "url": "https://github.com/Marak/faker.js",
+            "star": 61,
+            "description": "generate massive amounts of realistic fake data in Node.js and the browser"
+        },
+        {
+            "name": "WheelChair",
+            "url": "https://github.com/hrt/WheelChair",
+            "star": 22,
+            "description": "State of the art, cutting edge Neo man"
+        },
+        {
+            "name": "code-surfer",
+            "url": "https://github.com/pomber/code-surfer",
+            "star": 627,
+            "description": "Rad code slides <🏄/>"
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 71,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "training-kit",
+            "url": "https://github.com/github/training-kit",
+            "star": 9,
+            "description": "Open source cheat sheets for Git and GitHub"
+        },
+        {
+            "name": "qiubaiying.github.io",
+            "url": "https://github.com/qiubaiying/qiubaiying.github.io",
+            "star": 12,
+            "description": "BY Blog ->"
+        },
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 17,
+            "description": "A collection of resources on modern C++"
+        },
+        {
+            "name": "kryo",
+            "url": "https://github.com/EsotericSoftware/kryo",
+            "star": 6,
+            "description": "Java binary serialization and cloning: fast, efficient, automatic"
+        },
+        {
+            "name": "proposal-pipeline-operator",
+            "url": "https://github.com/tc39/proposal-pipeline-operator",
+            "star": 6,
+            "description": "A proposal for adding the simple-but-useful pipeline operator to JavaScript."
+        },
+        {
+            "name": "ng-alain",
+            "url": "https://github.com/ng-alain/ng-alain",
+            "star": 7,
+            "description": "NG-ZORRO admin panel front-end framework (netlify mirror https://netlify.ng-alain.com/)"
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 18,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 8,
+            "description": "Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services [ Android-Support-Available ]"
+        },
+        {
+            "name": "twemoji",
+            "url": "https://github.com/twitter/twemoji",
+            "star": 19,
+            "description": "Emoji for everyone. https://twemoji.twitter.com/"
+        }
+    ],
+    "go": [
+        {
+            "name": "OpenDiablo2",
+            "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+            "star": 1625,
+            "description": "An open source re-implementation of Diablo 2"
+        },
+        {
+            "name": "validator",
+            "url": "https://github.com/go-playground/validator",
+            "star": 149,
+            "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 77,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 58,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 69,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "prometheus-operator",
+            "url": "https://github.com/coreos/prometheus-operator",
+            "star": 27,
+            "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+        },
+        {
+            "name": "tview",
+            "url": "https://github.com/rivo/tview",
+            "star": 45,
+            "description": "Rich interactive widgets for terminal-based UIs written in Go"
+        },
+        {
+            "name": "argo-cd",
+            "url": "https://github.com/argoproj/argo-cd",
+            "star": 19,
+            "description": "Declarative continuous deployment for Kubernetes."
+        },
+        {
+            "name": "coredns",
+            "url": "https://github.com/coredns/coredns",
+            "star": 16,
+            "description": "CoreDNS is a DNS server that chains plugins"
+        },
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 67,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        }
+    ]
+}

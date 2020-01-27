@@ -1,0 +1,293 @@
+﻿Name,Language,Description,URL,Stars,Month
+stanfordnlp,python,Official Stanford NLP Python Library for Many Human Languages,https://github.com/stanfordnlp/stanfordnlp,526,2
+simpledet,python,A Simple and Versatile Framework for Object Detection and Instance Recognition,https://github.com/TuSimple/simpledet,204,2
+big-list-of-naughty-strings,python,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.,https://github.com/minimaxir/big-list-of-naughty-strings,213,2
+system-design-primer,python,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer,611,2
+apprise,python,Apprise - Push Notifications that work with just about every platform!,https://github.com/caronc/apprise,202,2
+ASR33,python,Using a Teletype Model 33 mechanical terminal,https://github.com/hughpyle/ASR33,99,2
+brumadinho_location,python,"Criamos uma primeira versão de uma ferramenta para colocar latitude e longitude dos desaparecidos e, com base no fluxo de rejeitos, estimar a possível localização da pessoa.",https://github.com/sosbrumadinho/brumadinho_location,69,2
+Python,python,All Algorithms implemented in Python,https://github.com/TheAlgorithms/Python,286,2
+public-apis,python,A collective list of free APIs for use in software and web development.,https://github.com/toddmotto/public-apis,1347,2
+models,python,Models and examples built with TensorFlow,https://github.com/tensorflow/models,124,2
+ASCII-generator,python,"ASCII generator (image to text, image to image, video to video)",https://github.com/vietnguyen91/ASCII-generator,192,2
+IPOsint,python,Discovery IP Address of the target,https://github.com/j3ssie/IPOsint,51,2
+manim,python,Animation engine for explanatory math videos,https://github.com/3b1b/manim,43,2
+awesome-python,python,"A curated list of awesome Python frameworks, libraries, software and resources",https://github.com/vinta/awesome-python,643,2
+pwndb,python,Search for leaked credentials,https://github.com/davidtavarez/pwndb,33,2
+home-assistant,python,🏡Open source home automation that puts local control and privacy first,https://github.com/home-assistant/home-assistant,26,2
+inter,python,The Inter font family,https://github.com/rsms/inter,810,2
+stylegan,python,StyleGAN - Official TensorFlow Implementation,https://github.com/NVlabs/stylegan,1103,2
+python-cheatsheet,python,Comprehensive Python Cheatsheet,https://github.com/gto76/python-cheatsheet,770,2
+XLM,python,PyTorch original implementation of Cross-lingual Language Model Pretraining.,https://github.com/facebookresearch/XLM,126,2
+ffhq-dataset,python,Flickr-Faces-HQ Dataset (FFHQ),https://github.com/NVlabs/ffhq-dataset,105,2
+flowblade,python,Video Editor for Linux,https://github.com/jliljebl/flowblade,89,2
+QuickDraw,python,Implementation of Quickdraw - an online game developed by Google,https://github.com/vietnguyen91/QuickDraw,85,2
+modin,python,Modin: Speed up your Pandas workflows by changing a single line of code,https://github.com/modin-project/modin,67,2
+clusterfuzz,python,All your bug are belong to us.,https://github.com/google/clusterfuzz,627,2
+ImageNet-Adversarial-Training,python,Feature Denoising for Improving Adversarial Robustness,https://github.com/facebookresearch/ImageNet-Adversarial-Training,83,2
+ptr,python,Python Test Runner.,https://github.com/facebookincubator/ptr,42,2
+youtube-dl,python,Command-line program to download videos from YouTube.com and other video sites,https://github.com/rg3/youtube-dl,36,2
+ludwig,python,Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.,https://github.com/uber/ludwig,1249,2
+spektral,python,Deep learning on graphs with Keras.,https://github.com/danielegrattarola/spektral,138,2
+datashader,python,"Turns even the largest data into images, accurately.",https://github.com/pyviz/datashader,102,2
+mlcourse.ai,python,Open Machine Learning Course,https://github.com/Yorko/mlcourse.ai,62,2
+ASRT_SpeechRecognition,python,A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统,https://github.com/nl8590687/ASRT_SpeechRecognition,70,2
+gpt-2,python,"Code for the paper ""Language Models are Unsupervised Multitask Learners""",https://github.com/openai/gpt-2,1793,2
+neural-pipeline,python,Neural networks training pipeline based on PyTorch,https://github.com/toodef/neural-pipeline,130,2
+rasa_core,python,🤖Open source chatbot framework with machine learning-based dialogue management - Build contextual AI assistants,https://github.com/RasaHQ/rasa_core,122,2
+faceswap,python,Non official project based on original /r/Deepfakes thread. Many thanks to him!,https://github.com/deepfakes/faceswap,2208,2
+Tensorflow-Cookbook,python,Simple Tensorflow Cookbook for easy-to-use,https://github.com/taki0112/Tensorflow-Cookbook,776,2
+PayloadsAllTheThings,python,A list of useful payloads and bypass for Web Application Security and Pentest/CTF,https://github.com/swisskyrepo/PayloadsAllTheThings,282,2
+awesome-algorithm,python,"LeetCode, HackRank, 剑指offer, classic algorithm implementation",https://github.com/apachecn/awesome-algorithm,165,2
+Google-Machine-Learning-Course-Notes,python,Notes taken from Google Machine Learning Course provided to public for practice & correction.,https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes,77,2
+SC-FEGAN,python,SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color,https://github.com/JoYoungjoo/SC-FEGAN,657,2
+ray,python,A system for parallel and distributed Python that unifies the ML ecosystem.,https://github.com/ray-project/ray,135,2
+ctf-tasks,python,An archive of low-level CTF challenges developed over the years,https://github.com/j00ru/ctf-tasks,114,2
+wukong-robot,python,🤖wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。,https://github.com/wzpan/wukong-robot,79,2
+Algorithm_Interview_Notes-Chinese,python,2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记,https://github.com/imhuay/Algorithm_Interview_Notes-Chinese,1134,2
+HelloGitHub,python,分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️,https://github.com/521xueweihan/HelloGitHub,59,2
+K8tools,python,K8工具(内网渗透/提权工具/远程溢出/漏洞利用/Exploit/APT/0day/Shellcode/Payload/priviledge/OverFlow/WebShell/PenTest),https://github.com/k8gege/K8tools,49,2
+zero,python,Zero is a web server to simplify web development.,https://github.com/remoteinterview/zero,979,2
+AdaBound,python,An optimizer that trains as fast as Adam and as good as SGD.,https://github.com/Luolc/AdaBound,813,2
+subsync,python,Automagically synchronize subtitles with video.,https://github.com/smacke/subsync,510,2
+bullet,python,🚅Beautiful Python prompts made simple. Build a prompt like stacking blocks.,https://github.com/Mckinsey666/bullet,363,2
+lingvo,python,Lingvo,https://github.com/tensorflow/lingvo,197,2
+face.evoLVe.PyTorch,python,🔥🔥High-Performance Face Recognition Library on PyTorch🔥🔥,https://github.com/ZhaoJ9014/face.evoLVe.PyTorch,128,2
+DeepFaceLab,python,"DeepFaceLab is a tool that utilizes deep learning to recognize and swap faces in pictures and videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).",https://github.com/iperov/DeepFaceLab,90,2
+giffun,java,一款开源的GIF在线分享App，乐趣就要和世界分享。,https://github.com/guolindev/giffun,174,2
+JavaGuide,java,【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。,https://github.com/Snailclimb/JavaGuide,1408,2
+symphony,java,🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com,https://github.com/b3log/symphony,273,2
+flink,java,Apache Flink,https://github.com/apache/flink,98,2
+fescar,java,"Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.",https://github.com/alibaba/fescar,452,2
+nacos,java,"an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",https://github.com/alibaba/nacos,62,2
+advanced-java,java,😮互联网 Java 工程师进阶知识完全扫盲,https://github.com/doocs/advanced-java,1091,2
+java-design-patterns,java,Design patterns implemented in Java,https://github.com/iluwatar/java-design-patterns,160,2
+Spring-Boot-In-Action,java,Spring Boot 系列实战合集,https://github.com/hansonwang99/Spring-Boot-In-Action,49,2
+spring-boot,java,Spring Boot,https://github.com/spring-projects/spring-boot,337,2
+DoraemonKit,java,A full-featured APP ( iOS & Android ) development assistant. You deserve it.,https://github.com/didi/DoraemonKit,1328,2
+tutorials,java,"The ""REST With Spring"" Course:",https://github.com/eugenp/tutorials,214,2
+santa-tracker-android,java,Ho Ho Ho,https://github.com/google/santa-tracker-android,19,2
+h4cker,java,"This repository is primarily maintained by Omar Santos and includes resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",https://github.com/The-Art-of-Hacking/h4cker,380,2
+nopen,java,"An error-prone checker which requires that classes be final, abstract or annotated with @ Open.",https://github.com/JakeWharton/nopen,99,2
+Java,java,All Algorithms implemented in Java,https://github.com/TheAlgorithms/Java,39,2
+Magisk,java,A Magic Mask to Alter Android System Systemless-ly,https://github.com/topjohnwu/Magisk,25,2
+elasticsearch,java,"Open Source, Distributed, RESTful Search Engine",https://github.com/elastic/elasticsearch,21,2
+messenger-app-android,java,"Open Source Messenger App For Android - Real-time Messaging, Voice and Video Calls",https://github.com/mesibo/messenger-app-android,52,2
+spring-framework,java,Spring Framework,https://github.com/spring-projects/spring-framework,13,2
+geektime-spring-family,java,极客时间视频课程《玩转Spring全家桶》,https://github.com/geektime-geekbang/geektime-spring-family,91,2
+SuperTextView,java,Welcome to use SuperTextView,https://github.com/chenBingX/SuperTextView,87,2
+mall,java,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,https://github.com/macrozheng/mall,522,2
+spring-boot-examples,java,about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。,https://github.com/ityouknow/spring-boot-examples,345,2
+arthas,java,Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas,https://github.com/alibaba/arthas,221,2
+MyPerf4J,java,High performance Java APM. Powered by ASM.,https://github.com/LinShunKang/MyPerf4J,76,2
+jib,java,⛵️Build container images for your Java applications.,https://github.com/GoogleContainerTools/jib,78,2
+miaosha,java,⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓,https://github.com/qiurunze123/miaosha,75,2
+AndroidMore,java,Android高级工程师成长之路：手写算法，数据结构 和 Android源码笔记,https://github.com/QzwJuHao/AndroidMore,75,2
+apollo,java,Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。,https://github.com/ctripcorp/apollo,57,2
+easyexcel,java,快速、简单避免OOM的java处理Excel工具,https://github.com/alibaba/easyexcel,58,2
+NeroParser,java,"⚡️20,000/ms Parser NLP POS AI Chinese words from complex sentence /每秒高达2700万混合分词， 高精准确率，支持病句分析，词性，词频统计，自由扩充词库的快速神经网络中文分词包.",https://github.com/yaoguangluo/NeroParser,88,2
+light-4j,java,"A fast, lightweight and more productive microservices framework",https://github.com/networknt/light-4j,48,2
+fisher,java,"基于Spring cloud alibaba,oauth2和Element-UI-Admin的后台权限管理框架",https://github.com/fanxinglong/fisher,31,2
+redis-manager,java,Redis 一站式管理平台，支持集群创建、管理、监控、报警,https://github.com/ngbdf/redis-manager,25,2
+javafx-jlink-starter-gradle,java,A JavaFX starter project with Gradle and jlink support,https://github.com/brunoborges/javafx-jlink-starter-gradle,27,2
+XPopup,java,"🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom Popup View.)",https://github.com/li-xiaojun/XPopup,131,2
+JGrowing,java,Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。,https://github.com/javagrowing/JGrowing,109,2
+awesome-podcasts,unknown,Collection of awesome podcasts,https://github.com/rShetty/awesome-podcasts,1102,2
+open-source-cs,unknown,Video discussing this curriculum:,https://github.com/ForrestKnight/open-source-cs,821,2
+interview,unknown,写在19年初的后端社招面试经历🤑,https://github.com/aylei/interview,333,2
+the-practical-linux-hardening-guide,unknown,🔥This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.,https://github.com/trimstray/the-practical-linux-hardening-guide,340,2
+Intranet_Penetration_Tips,unknown,2018年初整理的一些内网渗透TIPS，后面更新的慢，所以公开出来希望跟小伙伴们一起更新维护~,https://github.com/Ridter/Intranet_Penetration_Tips,272,2
+developer-roadmap,unknown,Roadmap to becoming a web developer in 2019,https://github.com/kamranahmedse/developer-roadmap,970,2
+CS-Notes,unknown,📚技术面试必备基础知识,https://github.com/CyC2018/CS-Notes,810,2
+computer-science,unknown,🎓Path to a free self-taught education in Computer Science!,https://github.com/ossu/computer-science,211,2
+awesome,unknown,😎Curated list of awesome lists,https://github.com/sindresorhus/awesome,322,2
+coding-interview-university,unknown,A complete computer science study plan to become a software engineer.,https://github.com/jwasham/coding-interview-university,99,2
+deep-learning-drizzle,unknown,"Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",https://github.com/kmario23/deep-learning-drizzle,1005,2
+Consolas,unknown,The Consolas font since I became a designer of it starting at version 8.0. It's of course open source.,https://github.com/PiotrGrochowski/Consolas,109,2
+chinese-programmer-wrong-pronunciation,unknown,中国程序员容易发音错误的单词,https://github.com/shimohq/chinese-programmer-wrong-pronunciation,64,2
+awesome-dotnet-security,unknown,Awesome .NET Security Resources,https://github.com/guardrailsio/awesome-dotnet-security,71,2
+web-typography-glossary,unknown,Webタイポグラフィの基礎知識と実践,https://github.com/fontplus/web-typography-glossary,63,2
+gitignore,unknown,A collection of useful .gitignore templates,https://github.com/github/gitignore,151,2
+free-programming-books,unknown,📚Freely available programming books,https://github.com/EbookFoundation/free-programming-books,73,2
+nginx-quick-reference,unknown,"⚡️This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%.",https://github.com/trimstray/nginx-quick-reference,1939,2
+awesome-developer-streams,unknown,"👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming",https://github.com/bnb/awesome-developer-streams,41,2
+HyperDL-Tutorial,unknown,深度学习教程整理 | 干货,https://github.com/zeusees/HyperDL-Tutorial,35,2
+rust-guide,unknown,Recommendations for secure applications development with Rust,https://github.com/ANSSI-FR/rust-guide,36,2
+How-To-Secure-A-Linux-Server,unknown,An evolving how-to guide for securing a Linux server.,https://github.com/imthenachoman/How-To-Secure-A-Linux-Server,2059,2
+nlp_chinese_corpus,unknown,大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP,https://github.com/brightmart/nlp_chinese_corpus,499,2
+awesome-javascript,unknown,"🐢A collection of awesome browser-side JavaScript libraries, resources and shiny things.",https://github.com/sorrycc/awesome-javascript,149,2
+AspNetCore-Developer-Roadmap,unknown,Roadmap to becoming an ASP.NET Core developer in 2019,https://github.com/MoienTajik/AspNetCore-Developer-Roadmap,89,2
+blog,unknown,我是木易杨，网易高级前端工程师，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！,https://github.com/yygmind/blog,80,2
+You-Dont-Know-JS,unknown,A book series on JavaScript. @YDKJS on twitter.,https://github.com/getify/You-Dont-Know-JS,66,2
+nsfw_data_source_urls,unknown,Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier,https://github.com/EBazarov/nsfw_data_source_urls,349,2
+Awesome-Design-Tools,unknown,The best design tools for everything.,https://github.com/LisaDziuba/Awesome-Design-Tools,1726,2
+snell,unknown,An encrypted proxy service program,https://github.com/surge-networks/snell,138,2
+pwc,unknown,Papers with code. Sorted by stars. Updated weekly.,https://github.com/zziz/pwc,88,2
+awesome-ida-x64-olly-plugin,unknown,A curated list of IDA x64DBG and OllyDBG plugins.,https://github.com/fr0gger/awesome-ida-x64-olly-plugin,85,2
+the-book-of-secret-knowledge,unknown,"⭐️A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.",https://github.com/trimstray/the-book-of-secret-knowledge,1517,2
+awesome-startup-credits,unknown,✨A collection of awesome companies offering free/discounted plans for eligible startups,https://github.com/dakshshah96/awesome-startup-credits,282,2
+100-days-of-code-frontend,unknown,Curriculum for learning front-end development during #100DaysOfCode.,https://github.com/nas5w/100-days-of-code-frontend,237,2
+Daily-Interview-Question,unknown,工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。,https://github.com/Advanced-Frontend/Daily-Interview-Question,895,2
+toBeTopJavaer,unknown,To Be Top Javaer - Java工程师成神之路,https://github.com/hollischuang/toBeTopJavaer,129,2
+Micro8,unknown,,https://github.com/Micropoor/Micro8,3342,2
+awesome-falsehood,unknown,💊Curated list of falsehoods programmers believe in.,https://github.com/kdeldycke/awesome-falsehood,477,2
+hacker-news-undocumented,unknown,Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.,https://github.com/minimaxir/hacker-news-undocumented,260,2
+awesome-lite-websites,unknown,A list of awesome lite websites without all the bloat,https://github.com/mdibaiee/awesome-lite-websites,167,2
+Xiaomi_Kernel_OpenSource,unknown,Xiaomi Mobile Phone Kernel OpenSource,https://github.com/MiCode/Xiaomi_Kernel_OpenSource,87,2
+javascript-tips-and-tidbits,unknown,A continuously-evolving compendium of javascript tips based on common areas of confusion or misunderstanding.,https://github.com/nas5w/javascript-tips-and-tidbits,80,2
+Awesome-WAF,unknown,🔥A curated list of awesome web-app firewall (WAF) stuff.,https://github.com/0xInfection/Awesome-WAF,443,2
+CyC-Notes,unknown,😋技术面试必备基础知识,https://github.com/CyC2018/CyC-Notes,190,2
+Nodejs-Developer-Roadmap,unknown,A Developer Roadmap to becoming a Node.js developer in 2019,https://github.com/aliyr/Nodejs-Developer-Roadmap,208,2
+awesome-css-learning,unknown,A tiny list limited to the best CSS Learning Resources,https://github.com/micromata/awesome-css-learning,131,2
+architect-awesome,unknown,后端架构师技术图谱,https://github.com/xingshaocheng/architect-awesome,86,2
+x-spreadsheet,javascript,a javascript spreadsheet for web,https://github.com/myliang/x-spreadsheet,375,2
+import-http,javascript,Import modules from URL instead of local node_modules,https://github.com/egoist/import-http,220,2
+chameleon,javascript,真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端,https://github.com/didi/chameleon,522,2
+BassoonTracker,javascript,Webbased old-school Amiga music tracker in plain old javascript - Plays and edits Amiga Mod files and FastTracker XM files,https://github.com/steffest/BassoonTracker,160,2
+animated-burgers,javascript,"Collection of animated burgers for React, also available as HTML+CSS",https://github.com/march08/animated-burgers,155,2
+react,javascript,"A declarative, efficient, and flexible JavaScript library for building user interfaces.",https://github.com/facebook/react,761,2
+vue,javascript,"🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",https://github.com/vuejs/vue,950,2
+nuclear,javascript,Desktop music player for streaming from free sources,https://github.com/nukeop/nuclear,102,2
+fx,javascript,Command-line tool and terminal JSON viewer🔥,https://github.com/antonmedv/fx,97,2
+nodebestpractices,javascript,The largest Node.js best practices list (January 2019),https://github.com/i0natan/nodebestpractices,93,2
+flexsearch,javascript,Next-Generation full text search library for Browser and Node.js,https://github.com/nextapps-de/flexsearch,751,2
+learn-react-app,javascript,"Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!",https://github.com/tyroprogrammer/learn-react-app,317,2
+ink,javascript,🌈React for interactive command-line apps,https://github.com/vadimdemedes/ink,124,2
+speedometer-pwa,javascript,"A tiny no-frills speedometer progressive web app based on Geolocation API, AmbientLightSensor API, and WakeLock API.",https://github.com/justinribeiro/speedometer-pwa,111,2
+realworld,javascript,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅",https://github.com/gothinkster/realworld,98,2
+nodeppt,javascript,This is probably the best web presentation tool so far!,https://github.com/ksky521/nodeppt,151,2
+github-spray,javascript,👾Draw on your GitHub contribution graph ░▒▓█,https://github.com/Annihil/github-spray,65,2
+github-history,javascript,Browse the history of any file from GitHub with style,https://github.com/pomber/github-history,921,2
+not-paid,javascript,Client did not pay? Add opacity to the body tag and increase it every day until their site completely fades away,https://github.com/kleampa/not-paid,1507,2
+apexcharts.js,javascript,📊Interactive SVG Charts,https://github.com/apexcharts/apexcharts.js,171,2
+react-testing-library,javascript,🐐Simple and complete React DOM testing utilities that encourage good testing practices.,https://github.com/kentcdodds/react-testing-library,118,2
+typeit,javascript,The most versatile JavaScript animated typing utility on the planet.,https://github.com/alexmacarthur/typeit,76,2
+anime,javascript,JavaScript animation engine,https://github.com/juliangarnier/anime,70,2
+git-history,javascript,Quickly browse the history of any GitHub file,https://github.com/pomber/git-history,1873,2
+qoa,javascript,💬Minimal interactive command-line prompts,https://github.com/klaussinani/qoa,426,2
+instant.page,javascript,Make your site’s pages instant in 1 minute and improve your conversion rate by 1%,https://github.com/instantpage/instant.page,682,2
+linaria,javascript,Zero-runtime CSS in JS library,https://github.com/callstack/linaria,168,2
+uppy,javascript,The next open source file uploader for web browsers🐶,https://github.com/transloadit/uppy,852,2
+react-native-hooks,javascript,React Native APIs turned into React Hooks for use in functional React components,https://github.com/react-native-community/react-native-hooks,126,2
+mercury-parser,javascript,📜Extracting content from the chaos of the web.,https://github.com/postlight/mercury-parser,304,2
+windows95,javascript,"💩🚀Windows 95 in Electron. Runs on macOS, Linux, and Windows.",https://github.com/felixrieseberg/windows95,396,2
+threejs-ballooning,javascript,"Buffer geometry merging, procedural terrains and shadow mapper research with Three.js",https://github.com/alexanderperrin/threejs-ballooning,202,2
+javascript-algorithms,javascript,📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings,https://github.com/trekhleb/javascript-algorithms,167,2
+leon,javascript,🧠 Leon is your open-source personal assistant.,https://github.com/leon-ai/leon,1480,2
+Motrix,javascript,A full-featured download manager.,https://github.com/agalwood/Motrix,692,2
+trilium,javascript,Build your personal knowledge base with Trilium Notes,https://github.com/zadam/trilium,107,2
+awesome-wechat-weapp,javascript,微信小程序开发资源汇总💯,https://github.com/justjavac/awesome-wechat-weapp,128,2
+asperitas,javascript,A simple reddit clone,https://github.com/d11z/asperitas,134,2
+react-simple-img,javascript,🌅React lazy load images with IntersectionObserver API and Priority Hints,https://github.com/bluebill1049/react-simple-img,128,2
+create-react-app,javascript,Set up a modern web app by running one command.,https://github.com/facebook/create-react-app,79,2
+codecrumbs,javascript,"Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.",https://github.com/Bogdan-Lyashenko/codecrumbs,313,2
+fast-cli,javascript,Test your download and upload speed using fast.com,https://github.com/sindresorhus/fast-cli,163,2
+30-seconds-of-code,javascript,Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.,https://github.com/30-seconds/30-seconds-of-code,230,2
+taro-yanxuan,javascript,首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED,https://github.com/js-newbee/taro-yanxuan,114,2
+bull,javascript,Premium Queue package for handling jobs and messages in NodeJS.,https://github.com/OptimalBits/bull,103,2
+cleave.js,javascript,Format input text content when you are typing...,https://github.com/nosir/cleave.js,861,2
+nsfwjs,javascript,NSFW detection on the client-side via Tensorflow JS,https://github.com/infinitered/nsfwjs,339,2
+berry,javascript,"📦🐈A modern, fast, reliable, package manager; part of the Yarn organization",https://github.com/yarnpkg/berry,88,2
+react-hooks-testing-library,javascript,Simple component wrapper for testing React hooks,https://github.com/mpeyper/react-hooks-testing-library,66,2
+applause-button,javascript,A zero-configuration medium-style button for adding applause / claps / kudos to web pages and blog posts,https://github.com/ColinEberhardt/applause-button,63,2
+react-three-fiber,javascript,👌React-fiber renderer for THREE.js,https://github.com/drcmda/react-three-fiber,426,2
+eslint-config-wesbos,javascript,No-Sweat™ Eslint and Prettier Setup - with or without VS Code,https://github.com/wesbos/eslint-config-wesbos,207,2
+filepond,javascript,🌊A flexible and fun JavaScript file upload library,https://github.com/pqina/filepond,156,2
+nginxconfig.io,html,⚙️NGiИX config generator on steroids💉,https://github.com/valentinxxx/nginxconfig.io,98,2
+cloudpatron,html,Cloud Patron - Open source Patreon alternative,https://github.com/cloudpatron/cloudpatron,35,2
+30-seconds-of-css,html,A curated collection of useful CSS snippets you can understand in 30 seconds or less.,https://github.com/30-seconds/30-seconds-of-css,96,2
+ionic,html,Build amazing native and progressive web apps with open web technologies. One app running on everything🎉,https://github.com/ionic-team/ionic,136,2
+lectures,html,Lecture notes for EC 607,https://github.com/uo-ec607/lectures,19,2
+JavaScript30,html,30 Day Vanilla JS Challenge,https://github.com/wesbos/JavaScript30,92,2
+AdminLTE,html,AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x,https://github.com/almasaeed2010/AdminLTE,150,2
+github,html,GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.,https://github.com/phodal/github,20,2
+sleek-dashboard,html,Sleek Dashboard - Free Bootstrap 4 Admin Template and UI Kit,https://github.com/tafcoder/sleek-dashboard,15,2
+animated-deno-logo,html,Animated Deno Logo,https://github.com/denolib/animated-deno-logo,12,2
+build-your-own-mint,html,"Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.",https://github.com/yyx990803/build-your-own-mint,10,2
+zenbot,html,Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.,https://github.com/DeviaVir/zenbot,8,2
+node_passport_login,html,"Node.js login, registration and access control using Express and Passport",https://github.com/bradtraversy/node_passport_login,7,2
+fastText,html,Library for fast text representation and classification.,https://github.com/facebookresearch/fastText,19,2
+awesome-modern-cpp,html,A collection of resources on modern C++,https://github.com/rigtorp/awesome-modern-cpp,15,2
+PoCBox,html,PoCBox - 漏洞测试验证辅助平台,https://github.com/gh0stkey/PoCBox,15,2
+swagger-codegen,html,"swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",https://github.com/swagger-api/swagger-codegen,12,2
+conferences,html,A public list of upcoming conferences https://conferences.css-tricks.com/,https://github.com/CSS-Tricks/conferences,9,2
+beautiful-jekyll,html,✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll,https://github.com/daattali/beautiful-jekyll,6,2
+styleguide,html,Style guides for Google-originated open-source projects,https://github.com/google/styleguide,79,2
+wpt,html,"Test suites for Web platform specs — including WHATWG, W3C, and others",https://github.com/web-platform-tests/wpt,10,2
+javascript-tutorial-en,html,Modern JavaScript Tutorial,https://github.com/iliakan/javascript-tutorial-en,37,2
+material-design-lite,html,Material Design Components in HTML/CSS/JS,https://github.com/google/material-design-lite,7,2
+evtjs,html,API Bindings (SDK) for the everiToken blockchain.,https://github.com/everitoken/evtjs,26,2
+flutter-in-action,html,《Flutter实战》电子书,https://github.com/flutterchina/flutter-in-action,86,2
+blog_os,html,Writing an OS in Rust,https://github.com/phil-opp/blog_os,20,2
+WDScanner,html,WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署、密码定向破解、社工库查询等功能。,https://github.com/TideSec/WDScanner,57,2
+markdown-mark,html,Use this mark to identify Markdown.,https://github.com/dcurtis/markdown-mark,38,2
+frontendDaily,html,前端开发技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch,https://github.com/kujian/frontendDaily,88,2
+Front-end-Developer-Interview-Questions,html,"A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",https://github.com/h5bp/Front-end-Developer-Interview-Questions,122,2
+convolve,html,Simple demonstration of separable convolutions,https://github.com/mikepound/convolve,15,2
+stisla,html,Free Bootstrap Admin Template,https://github.com/stisla/stisla,28,2
+Screenshot-to-code,html,A neural network that transforms a design mock-up into a static website,https://github.com/emilwallner/Screenshot-to-code,71,2
+sec_profile,html,"爬取secwiki和xuanwu.github.io,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)",https://github.com/tanjiti/sec_profile,31,2
+daily-anime,html,a vscode extension for daily anime,https://github.com/deepred5/daily-anime,33,2
+fake3d,html,,https://github.com/akella/fake3d,24,2
+awesome-IT-films,html,📺A curated list of awesome films about IT & geek people.,https://github.com/greybax/awesome-IT-films,120,2
+googlefonts-font-display-helper,html,A snippet generator to speed up Google Fonts rendering with font-display,https://github.com/iamakulov/googlefonts-font-display-helper,26,2
+learning-area,html,Github repo for the MDN Learning Area.,https://github.com/mdn/learning-area,6,2
+deeplearning_ai_books,html,deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）,https://github.com/fengdu78/deeplearning_ai_books,21,2
+ecma262,html,"Status, process, and documents for ECMA262",https://github.com/tc39/ecma262,18,2
+aresdb,go,A GPU-powered real-time analytics storage and query engine.,https://github.com/uber/aresdb,378,2
+kunpeng,go,kunpeng是一个Golang编写的开源POC检测框架，以动态链接库的形式提供各种语言调用，通过此项目可快速对目标进行安全漏洞检测，比攻击者快一步发现风险漏洞。,https://github.com/opensec-cn/kunpeng,164,2
+websocketd,go,"Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",https://github.com/joewalnes/websocketd,186,2
+faker,go,Go (Golang) Fake Data Generator for Struct,https://github.com/bxcodec/faker,114,2
+kubernetes,go,Production-Grade Container Scheduling and Management,https://github.com/kubernetes/kubernetes,391,2
+loki,go,"Like Prometheus, but for logs.",https://github.com/grafana/loki,64,2
+ghp,go,A simple web server for serving static GitHub Pages locally,https://github.com/CurtisLusmore/ghp,64,2
+go,go,The Go programming language,https://github.com/golang/go,392,2
+etcd,go,Distributed reliable key-value store for the most critical data of a distributed system,https://github.com/etcd-io/etcd,50,2
+awesome-go,go,"A curated list of awesome Go frameworks, libraries and software",https://github.com/avelino/awesome-go,207,2
+k9s,go,🐶Kubernetes CLI To Manage Your Clusters In Style!,https://github.com/derailed/k9s,232,2
+cli,go,"A simple, fast, and fun package for building command line apps in Go",https://github.com/urfave/cli,46,2
+docui,go,TUI Tool for Docker,https://github.com/skanehira/docui,129,2
+hugo,go,The world’s fastest framework for building websites.,https://github.com/gohugoio/hugo,100,2
+syncthing,go,Open Source Continuous File Synchronization,https://github.com/syncthing/syncthing,73,2
+mgmt,go,"Next generation distributed, event-driven, parallel config management!",https://github.com/purpleidea/mgmt,27,2
+mkcert,go,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,https://github.com/FiloSottile/mkcert,24,2
+gitin,go,commit/branch/workdir explorer for git,https://github.com/isacikgoz/gitin,430,2
+gotop,go,A terminal based graphical activity monitor inspired by gtop and vtop,https://github.com/cjbassi/gotop,581,2
+vault,go,"A tool for secrets management, encryption as a service, and privileged access management",https://github.com/hashicorp/vault,41,2
+kube-capacity,go,"A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster",https://github.com/robscott/kube-capacity,37,2
+v2ray-core,go,A platform for building proxies to bypass network restrictions.,https://github.com/v2ray/v2ray-core,89,2
+istio,go,"Connect, secure, control, and observe services.",https://github.com/istio/istio,125,2
+fathom,go,"Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",https://github.com/usefathom/fathom,324,2
+go-elasticsearch,go,The official Go client for Elasticsearch,https://github.com/elastic/go-elasticsearch,211,2
+Gorsair,go,Gorsair hacks its way into remote docker containers that expose their APIs.,https://github.com/Ullaakut/Gorsair,122,2
+filetype,go,"Small, dependency-free and blazing fast package to infer file types checking the magic numbers signature in Go",https://github.com/h2non/filetype,36,2
+learn-go-with-tests,go,Learn Go with test-driven development,https://github.com/quii/learn-go-with-tests,34,2
+1m-go-websockets,go,handling 1M websockets connections in Go,https://github.com/eranyanay/1m-go-websockets,917,2
+chat,go,"Instant messaging server; backend in Go; Android, web command line clients; chatbots",https://github.com/tinode/chat,133,2
+go-echarts,go,🎨The adorable charts library for Golang,https://github.com/chenjiandongx/go-echarts,111,2
+up,go,"Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.",https://github.com/apex/up,105,2
+kuberhealthy,go,Easy synthetic testing for Kubernetes clusters. Works great with Prometheus.,https://github.com/Comcast/kuberhealthy,61,2
+go-filecoin,go,Filecoin Full Node Implementation in Go,https://github.com/filecoin-project/go-filecoin,320,2
+talos,go,A modern Linux distribution for Kubernetes.,https://github.com/autonomy/talos,214,2
+frp,go,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,https://github.com/fatedier/frp,181,2
+lorca,go,Build cross-platform modern desktop apps in Go + HTML5,https://github.com/zserge/lorca,105,2
+AdGuardHome,go,Network-wide ads & trackers blocking DNS server,https://github.com/AdguardTeam/AdGuardHome,60,2
+lantern,go,🔴蓝灯最新版本下载 https://github.com/getlantern/download🔴Lantern Latest Download https://github.com/getlantern/download🔴,https://github.com/getlantern/lantern,52,2
+dgraph,go,"Fast, Distributed Graph DB",https://github.com/dgraph-io/dgraph,192,2
+inlets,go,Expose your local endpoints to the Internet,https://github.com/alexellis/inlets,573,2
+flipt,go,A self contained feature flag solution,https://github.com/markphelps/flipt,95,2
+cortex,go,Machine learning infrastructure for developers,https://github.com/cortexlabs/cortex,148,2
+air,go,An ideally refined web framework for Go.,https://github.com/aofei/air,82,2
+service,go,Starter code for writing web services in Go,https://github.com/ardanlabs/service,46,2
+gin,go,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",https://github.com/gin-gonic/gin,42,2
+helium,go,"Helium is a small, simple, modular constructor with some pre-built components for your convenience.",https://github.com/im-kulikov/helium,28,2
+cds,go,Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform,https://github.com/ovh/cds,137,2
+timeliner,go,"All your digital life on a single timeline, stored locally",https://github.com/mholt/timeliner,77,2
+footloose,go,Container Machines - Containers that look like Virtual Machines,https://github.com/dlespiau/footloose,45,2
+Venom,go,Venom - A Multi-hop Proxy for Penetration Testers Written in Go,https://github.com/Dliv3/Venom,29,2
+k3s,go,Lightweight Kubernetes. 5 less than k8s.,https://github.com/rancher/k3s,1222,2
+wal-g,go,Archival and Restoration for Postgres,https://github.com/wal-g/wal-g,143,2
+go2-book,go,📚《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性,https://github.com/chai2010/go2-book,125,2
+build-web-application-with-golang,go,A golang ebook intro how to build a web with golang,https://github.com/astaxie/build-web-application-with-golang,76,2
+istio-operator,go,An operator that manages Istio deployments on Kubernetes,https://github.com/banzaicloud/istio-operator,61,2
+rakkess,go,Review Access - kubectl plugin to show an access matrix for all available resources,https://github.com/corneliusweig/rakkess,59,2

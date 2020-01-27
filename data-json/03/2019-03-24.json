@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-24",
+    "month": 3,
+    "day": 24,
+    "python": [
+        {
+            "name": "BigGAN-PyTorch",
+            "url": "https://github.com/ajbrock/BigGAN-PyTorch",
+            "star": 362,
+            "description": "The author's officially unofficial PyTorch BigGAN implementation."
+        },
+        {
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi",
+            "star": 181,
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+        },
+        {
+            "name": "requests-async",
+            "url": "https://github.com/encode/requests-async",
+            "star": 101,
+            "description": "async-await support for `requests`.🍰"
+        },
+        {
+            "name": "pyright",
+            "url": "https://github.com/Microsoft/pyright",
+            "star": 90,
+            "description": "Static type checker for Python"
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 62,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "pytorch-pretrained-BigGAN",
+            "url": "https://github.com/huggingface/pytorch-pretrained-BigGAN",
+            "star": 57,
+            "description": "🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts."
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 55,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 52,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 47,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "huawei2019-with-visualization",
+            "url": "https://github.com/AkatsukiCC/huawei2019-with-visualization",
+            "star": 37,
+            "description": "华为2019评判器开源(提供可视化接口，方便大家调试自己的判题器)"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 104,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 41,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 40,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 42,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 28,
+            "description": "✍ Halo 可能是最好的 Java 博客系统"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 22,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 27,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 18,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "SpringBoot-Learning",
+            "url": "https://github.com/dyc87112/SpringBoot-Learning",
+            "star": 25,
+            "description": "Spring Boot基础教程"
+        },
+        {
+            "name": "Gloading",
+            "url": "https://github.com/luckybilly/Gloading",
+            "star": 28,
+            "description": "Show global loading status view in a low coupling way for Android App(深度解耦Android App中全局加载中、加载失败及空数据视图)"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Machine-Learning-Study-Path-March-2019",
+            "url": "https://github.com/clone95/Machine-Learning-Study-Path-March-2019",
+            "star": 250,
+            "description": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+        },
+        {
+            "name": "open-source-jobs",
+            "url": "https://github.com/t9tio/open-source-jobs",
+            "star": 128,
+            "description": "A list of Open Source projects offering jobs. For who want to work on open source and get paid."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 106,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "SPADE",
+            "url": "https://github.com/NVlabs/SPADE",
+            "star": 106,
+            "description": ""
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 75,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 72,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 69,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 69,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "js-dev-reads",
+            "url": "https://github.com/twhite96/js-dev-reads",
+            "star": 70,
+            "description": "A list of books📚and articles📝for the discerning web developer to read."
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 43,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "dropcss",
+            "url": "https://github.com/leeoniya/dropcss",
+            "star": 253,
+            "description": "A simple, thorough and fast unused-CSS cleaner"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 172,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 149,
+            "description": "油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速"
+        },
+        {
+            "name": "laxxx",
+            "url": "https://github.com/alexfoxy/laxxx",
+            "star": 130,
+            "description": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!"
+        },
+        {
+            "name": "taskbook",
+            "url": "https://github.com/klaussinani/taskbook",
+            "star": 128,
+            "description": "📓Tasks, boards & notes for the command-line habitat"
+        },
+        {
+            "name": "wechat-format",
+            "url": "https://github.com/lyricat/wechat-format",
+            "star": 96,
+            "description": "微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 81,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 81,
+            "description": "北京大学课程资料整理"
+        },
+        {
+            "name": "library",
+            "url": "https://github.com/nytimes/library",
+            "star": 63,
+            "description": "A collaborative documentation site, powered by Google Docs."
+        },
+        {
+            "name": "npk",
+            "url": "https://github.com/Coalfire-Research/npk",
+            "star": 59,
+            "description": "A mostly-serverless distributed hash cracking platform"
+        }
+    ],
+    "html": [
+        {
+            "name": "WeChatAgreement.WebApi.Simple",
+            "url": "https://github.com/changtuiqie/WeChatAgreement.WebApi.Simple",
+            "star": 161,
+            "description": "微信mac/ipad协议，webapi封装好的实现方案，免IIS一键部署。 可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等"
+        },
+        {
+            "name": "bestofml",
+            "url": "https://github.com/RemoteML/bestofml",
+            "star": 32,
+            "description": "The best resources around Machine Learning"
+        },
+        {
+            "name": "Panda-Learning",
+            "url": "https://github.com/Alivon/Panda-Learning",
+            "star": 25,
+            "description": "学习强国xuexiqiangguo--熊猫学习Panda-Learning是一个辅助学习 学习强国的程序,帮助挤不出时间，却仍然需要学习的积极分子，学习强国(xuexiqiangguo)"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 20,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "lets-get-arrested",
+            "url": "https://github.com/hamukazu/lets-get-arrested",
+            "star": 25,
+            "description": "This project is intended to protest against the police in Japan"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 18,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 14,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 14,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 12,
+            "description": "Library for fast text representation and classification."
+        }
+    ],
+    "go": [
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 274,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "qri",
+            "url": "https://github.com/qri-io/qri",
+            "star": 242,
+            "description": "you're invited to a data party!"
+        },
+        {
+            "name": "crfs",
+            "url": "https://github.com/google/crfs",
+            "star": 197,
+            "description": "CRFS: Container Registry Filesystem"
+        },
+        {
+            "name": "ko",
+            "url": "https://github.com/google/ko",
+            "star": 95,
+            "description": "Build and deploy Go applications on Kubernetes"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 46,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "kaf",
+            "url": "https://github.com/infinimesh/kaf",
+            "star": 44,
+            "description": "Modern CLI for Apache Kafka, written in Go."
+        },
+        {
+            "name": "GMDB",
+            "url": "https://github.com/Dentrax/GMDB",
+            "star": 41,
+            "description": "GMDB is the ultra-simple, open-source, cross-platform Movie Library with Features (Search, Take Note, Watch Later, Like, Import, Learn, Instantly Torrent Magnet Watch)"
+        },
+        {
+            "name": "nomad",
+            "url": "https://github.com/hashicorp/nomad",
+            "star": 39,
+            "description": "Nomad is a flexible, enterprise-grade cluster scheduler designed to easily integrate into existing workflows. Nomad can run a diverse workload of micro-service, batch, containerized and non-containerized applications. Nomad is easy to operate and scale and integrates seamlessly with Consul and Vault."
+        },
+        {
+            "name": "awesome-golang-leetcode",
+            "url": "https://github.com/kylesliu/awesome-golang-leetcode",
+            "star": 34,
+            "description": "📝LeetCode of algorithms with golang solution(updating)."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 30,
+            "description": "The Go programming language"
+        }
+    ]
+}

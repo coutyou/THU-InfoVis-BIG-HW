@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-28",
+    "month": 11,
+    "day": 28,
+    "python": [
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 92,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "sagemaker-python-sdk",
+            "url": "https://github.com/aws/sagemaker-python-sdk",
+            "star": 1,
+            "description": "A library for training and deploying machine learning models on Amazon SageMaker"
+        },
+        {
+            "name": "Corsy",
+            "url": "https://github.com/s0md3v/Corsy",
+            "star": 37,
+            "description": "CORS Misconfiguration Scanner"
+        },
+        {
+            "name": "Ultimate-Facebook-Scraper",
+            "url": "https://github.com/harismuneer/Ultimate-Facebook-Scraper",
+            "star": 68,
+            "description": "🤖A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc)."
+        },
+        {
+            "name": "sentry",
+            "url": "https://github.com/getsentry/sentry",
+            "star": 43,
+            "description": "Sentry is cross-platform application monitoring, with a focus on error reporting."
+        },
+        {
+            "name": "Machine-Learning-Yearning-Vietnamese-Translation",
+            "url": "https://github.com/aivivn/Machine-Learning-Yearning-Vietnamese-Translation",
+            "star": 5,
+            "description": ""
+        },
+        {
+            "name": "EfficientNet-PyTorch",
+            "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+            "star": 17,
+            "description": "A PyTorch implementation of EfficientNet"
+        },
+        {
+            "name": "edx-platform",
+            "url": "https://github.com/edx/edx-platform",
+            "star": 3,
+            "description": "The Open edX platform, the software that powers edX!"
+        },
+        {
+            "name": "kedro",
+            "url": "https://github.com/quantumblacklabs/kedro",
+            "star": 2,
+            "description": "A Python library that implements software engineering best-practice for data and ML pipelines."
+        },
+        {
+            "name": "dirsearch",
+            "url": "https://github.com/maurosoria/dirsearch",
+            "star": 21,
+            "description": "Web path scanner"
+        }
+    ],
+    "java": [
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 43,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "mockito",
+            "url": "https://github.com/mockito/mockito",
+            "star": 16,
+            "description": "Most popular Mocking framework for unit tests written in Java"
+        },
+        {
+            "name": "react-native-webview",
+            "url": "https://github.com/react-native-community/react-native-webview",
+            "star": 5,
+            "description": "React Native Cross-Platform WebView"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 30,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "pulsar",
+            "url": "https://github.com/apache/pulsar",
+            "star": 7,
+            "description": "Apache Pulsar - distributed pub-sub messaging system"
+        },
+        {
+            "name": "springcloud-learning",
+            "url": "https://github.com/macrozheng/springcloud-learning",
+            "star": 16,
+            "description": "一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。20篇文章，篇篇精华，30个Demo，涵盖大部分应用场景。"
+        },
+        {
+            "name": "json",
+            "url": "https://github.com/flori/json",
+            "star": 0,
+            "description": "JSON implementation for Ruby"
+        },
+        {
+            "name": "hive",
+            "url": "https://github.com/apache/hive",
+            "star": 3,
+            "description": "Apache Hive"
+        },
+        {
+            "name": "Nukkit",
+            "url": "https://github.com/NukkitX/Nukkit",
+            "star": 1,
+            "description": "Nuclear-Powered Server Software for Minecraft: Bedrock Edition."
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 342,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "electron-ssr-backup",
+            "url": "https://github.com/qingshuisiyuan/electron-ssr-backup",
+            "star": 20,
+            "description": "electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜"
+        },
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 201,
+            "description": "【互联网一线大厂Java 工程师面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+        },
+        {
+            "name": "react-typescript-cheatsheet",
+            "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+            "star": 36,
+            "description": "Cheatsheets for experienced React developers getting started with TypeScript"
+        },
+        {
+            "name": "Production-Level-Deep-Learning",
+            "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+            "star": 218,
+            "description": "A guideline for building practical production-level deep learning systems to be deployed in real world applications."
+        },
+        {
+            "name": "ansible-role-nginx",
+            "url": "https://github.com/geerlingguy/ansible-role-nginx",
+            "star": 1,
+            "description": "Ansible Role - Nginx"
+        },
+        {
+            "name": "AZ-103-MicrosoftAzureAdministrator",
+            "url": "https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+            "star": 0,
+            "description": "AZ-103: Microsoft Azure Administrator"
+        },
+        {
+            "name": "vector-tile-spec",
+            "url": "https://github.com/mapbox/vector-tile-spec",
+            "star": 0,
+            "description": "Mapbox Vector Tile specification"
+        },
+        {
+            "name": "awesome-naming",
+            "url": "https://github.com/gruhn/awesome-naming",
+            "star": 96,
+            "description": "A curated list for when naming things is done right."
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 13,
+            "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 2,
+            "description": "The CocoaPods Master Repo"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "jumpserver",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "star": 30,
+            "description": "Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。"
+        },
+        {
+            "name": "Vue.Draggable",
+            "url": "https://github.com/SortableJS/Vue.Draggable",
+            "star": 25,
+            "description": "Vue drag-and-drop component based on Sortable.js"
+        },
+        {
+            "name": "frisby",
+            "url": "https://github.com/vlucas/frisby",
+            "star": 14,
+            "description": "Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun."
+        },
+        {
+            "name": "nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js",
+            "star": 25,
+            "description": "The Vue.js Framework"
+        },
+        {
+            "name": "quill",
+            "url": "https://github.com/quilljs/quill",
+            "star": 13,
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility."
+        },
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 8,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        },
+        {
+            "name": "openlayers",
+            "url": "https://github.com/openlayers/openlayers",
+            "star": 6,
+            "description": "OpenLayers"
+        },
+        {
+            "name": "cypress",
+            "url": "https://github.com/cypress-io/cypress",
+            "star": 172,
+            "description": "Fast, easy and reliable testing for anything that runs in a browser."
+        },
+        {
+            "name": "lwc-recipes",
+            "url": "https://github.com/trailheadapps/lwc-recipes",
+            "star": 5,
+            "description": "A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform"
+        },
+        {
+            "name": "pdfkit",
+            "url": "https://github.com/foliojs/pdfkit",
+            "star": 9,
+            "description": "A JavaScript PDF generation library for Node and the browser"
+        }
+    ],
+    "html": [
+        {
+            "name": "machine-learning-systems-design",
+            "url": "https://github.com/chiphuyen/machine-learning-systems-design",
+            "star": 352,
+            "description": "A booklet on machine learning systems design with exercises"
+        },
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 75,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 11,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "technical-books",
+            "url": "https://github.com/doocs/technical-books",
+            "star": 9,
+            "description": "😆国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习..."
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 11,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 9,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "openshift-docs",
+            "url": "https://github.com/openshift/openshift-docs",
+            "star": 0,
+            "description": "OpenShift Documentation"
+        },
+        {
+            "name": "embeddedsw",
+            "url": "https://github.com/Xilinx/embeddedsw",
+            "star": 0,
+            "description": "Xilinx Embedded Software (embeddedsw) Development"
+        },
+        {
+            "name": "twofactorauth",
+            "url": "https://github.com/2factorauth/twofactorauth",
+            "star": 2,
+            "description": "List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software."
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/biaochenxuying/blog",
+            "star": 24,
+            "description": "大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。"
+        }
+    ],
+    "go": [
+        {
+            "name": "quic-go",
+            "url": "https://github.com/lucas-clemente/quic-go",
+            "star": 12,
+            "description": "A QUIC implementation in pure go"
+        },
+        {
+            "name": "dep",
+            "url": "https://github.com/golang/dep",
+            "star": 10,
+            "description": "Go dependency management tool"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 48,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 25,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 9,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 83,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 5,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "spark-on-k8s-operator",
+            "url": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator",
+            "star": 1,
+            "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes."
+        },
+        {
+            "name": "testify",
+            "url": "https://github.com/stretchr/testify",
+            "star": 13,
+            "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+        },
+        {
+            "name": "migrate",
+            "url": "https://github.com/golang-migrate/migrate",
+            "star": 8,
+            "description": "Database migrations. CLI and Golang library."
+        }
+    ]
+}

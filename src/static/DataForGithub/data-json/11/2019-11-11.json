@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-11",
+    "month": 11,
+    "day": 11,
+    "python": [
+        {
+            "name": "my_first_calculator.py",
+            "url": "https://github.com/AceLewis/my_first_calculator.py",
+            "star": 444,
+            "description": "my_first_calculator.py"
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 180,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "PhoneInfoga",
+            "url": "https://github.com/sundowndev/PhoneInfoga",
+            "star": 10,
+            "description": "Advanced information gathering & OSINT tool for phone numbers"
+        },
+        {
+            "name": "instabot",
+            "url": "https://github.com/instagrambot/instabot",
+            "star": 11,
+            "description": "🐙Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 71,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "Douyin-Bot",
+            "url": "https://github.com/wangshub/Douyin-Bot",
+            "star": 12,
+            "description": "😍Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？"
+        },
+        {
+            "name": "multi-agent-emergence-environments",
+            "url": "https://github.com/openai/multi-agent-emergence-environments",
+            "star": 7,
+            "description": "Environment generation code for the paper \"Emergent Tool Use From Multi-Agent Autocurricula\""
+        },
+        {
+            "name": "2019",
+            "url": "https://github.com/pwn2winctf/2019",
+            "star": 4,
+            "description": "Pwn2Win CTF 2019 platform client"
+        },
+        {
+            "name": "optuna",
+            "url": "https://github.com/pfnet/optuna",
+            "star": 9,
+            "description": "A hyperparameter optimization framework"
+        },
+        {
+            "name": "gpt-2-output-dataset",
+            "url": "https://github.com/openai/gpt-2-output-dataset",
+            "star": 92,
+            "description": "Dataset of GPT-2 outputs for research in detection, biases, and more"
+        }
+    ],
+    "java": [
+        {
+            "name": "resilience4j",
+            "url": "https://github.com/resilience4j/resilience4j",
+            "star": 31,
+            "description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming"
+        },
+        {
+            "name": "mantis",
+            "url": "https://github.com/Netflix/mantis",
+            "star": 174,
+            "description": "A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 141,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "baritone",
+            "url": "https://github.com/cabaletta/baritone",
+            "star": 12,
+            "description": "google maps for block game"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://github.com/DrKLO/Telegram",
+            "star": 9,
+            "description": "Telegram for Android source"
+        },
+        {
+            "name": "staffjoy",
+            "url": "https://github.com/spring2go/staffjoy",
+            "star": 10,
+            "description": "微服务和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈"
+        },
+        {
+            "name": "interview",
+            "url": "https://github.com/mission-peace/interview",
+            "star": 11,
+            "description": "Interview questions"
+        },
+        {
+            "name": "MinecraftForge",
+            "url": "https://github.com/MinecraftForge/MinecraftForge",
+            "star": 6,
+            "description": "Modifications to the Minecraft base files to assist in compatibility between mods."
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 21,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "x-boot",
+            "url": "https://github.com/Exrick/x-boot",
+            "star": 35,
+            "description": "基于Spring Boot 2.x的前后端分离开发平台X-Boot 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/Spring Data JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID生成 动态权限管理 数据权限 工作流 代码生成 日志记录 定时任务 第三方社交账号、短信登录 单点登录"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-programming-books",
+            "url": "https://github.com/jobbole/awesome-programming-books",
+            "star": 218,
+            "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 346,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "wtv",
+            "url": "https://github.com/biancangming/wtv",
+            "star": 83,
+            "description": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 65,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "Beginner-Network-Pentesting",
+            "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+            "star": 18,
+            "description": "Notes for Beginner Network Pentesting Course"
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 63,
+            "description": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 117,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 52,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "PandaOCR",
+            "url": "https://github.com/miaomiaosoft/PandaOCR",
+            "star": 37,
+            "description": "PandaOCR - 图像字符云识别"
+        },
+        {
+            "name": "Vulkan-Guide",
+            "url": "https://github.com/KhronosGroup/Vulkan-Guide",
+            "star": 77,
+            "description": "One stop shop for getting started with the Vulkan API"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 53,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "WheelChair",
+            "url": "https://github.com/hrt/WheelChair",
+            "star": 6,
+            "description": "Become a cripple, use a WheelChair"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 96,
+            "description": "✅The largest Node.js best practices list (November 2019)"
+        },
+        {
+            "name": "ARC",
+            "url": "https://github.com/fchollet/ARC",
+            "star": 92,
+            "description": "The Abstraction and Reasoning Corpus"
+        },
+        {
+            "name": "edex-ui",
+            "url": "https://github.com/GitSquared/edex-ui",
+            "star": 25,
+            "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support."
+        },
+        {
+            "name": "discord.js",
+            "url": "https://github.com/discordjs/discord.js",
+            "star": 14,
+            "description": "A powerful JavaScript library for interacting with the Discord API"
+        },
+        {
+            "name": "etcher",
+            "url": "https://github.com/balena-io/etcher",
+            "star": 23,
+            "description": "Flash OS images to SD cards & USB drives, safely and easily."
+        },
+        {
+            "name": "site-kit-wp",
+            "url": "https://github.com/google/site-kit-wp",
+            "star": 7,
+            "description": "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+        },
+        {
+            "name": "atom",
+            "url": "https://github.com/atom/atom",
+            "star": 23,
+            "description": "The hackable text editor"
+        },
+        {
+            "name": "simplenote-electron",
+            "url": "https://github.com/Automattic/simplenote-electron",
+            "star": 10,
+            "description": "A Simplenote React app packaged via Electron for Windows and Linux"
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 31,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "PortFolio_Website",
+            "url": "https://github.com/akashyap2013/PortFolio_Website",
+            "star": 15,
+            "description": "Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch."
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 20,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "tools",
+            "url": "https://github.com/googlecodelabs/tools",
+            "star": 4,
+            "description": "Codelabs management & hosting tools"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 20,
+            "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning"
+        },
+        {
+            "name": "blackeye",
+            "url": "https://github.com/thelinuxchoice/blackeye",
+            "star": 2,
+            "description": "The most complete Phishing Tool, with 32 templates +1 customizable"
+        },
+        {
+            "name": "CLRS",
+            "url": "https://github.com/walkccc/CLRS",
+            "star": 5,
+            "description": "📚Solutions to Introduction to Algorithms Third Edition"
+        },
+        {
+            "name": "twemoji",
+            "url": "https://github.com/twitter/twemoji",
+            "star": 5,
+            "description": "Emoji for everyone. https://twemoji.twitter.com/"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 3,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "JPProject.IdentityServer4.AdminUI",
+            "url": "https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI",
+            "star": 12,
+            "description": "🔧ASP.NET Core 3 & Angular 8 Administration Panel for💞IdentityServer4 and ASP.NET Core Identity"
+        }
+    ],
+    "go": [
+        {
+            "name": "advanced-go-programming-book",
+            "url": "https://github.com/chai2010/advanced-go-programming-book",
+            "star": 52,
+            "description": "📚《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+        },
+        {
+            "name": "skaffold",
+            "url": "https://github.com/GoogleContainerTools/skaffold",
+            "star": 63,
+            "description": "Easy and Repeatable Kubernetes Development"
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 222,
+            "description": "A Go microservices development framework"
+        },
+        {
+            "name": "mxget",
+            "url": "https://github.com/winterssy/mxget",
+            "star": 103,
+            "description": "优雅的一站式音乐搜索、下载试听服务，支持国内所有音乐平台"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 74,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "go-plugins",
+            "url": "https://github.com/micro/go-plugins",
+            "star": 9,
+            "description": "Community maintained plugins for micro"
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 13,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "caddy",
+            "url": "https://github.com/caddyserver/caddy",
+            "star": 44,
+            "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS"
+        },
+        {
+            "name": "mkcert",
+            "url": "https://github.com/FiloSottile/mkcert",
+            "star": 120,
+            "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+        },
+        {
+            "name": "kcptun",
+            "url": "https://github.com/xtaci/kcptun",
+            "star": 11,
+            "description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64"
+        }
+    ]
+}

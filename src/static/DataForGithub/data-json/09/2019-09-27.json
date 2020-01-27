@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-27",
+    "month": 9,
+    "day": 27,
+    "python": [
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 33,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "wxpy",
+            "url": "https://github.com/youfou/wxpy",
+            "star": 293,
+            "description": "微信机器人 / 可能是最优雅的微信个人号 API✨✨"
+        },
+        {
+            "name": "c9-python-getting-started",
+            "url": "https://github.com/microsoft/c9-python-getting-started",
+            "star": 356,
+            "description": "Sample code for Channel 9 Python for Beginners course"
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 15,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "redash",
+            "url": "https://github.com/getredash/redash",
+            "star": 13,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 36,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "instabot",
+            "url": "https://github.com/instagrambot/instabot",
+            "star": 13,
+            "description": "🐙Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!"
+        },
+        {
+            "name": "iOS-DeviceSupport",
+            "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+            "star": 27,
+            "description": "This repository holds the device support files for the iOS, and I will update it regularly."
+        },
+        {
+            "name": "gym",
+            "url": "https://github.com/openai/gym",
+            "star": 8,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+        },
+        {
+            "name": "elasticsearch-dsl-py",
+            "url": "https://github.com/elastic/elasticsearch-dsl-py",
+            "star": 3,
+            "description": "High level Python client for Elasticsearch"
+        }
+    ],
+    "java": [
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 62,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 41,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "cat",
+            "url": "https://github.com/dianping/cat",
+            "star": 16,
+            "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。"
+        },
+        {
+            "name": "MyBookshelf",
+            "url": "https://github.com/gedoor/MyBookshelf",
+            "star": 18,
+            "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 223,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 62,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "bigbluebutton",
+            "url": "https://github.com/bigbluebutton/bigbluebutton",
+            "star": 5,
+            "description": "Complete open source web conferencing system."
+        },
+        {
+            "name": "cassandra",
+            "url": "https://github.com/apache/cassandra",
+            "star": 4,
+            "description": "Mirror of Apache Cassandra"
+        },
+        {
+            "name": "antlr4",
+            "url": "https://github.com/antlr/antlr4",
+            "star": 3,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+        },
+        {
+            "name": "graal",
+            "url": "https://github.com/oracle/graal",
+            "star": 19,
+            "description": "GraalVM: Run Programs Faster Anywhere🚀"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 379,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "nlp-roadmap",
+            "url": "https://github.com/graykode/nlp-roadmap",
+            "star": 179,
+            "description": "ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP"
+        },
+        {
+            "name": "awesome-blazor",
+            "url": "https://github.com/AdrienTorris/awesome-blazor",
+            "star": 20,
+            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+        },
+        {
+            "name": "API-Security-Checklist",
+            "url": "https://github.com/shieldfy/API-Security-Checklist",
+            "star": 149,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API"
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 23,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "new-grads-2020",
+            "url": "https://github.com/cmackenzie1/new-grads-2020",
+            "star": 5,
+            "description": "A collection of new grad roles for 2020"
+        },
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 13,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        },
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 149,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 43,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "DSA20",
+            "url": "https://github.com/helghareeb/DSA20",
+            "star": 11,
+            "description": "Data Structures and Algorithms - Mansoura University - 2019/2020"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 141,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "carbon",
+            "url": "https://github.com/carbon-design-system/carbon",
+            "star": 16,
+            "description": "A design system built by IBM"
+        },
+        {
+            "name": "markdown-here",
+            "url": "https://github.com/adam-p/markdown-here",
+            "star": 37,
+            "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending."
+        },
+        {
+            "name": "ogl",
+            "url": "https://github.com/oframe/ogl",
+            "star": 33,
+            "description": "Minimal WebGL framework"
+        },
+        {
+            "name": "openlayers",
+            "url": "https://github.com/openlayers/openlayers",
+            "star": 18,
+            "description": "OpenLayers"
+        },
+        {
+            "name": "releases",
+            "url": "https://github.com/react-native-community/releases",
+            "star": 1,
+            "description": "React Native releases"
+        },
+        {
+            "name": "Web",
+            "url": "https://github.com/qianguyihao/Web",
+            "star": 59,
+            "description": "前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新..."
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 222,
+            "description": "✅The largest Node.js best practices list (September 2019)"
+        },
+        {
+            "name": "Vue.Draggable",
+            "url": "https://github.com/SortableJS/Vue.Draggable",
+            "star": 22,
+            "description": "Vue drag-and-drop component based on Sortable.js"
+        },
+        {
+            "name": "quasar",
+            "url": "https://github.com/quasarframework/quasar",
+            "star": 23,
+            "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+        }
+    ],
+    "html": [
+        {
+            "name": "hacktoberfest-swag-list",
+            "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+            "star": 20,
+            "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all."
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 1,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 9,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "MatBlazor",
+            "url": "https://github.com/SamProf/MatBlazor",
+            "star": 10,
+            "description": "Material Design components for Blazor and Razor Components"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 18,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "illuminate",
+            "url": "https://github.com/bongikairu/illuminate",
+            "star": 7,
+            "description": ""
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 5,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "hippocratic-license",
+            "url": "https://github.com/ContributorCovenant/hippocratic-license",
+            "star": 7,
+            "description": "An ethical open source license alternative."
+        },
+        {
+            "name": "training-kit",
+            "url": "https://github.com/github/training-kit",
+            "star": 6,
+            "description": "Open source cheat sheets for Git and GitHub"
+        }
+    ],
+    "go": [
+        {
+            "name": "gev",
+            "url": "https://github.com/Allenxuxu/gev",
+            "star": 111,
+            "description": "gev is a lightweight, fast non-blocking TCP network library based on Reactor mode."
+        },
+        {
+            "name": "shhgit",
+            "url": "https://github.com/eth0izzle/shhgit",
+            "star": 213,
+            "description": "Ah shhgit! Find GitHub secrets in real time"
+        },
+        {
+            "name": "client_golang",
+            "url": "https://github.com/prometheus/client_golang",
+            "star": 3,
+            "description": "Prometheus instrumentation library for Go applications"
+        },
+        {
+            "name": "pgx",
+            "url": "https://github.com/jackc/pgx",
+            "star": 12,
+            "description": "PostgreSQL driver and toolkit for Go"
+        },
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 31,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 10,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "gitea",
+            "url": "https://github.com/go-gitea/gitea",
+            "star": 20,
+            "description": "Git with a cup of tea, painless self-hosted git service"
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 10,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "gitleaks",
+            "url": "https://github.com/zricethezav/gitleaks",
+            "star": 10,
+            "description": "Audit git repos for secrets🔑"
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 11,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        }
+    ]
+}

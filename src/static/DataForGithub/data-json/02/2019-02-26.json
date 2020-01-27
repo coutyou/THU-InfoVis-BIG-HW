@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-26",
+    "month": 2,
+    "day": 26,
+    "python": [
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 841,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "K8tools",
+            "url": "https://github.com/k8gege/K8tools",
+            "star": 240,
+            "description": "K8工具(内网渗透/提权工具/远程溢出/漏洞利用/Exploit/APT/0day/Shellcode/Payload/priviledge/OverFlow/WebShell/PenTest)"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 237,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "subsync",
+            "url": "https://github.com/smacke/subsync",
+            "star": 231,
+            "description": "Automagically synchronize subtitles with video."
+        },
+        {
+            "name": "SC-FEGAN",
+            "url": "https://github.com/JoYoungjoo/SC-FEGAN",
+            "star": 151,
+            "description": "SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color"
+        },
+        {
+            "name": "ludwig",
+            "url": "https://github.com/uber/ludwig",
+            "star": 85,
+            "description": "Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code."
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 81,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 82,
+            "description": "分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 61,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "algo",
+            "url": "https://github.com/trailofbits/algo",
+            "star": 78,
+            "description": "Set up a personal IPSEC VPN in the cloud"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 225,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 123,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "NeroParser",
+            "url": "https://github.com/yaoguangluo/NeroParser",
+            "star": 98,
+            "description": "⚡️20,000/ms Parser NLP POS AI Chinese emotion words from complex sentence /每秒高达2700万混合分词， 高精准确率，支持病句分析，词性，词频统计，自由扩充词库的快速神经网络中文带情感分词包."
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 98,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 70,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "cim",
+            "url": "https://github.com/crossoverJie/cim",
+            "star": 62,
+            "description": "📲cim(cross IM) 适用于开发者的即时通讯系统"
+        },
+        {
+            "name": "concurrency-limits",
+            "url": "https://github.com/Netflix/concurrency-limits",
+            "star": 59,
+            "description": ""
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 49,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "fisher",
+            "url": "https://github.com/fanxinglong/fisher",
+            "star": 56,
+            "description": "基于Spring cloud alibaba,oauth2和Element-UI-Admin的后台权限管理框架"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 51,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 486,
+            "description": "Gitbook"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 265,
+            "description": "⭐️A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 210,
+            "description": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "How-To-Secure-A-Linux-Server",
+            "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+            "star": 210,
+            "description": "An evolving how-to guide for securing a Linux server."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 181,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 191,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "awesome-lite-websites",
+            "url": "https://github.com/mdibaiee/awesome-lite-websites",
+            "star": 193,
+            "description": "A list of awesome lightweight websites without all the bloat"
+        },
+        {
+            "name": "Xiaomi_Kernel_OpenSource",
+            "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+            "star": 165,
+            "description": "Xiaomi Mobile Phone Kernel OpenSource"
+        },
+        {
+            "name": "how-to-learn-robotics",
+            "url": "https://github.com/qqfly/how-to-learn-robotics",
+            "star": 157,
+            "description": "开源机器人学学习指南"
+        },
+        {
+            "name": "awesome-design-systems",
+            "url": "https://github.com/alexpate/awesome-design-systems",
+            "star": 127,
+            "description": "💅🏻⚒A collection of awesome design systems"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "cleave.js",
+            "url": "https://github.com/nosir/cleave.js",
+            "star": 842,
+            "description": "Format input text content when you are typing..."
+        },
+        {
+            "name": "nsfwjs",
+            "url": "https://github.com/infinitered/nsfwjs",
+            "star": 455,
+            "description": "NSFW detection on the client-side via Tensorflow JS"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 355,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "codecrumbs",
+            "url": "https://github.com/Bogdan-Lyashenko/codecrumbs",
+            "star": 213,
+            "description": "Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing."
+        },
+        {
+            "name": "chameleon",
+            "url": "https://github.com/didi/chameleon",
+            "star": 202,
+            "description": "🦎一套代码运行多端，一端所见即多端所见"
+        },
+        {
+            "name": "video-maker",
+            "url": "https://github.com/filipedeschamps/video-maker",
+            "star": 152,
+            "description": "Projeto open source para fazer vídeos automatizados"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 141,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 96,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "git-history",
+            "url": "https://github.com/pomber/git-history",
+            "star": 101,
+            "description": "Quickly browse the history of a file from any git repository"
+        },
+        {
+            "name": "nodeppt",
+            "url": "https://github.com/ksky521/nodeppt",
+            "star": 100,
+            "description": "This is probably the best web presentation tool so far!"
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-IT-films",
+            "url": "https://github.com/greybax/awesome-IT-films",
+            "star": 62,
+            "description": "📺A curated list of awesome films about IT & geek people."
+        },
+        {
+            "name": "training-kit",
+            "url": "https://github.com/github/training-kit",
+            "star": 6,
+            "description": "Open source on demand courses and cheat sheets for Git and GitHub"
+        },
+        {
+            "name": "googlefonts-font-display-helper",
+            "url": "https://github.com/iamakulov/googlefonts-font-display-helper",
+            "star": 46,
+            "description": "A snippet generator to speed up Google Fonts rendering with font-display"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 28,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "stisla",
+            "url": "https://github.com/stisla/stisla",
+            "star": 27,
+            "description": "Free Bootstrap Admin Template"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 21,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "WDScanner",
+            "url": "https://github.com/TideSec/WDScanner",
+            "star": 17,
+            "description": "WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署、密码定向破解、社工库查询等功能。"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 15,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 14,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 15,
+            "description": "浙江大学课程攻略共享计划"
+        }
+    ],
+    "go": [
+        {
+            "name": "cds",
+            "url": "https://github.com/ovh/cds",
+            "star": 255,
+            "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform"
+        },
+        {
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s",
+            "star": 123,
+            "description": "🐶Kubernetes CLI To Manage Your Clusters In Style!"
+        },
+        {
+            "name": "inlets",
+            "url": "https://github.com/alexellis/inlets",
+            "star": 81,
+            "description": "Expose your local endpoints to the Internet"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 63,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 55,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "sish",
+            "url": "https://github.com/antoniomika/sish",
+            "star": 63,
+            "description": "An open source serveo/ngrok alternative. HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH."
+        },
+        {
+            "name": "talos",
+            "url": "https://github.com/autonomy/talos",
+            "star": 55,
+            "description": "A modern Linux distribution for Kubernetes."
+        },
+        {
+            "name": "footloose",
+            "url": "https://github.com/dlespiau/footloose",
+            "star": 54,
+            "description": "Container Machines - Containers that look like Virtual Machines"
+        },
+        {
+            "name": "aresdb",
+            "url": "https://github.com/uber/aresdb",
+            "star": 53,
+            "description": "A GPU-powered real-time analytics storage and query engine."
+        },
+        {
+            "name": "space-cloud",
+            "url": "https://github.com/spaceuptech/space-cloud",
+            "star": 46,
+            "description": "Space Cloud is an open source, high performance web service which provides instant Realtime APIs on the database of your choice. Build Internet Scale apps with the agility of a prototype!"
+        }
+    ]
+}

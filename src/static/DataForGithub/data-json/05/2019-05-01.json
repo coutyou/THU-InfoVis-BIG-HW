@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-01",
+    "month": 5,
+    "day": 1,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 1154,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "stackprinter",
+            "url": "https://github.com/cknd/stackprinter",
+            "star": 177,
+            "description": "Debugging-friendly tracebacks for Python"
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 165,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "pydockenv",
+            "url": "https://github.com/se7entyse7en/pydockenv",
+            "star": 136,
+            "description": "Python virtual environment, but backed by Docker!"
+        },
+        {
+            "name": "dirmap",
+            "url": "https://github.com/H4ckForJob/dirmap",
+            "star": 122,
+            "description": "An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。"
+        },
+        {
+            "name": "Python-100-Days",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "star": 89,
+            "description": "Python - 100天从新手到大师"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 77,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "modDetective",
+            "url": "https://github.com/itsKindred/modDetective",
+            "star": 72,
+            "description": "modDetective is a small Python tool that chronologizes files based on modification time in order to investigate recent system activity."
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 62,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 49,
+            "description": "Models and examples built with TensorFlow"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 174,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 170,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 179,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 123,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 107,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 101,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 73,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "UI2018",
+            "url": "https://github.com/zincPower/UI2018",
+            "star": 77,
+            "description": "安卓高级UI代码整理和博客代码Demo"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 64,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "XPopup",
+            "url": "https://github.com/li-xiaojun/XPopup",
+            "star": 65,
+            "description": "🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.)"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 505,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "support.996.ICU",
+            "url": "https://github.com/MSWorkers/support.996.ICU",
+            "star": 214,
+            "description": "Microsoft and GitHub Workers Support 996.ICU"
+        },
+        {
+            "name": "golang-developer-roadmap-cn",
+            "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+            "star": 190,
+            "description": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。"
+        },
+        {
+            "name": "commit-messages-guide",
+            "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+            "star": 124,
+            "description": "A guide to understand the importance of commit messages and how to write them well"
+        },
+        {
+            "name": "996action",
+            "url": "https://github.com/CPdogson/996action",
+            "star": 119,
+            "description": ""
+        },
+        {
+            "name": "golang-developer-roadmap",
+            "url": "https://github.com/Alikhll/golang-developer-roadmap",
+            "star": 106,
+            "description": "Roadmap to becoming a Go developer in 2019"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 74,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 79,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 60,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 76,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "uppy",
+            "url": "https://github.com/transloadit/uppy",
+            "star": 396,
+            "description": "The next open source file uploader for web browsers🐶"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 252,
+            "description": "leetcode题解，记录自己的leecode解题之路。"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 238,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "shepherd",
+            "url": "https://github.com/shipshapecode/shepherd",
+            "star": 214,
+            "description": "Guide your users through a tour of your app"
+        },
+        {
+            "name": "pastel",
+            "url": "https://github.com/vadimdemedes/pastel",
+            "star": 190,
+            "description": "🎨Framework for effortlessly building Ink apps"
+        },
+        {
+            "name": "SOUL",
+            "url": "https://github.com/soul-lang/SOUL",
+            "star": 157,
+            "description": "The SOUL programming language and API"
+        },
+        {
+            "name": "tool",
+            "url": "https://github.com/Louiszhai/tool",
+            "star": 136,
+            "description": "开发效率提升：Mac生产力工具链推荐"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 116,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 88,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "react-use-gesture",
+            "url": "https://github.com/react-spring/react-use-gesture",
+            "star": 83,
+            "description": "👇Bread n butter utility for component-tied mouse/touch gestures in React"
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 266,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 56,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 38,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 33,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "design-tips",
+            "url": "https://github.com/caneco/design-tips",
+            "star": 25,
+            "description": "The “🔥Design Tips” series, now in TailwindCSS"
+        },
+        {
+            "name": "javascript-cheatsheet",
+            "url": "https://github.com/wilfredinni/javascript-cheatsheet",
+            "star": 23,
+            "description": "Basic Javascript Cheat Sheet"
+        },
+        {
+            "name": "transition",
+            "url": "https://github.com/youngwoon/transition",
+            "star": 23,
+            "description": "Official code for the paper \"Learning Transition Policies for Composing Complex Skills\" (ICLR 2019)"
+        },
+        {
+            "name": "IsometricSass",
+            "url": "https://github.com/MorganCaron/IsometricSass",
+            "star": 23,
+            "description": "Sass library to make isometric 2D without javascript"
+        },
+        {
+            "name": "engrafo",
+            "url": "https://github.com/arxiv-vanity/engrafo",
+            "star": 20,
+            "description": "Convert LaTeX documents into beautiful responsive web pages using LaTeXML."
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 15,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        }
+    ],
+    "go": [
+        {
+            "name": "picsum-photos",
+            "url": "https://github.com/DMarby/picsum-photos",
+            "star": 105,
+            "description": "Lorem Ipsum... but for photos."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 91,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kratos",
+            "url": "https://github.com/bilibili/kratos",
+            "star": 83,
+            "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 65,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "termshark",
+            "url": "https://github.com/gcla/termshark",
+            "star": 69,
+            "description": "A terminal UI for tshark, inspired by Wireshark"
+        },
+        {
+            "name": "sshcode",
+            "url": "https://github.com/cdr/sshcode",
+            "star": 66,
+            "description": "Run VS Code on any server over SSH."
+        },
+        {
+            "name": "footloose",
+            "url": "https://github.com/weaveworks/footloose",
+            "star": 64,
+            "description": "Container Machines - Containers that look like Virtual Machines"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 52,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "wormhole",
+            "url": "https://github.com/gravitational/wormhole",
+            "star": 54,
+            "description": "Wireguard based overlay network CNI plugin for kubernetes"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 44,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        }
+    ]
+}

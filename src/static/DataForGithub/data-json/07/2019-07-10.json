@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-10",
+    "month": 7,
+    "day": 10,
+    "python": [
+        {
+            "name": "pipenv",
+            "url": "https://github.com/pypa/pipenv",
+            "star": 110,
+            "description": "Python Development Workflow for Humans."
+        },
+        {
+            "name": "insightface",
+            "url": "https://github.com/deepinsight/insightface",
+            "star": 103,
+            "description": "Face Analysis Project on MXNet"
+        },
+        {
+            "name": "ChineseBQB",
+            "url": "https://github.com/zhaoolee/ChineseBQB",
+            "star": 339,
+            "description": "🇨🇳Chinese sticker pack,More joy / 中国表情包大集合,更欢乐~"
+        },
+        {
+            "name": "python_autocomplete",
+            "url": "https://github.com/vpj/python_autocomplete",
+            "star": 97,
+            "description": "A simple neural network for python autocompletion"
+        },
+        {
+            "name": "zipline",
+            "url": "https://github.com/quantopian/zipline",
+            "star": 38,
+            "description": "Zipline, a Pythonic Algorithmic Trading Library"
+        },
+        {
+            "name": "YOLOv3-model-pruning",
+            "url": "https://github.com/Lam1360/YOLOv3-model-pruning",
+            "star": 46,
+            "description": "对 YOLOv3 做模型剪枝（network slimming），对于 oxford hand 数据集（因项目需要），模型剪枝后的参数量减少 80%，Infer 的速度达到原来 2 倍，mAP 基本不变"
+        },
+        {
+            "name": "sagemaker-python-sdk",
+            "url": "https://github.com/aws/sagemaker-python-sdk",
+            "star": 2,
+            "description": "A library for training and deploying machine learning models on Amazon SageMaker"
+        },
+        {
+            "name": "python-docs-samples",
+            "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+            "star": 5,
+            "description": "Code samples used on cloud.google.com"
+        },
+        {
+            "name": "celery",
+            "url": "https://github.com/celery/celery",
+            "star": 19,
+            "description": "Distributed Task Queue (development branch)"
+        },
+        {
+            "name": "mne-python",
+            "url": "https://github.com/mne-tools/mne-python",
+            "star": 3,
+            "description": "MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python"
+        }
+    ],
+    "java": [
+        {
+            "name": "DeepNewdsForAndroid",
+            "url": "https://github.com/Hengle/DeepNewdsForAndroid",
+            "star": 34,
+            "description": "DeepNudes & deep nudes Android Source Code"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 123,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "pentaho-kettle",
+            "url": "https://github.com/pentaho/pentaho-kettle",
+            "star": 9,
+            "description": "Pentaho Data Integration ( ETL ) a.k.a Kettle"
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 79,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "java",
+            "url": "https://github.com/kubernetes-client/java",
+            "star": 6,
+            "description": "Official Java client library for kubernetes"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 142,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 172,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "testcontainers-java",
+            "url": "https://github.com/testcontainers/testcontainers-java",
+            "star": 4,
+            "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+        },
+        {
+            "name": "aws-sdk-java-v2",
+            "url": "https://github.com/aws/aws-sdk-java-v2",
+            "star": 3,
+            "description": "The official AWS SDK for Java - Version 2"
+        },
+        {
+            "name": "cloudwatch_exporter",
+            "url": "https://github.com/prometheus/cloudwatch_exporter",
+            "star": 2,
+            "description": "Metrics exporter for Amazon AWS CloudWatch"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "xiaozhi",
+            "url": "https://github.com/qq449245884/xiaozhi",
+            "star": 52,
+            "description": ""
+        },
+        {
+            "name": "ansible-role-java",
+            "url": "https://github.com/geerlingguy/ansible-role-java",
+            "star": 1,
+            "description": "Ansible Role - Java."
+        },
+        {
+            "name": "conference",
+            "url": "https://github.com/gopherchina/conference",
+            "star": 5,
+            "description": ""
+        },
+        {
+            "name": "LiteratureDL4Graph",
+            "url": "https://github.com/DeepGraphLearning/LiteratureDL4Graph",
+            "star": 95,
+            "description": ""
+        },
+        {
+            "name": "Safety-Project-Collection",
+            "url": "https://github.com/Bypass007/Safety-Project-Collection",
+            "star": 24,
+            "description": "收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 14,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "ideas",
+            "url": "https://github.com/laravel/ideas",
+            "star": 2,
+            "description": "Issues board used for Laravel internals discussions."
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 7,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/nuxt/docs",
+            "star": 1,
+            "description": "Documentation of Nuxt.js"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 32,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "vue-design",
+            "url": "https://github.com/HcySunYang/vue-design",
+            "star": 115,
+            "description": "📖master分支：《渲染器》 elegant分支：逐行级别的源码分析"
+        },
+        {
+            "name": "styled-components",
+            "url": "https://github.com/styled-components/styled-components",
+            "star": 30,
+            "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress💅"
+        },
+        {
+            "name": "bootstrap-vue",
+            "url": "https://github.com/bootstrap-vue/bootstrap-vue",
+            "star": 20,
+            "description": "BootstrapVue, with over 40 plugins and more than 75 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup."
+        },
+        {
+            "name": "amphtml",
+            "url": "https://github.com/ampproject/amphtml",
+            "star": 6,
+            "description": "The AMP web component framework."
+        },
+        {
+            "name": "wekan",
+            "url": "https://github.com/wekan/wekan",
+            "star": 3,
+            "description": "The open-source kanban (built with Meteor). NOTE: All Pull Requests should be done to master branch. Old devel branch will be removed in near future. For translations, only add PR changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only."
+        },
+        {
+            "name": "babel",
+            "url": "https://github.com/babel/babel",
+            "star": 20,
+            "description": "🐠Babel is a compiler for writing next generation JavaScript."
+        },
+        {
+            "name": "swiper",
+            "url": "https://github.com/nolimits4web/swiper",
+            "star": 34,
+            "description": "Most modern mobile touch slider with hardware accelerated transitions"
+        },
+        {
+            "name": "enzyme",
+            "url": "https://github.com/airbnb/enzyme",
+            "star": 9,
+            "description": "JavaScript Testing utilities for React"
+        },
+        {
+            "name": "storybook",
+            "url": "https://github.com/storybookjs/storybook",
+            "star": 28,
+            "description": "UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 47,
+            "description": "Headless Chrome Node API"
+        }
+    ],
+    "html": [
+        {
+            "name": "istio.io",
+            "url": "https://github.com/istio/istio.io",
+            "star": 1,
+            "description": "Source for the istio.io site"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 43,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/aws-amplify/docs",
+            "star": 1,
+            "description": "Amplify Framework Documentation"
+        },
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 0,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        },
+        {
+            "name": "Top10",
+            "url": "https://github.com/OWASP/Top10",
+            "star": 1,
+            "description": "Official OWASP Top 10 Document Repository"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 0,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "proposal-pipeline-operator",
+            "url": "https://github.com/tc39/proposal-pipeline-operator",
+            "star": 3,
+            "description": "A proposal for adding the simple-but-useful pipeline operator to JavaScript."
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 11,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "JS-Group-Project",
+            "url": "https://github.com/icecoffee92/JS-Group-Project",
+            "star": 0,
+            "description": ""
+        },
+        {
+            "name": "proposal-object-values-entries",
+            "url": "https://github.com/tc39/proposal-object-values-entries",
+            "star": 0,
+            "description": "ECMAScript Proposal, specs, and reference implementation for Object.values/Object.entries"
+        }
+    ],
+    "go": [
+        {
+            "name": "pan-light",
+            "url": "https://github.com/peterq/pan-light",
+            "star": 487,
+            "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 63,
+            "description": "A Commander for modern Go CLI interactions"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 78,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "dep",
+            "url": "https://github.com/golang/dep",
+            "star": 32,
+            "description": "Go dependency management tool"
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 19,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "kops",
+            "url": "https://github.com/kubernetes/kops",
+            "star": 46,
+            "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management"
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 34,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 29,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "beats",
+            "url": "https://github.com/elastic/beats",
+            "star": 29,
+            "description": "🐠Beats - Lightweight shippers for Elasticsearch & Logstash"
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 36,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        }
+    ]
+}

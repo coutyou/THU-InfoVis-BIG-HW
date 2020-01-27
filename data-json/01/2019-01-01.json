@@ -1,0 +1,439 @@
+{
+    "date": "2019-01-01",
+    "month": 1,
+    "day": 1,
+    "python": [
+        {
+            "name": "inter",
+            "url": "https://github.com/rsms/inter",
+            "star": 157,
+            "description": "The Inter UI font family"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 116,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sdushantha/sherlock",
+            "star": 82,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "awesome-python-applications",
+            "url": "https://github.com/mahmoud/awesome-python-applications",
+            "star": 63,
+            "description": "💿Free software that works great, and also happens to be open-source Python."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 46,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "Super-SloMo",
+            "url": "https://github.com/avinashpaliwal/Super-SloMo",
+            "star": 45,
+            "description": "PyTorch implementation of Super SloMo by Jiang et al."
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 44,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/rg3/youtube-dl",
+            "star": 34,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "bert",
+            "url": "https://github.com/google-research/bert",
+            "star": 27,
+            "description": "TensorFlow code and pre-trained models for BERT"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 24,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        }
+    ],
+    "java": [
+        {
+            "name": "website",
+            "url": "https://github.com/risk-first/website",
+            "star": 115,
+            "description": "Risk-First Analysis Framework"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 85,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 31,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 32,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 26,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 15,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "hope-plus",
+            "url": "https://github.com/java-aodeng/hope-plus",
+            "star": 28,
+            "description": "Hope-plus是一款nice的权限管理系统。基于Springboot2开发，整合使用mybatis+shiro+redis+thymeleaf+maven等实用技术。🏷"
+        },
+        {
+            "name": "SchemaCrawler",
+            "url": "https://github.com/schemacrawler/SchemaCrawler",
+            "star": 27,
+            "description": "Free database schema discovery and comprehension tool"
+        },
+        {
+            "name": "matrix",
+            "url": "https://github.com/Tencent/matrix",
+            "star": 25,
+            "description": "Matrix is a plugin style, non-invasive APM system developed by WeChat."
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/ruibaby/halo",
+            "star": 20,
+            "description": "Halo可能是最好的Java博客系统😉"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 953,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "awesome-awesome-awesome",
+            "url": "https://github.com/jonatasbaldin/awesome-awesome-awesome",
+            "star": 218,
+            "description": "Awesome list of repositories of awesome lists🤷‍♀️"
+        },
+        {
+            "name": "Best-websites-a-programmer-should-visit",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "star": 135,
+            "description": "🔗Some useful websites for programmers."
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 125,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 110,
+            "description": "💫A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+        },
+        {
+            "name": "Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs",
+            "url": "https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs",
+            "star": 101,
+            "description": "Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services."
+        },
+        {
+            "name": "deep_learning_object_detection",
+            "url": "https://github.com/hoya012/deep_learning_object_detection",
+            "star": 84,
+            "description": "A paper list of object detection using deep learning."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 84,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "ds-cheatsheets",
+            "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+            "star": 72,
+            "description": "List of Data Science Cheatsheets to rule the world"
+        },
+        {
+            "name": "react-typescript-cheatsheet",
+            "url": "https://github.com/sw-yx/react-typescript-cheatsheet",
+            "star": 60,
+            "description": "a cheatsheet for react users using typescript with react for the first (or nth!) time"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 133,
+            "description": "A full-featured download manger."
+        },
+        {
+            "name": "brain.js",
+            "url": "https://github.com/BrainJS/brain.js",
+            "star": 117,
+            "description": "🤖Neural networks in JavaScript"
+        },
+        {
+            "name": "node-security",
+            "url": "https://github.com/matthaywardwebdesign/node-security",
+            "star": 101,
+            "description": "🔑The easiest way to control what npm modules can access"
+        },
+        {
+            "name": "swc",
+            "url": "https://github.com/swc-project/swc",
+            "star": 71,
+            "description": "Super-fast alternative for babel written in rust"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 56,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "otter",
+            "url": "https://github.com/poowf/otter",
+            "star": 44,
+            "description": "A relatively automatic CRUD backend administration panel"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 38,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/leonardomso/33-js-concepts",
+            "star": 42,
+            "description": "📜33 concepts every JavaScript developer should know."
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/i0natan/nodebestpractices",
+            "star": 41,
+            "description": "The largest Node.JS best practices list (November 2018)"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 33,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        }
+    ],
+    "html": [
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 14,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 9,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "node_passport_login",
+            "url": "https://github.com/bradtraversy/node_passport_login",
+            "star": 11,
+            "description": "Node.js login, registration and access control using Express and Passport"
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/valentinxxx/nginxconfig.io",
+            "star": 12,
+            "description": "⚙️NGiИX config generator generator on steroids💉"
+        },
+        {
+            "name": "GTFOBins.github.io",
+            "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+            "star": 11,
+            "description": "Curated list of Unix binaries that can be exploited to bypass system security restrictions"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 11,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 10,
+            "description": "Simple management UI for Docker"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 7,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 6,
+            "description": "30 Day Vanilla JS Challenge"
+        }
+    ],
+    "dart": [
+        {
+            "name": "HistoryOfEverything",
+            "url": "https://github.com/2d-inc/HistoryOfEverything",
+            "star": 130,
+            "description": "Flutter Launch Timeline Demo"
+        },
+        {
+            "name": "flutter",
+            "url": "https://github.com/flutter/flutter",
+            "star": 64,
+            "description": "Flutter makes it easy and fast to build beautiful mobile apps."
+        },
+        {
+            "name": "awesome-flutter",
+            "url": "https://github.com/Solido/awesome-flutter",
+            "star": 36,
+            "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+        },
+        {
+            "name": "flutter_experiment_phone_ide",
+            "url": "https://github.com/Norbert515/flutter_experiment_phone_ide",
+            "star": 19,
+            "description": "An experimental way to change Flutter source-code in Flutter itself."
+        },
+        {
+            "name": "plugins",
+            "url": "https://github.com/flutter/plugins",
+            "star": 12,
+            "description": "Plugins for Flutter, including FlutterFire, maintained by the Flutter team"
+        },
+        {
+            "name": "Liquid-Pull-To-Refresh",
+            "url": "https://github.com/aagarwal1012/Liquid-Pull-To-Refresh",
+            "star": 10,
+            "description": "🔁A custom refresh indicator for flutter."
+        },
+        {
+            "name": "flutter-ui-nice",
+            "url": "https://github.com/nb312/flutter-ui-nice",
+            "star": 8,
+            "description": "More than 130+ pages in this beautiful app and more than 45 developers has contributed to it."
+        },
+        {
+            "name": "flutter_catalog",
+            "url": "https://github.com/X-Wei/flutter_catalog",
+            "star": 8,
+            "description": "An app showcasing Flutter components, with side-by-side source code view."
+        },
+        {
+            "name": "bloc",
+            "url": "https://github.com/felangel/bloc",
+            "star": 7,
+            "description": "A collection of packages that help implement the BLoC design pattern"
+        },
+        {
+            "name": "Flutter-Notebook",
+            "url": "https://github.com/OpenFlutter/Flutter-Notebook",
+            "star": 5,
+            "description": "日更的FlutterDemo合集，今天你fu了吗"
+        }
+    ],
+    "go": [
+        {
+            "name": "cli",
+            "url": "https://github.com/kubedb/cli",
+            "star": 43,
+            "description": "KubeDB CLI"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 28,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "AdGuardHome",
+            "url": "https://github.com/AdguardTeam/AdGuardHome",
+            "star": 35,
+            "description": "Network-wide ads & trackers blocking DNS server"
+        },
+        {
+            "name": "gmailfilters",
+            "url": "https://github.com/jessfraz/gmailfilters",
+            "star": 33,
+            "description": "A tool to sync Gmail filters from a config file to your account."
+        },
+        {
+            "name": "gitbatch",
+            "url": "https://github.com/isacikgoz/gitbatch",
+            "star": 32,
+            "description": "manage your git repositories in one place"
+        },
+        {
+            "name": "dive",
+            "url": "https://github.com/wagoodman/dive",
+            "star": 29,
+            "description": "A tool for exploring each layer in a docker image"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 29,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 25,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 25,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "goldpinger",
+            "url": "https://github.com/bloomberg/goldpinger",
+            "star": 25,
+            "description": "Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster."
+        }
+    ]
+}

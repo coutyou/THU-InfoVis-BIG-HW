@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-02",
+    "month": 3,
+    "day": 2,
+    "python": [
+        {
+            "name": "zero",
+            "url": "https://github.com/remoteinterview/zero",
+            "star": 385,
+            "description": "Zero is a web server to simplify web development."
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 316,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 343,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 190,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "lazynlp",
+            "url": "https://github.com/chiphuyen/lazynlp",
+            "star": 209,
+            "description": "Library to scrape and clean web pages to create massive datasets."
+        },
+        {
+            "name": "bullet",
+            "url": "https://github.com/Mckinsey666/bullet",
+            "star": 201,
+            "description": "🚅Beautiful Python prompts made simple. Build a prompt like stacking blocks."
+        },
+        {
+            "name": "subsync",
+            "url": "https://github.com/smacke/subsync",
+            "star": 169,
+            "description": "Automagically synchronize subtitles with video."
+        },
+        {
+            "name": "AdaBound",
+            "url": "https://github.com/Luolc/AdaBound",
+            "star": 164,
+            "description": "An optimizer that trains as fast as Adam and as good as SGD."
+        },
+        {
+            "name": "SC-FEGAN",
+            "url": "https://github.com/JoYoungjoo/SC-FEGAN",
+            "star": 103,
+            "description": "SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 89,
+            "description": "分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️"
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 254,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 216,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 112,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JGrowing",
+            "url": "https://github.com/javagrowing/JGrowing",
+            "star": 86,
+            "description": "Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 70,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 74,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 67,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/spring-cloud-incubator/spring-cloud-alibaba",
+            "star": 56,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "bubble-navigation",
+            "url": "https://github.com/gauravk95/bubble-navigation",
+            "star": 62,
+            "description": "🎉[Android Library] A light-weight library to make beautiful Navigation Bar easily with ton of🎨customization option."
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 52,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 361,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 300,
+            "description": "Gitbook"
+        },
+        {
+            "name": "awesome-mental-health",
+            "url": "https://github.com/dreamingechoes/awesome-mental-health",
+            "star": 338,
+            "description": "A curated list of awesome articles, websites and resources about mental health in the software industry."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 149,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "Awesome-WAF",
+            "url": "https://github.com/0xInfection/Awesome-WAF",
+            "star": 131,
+            "description": "🔥A curated list of awesome web-app firewall (WAF) stuff."
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 97,
+            "description": "⭐️A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 79,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "nginx-quick-reference",
+            "url": "https://github.com/trimstray/nginx-quick-reference",
+            "star": 74,
+            "description": "⚡️These notes describes how to improve Nginx performance, security and other important things; @ssllabs A+ 100%."
+        },
+        {
+            "name": "How-To-Secure-A-Linux-Server",
+            "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+            "star": 73,
+            "description": "An evolving how-to guide for securing a Linux server."
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 68,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "gpu.js",
+            "url": "https://github.com/gpujs/gpu.js",
+            "star": 263,
+            "description": "GPU Accelerated JavaScript"
+        },
+        {
+            "name": "ColorUI",
+            "url": "https://github.com/weilanwl/ColorUI",
+            "star": 252,
+            "description": "鲜亮的高饱和色彩，专注视觉的小程序组件库"
+        },
+        {
+            "name": "grapesjs",
+            "url": "https://github.com/artf/grapesjs",
+            "star": 246,
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 197,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "cleave.js",
+            "url": "https://github.com/nosir/cleave.js",
+            "star": 174,
+            "description": "Format input text content when you are typing..."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 121,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "omi",
+            "url": "https://github.com/Tencent/omi",
+            "star": 118,
+            "description": "下一代前端统一框架 - 支持桌面Web、移动H5和小程序 - Next Front End Framework"
+        },
+        {
+            "name": "fx",
+            "url": "https://github.com/antonmedv/fx",
+            "star": 108,
+            "description": "Command-line tool and terminal JSON viewer🔥"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 90,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "fx-completion",
+            "url": "https://github.com/antonmedv/fx-completion",
+            "star": 102,
+            "description": "Bash completion for fx"
+        }
+    ],
+    "html": [
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 33,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "why-openbsd.rocks",
+            "url": "https://github.com/noqqe/why-openbsd.rocks",
+            "star": 27,
+            "description": "A website that helps me showing people why OpenBSD rocks"
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 26,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 18,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 18,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 19,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 17,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 17,
+            "description": "Simple management UI for Docker"
+        },
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 15,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 15,
+            "description": "Library for fast text representation and classification."
+        }
+    ],
+    "go": [
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 377,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "gomacro",
+            "url": "https://github.com/cosmos72/gomacro",
+            "star": 93,
+            "description": "Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 68,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "1m-go-tcp-server",
+            "url": "https://github.com/smallnest/1m-go-tcp-server",
+            "star": 60,
+            "description": "benchmarks for implementation of servers which support 1 million connections"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 56,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "micro",
+            "url": "https://github.com/micro/micro",
+            "star": 54,
+            "description": "A microservice toolkit"
+        },
+        {
+            "name": "CovenantSQL",
+            "url": "https://github.com/CovenantSQL/CovenantSQL",
+            "star": 42,
+            "description": "a SQL database with Blockchain features."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 40,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "cds",
+            "url": "https://github.com/ovh/cds",
+            "star": 42,
+            "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 38,
+            "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download🔴Lantern Latest Download https://github.com/getlantern/download🔴"
+        }
+    ]
+}

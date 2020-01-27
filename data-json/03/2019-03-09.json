@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-09",
+    "month": 3,
+    "day": 9,
+    "python": [
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 590,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "celeb-detection-oss",
+            "url": "https://github.com/Giphy/celeb-detection-oss",
+            "star": 208,
+            "description": "GIPHY's Open-Source Celebrity Detection Deep Learning Model"
+        },
+        {
+            "name": "USTC-Course",
+            "url": "https://github.com/USTC-Resource/USTC-Course",
+            "star": 165,
+            "description": "❤️中国科学技术大学课程资源"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 105,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "CheatSheetSeries",
+            "url": "https://github.com/OWASP/CheatSheetSeries",
+            "star": 104,
+            "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+        },
+        {
+            "name": "pytorch_geometric",
+            "url": "https://github.com/rusty1s/pytorch_geometric",
+            "star": 91,
+            "description": "Geometric Deep Learning Extension Library for PyTorch"
+        },
+        {
+            "name": "compare_gan",
+            "url": "https://github.com/google/compare_gan",
+            "star": 87,
+            "description": "Compare GAN code."
+        },
+        {
+            "name": "SiamMask",
+            "url": "https://github.com/foolwood/SiamMask",
+            "star": 79,
+            "description": "[CVPR2019] Fast Online Object Tracking and Segmentation: A Unifying Approach"
+        },
+        {
+            "name": "gitbook2pdf",
+            "url": "https://github.com/fuergaosi233/gitbook2pdf",
+            "star": 80,
+            "description": "Grab the contents of the gitbook document and convert it to pdf"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 61,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 196,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 193,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "MyBookshelf",
+            "url": "https://github.com/gedoor/MyBookshelf",
+            "star": 155,
+            "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 72,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 76,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "flutter_boost",
+            "url": "https://github.com/alibaba/flutter_boost",
+            "star": 79,
+            "description": "FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 49,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "x7",
+            "url": "https://github.com/x-ream/x7",
+            "star": 33,
+            "description": ""
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 28,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 44,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 958,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "ycy",
+            "url": "https://github.com/ccyyycy/ycy",
+            "star": 484,
+            "description": "\"Hello YCY\" Programming Competition"
+        },
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 366,
+            "description": "Gitbook"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 170,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 154,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "python_interview_question",
+            "url": "https://github.com/kenwoodjw/python_interview_question",
+            "star": 120,
+            "description": "关于python的面试题"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 90,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "How-To-Secure-A-Linux-Server",
+            "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+            "star": 83,
+            "description": "An evolving how-to guide for securing a Linux server."
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 53,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 67,
+            "description": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 181,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 129,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 127,
+            "description": "A web-based JavaScript（canvas） spreadsheet"
+        },
+        {
+            "name": "strapi",
+            "url": "https://github.com/strapi/strapi",
+            "star": 126,
+            "description": "🚀Open source Node.js Headless CMS to easily build customisable APIs"
+        },
+        {
+            "name": "git-history",
+            "url": "https://github.com/pomber/git-history",
+            "star": 103,
+            "description": "Quickly browse the history of a file from any git repository"
+        },
+        {
+            "name": "arangodb",
+            "url": "https://github.com/arangodb/arangodb",
+            "star": 102,
+            "description": "🥑ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions."
+        },
+        {
+            "name": "hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "star": 95,
+            "description": "⭐️Companies that don't have a broken hiring process"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 90,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 86,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "dequal",
+            "url": "https://github.com/lukeed/dequal",
+            "star": 86,
+            "description": "A tiny (247B) utility for check for deep equality"
+        }
+    ],
+    "html": [
+        {
+            "name": "lets-get-arrested",
+            "url": "https://github.com/hamukazu/lets-get-arrested",
+            "star": 372,
+            "description": "This project is intended to protest against the police in Japan"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 211,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 72,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "quickchart",
+            "url": "https://github.com/typpo/quickchart",
+            "star": 74,
+            "description": "Google Image Charts alternative"
+        },
+        {
+            "name": "not-so-random",
+            "url": "https://github.com/ex-punctis/not-so-random",
+            "star": 69,
+            "description": "A script [js + plotly.js] that guesses your next input no matter how random you try to be"
+        },
+        {
+            "name": "automatic-app-landing-page",
+            "url": "https://github.com/emilbaehr/automatic-app-landing-page",
+            "star": 64,
+            "description": "A Jekyll theme for automatically generating and deploying landing page sites for mobile apps."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 58,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "javascript-tutorial-zh",
+            "url": "https://github.com/xitu/javascript-tutorial-zh",
+            "star": 23,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 18,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        }
+    ],
+    "go": [
+        {
+            "name": "kraken",
+            "url": "https://github.com/uber/kraken",
+            "star": 190,
+            "description": "P2P Docker registry capable of distributing TBs of data in seconds"
+        },
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 110,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "nutsdb",
+            "url": "https://github.com/xujiajun/nutsdb",
+            "star": 104,
+            "description": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set."
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 96,
+            "description": "A microservice framework"
+        },
+        {
+            "name": "cds",
+            "url": "https://github.com/ovh/cds",
+            "star": 80,
+            "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform"
+        },
+        {
+            "name": "pipe-to-me",
+            "url": "https://github.com/jpschroeder/pipe-to-me",
+            "star": 79,
+            "description": "Stream data over http using curl."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 63,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 68,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "caddy",
+            "url": "https://github.com/mholt/caddy",
+            "star": 62,
+            "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS"
+        },
+        {
+            "name": "mercure",
+            "url": "https://github.com/dunglas/mercure",
+            "star": 55,
+            "description": "Server-sent live updates: protocol and reference implementation"
+        }
+    ]
+}

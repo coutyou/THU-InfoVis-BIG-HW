@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-03",
+    "month": 10,
+    "day": 3,
+    "python": [
+        {
+            "name": "pandas",
+            "url": "https://github.com/pandas-dev/pandas",
+            "star": 17,
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 23,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "dnsgen",
+            "url": "https://github.com/ProjectAnte/dnsgen",
+            "star": 18,
+            "description": "Generates combination of domain names from the provided input."
+        },
+        {
+            "name": "impersonator",
+            "url": "https://github.com/svip-lab/impersonator",
+            "star": 89,
+            "description": "PyTorch implementation of our ICCV 2019 paper: Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis"
+        },
+        {
+            "name": "PayloadsAllTheThings",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "star": 31,
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF"
+        },
+        {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "star": 16,
+            "description": "💻A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 32,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 39,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "addons",
+            "url": "https://github.com/tensorflow/addons",
+            "star": 5,
+            "description": "Useful extra functionality for TensorFlow 2.0 maintained by SIG-addons"
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 59,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        }
+    ],
+    "java": [
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 59,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 20,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "maps",
+            "url": "https://github.com/react-native-mapbox-gl/maps",
+            "star": 2,
+            "description": "A Mapbox GL react native module for creating custom maps"
+        },
+        {
+            "name": "react-native-google-signin",
+            "url": "https://github.com/react-native-community/react-native-google-signin",
+            "star": 4,
+            "description": "Google Signin for your React Native applications"
+        },
+        {
+            "name": "UnblockMusicPro_Xposed",
+            "url": "https://github.com/nining377/UnblockMusicPro_Xposed",
+            "star": 10,
+            "description": "Unblock Netease Cloud Music with Xposed"
+        },
+        {
+            "name": "EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "star": 2,
+            "description": "[DEPRECATED] An Unofficial E-Hentai Application for Android"
+        },
+        {
+            "name": "ksql",
+            "url": "https://github.com/confluentinc/ksql",
+            "star": 7,
+            "description": "KSQL - the Streaming SQL Engine for Apache Kafka"
+        },
+        {
+            "name": "aws-serverless-java-container",
+            "url": "https://github.com/awslabs/aws-serverless-java-container",
+            "star": 3,
+            "description": "A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda."
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 12,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "Unblock163MusicClient-Xposed",
+            "url": "https://github.com/bin456789/Unblock163MusicClient-Xposed",
+            "star": 4,
+            "description": "Unblock 163 Cloud Music Android client through Xposed."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 123,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "Interview-Preparation",
+            "url": "https://github.com/yashasvigirdhar/Interview-Preparation",
+            "star": 65,
+            "description": "Interview Preparation material for Senior Software Engineer - Android role"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 91,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 27,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "awesome-for-beginners",
+            "url": "https://github.com/MunGell/awesome-for-beginners",
+            "star": 187,
+            "description": "A list of awesome beginners-friendly projects."
+        },
+        {
+            "name": "programmers-guide-slovenia",
+            "url": "https://github.com/mihanovak1024/programmers-guide-slovenia",
+            "star": 5,
+            "description": "Basic guide for new programmers in Slovenia🇸🇮"
+        },
+        {
+            "name": "AZ-103-MicrosoftAzureAdministrator",
+            "url": "https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+            "star": 3,
+            "description": "AZ-103: Microsoft Azure Administrator"
+        },
+        {
+            "name": "how-to-exit-vim",
+            "url": "https://github.com/hakluke/how-to-exit-vim",
+            "star": 28,
+            "description": "Below are some simple methods for exiting vim."
+        },
+        {
+            "name": "proposals",
+            "url": "https://github.com/tc39/proposals",
+            "star": 8,
+            "description": "Tracking ECMAScript Proposals"
+        },
+        {
+            "name": "awesome-remote-job",
+            "url": "https://github.com/lukasz-madon/awesome-remote-job",
+            "star": 10,
+            "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 535,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "react-bootstrap",
+            "url": "https://github.com/react-bootstrap/react-bootstrap",
+            "star": 9,
+            "description": "Bootstrap components built with React"
+        },
+        {
+            "name": "appwrite",
+            "url": "https://github.com/appwrite/appwrite",
+            "star": 12,
+            "description": "End to end backend server for frontend and mobile developers.👩‍💻👨‍💻"
+        },
+        {
+            "name": "emojibops",
+            "url": "https://github.com/brittanyrw/emojibops",
+            "star": 8,
+            "description": "EmojiBops is a listing of songs depicted through emojis."
+        },
+        {
+            "name": "prettier",
+            "url": "https://github.com/prettier/prettier",
+            "star": 22,
+            "description": "Prettier is an opinionated code formatter."
+        },
+        {
+            "name": "introduccion-a-js",
+            "url": "https://github.com/r-argentina-programa/introduccion-a-js",
+            "star": 15,
+            "description": ""
+        },
+        {
+            "name": "caligator",
+            "url": "https://github.com/sarthology/caligator",
+            "star": 12,
+            "description": "🐊An open source kickass cross platform Calculator with power of alligator"
+        },
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 4,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        },
+        {
+            "name": "node",
+            "url": "https://github.com/nodejs/node",
+            "star": 35,
+            "description": "Node.js JavaScript runtime✨🐢🚀✨"
+        },
+        {
+            "name": "Leaflet",
+            "url": "https://github.com/Leaflet/Leaflet",
+            "star": 8,
+            "description": "🍃JavaScript library for mobile-friendly interactive maps"
+        }
+    ],
+    "html": [
+        {
+            "name": "hacktoberfest-swag-list",
+            "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+            "star": 35,
+            "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all."
+        },
+        {
+            "name": "DetectionLab",
+            "url": "https://github.com/clong/DetectionLab",
+            "star": 3,
+            "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices"
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 0,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "yourfirstpr.github.io",
+            "url": "https://github.com/yourfirstpr/yourfirstpr.github.io",
+            "star": 5,
+            "description": "✨the homepage of @yourfirstpr"
+        },
+        {
+            "name": "hacktoberfest",
+            "url": "https://github.com/AliceWonderland/hacktoberfest",
+            "star": 10,
+            "description": "Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest"
+        },
+        {
+            "name": "tiny-slider",
+            "url": "https://github.com/ganlanyuan/tiny-slider",
+            "star": 8,
+            "description": "Vanilla javascript slider for all purposes."
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 12,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "rellax",
+            "url": "https://github.com/dixonandmoe/rellax",
+            "star": 2,
+            "description": "Lightweight, vanilla javascript parallax library"
+        },
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 16,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "tools",
+            "url": "https://github.com/googlecodelabs/tools",
+            "star": 1,
+            "description": "Codelabs management & hosting tools"
+        }
+    ],
+    "go": [
+        {
+            "name": "linkerd2",
+            "url": "https://github.com/linkerd/linkerd2",
+            "star": 8,
+            "description": "A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x."
+        },
+        {
+            "name": "rain",
+            "url": "https://github.com/cenkalti/rain",
+            "star": 28,
+            "description": "🌧BitTorrent client and library in Go"
+        },
+        {
+            "name": "gofpdf",
+            "url": "https://github.com/jung-kurt/gofpdf",
+            "star": 78,
+            "description": "A PDF document generator with high level support for text, drawing and images"
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 4,
+            "description": "An open source, general-purpose policy engine."
+        },
+        {
+            "name": "opentelemetry-specification",
+            "url": "https://github.com/open-telemetry/opentelemetry-specification",
+            "star": 4,
+            "description": "Specifications for OpenTelemetry"
+        },
+        {
+            "name": "gorp",
+            "url": "https://github.com/go-gorp/gorp",
+            "star": 7,
+            "description": "Go Relational Persistence - an ORM-ish library for Go"
+        },
+        {
+            "name": "eksctl",
+            "url": "https://github.com/weaveworks/eksctl",
+            "star": 4,
+            "description": "The official CLI for Amazon EKS"
+        },
+        {
+            "name": "teleport",
+            "url": "https://github.com/gravitational/teleport",
+            "star": 5,
+            "description": "Privileged access management for elastic infrastructure."
+        },
+        {
+            "name": "bank-vaults",
+            "url": "https://github.com/banzaicloud/bank-vaults",
+            "star": 1,
+            "description": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods."
+        },
+        {
+            "name": "syncthing",
+            "url": "https://github.com/syncthing/syncthing",
+            "star": 17,
+            "description": "Open Source Continuous File Synchronization"
+        }
+    ]
+}

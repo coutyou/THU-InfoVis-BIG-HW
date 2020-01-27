@@ -1,0 +1,377 @@
+{
+    "date": "2019-01-21",
+    "month": 1,
+    "day": 21,
+    "python": [
+        {
+            "name": "deep-learning-ocean",
+            "url": "https://github.com/osforscience/deep-learning-ocean",
+            "star": 207,
+            "description": "📡All You Need to Know About Deep Learning - A kick-starter"
+        },
+        {
+            "name": "howmanypeoplearearound",
+            "url": "https://github.com/schollz/howmanypeoplearearound",
+            "star": 152,
+            "description": "Count the number of people around you👨‍👨‍👦by monitoring wifi signals📡"
+        },
+        {
+            "name": "py12306",
+            "url": "https://github.com/pjialin/py12306",
+            "star": 85,
+            "description": "🚂12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理"
+        },
+        {
+            "name": "tldr",
+            "url": "https://github.com/tldr-pages/tldr",
+            "star": 77,
+            "description": "📚Simplified and community-driven man pages"
+        },
+        {
+            "name": "music-dl",
+            "url": "https://github.com/0xHJK/music-dl",
+            "star": 70,
+            "description": "search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐等搜索和下载歌曲"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 63,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 40,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 44,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "awesome-python-applications",
+            "url": "https://github.com/mahmoud/awesome-python-applications",
+            "star": 45,
+            "description": "💿Free software that works great, and also happens to be open-source Python."
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/rg3/youtube-dl",
+            "star": 43,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 95,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "DETA_DataBase",
+            "url": "https://github.com/yaoguangluo/DETA_DataBase",
+            "star": 84,
+            "description": "部署在德塔HTTP服务器/http server的德塔数据库系统/data base，全面采用VPC和VPCS架构引擎。基于VPC架构的无死锁，高并发，json，碎片，对象，rest map, 量子数据库。作者：罗瑶光"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 60,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 58,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "nacos",
+            "url": "https://github.com/alibaba/nacos",
+            "star": 44,
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 36,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 32,
+            "description": "⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 20,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "dbeaver",
+            "url": "https://github.com/dbeaver/dbeaver",
+            "star": 34,
+            "description": "Free universal database tool and SQL client"
+        },
+        {
+            "name": "symphony",
+            "url": "https://github.com/b3log/symphony",
+            "star": 31,
+            "description": "🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 296,
+            "description": ""
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 232,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 178,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 47,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 54,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "browser-pwn",
+            "url": "https://github.com/m1ghtym0/browser-pwn",
+            "star": 57,
+            "description": "An updated collection of resources targeting browser-exploitation."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 52,
+            "description": "📚面试必备基础知识"
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 49,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 53,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "awesome-jupyter",
+            "url": "https://github.com/markusschanta/awesome-jupyter",
+            "star": 46,
+            "description": "A curated list of awesome Jupyter projects, libraries and resources"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "typescript-eslint",
+            "url": "https://github.com/typescript-eslint/typescript-eslint",
+            "star": 243,
+            "description": "✨Monorepo for all the tooling which enables ESLint to support TypeScript"
+        },
+        {
+            "name": "fx",
+            "url": "https://github.com/antonmedv/fx",
+            "star": 203,
+            "description": "Command-line tool and terminal JSON viewer🔥"
+        },
+        {
+            "name": "Musish",
+            "url": "https://github.com/Musish/Musish",
+            "star": 185,
+            "description": "Apple Music...ish"
+        },
+        {
+            "name": "shiny",
+            "url": "https://github.com/rikschennink/shiny",
+            "star": 164,
+            "description": "🌟Shiny reflections for mobile websites"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 99,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "anime",
+            "url": "https://github.com/juliangarnier/anime",
+            "star": 91,
+            "description": "JavaScript animation engine"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 61,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "OnsenUI",
+            "url": "https://github.com/OnsenUI/OnsenUI",
+            "star": 60,
+            "description": "Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js."
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 56,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 52,
+            "description": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        }
+    ],
+    "html": [
+        {
+            "name": "hacker-news-pwas",
+            "url": "https://github.com/tastejs/hacker-news-pwas",
+            "star": 63,
+            "description": "HNPWA - Hacker News readers as Progressive Web Apps📱"
+        },
+        {
+            "name": "Mozart",
+            "url": "https://github.com/adamjgrant/Mozart",
+            "star": 44,
+            "description": "A simple JavaScript pattern for slim, organized AJAX applications"
+        },
+        {
+            "name": "vscode",
+            "url": "https://github.com/DankNeon/vscode",
+            "star": 25,
+            "description": "A danker, more neon theme for VS Code"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "solid",
+            "url": "https://github.com/solid/solid",
+            "star": 16,
+            "description": "Solid - Re-decentralizing the web (project directory)"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 10,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 10,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "destyle.css",
+            "url": "https://github.com/nicolas-cusan/destyle.css",
+            "star": 12,
+            "description": "Opinionated reset stylesheet that provides a clean styling slate for your project."
+        },
+        {
+            "name": "30-seconds-of-css",
+            "url": "https://github.com/30-seconds/30-seconds-of-css",
+            "star": 10,
+            "description": "A curated collection of useful CSS snippets you can understand in 30 seconds or less."
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 8,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        }
+    ],
+    "go": [
+        {
+            "name": "task",
+            "url": "https://github.com/go-task/task",
+            "star": 190,
+            "description": "A task runner / simpler Make alternative written in Go"
+        },
+        {
+            "name": "go-flutter-desktop-embedder",
+            "url": "https://github.com/Drakirus/go-flutter-desktop-embedder",
+            "star": 102,
+            "description": "A Go (golang) Custom Flutter Engine Embedder for desktop"
+        },
+        {
+            "name": "tengo",
+            "url": "https://github.com/d5/tengo",
+            "star": 73,
+            "description": "A fast script language for Go"
+        },
+        {
+            "name": "timeliner",
+            "url": "https://github.com/mholt/timeliner",
+            "star": 68,
+            "description": "All your digital life on a single timeline, stored locally"
+        },
+        {
+            "name": "act",
+            "url": "https://github.com/nektos/act",
+            "star": 50,
+            "description": "Run your GitHub Actions locally"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 36,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 39,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "gunk",
+            "url": "https://github.com/gunk/gunk",
+            "star": 37,
+            "description": "Modern frontend and syntax for Protocol Buffers"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 31,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 27,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        }
+    ]
+}

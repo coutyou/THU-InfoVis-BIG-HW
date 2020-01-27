@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-20",
+    "month": 11,
+    "day": 20,
+    "python": [
+        {
+            "name": "Deep-Learning-with-TensorFlow-book",
+            "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+            "star": 688,
+            "description": "深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework."
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 40,
+            "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "HackingNeuralNetworks",
+            "url": "https://github.com/Kayzaks/HackingNeuralNetworks",
+            "star": 436,
+            "description": "A small course on exploiting and defending neural networks"
+        },
+        {
+            "name": "modin",
+            "url": "https://github.com/modin-project/modin",
+            "star": 64,
+            "description": "Modin: Speed up your Pandas workflows by changing a single line of code"
+        },
+        {
+            "name": "tuya-convert",
+            "url": "https://github.com/ct-Open-Source/tuya-convert",
+            "star": 9,
+            "description": "A collection of scripts to flash Tuya IoT devices to alternative firmwares"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 27,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "streamlit",
+            "url": "https://github.com/streamlit/streamlit",
+            "star": 57,
+            "description": "Streamlit — The fastest way to build custom ML tools"
+        },
+        {
+            "name": "interpy-zh",
+            "url": "https://github.com/eastlakeside/interpy-zh",
+            "star": 18,
+            "description": "📘《Python进阶》（Intermediate Python 中文版）"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 67,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 78,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 264,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "retrofit",
+            "url": "https://github.com/square/retrofit",
+            "star": 16,
+            "description": "Type-safe HTTP client for Android and Java by Square, Inc."
+        },
+        {
+            "name": "univocity-trader",
+            "url": "https://github.com/uniVocity/univocity-trader",
+            "star": 9,
+            "description": "open-source trading framework for java, supports backtesting and live trading with exchanges"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 44,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "JCSprout",
+            "url": "https://github.com/crossoverJie/JCSprout",
+            "star": 17,
+            "description": "👨‍🎓Java Core Sprout : basic, concurrent, algorithm"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 105,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 27,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "kafka-streams-examples",
+            "url": "https://github.com/confluentinc/kafka-streams-examples",
+            "star": 4,
+            "description": "Demo applications and code examples for Apache Kafka's Streams API."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 22,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "aws-sdk-java-v2",
+            "url": "https://github.com/aws/aws-sdk-java-v2",
+            "star": 0,
+            "description": "The official AWS SDK for Java - Version 2"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "tamagotchiTemp",
+            "url": "https://github.com/graceavery/tamagotchiTemp",
+            "star": 275,
+            "description": ""
+        },
+        {
+            "name": "physical-docs",
+            "url": "https://github.com/trustedsec/physical-docs",
+            "star": 79,
+            "description": "This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments."
+        },
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 143,
+            "description": "【 互联网 Java 工程师大厂面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看。"
+        },
+        {
+            "name": "resources-of-learning",
+            "url": "https://github.com/tagnja/resources-of-learning",
+            "star": 44,
+            "description": "Documentations, books, courses, git repositories and so on."
+        },
+        {
+            "name": "Cookbook",
+            "url": "https://github.com/andkret/Cookbook",
+            "star": 11,
+            "description": "The Data Engineering Cookbook"
+        },
+        {
+            "name": "iCloudBypassCA",
+            "url": "https://github.com/crazymind90/iCloudBypassCA",
+            "star": 12,
+            "description": ""
+        },
+        {
+            "name": "gov-takedowns",
+            "url": "https://github.com/github/gov-takedowns",
+            "star": 25,
+            "description": "Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices."
+        },
+        {
+            "name": "aws-cloudformation-coverage-roadmap",
+            "url": "https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap",
+            "star": 8,
+            "description": "The AWS CloudFormation Public Coverage Roadmap"
+        },
+        {
+            "name": "LearningNotes",
+            "url": "https://github.com/francistao/LearningNotes",
+            "star": 10,
+            "description": "Enjoy Learning."
+        },
+        {
+            "name": "javascript-questions",
+            "url": "https://github.com/lydiahallie/javascript-questions",
+            "star": 14,
+            "description": "A long list of (advanced) JavaScript questions, and their explanations✨"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "umi",
+            "url": "https://github.com/umijs/umi",
+            "star": 29,
+            "description": "🌋Pluggable enterprise-level react application framework."
+        },
+        {
+            "name": "fanqiang",
+            "url": "https://github.com/bannedbook/fanqiang",
+            "star": 92,
+            "description": "翻墙-科学上网"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 104,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "DPlayer",
+            "url": "https://github.com/MoePlayer/DPlayer",
+            "star": 61,
+            "description": "🍭Wow, such a lovely HTML5 danmaku video player"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 24,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 28,
+            "description": "The best design tools and plugins for everything👉"
+        },
+        {
+            "name": "jest",
+            "url": "https://github.com/facebook/jest",
+            "star": 23,
+            "description": "Delightful JavaScript Testing."
+        },
+        {
+            "name": "lite-youtube-embed",
+            "url": "https://github.com/paulirish/lite-youtube-embed",
+            "star": 34,
+            "description": "A faster youtube embed."
+        },
+        {
+            "name": "video.js",
+            "url": "https://github.com/videojs/video.js",
+            "star": 14,
+            "description": "Video.js - open source HTML5 & Flash video player"
+        },
+        {
+            "name": "Leaflet",
+            "url": "https://github.com/Leaflet/Leaflet",
+            "star": 10,
+            "description": "🍃JavaScript library for mobile-friendly interactive maps"
+        }
+    ],
+    "html": [
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 29,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "baremetrics-v1",
+            "url": "https://github.com/Baremetrics/baremetrics-v1",
+            "star": 21,
+            "description": "This was the very first version of Baremetrics from 2013. It's published here for posterity."
+        },
+        {
+            "name": "qcloud-documents",
+            "url": "https://github.com/tencentyun/qcloud-documents",
+            "star": 2,
+            "description": "腾讯云官方文档 使用Markdown自动构建"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 6,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "Crawler_Illegal_Cases_In_China",
+            "url": "https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China",
+            "star": 170,
+            "description": "Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 1,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "startbootstrap-resume",
+            "url": "https://github.com/BlackrockDigital/startbootstrap-resume",
+            "star": 1,
+            "description": "A Bootstrap 4 resume/CV theme created by Start Bootstrap"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 8,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 17,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "seleniumhq.github.io",
+            "url": "https://github.com/SeleniumHQ/seleniumhq.github.io",
+            "star": 0,
+            "description": "Official Selenium website and documentation"
+        }
+    ],
+    "go": [
+        {
+            "name": "bfe",
+            "url": "https://github.com/baidu/bfe",
+            "star": 270,
+            "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd"
+        },
+        {
+            "name": "spikeSystem",
+            "url": "https://github.com/GuoZhaoran/spikeSystem",
+            "star": 51,
+            "description": ""
+        },
+        {
+            "name": "micro",
+            "url": "https://github.com/micro/micro",
+            "star": 41,
+            "description": "A microservice runtime environment"
+        },
+        {
+            "name": "userspace-vga2usb",
+            "url": "https://github.com/benjojo/userspace-vga2usb",
+            "star": 39,
+            "description": "A userspace driver implementation of the Epiphan VGA2USB LR"
+        },
+        {
+            "name": "eksctl",
+            "url": "https://github.com/weaveworks/eksctl",
+            "star": 8,
+            "description": "The official CLI for Amazon EKS"
+        },
+        {
+            "name": "dapr",
+            "url": "https://github.com/dapr/dapr",
+            "star": 41,
+            "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge."
+        },
+        {
+            "name": "origin",
+            "url": "https://github.com/openshift/origin",
+            "star": 4,
+            "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 37,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "kops",
+            "url": "https://github.com/kubernetes/kops",
+            "star": 6,
+            "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management"
+        },
+        {
+            "name": "sarama",
+            "url": "https://github.com/Shopify/sarama",
+            "star": 11,
+            "description": "Sarama is a Go library for Apache Kafka 0.8, and up."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-04",
+    "month": 7,
+    "day": 4,
+    "python": [
+        {
+            "name": "open-deepnude",
+            "url": "https://github.com/open-deepnude/open-deepnude",
+            "star": 169,
+            "description": "Open source reverse-engineered clone of DeepNude"
+        },
+        {
+            "name": "DeepNude-an-Image-to-Image-technology",
+            "url": "https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology",
+            "star": 256,
+            "description": "DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 209,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "machine_learning_examples",
+            "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+            "star": 77,
+            "description": "A collection of machine learning examples and tutorials."
+        },
+        {
+            "name": "Vxscan",
+            "url": "https://github.com/al0ne/Vxscan",
+            "star": 35,
+            "description": "python3写的综合扫描工具，主要用来敏感文件探测(目录扫描与js泄露接口)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏。"
+        },
+        {
+            "name": "salt",
+            "url": "https://github.com/saltstack/salt",
+            "star": 7,
+            "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:"
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 31,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 144,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "YOLOv3_TensorFlow",
+            "url": "https://github.com/wizyoung/YOLOv3_TensorFlow",
+            "star": 11,
+            "description": "Complete YOLO v3 TensorFlow implementation. Support training on your own dataset."
+        },
+        {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "star": 16,
+            "description": "scikit-learn: machine learning in Python"
+        }
+    ],
+    "java": [
+        {
+            "name": "thingsboard",
+            "url": "https://github.com/thingsboard/thingsboard",
+            "star": 84,
+            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 161,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "GSYVideoPlayer",
+            "url": "https://github.com/CarGuo/GSYVideoPlayer",
+            "star": 42,
+            "description": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。"
+        },
+        {
+            "name": "SpringBootLearning",
+            "url": "https://github.com/forezp/SpringBootLearning",
+            "star": 20,
+            "description": "《Spring Boot教程》源码"
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 35,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（16k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "ignite",
+            "url": "https://github.com/apache/ignite",
+            "star": 8,
+            "description": "Mirror of Apache Ignite"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 35,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "MyBookshelf",
+            "url": "https://github.com/gedoor/MyBookshelf",
+            "star": 28,
+            "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 99,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "SoloPi",
+            "url": "https://github.com/alipay/SoloPi",
+            "star": 30,
+            "description": "Soloπ 自动化测试工具"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "notes",
+            "url": "https://github.com/darshanime/notes",
+            "star": 100,
+            "description": "detailed notes on computer science topics, in one page"
+        },
+        {
+            "name": "Learn-Natural-Language-Processing-Curriculum",
+            "url": "https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum",
+            "star": 88,
+            "description": "This is the curriculum for \"Learn Natural Language Processing\" by Siraj Raval on Youtube"
+        },
+        {
+            "name": "The-Documentation-Compendium",
+            "url": "https://github.com/kylelobo/The-Documentation-Compendium",
+            "star": 73,
+            "description": "📢Various README templates & tips on writing high-quality documentation that people want to read."
+        },
+        {
+            "name": "OpenAPI-Specification",
+            "url": "https://github.com/OAI/OpenAPI-Specification",
+            "star": 13,
+            "description": "The OpenAPI Specification Repository"
+        },
+        {
+            "name": "GitHubDaily",
+            "url": "https://github.com/GitHubDaily/GitHubDaily",
+            "star": 54,
+            "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+        },
+        {
+            "name": "awesome-java-cn",
+            "url": "https://github.com/jobbole/awesome-java-cn",
+            "star": 11,
+            "description": "Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。"
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 5,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "GNNPapers",
+            "url": "https://github.com/thunlp/GNNPapers",
+            "star": 8,
+            "description": "Must-read papers on graph neural networks (GNN)"
+        },
+        {
+            "name": "StudyBook",
+            "url": "https://github.com/changwookjun/StudyBook",
+            "star": 5,
+            "description": "Study E-Book(ComputerVision DeepLearning MachineLearning Math NLP Python ReinforcementLearning)"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 67,
+            "description": "后端架构师技术图谱"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "evergreen",
+            "url": "https://github.com/segmentio/evergreen",
+            "star": 88,
+            "description": "🌲Evergreen React UI Framework by Segment"
+        },
+        {
+            "name": "yox",
+            "url": "https://github.com/yoxjs/yox",
+            "star": 38,
+            "description": "A lightweight mvvm framework"
+        },
+        {
+            "name": "node-elm",
+            "url": "https://github.com/bailicangdu/node-elm",
+            "star": 36,
+            "description": "基于 node.js + Mongodb 构建的后台系统"
+        },
+        {
+            "name": "p5.js",
+            "url": "https://github.com/processing/p5.js",
+            "star": 20,
+            "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 214,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 76,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "vuetify",
+            "url": "https://github.com/vuetifyjs/vuetify",
+            "star": 28,
+            "description": "🐉Material Component Framework for Vue.js 2"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 45,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "lwc-recipes",
+            "url": "https://github.com/trailheadapps/lwc-recipes",
+            "star": 4,
+            "description": "A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform"
+        },
+        {
+            "name": "renovate",
+            "url": "https://github.com/renovatebot/renovate",
+            "star": 6,
+            "description": "Multi-language dependency update automation. Flexible, so you don't need to be."
+        }
+    ],
+    "html": [
+        {
+            "name": "hylia",
+            "url": "https://github.com/andybelldesign/hylia",
+            "star": 89,
+            "description": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 28,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "raytracinginoneweekend",
+            "url": "https://github.com/petershirley/raytracinginoneweekend",
+            "star": 8,
+            "description": "The source for the ebook Ray Tracing in One Weekend by Peter Shirley. This work is in the public domain."
+        },
+        {
+            "name": "mescroll",
+            "url": "https://github.com/mescroll/mescroll",
+            "star": 7,
+            "description": "精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)"
+        },
+        {
+            "name": "sample-code",
+            "url": "https://github.com/appium-boneyard/sample-code",
+            "star": 2,
+            "description": "appium sample code (dotnet, java, node, perl, php, python, ruby, etc.)"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 5,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 5,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "sourcegraph",
+            "url": "https://github.com/sourcegraph/sourcegraph",
+            "star": 4,
+            "description": "Code search and navigation tool (self-hosted)"
+        },
+        {
+            "name": "istio.io",
+            "url": "https://github.com/istio/istio.io",
+            "star": 1,
+            "description": "Source for the istio.io site"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 6,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        }
+    ],
+    "go": [
+        {
+            "name": "hydra",
+            "url": "https://github.com/ory/hydra",
+            "star": 69,
+            "description": "OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language."
+        },
+        {
+            "name": "gocui",
+            "url": "https://github.com/jroimartin/gocui",
+            "star": 128,
+            "description": "Minimalist Go package aimed at creating Console User Interfaces."
+        },
+        {
+            "name": "lazydocker",
+            "url": "https://github.com/jesseduffield/lazydocker",
+            "star": 944,
+            "description": "The lazier way to manage everything docker"
+        },
+        {
+            "name": "sarama",
+            "url": "https://github.com/Shopify/sarama",
+            "star": 12,
+            "description": "Sarama is a Go library for Apache Kafka 0.8, and up."
+        },
+        {
+            "name": "cert-manager",
+            "url": "https://github.com/jetstack/cert-manager",
+            "star": 10,
+            "description": "Automatically provision and manage TLS certificates in Kubernetes"
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 29,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "btcd",
+            "url": "https://github.com/btcsuite/btcd",
+            "star": 8,
+            "description": "An alternative full node bitcoin implementation written in Go (golang)"
+        },
+        {
+            "name": "influxdb",
+            "url": "https://github.com/influxdata/influxdb",
+            "star": 16,
+            "description": "Scalable datastore for metrics, events, and real-time analytics"
+        },
+        {
+            "name": "GolangTraining",
+            "url": "https://github.com/GoesToEleven/GolangTraining",
+            "star": 16,
+            "description": "Training for Golang (go language)"
+        },
+        {
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit",
+            "star": 58,
+            "description": "simple terminal UI for git commands"
+        }
+    ]
+}

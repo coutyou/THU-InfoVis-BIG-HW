@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-28",
+    "month": 2,
+    "day": 28,
+    "python": [
+        {
+            "name": "zero",
+            "url": "https://github.com/remoteinterview/zero",
+            "star": 979,
+            "description": "Zero is a web server to simplify web development."
+        },
+        {
+            "name": "AdaBound",
+            "url": "https://github.com/Luolc/AdaBound",
+            "star": 813,
+            "description": "An optimizer that trains as fast as Adam and as good as SGD."
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 657,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "subsync",
+            "url": "https://github.com/smacke/subsync",
+            "star": 510,
+            "description": "Automagically synchronize subtitles with video."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 391,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "bullet",
+            "url": "https://github.com/Mckinsey666/bullet",
+            "star": 363,
+            "description": "🚅Beautiful Python prompts made simple. Build a prompt like stacking blocks."
+        },
+        {
+            "name": "lingvo",
+            "url": "https://github.com/tensorflow/lingvo",
+            "star": 197,
+            "description": "Lingvo"
+        },
+        {
+            "name": "Tensorflow-Cookbook",
+            "url": "https://github.com/taki0112/Tensorflow-Cookbook",
+            "star": 164,
+            "description": "Simple Tensorflow Cookbook for easy-to-use"
+        },
+        {
+            "name": "face.evoLVe.PyTorch",
+            "url": "https://github.com/ZhaoJ9014/face.evoLVe.PyTorch",
+            "star": 128,
+            "description": "🔥🔥High-Performance Face Recognition Library on PyTorch🔥🔥"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 90,
+            "description": "DeepFaceLab is a tool that utilizes deep learning to recognize and swap faces in pictures and videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 276,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 264,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "XPopup",
+            "url": "https://github.com/li-xiaojun/XPopup",
+            "star": 131,
+            "description": "🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom Popup View.)"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 110,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "JGrowing",
+            "url": "https://github.com/javagrowing/JGrowing",
+            "star": 109,
+            "description": "Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 109,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 82,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 58,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 45,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 55,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Awesome-WAF",
+            "url": "https://github.com/0xInfection/Awesome-WAF",
+            "star": 443,
+            "description": "🔥A curated list of awesome web-app firewall (WAF) stuff."
+        },
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 263,
+            "description": "Gitbook"
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 264,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "CyC-Notes",
+            "url": "https://github.com/CyC2018/CyC-Notes",
+            "star": 190,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "Nodejs-Developer-Roadmap",
+            "url": "https://github.com/aliyr/Nodejs-Developer-Roadmap",
+            "star": 208,
+            "description": "A Developer Roadmap to becoming a Node.js developer in 2019"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 193,
+            "description": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "awesome-css-learning",
+            "url": "https://github.com/micromata/awesome-css-learning",
+            "star": 131,
+            "description": "A tiny list limited to the best CSS Learning Resources"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 105,
+            "description": "⭐️A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 86,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 67,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "react-three-fiber",
+            "url": "https://github.com/drcmda/react-three-fiber",
+            "star": 426,
+            "description": "👌React-fiber renderer for THREE.js"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 349,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "cleave.js",
+            "url": "https://github.com/nosir/cleave.js",
+            "star": 290,
+            "description": "Format input text content when you are typing..."
+        },
+        {
+            "name": "nsfwjs",
+            "url": "https://github.com/infinitered/nsfwjs",
+            "star": 208,
+            "description": "NSFW detection on the client-side via Tensorflow JS"
+        },
+        {
+            "name": "eslint-config-wesbos",
+            "url": "https://github.com/wesbos/eslint-config-wesbos",
+            "star": 207,
+            "description": "No-Sweat™ Eslint and Prettier Setup - with or without VS Code"
+        },
+        {
+            "name": "filepond",
+            "url": "https://github.com/pqina/filepond",
+            "star": 156,
+            "description": "🌊A flexible and fun JavaScript file upload library"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 135,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "chameleon",
+            "url": "https://github.com/didi/chameleon",
+            "star": 138,
+            "description": "🦎一套代码运行多端，一端所见即多端所见"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 110,
+            "description": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 90,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        }
+    ],
+    "html": [
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 24,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 33,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 22,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 21,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 21,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 14,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "ecma262",
+            "url": "https://github.com/tc39/ecma262",
+            "star": 18,
+            "description": "Status, process, and documents for ECMA262"
+        },
+        {
+            "name": "awesome-IT-films",
+            "url": "https://github.com/greybax/awesome-IT-films",
+            "star": 17,
+            "description": "📺A curated list of awesome films about IT & geek people."
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 12,
+            "description": "Library for fast text representation and classification."
+        }
+    ],
+    "go": [
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 1222,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "wal-g",
+            "url": "https://github.com/wal-g/wal-g",
+            "star": 143,
+            "description": "Archival and Restoration for Postgres"
+        },
+        {
+            "name": "go2-book",
+            "url": "https://github.com/chai2010/go2-book",
+            "star": 125,
+            "description": "📚《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性"
+        },
+        {
+            "name": "cortex",
+            "url": "https://github.com/cortexlabs/cortex",
+            "star": 90,
+            "description": "Machine learning platform for developers"
+        },
+        {
+            "name": "build-web-application-with-golang",
+            "url": "https://github.com/astaxie/build-web-application-with-golang",
+            "star": 76,
+            "description": "A golang ebook intro how to build a web with golang"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 59,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 58,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 57,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "istio-operator",
+            "url": "https://github.com/banzaicloud/istio-operator",
+            "star": 61,
+            "description": "An operator that manages Istio deployments on Kubernetes"
+        },
+        {
+            "name": "rakkess",
+            "url": "https://github.com/corneliusweig/rakkess",
+            "star": 59,
+            "description": "Review Access - kubectl plugin to show an access matrix for all available resources"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-15",
+    "month": 3,
+    "day": 15,
+    "python": [
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 244,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 178,
+            "description": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 106,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "indico",
+            "url": "https://github.com/indico/indico",
+            "star": 117,
+            "description": "Indico - A complete event management system"
+        },
+        {
+            "name": "ArchiveBox",
+            "url": "https://github.com/pirate/ArchiveBox",
+            "star": 111,
+            "description": "🗃The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..."
+        },
+        {
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi",
+            "star": 103,
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 89,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 69,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "USTC-Course",
+            "url": "https://github.com/USTC-Resource/USTC-Course",
+            "star": 81,
+            "description": "❤️中国科学技术大学课程资源"
+        },
+        {
+            "name": "pytorch_geometric",
+            "url": "https://github.com/rusty1s/pytorch_geometric",
+            "star": 87,
+            "description": "Geometric Deep Learning Extension Library for PyTorch"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 240,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 136,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 105,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "APIJSON",
+            "url": "https://github.com/TommyLemon/APIJSON",
+            "star": 104,
+            "description": "🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents."
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 92,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "android-ConstraintLayoutExamples",
+            "url": "https://github.com/googlesamples/android-ConstraintLayoutExamples",
+            "star": 82,
+            "description": "Repository of examples that showcase the various features of ConstraintLayout"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 54,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 39,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "JGrowing",
+            "url": "https://github.com/javagrowing/JGrowing",
+            "star": 59,
+            "description": "Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。"
+        },
+        {
+            "name": "pravega",
+            "url": "https://github.com/pravega/pravega",
+            "star": 60,
+            "description": "Pravega - Streaming as a new software defined storage primitive"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-personal-blogs",
+            "url": "https://github.com/jkup/awesome-personal-blogs",
+            "star": 446,
+            "description": "A delightful list of personal tech blogs"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 250,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "Go42",
+            "url": "https://github.com/ffhelicopter/Go42",
+            "star": 240,
+            "description": "写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 185,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 152,
+            "description": "Gitbook"
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 134,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "go-perfbook",
+            "url": "https://github.com/dgryski/go-perfbook",
+            "star": 109,
+            "description": "Thoughts on Go performance optimization"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 97,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 72,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "python_interview_question",
+            "url": "https://github.com/kenwoodjw/python_interview_question",
+            "star": 87,
+            "description": "关于python的面试题"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "send",
+            "url": "https://github.com/mozilla/send",
+            "star": 677,
+            "description": "Simple, private file sharing from the makers of Firefox"
+        },
+        {
+            "name": "graphql-engine",
+            "url": "https://github.com/hasura/graphql-engine",
+            "star": 186,
+            "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events."
+        },
+        {
+            "name": "laxxx",
+            "url": "https://github.com/alexfoxy/laxxx",
+            "star": 167,
+            "description": "Simple & light weight vanilla javascript plugin to create beautiful animations things when you scrolllll!! Harness the power of the most intuitive interaction and make your websites come alive!"
+        },
+        {
+            "name": "iodide",
+            "url": "https://github.com/iodide-project/iodide",
+            "star": 163,
+            "description": "Literate scientific computing and communication for the web"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 147,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 109,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "dayjs",
+            "url": "https://github.com/iamkun/dayjs",
+            "star": 97,
+            "description": "⏰Day.js 2KB immutable date library alternative to Moment.js with the same modern API"
+        },
+        {
+            "name": "uppy",
+            "url": "https://github.com/transloadit/uppy",
+            "star": 94,
+            "description": "The next open source file uploader for web browsers🐶"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 84,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "react-three-fiber",
+            "url": "https://github.com/drcmda/react-three-fiber",
+            "star": 85,
+            "description": "👌A React-renderer for Three.js"
+        }
+    ],
+    "html": [
+        {
+            "name": "lets-get-arrested",
+            "url": "https://github.com/hamukazu/lets-get-arrested",
+            "star": 106,
+            "description": "This project is intended to protest against the police in Japan"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 54,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "heyui-admin",
+            "url": "https://github.com/heyui/heyui-admin",
+            "star": 35,
+            "description": "基于 vue 和 heyui 组件库的中后端系统"
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 30,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 27,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 29,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "serverless",
+            "url": "https://github.com/phodal/serverless",
+            "star": 28,
+            "description": "Serverless 架构应用开发指南 - Serverless Architecture Application Development Guide with Serverless Framework."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 28,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "blackeye",
+            "url": "https://github.com/thelinuxchoice/blackeye",
+            "star": 28,
+            "description": "The most complete Phishing Tool, with 32 templates +1 customizable"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 22,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        }
+    ],
+    "go": [
+        {
+            "name": "slim",
+            "url": "https://github.com/openacid/slim",
+            "star": 218,
+            "description": "Unbelievably space efficient data structures in Golang."
+        },
+        {
+            "name": "submariner",
+            "url": "https://github.com/rancher/submariner",
+            "star": 172,
+            "description": "Connect all your Kubernetes clusters, no matter where they are in the world."
+        },
+        {
+            "name": "server",
+            "url": "https://github.com/gotify/server",
+            "star": 164,
+            "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)"
+        },
+        {
+            "name": "bigqueue",
+            "url": "https://github.com/grandecola/bigqueue",
+            "star": 92,
+            "description": "Embedded, Fast and Persistent bigqueue implementation"
+        },
+        {
+            "name": "go-asciibot",
+            "url": "https://github.com/mattes/go-asciibot",
+            "star": 84,
+            "description": "Golang ASCII Robot Generator"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 67,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 69,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 59,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 61,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "kraken",
+            "url": "https://github.com/uber/kraken",
+            "star": 57,
+            "description": "P2P Docker registry capable of distributing TBs of data in seconds"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-06-25",
+    "month": 6,
+    "day": 25,
+    "python": [
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 68,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "keras-tuner",
+            "url": "https://github.com/keras-team/keras-tuner",
+            "star": 118,
+            "description": "Hyperparameter tuning for humans"
+        },
+        {
+            "name": "gym",
+            "url": "https://github.com/openai/gym",
+            "star": 20,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+        },
+        {
+            "name": "XLM",
+            "url": "https://github.com/facebookresearch/XLM",
+            "star": 55,
+            "description": "PyTorch original implementation of Cross-lingual Language Model Pretraining."
+        },
+        {
+            "name": "gryphon",
+            "url": "https://github.com/garethdmm/gryphon",
+            "star": 83,
+            "description": "Powerful, proven, and extensible framework for building trading strategies at any frequency, with a focus on crypto currencies. Battle-tested with billions traded."
+        },
+        {
+            "name": "ChineseNLPCorpus",
+            "url": "https://github.com/InsaneLife/ChineseNLPCorpus",
+            "star": 23,
+            "description": "中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。"
+        },
+        {
+            "name": "LaZagne",
+            "url": "https://github.com/AlessandroZ/LaZagne",
+            "star": 3,
+            "description": "Credentials recovery project"
+        },
+        {
+            "name": "hacs",
+            "url": "https://github.com/custom-components/hacs",
+            "star": 25,
+            "description": "Manage (Install, track, upgrade) and discover custom elements for Home Assistant."
+        },
+        {
+            "name": "darkflow",
+            "url": "https://github.com/thtrieu/darkflow",
+            "star": 9,
+            "description": "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices"
+        },
+        {
+            "name": "PySimpleGUI",
+            "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+            "star": 24,
+            "description": "Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 100+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo…"
+        }
+    ],
+    "java": [
+        {
+            "name": "FuckMFS",
+            "url": "https://github.com/HiedaNaKan/FuckMFS",
+            "star": 342,
+            "description": "去他妈的取证"
+        },
+        {
+            "name": "interview",
+            "url": "https://github.com/mission-peace/interview",
+            "star": 8,
+            "description": "Interview questions"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 65,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码"
+        },
+        {
+            "name": "Leetcode",
+            "url": "https://github.com/fishercoder1534/Leetcode",
+            "star": 16,
+            "description": "Complete solutions to Leetcode problems; updated daily. (I'm looking for long-term contributors/partners to this repo! Send me PRs if you're interested! - 9/5/2018)"
+        },
+        {
+            "name": "spring-petclinic",
+            "url": "https://github.com/spring-projects/spring-petclinic",
+            "star": 7,
+            "description": "A sample Spring-based application"
+        },
+        {
+            "name": "termux-app",
+            "url": "https://github.com/termux/termux-app",
+            "star": 4,
+            "description": "Android terminal and Linux environment - app repository."
+        },
+        {
+            "name": "MigrationMiner",
+            "url": "https://github.com/hussien89aa/MigrationMiner",
+            "star": 13,
+            "description": "A tool to detect migration code between two Java third-party libraries"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 1,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "Cimoc",
+            "url": "https://github.com/Arachnid-27/Cimoc",
+            "star": 20,
+            "description": "Android 平台在线漫画阅读器"
+        },
+        {
+            "name": "libgdx",
+            "url": "https://github.com/libgdx/libgdx",
+            "star": 2,
+            "description": "Desktop/Android/HTML5/iOS Java game development framework"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "every-programmer-should-know",
+            "url": "https://github.com/mtdvio/every-programmer-should-know",
+            "star": 134,
+            "description": "A collection of (mostly) technical things every software developer should know"
+        },
+        {
+            "name": "awesome-yara",
+            "url": "https://github.com/InQuest/awesome-yara",
+            "star": 45,
+            "description": "A curated list of awesome YARA rules, tools, and people."
+        },
+        {
+            "name": "rfcs",
+            "url": "https://github.com/vuejs/rfcs",
+            "star": 127,
+            "description": "RFCs for substantial changes / feature additions to Vue core"
+        },
+        {
+            "name": "clean-go-article",
+            "url": "https://github.com/Pungyeon/clean-go-article",
+            "star": 52,
+            "description": "The motivation behind writing this document, is to create a resource (and eventually a reference) for the Go community, which will help developers write cleaner code. This benefits every one of us. Whether we are writing code by ourselves, or writing code in larger teams. Establishing good paradigms for writing clean code and ensuring that this …"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 117,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "chromium",
+            "url": "https://github.com/jjqqkk/chromium",
+            "star": 11,
+            "description": "Chromium browser with SSL VPN. Use this browser to unblock websites."
+        },
+        {
+            "name": "gold-miner",
+            "url": "https://github.com/xitu/gold-miner",
+            "star": 126,
+            "description": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台："
+        },
+        {
+            "name": "golang-open-source-projects",
+            "url": "https://github.com/hackstoic/golang-open-source-projects",
+            "star": 46,
+            "description": "为互联网IT人打造的中文版awesome-go"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 81,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "dl-engineer-guidebook",
+            "url": "https://github.com/ypwhs/dl-engineer-guidebook",
+            "star": 35,
+            "description": "深度学习工程师生存指南"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/i0natan/nodebestpractices",
+            "star": 36,
+            "description": "✅The largest Node.js best practices list (May 2019)"
+        },
+        {
+            "name": "InsiderDevTourDemos19",
+            "url": "https://github.com/microsoft/InsiderDevTourDemos19",
+            "star": 4,
+            "description": "Insider Dev Tour - Demos - 2019"
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 31,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "brackets",
+            "url": "https://github.com/adobe/brackets",
+            "star": 14,
+            "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+        },
+        {
+            "name": "hexbot",
+            "url": "https://github.com/noops-challenge/hexbot",
+            "star": 12,
+            "description": "Every request returns a different hex code—all 16,777,216 of them."
+        },
+        {
+            "name": "Rocket.Chat",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "star": 16,
+            "description": "The ultimate Free Open Source Solution for team communications."
+        },
+        {
+            "name": "eslint",
+            "url": "https://github.com/eslint/eslint",
+            "star": 23,
+            "description": "A fully pluggable tool for identifying and reporting on patterns in JavaScript"
+        },
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 7,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        },
+        {
+            "name": "openzeppelin-solidity",
+            "url": "https://github.com/OpenZeppelin/openzeppelin-solidity",
+            "star": 8,
+            "description": "OpenZeppelin is a library for secure smart contract development"
+        },
+        {
+            "name": "nodejs.org",
+            "url": "https://github.com/nodejs/nodejs.org",
+            "star": 10,
+            "description": "The Node.js website."
+        }
+    ],
+    "html": [
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 14,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 8,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 3,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "favorites-web",
+            "url": "https://github.com/cloudfavorites/favorites-web",
+            "star": 4,
+            "description": "云收藏 Spring Boot 2.X 开源项目"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 2,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 27,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 4,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "modular-admin-html",
+            "url": "https://github.com/modularcode/modular-admin-html",
+            "star": 2,
+            "description": "ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version"
+        },
+        {
+            "name": "FES",
+            "url": "https://github.com/topepo/FES",
+            "star": 4,
+            "description": "Code and Resources for \"Feature Engineering and Selection: A Practical Approach for Predictive Models\" by Kuhn and Johnson"
+        },
+        {
+            "name": "zenbot",
+            "url": "https://github.com/DeviaVir/zenbot",
+            "star": 4,
+            "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB."
+        }
+    ],
+    "go": [
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 1176,
+            "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s."
+        },
+        {
+            "name": "grpc-tools",
+            "url": "https://github.com/bradleyjkemp/grpc-tools",
+            "star": 81,
+            "description": "A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC."
+        },
+        {
+            "name": "olivia",
+            "url": "https://github.com/olivia-ai/olivia",
+            "star": 76,
+            "description": "💁‍♀️Your new best friend built with an artificial neural network"
+        },
+        {
+            "name": "doom",
+            "url": "https://github.com/vlang/doom",
+            "star": 21,
+            "description": "DOOM translated from C to V. Builds in 0.7 seconds (x25 speed-up)."
+        },
+        {
+            "name": "bigcache",
+            "url": "https://github.com/allegro/bigcache",
+            "star": 120,
+            "description": "Efficient cache for gigabytes of data written in Go."
+        },
+        {
+            "name": "chat",
+            "url": "https://github.com/tinode/chat",
+            "star": 14,
+            "description": "Instant messaging server; backend in Go; Android, web command line clients; chatbots"
+        },
+        {
+            "name": "yay",
+            "url": "https://github.com/Jguer/yay",
+            "star": 10,
+            "description": "Yet another Yogurt - An AUR Helper written in Go"
+        },
+        {
+            "name": "chisel",
+            "url": "https://github.com/jpillora/chisel",
+            "star": 12,
+            "description": "A fast TCP tunnel over HTTP"
+        },
+        {
+            "name": "webhook",
+            "url": "https://github.com/adnanh/webhook",
+            "star": 12,
+            "description": "webhook is a lightweight incoming webhook server to run shell commands"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 61,
+            "description": "The Go programming language"
+        }
+    ]
+}

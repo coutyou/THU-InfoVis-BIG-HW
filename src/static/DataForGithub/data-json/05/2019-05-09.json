@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-09",
+    "month": 5,
+    "day": 9,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 489,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "self-driving-desktop",
+            "url": "https://github.com/hofstadter-io/self-driving-desktop",
+            "star": 228,
+            "description": "Desktop Automation framework"
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 132,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 91,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 62,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 75,
+            "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "Awesome-PyTorch-Chinese",
+            "url": "https://github.com/INTERMT/Awesome-PyTorch-Chinese",
+            "star": 76,
+            "description": "【干货】史上最全的PyTorch学习资源汇总"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 65,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 65,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 67,
+            "description": "A collective list of free APIs for use in software and web development."
+        }
+    ],
+    "java": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 306,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 203,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "server",
+            "url": "https://github.com/wildfirechat/server",
+            "star": 146,
+            "description": "全开源即时通讯(IM)系统"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 109,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 71,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 63,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 59,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 61,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 61,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 54,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "PowerToys",
+            "url": "https://github.com/microsoft/PowerToys",
+            "star": 683,
+            "description": "Windows system utilities to maximize productivity"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 620,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "go-perfbook",
+            "url": "https://github.com/dgryski/go-perfbook",
+            "star": 377,
+            "description": "Thoughts on Go performance optimization"
+        },
+        {
+            "name": "conference",
+            "url": "https://github.com/gopherchina/conference",
+            "star": 103,
+            "description": ""
+        },
+        {
+            "name": "pysot",
+            "url": "https://github.com/STVIR/pysot",
+            "star": 104,
+            "description": ""
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 85,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 76,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "Bash-Oneliner",
+            "url": "https://github.com/onceupon/Bash-Oneliner",
+            "star": 91,
+            "description": "Bash Oneliner will focus on bash commands for parsing plain text; some of the commands are for system maintaining. I apologize that there won't be any citation of the code, but they are probably from dear Google and Stackoverflow. Not all the code here are oneliner (if the ';' counts..). English and bash are not my first language, so... correct …"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 84,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，每天进步一点！"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 80,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 532,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "react-material-dashboard",
+            "url": "https://github.com/devias-io/react-material-dashboard",
+            "star": 192,
+            "description": "React Dashboard made with Material UI’s components, React and of course create-react-app to boost your app development process!"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/i0natan/nodebestpractices",
+            "star": 157,
+            "description": "✅The largest Node.js best practices list (April 2019)"
+        },
+        {
+            "name": "training",
+            "url": "https://github.com/cloud-annotations/training",
+            "star": 153,
+            "description": "🐝Custom Object Detection and Classification Training"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 120,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 107,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "hyper",
+            "url": "https://github.com/zeit/hyper",
+            "star": 103,
+            "description": "A terminal built on web technologies"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 79,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 81,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 76,
+            "description": "🖖油猴脚本 一个脚本搞定百度网盘下载"
+        }
+    ],
+    "html": [
+        {
+            "name": "Python-100-Days",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "star": 1694,
+            "description": "Python - 100天从新手到大师"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 65,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 59,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "windows-syscalls",
+            "url": "https://github.com/j00ru/windows-syscalls",
+            "star": 39,
+            "description": "Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 31,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 25,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 20,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "owasp-mstg",
+            "url": "https://github.com/OWASP/owasp-mstg",
+            "star": 17,
+            "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering."
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 18,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 17,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        }
+    ],
+    "go": [
+        {
+            "name": "sqlflow",
+            "url": "https://github.com/sql-machine-learning/sqlflow",
+            "star": 403,
+            "description": "Brings SQL and AI together."
+        },
+        {
+            "name": "keda",
+            "url": "https://github.com/kedacore/keda",
+            "star": 184,
+            "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes"
+        },
+        {
+            "name": "collection",
+            "url": "https://github.com/jianfengye/collection",
+            "star": 94,
+            "description": "go collection package for fasting coding"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 78,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 75,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "gui",
+            "url": "https://github.com/faiface/gui",
+            "star": 78,
+            "description": "Super minimal, rock-solid foundation for concurrent GUI in Go."
+        },
+        {
+            "name": "kratos",
+            "url": "https://github.com/bilibili/kratos",
+            "star": 73,
+            "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。"
+        },
+        {
+            "name": "reading-go",
+            "url": "https://github.com/developer-learning/reading-go",
+            "star": 72,
+            "description": "Go 每日阅读和 Go 夜读 > Daily Reading Go and Night Reading Go - Go source reading and offline technical or another articles or discussion on every night."
+        },
+        {
+            "name": "gameboy.live",
+            "url": "https://github.com/HFO4/gameboy.live",
+            "star": 68,
+            "description": "🕹️A basic gameboy emulator with terminal \"Cloud Gaming\" support"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 57,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        }
+    ]
+}

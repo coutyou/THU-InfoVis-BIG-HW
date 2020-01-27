@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-21",
+    "month": 8,
+    "day": 21,
+    "python": [
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 130,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "numpy-ml",
+            "url": "https://github.com/ddbourgin/numpy-ml",
+            "star": 60,
+            "description": "Machine learning, in numpy"
+        },
+        {
+            "name": "wifiphisher",
+            "url": "https://github.com/wifiphisher/wifiphisher",
+            "star": 41,
+            "description": "The Rogue Access Point Framework"
+        },
+        {
+            "name": "CppCoreGuidelines",
+            "url": "https://github.com/isocpp/CppCoreGuidelines",
+            "star": 14,
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++"
+        },
+        {
+            "name": "RAdam",
+            "url": "https://github.com/LiyuanLucasLiu/RAdam",
+            "star": 70,
+            "description": "On The Variance Of The Adaptive Learning Rate And Beyond"
+        },
+        {
+            "name": "ImageAI",
+            "url": "https://github.com/OlafenwaMoses/ImageAI",
+            "star": 15,
+            "description": "A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities"
+        },
+        {
+            "name": "bert",
+            "url": "https://github.com/google-research/bert",
+            "star": 26,
+            "description": "TensorFlow code and pre-trained models for BERT"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 58,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "pocsuite3",
+            "url": "https://github.com/knownsec/pocsuite3",
+            "star": 15,
+            "description": "pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team."
+        },
+        {
+            "name": "robotframework",
+            "url": "https://github.com/robotframework/robotframework",
+            "star": 3,
+            "description": "Generic automation framework for acceptance testing and RPA"
+        }
+    ],
+    "java": [
+        {
+            "name": "live-transcribe-speech-engine",
+            "url": "https://github.com/google/live-transcribe-speech-engine",
+            "star": 113,
+            "description": "Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe."
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 262,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/justauth/JustAuth",
+            "star": 279,
+            "description": "💯史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 421,
+            "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…"
+        },
+        {
+            "name": "animation",
+            "url": "https://github.com/android/animation",
+            "star": 43,
+            "description": "Multiple samples showing the best practices in animation on Android."
+        },
+        {
+            "name": "flink-recommandSystem-demo",
+            "url": "https://github.com/CheckChe0803/flink-recommandSystem-demo",
+            "star": 58,
+            "description": "🚁🚀基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。"
+        },
+        {
+            "name": "kubernetes-client",
+            "url": "https://github.com/fabric8io/kubernetes-client",
+            "star": 2,
+            "description": "Java client for Kubernetes & OpenShift"
+        },
+        {
+            "name": "chucker",
+            "url": "https://github.com/ChuckerTeam/chucker",
+            "star": 6,
+            "description": "🔎An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck"
+        },
+        {
+            "name": "mockito",
+            "url": "https://github.com/mockito/mockito",
+            "star": 9,
+            "description": "Most popular Mocking framework for unit tests written in Java"
+        },
+        {
+            "name": "incubator-shardingsphere",
+            "url": "https://github.com/apache/incubator-shardingsphere",
+            "star": 13,
+            "description": "Distributed database middleware"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 91,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "books",
+            "url": "https://github.com/programthink/books",
+            "star": 84,
+            "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）"
+        },
+        {
+            "name": "javascript-testing-best-practices",
+            "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+            "star": 333,
+            "description": "📗🌐🚢Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 76,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "design-patterns-for-humans",
+            "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+            "star": 9,
+            "description": "An ultra-simplified explanation to design patterns"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/grandyang/leetcode",
+            "star": 11,
+            "description": "Provide all my solutions and explanations in Chinese for all the Leetcode coding problems."
+        },
+        {
+            "name": "awesome-hyper-v-exploitation",
+            "url": "https://github.com/shogunlab/awesome-hyper-v-exploitation",
+            "star": 18,
+            "description": "A curated list of Hyper-V exploitation resources, fuzzing and vulnerability research."
+        },
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 43,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        },
+        {
+            "name": "Index",
+            "url": "https://github.com/HowProgrammingWorks/Index",
+            "star": 4,
+            "description": "Repositories Index"
+        },
+        {
+            "name": "stanford-cs-229-machine-learning",
+            "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+            "star": 33,
+            "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 189,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 453,
+            "description": "💯Materials to help you rock your next coding interview"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 169,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "front-end-interview-handbook",
+            "url": "https://github.com/yangshun/front-end-interview-handbook",
+            "star": 83,
+            "description": "🕸Almost complete answers to \"Front-end Job Interview Questions\" which you can use to interview potential candidates, test yourself or completely ignore"
+        },
+        {
+            "name": "react-table",
+            "url": "https://github.com/tannerlinsley/react-table",
+            "star": 21,
+            "description": "⚛️Hooks for building fast and extendable tables and datagrids for React"
+        },
+        {
+            "name": "acorn",
+            "url": "https://github.com/acornjs/acorn",
+            "star": 21,
+            "description": "A small, fast, JavaScript-based JavaScript parser"
+        },
+        {
+            "name": "api-platform",
+            "url": "https://github.com/api-platform/api-platform",
+            "star": 21,
+            "description": "REST and GraphQL framework to build modern API-driven projects (server-side and client-side)"
+        },
+        {
+            "name": "slick",
+            "url": "https://github.com/kenwheeler/slick",
+            "star": 15,
+            "description": "the last carousel you'll ever need"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 84,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 53,
+            "description": "A framework for building native apps with React."
+        }
+    ],
+    "html": [
+        {
+            "name": "blackeye",
+            "url": "https://github.com/thelinuxchoice/blackeye",
+            "star": 45,
+            "description": "The most complete Phishing Tool, with 32 templates +1 customizable"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 14,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 3,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "mxgraph",
+            "url": "https://github.com/jgraph/mxgraph",
+            "star": 3,
+            "description": "mxGraph is a fully client side JavaScript diagramming library"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/biaochenxuying/blog",
+            "star": 15,
+            "description": "技术为主，读书笔记、随笔、理财为辅，做个终身学习者。"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 0,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "owasp-mstg",
+            "url": "https://github.com/OWASP/owasp-mstg",
+            "star": 3,
+            "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering."
+        },
+        {
+            "name": "aws-well-architected-labs",
+            "url": "https://github.com/awslabs/aws-well-architected-labs",
+            "star": 3,
+            "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices."
+        },
+        {
+            "name": "zh.javascript.info",
+            "url": "https://github.com/javascript-tutorial/zh.javascript.info",
+            "star": 9,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Screenshot-to-code",
+            "url": "https://github.com/emilwallner/Screenshot-to-code",
+            "star": 10,
+            "description": "A neural network that transforms a design mock-up into a static website."
+        }
+    ],
+    "go": [
+        {
+            "name": "sampler",
+            "url": "https://github.com/sqshq/sampler",
+            "star": 224,
+            "description": "A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
+        },
+        {
+            "name": "learn-go-with-tests",
+            "url": "https://github.com/quii/learn-go-with-tests",
+            "star": 321,
+            "description": "Learn Go with test-driven development"
+        },
+        {
+            "name": "go-filecoin",
+            "url": "https://github.com/filecoin-project/go-filecoin",
+            "star": 5,
+            "description": "Filecoin Full Node Implementation in Go"
+        },
+        {
+            "name": "dive",
+            "url": "https://github.com/wagoodman/dive",
+            "star": 18,
+            "description": "A tool for exploring each layer in a docker image"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "star": 65,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "clair",
+            "url": "https://github.com/coreos/clair",
+            "star": 11,
+            "description": "Vulnerability Static Analysis for Containers"
+        },
+        {
+            "name": "elastic",
+            "url": "https://github.com/olivere/elastic",
+            "star": 6,
+            "description": "Elasticsearch client for Go."
+        },
+        {
+            "name": "distri",
+            "url": "https://github.com/distr1/distri",
+            "star": 33,
+            "description": "a Linux distribution to research fast package management"
+        },
+        {
+            "name": "kops",
+            "url": "https://github.com/kubernetes/kops",
+            "star": 10,
+            "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management"
+        },
+        {
+            "name": "node_exporter",
+            "url": "https://github.com/prometheus/node_exporter",
+            "star": 10,
+            "description": "Exporter for machine metrics"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-19",
+    "month": 5,
+    "day": 19,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 230,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "machine-learning-course",
+            "url": "https://github.com/machinelearningmindset/machine-learning-course",
+            "star": 229,
+            "description": "💬Machine Learning Course with Python"
+        },
+        {
+            "name": "black",
+            "url": "https://github.com/python/black",
+            "star": 225,
+            "description": "The uncompromising Python code formatter"
+        },
+        {
+            "name": "uds",
+            "url": "https://github.com/stewartmcgown/uds",
+            "star": 136,
+            "description": "Unlimited Drive Storage by splitting binary files into base64"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 51,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 46,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 46,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 45,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "client",
+            "url": "https://github.com/wandb/client",
+            "star": 48,
+            "description": "🔥A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API."
+        },
+        {
+            "name": "interpret",
+            "url": "https://github.com/microsoft/interpret",
+            "star": 39,
+            "description": "Fit interpretable models. Explain blackbox machine learning."
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 243,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 97,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 71,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 37,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 33,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 33,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 27,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "bee",
+            "url": "https://github.com/automvc/bee",
+            "star": 33,
+            "description": "Bee is an easy and high efficiency ORM framework.You don't need to write the Dao by yourself anymore(Coding Complexity is O(1) ). Bee是简单、高效的ORM框架，它的编码复杂度是O(1)，即用了Bee，你可以不用另外写dao代码。"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 30,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 31,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 273,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful."
+        },
+        {
+            "name": "hacker-laws-zh",
+            "url": "https://github.com/nusr/hacker-laws-zh",
+            "star": 222,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)"
+        },
+        {
+            "name": "awesome-decision-tree-papers",
+            "url": "https://github.com/benedekrozemberczki/awesome-decision-tree-papers",
+            "star": 94,
+            "description": "A collection of research papers on decision, classification and regression trees with implementations."
+        },
+        {
+            "name": "The-Hackers-Hardware-Toolkit",
+            "url": "https://github.com/yadox666/The-Hackers-Hardware-Toolkit",
+            "star": 91,
+            "description": "The best hacker's gadgets for Red Team pentesters and security researchers."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 63,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 38,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 46,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 44,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 44,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "PowerToys",
+            "url": "https://github.com/microsoft/PowerToys",
+            "star": 44,
+            "description": "Windows system utilities to maximize productivity"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "gitfolio",
+            "url": "https://github.com/imfunniee/gitfolio",
+            "star": 217,
+            "description": "personal website + blog for every github user"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 201,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "ola",
+            "url": "https://github.com/franciscop/ola",
+            "star": 141,
+            "description": "🌊Smooth animation library for interpolating numbers"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 108,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "i18nize-react",
+            "url": "https://github.com/Ghost---Shadow/i18nize-react",
+            "star": 78,
+            "description": "Internationalize react apps within a lunch break"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 71,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "MikuTools",
+            "url": "https://github.com/Ice-Hazymoon/MikuTools",
+            "star": 62,
+            "description": "一个轻量的工具集合"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 54,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "vscode-recipes",
+            "url": "https://github.com/microsoft/vscode-recipes",
+            "star": 58,
+            "description": ""
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 54,
+            "description": "🖖油猴脚本 一个脚本搞定百度网盘下载"
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 104,
+            "description": "A collection of resources on modern C++"
+        },
+        {
+            "name": "TrackRay",
+            "url": "https://github.com/iSafeBlue/TrackRay",
+            "star": 33,
+            "description": "溯光 (TrackRay) 3 插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit）"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 22,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 21,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 11,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "Electron-elf",
+            "url": "https://github.com/fguby/Electron-elf",
+            "star": 15,
+            "description": "使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 13,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 10,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 7,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        }
+    ],
+    "go": [
+        {
+            "name": "trivy",
+            "url": "https://github.com/knqyf263/trivy",
+            "star": 121,
+            "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI"
+        },
+        {
+            "name": "polaris",
+            "url": "https://github.com/reactiveops/polaris",
+            "star": 90,
+            "description": "Validation of best practices in your Kubernetes clusters"
+        },
+        {
+            "name": "Voronoi_Image_Manipulation",
+            "url": "https://github.com/MauriceGit/Voronoi_Image_Manipulation",
+            "star": 84,
+            "description": "A system independent tool for real-time image manipulation with Voronoi and Delaunay data structures."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 57,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 54,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 49,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 43,
+            "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download🔴Lantern Latest Download https://github.com/getlantern/download🔴"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 32,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 25,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 27,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        }
+    ]
+}

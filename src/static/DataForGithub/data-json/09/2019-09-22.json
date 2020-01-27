@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-22",
+    "month": 9,
+    "day": 22,
+    "python": [
+        {
+            "name": "pwnagotchi",
+            "url": "https://github.com/evilsocket/pwnagotchi",
+            "star": 210,
+            "description": "(⌐■_■) - Deep Reinforcement Learning vs WiFI"
+        },
+        {
+            "name": "case-212",
+            "url": "https://github.com/developers-against-repressions/case-212",
+            "star": 237,
+            "description": "Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»"
+        },
+        {
+            "name": "mexican-government-report",
+            "url": "https://github.com/PhantomInsights/mexican-government-report",
+            "star": 75,
+            "description": "Text Mining on the 2019 Mexican Government Report, covering from extracting text from a PDF file to plotting the results."
+        },
+        {
+            "name": "iOS-DeviceSupport",
+            "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+            "star": 36,
+            "description": "This repository holds the device support files for the iOS, and I will update it regularly."
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 167,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "XX-Net",
+            "url": "https://github.com/XX-net/XX-Net",
+            "star": 31,
+            "description": "a web proxy tool"
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 25,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "bsuite",
+            "url": "https://github.com/deepmind/bsuite",
+            "star": 32,
+            "description": "bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent"
+        },
+        {
+            "name": "ScoutSuite",
+            "url": "https://github.com/nccgroup/ScoutSuite",
+            "star": 7,
+            "description": "Multi-Cloud Security Auditing Tool"
+        },
+        {
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models",
+            "star": 11,
+            "description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more"
+        }
+    ],
+    "java": [
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 376,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "druid",
+            "url": "https://github.com/alibaba/druid",
+            "star": 48,
+            "description": "阿里巴巴数据库事业部出品，为监控而生的数据库连接池。阿里云Data Lake Analytics(https://www.aliyun.com/product/datalakeanalytics )、DRDS、TDDL 连接池powered by Druid"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 110,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "star": 19,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 102,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://biedian.me"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 58,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "user-interface-samples",
+            "url": "https://github.com/android/user-interface-samples",
+            "star": 42,
+            "description": "Multiple samples showing the best practices in user-interface on Android."
+        },
+        {
+            "name": "camera-samples",
+            "url": "https://github.com/android/camera-samples",
+            "star": 8,
+            "description": "Multiple samples showing the best practices in camera APIs on Android."
+        },
+        {
+            "name": "grpc-java",
+            "url": "https://github.com/grpc/grpc-java",
+            "star": 7,
+            "description": "The Java gRPC implementation. HTTP/2 based RPC"
+        },
+        {
+            "name": "hive",
+            "url": "https://github.com/apache/hive",
+            "star": 7,
+            "description": "Apache Hive"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "cascadia-code",
+            "url": "https://github.com/microsoft/cascadia-code",
+            "star": 564,
+            "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 240,
+            "description": "✅Curated list of resources for college students"
+        },
+        {
+            "name": "Programming_Interview_Study_Plan",
+            "url": "https://github.com/llSourcell/Programming_Interview_Study_Plan",
+            "star": 120,
+            "description": "This is the Programming Interview Study Plan by Siraj Raval on Youtube"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 29,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 152,
+            "description": ""
+        },
+        {
+            "name": "chef-sugar",
+            "url": "https://github.com/sethvargo/chef-sugar",
+            "star": 84,
+            "description": ""
+        },
+        {
+            "name": "FreeNetwork",
+            "url": "https://github.com/xiaoming2028/FreeNetwork",
+            "star": 28,
+            "description": "翻墙-科学上网 史上最全教程"
+        },
+        {
+            "name": "Share-SSR-V2ray",
+            "url": "https://github.com/selierlin/Share-SSR-V2ray",
+            "star": 39,
+            "description": "🃏Free SS/SSR/V2ray 免费分享节点账号信息网站"
+        },
+        {
+            "name": "chromium",
+            "url": "https://github.com/jjqqkk/chromium",
+            "star": 26,
+            "description": "Chromium browser with SSL VPN. Use this browser to unblock websites."
+        },
+        {
+            "name": "ds-cheatsheets",
+            "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+            "star": 34,
+            "description": "List of Data Science Cheatsheets to rule the world"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "jsonbox",
+            "url": "https://github.com/vasanthv/jsonbox",
+            "star": 500,
+            "description": "A Free HTTP based JSON storage."
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 54,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 61,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "airframe-react",
+            "url": "https://github.com/0wczar/airframe-react",
+            "star": 20,
+            "description": "Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe"
+        },
+        {
+            "name": "yapi",
+            "url": "https://github.com/YMFE/yapi",
+            "star": 59,
+            "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台"
+        },
+        {
+            "name": "Profiles",
+            "url": "https://github.com/ConnersHua/Profiles",
+            "star": 31,
+            "description": "Clash、Kitsunebi、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件"
+        },
+        {
+            "name": "CyberChef",
+            "url": "https://github.com/gchq/CyberChef",
+            "star": 77,
+            "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 152,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "Iosevka",
+            "url": "https://github.com/be5invis/Iosevka",
+            "star": 42,
+            "description": "Slender typeface for code, from code."
+        },
+        {
+            "name": "aws-serverless-workshops",
+            "url": "https://github.com/aws-samples/aws-serverless-workshops",
+            "star": 12,
+            "description": "Code and walkthrough labs to set up serverless applications for Wild Rydes workshops"
+        }
+    ],
+    "html": [
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 20,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 28,
+            "description": "支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 9,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 26,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "qiubaiying.github.io",
+            "url": "https://github.com/qiubaiying/qiubaiying.github.io",
+            "star": 4,
+            "description": "BY Blog ->"
+        },
+        {
+            "name": "larabbs",
+            "url": "https://github.com/summerblue/larabbs",
+            "star": 1,
+            "description": "A forum project base on Laravel"
+        },
+        {
+            "name": "cs231n.github.io",
+            "url": "https://github.com/cs231n/cs231n.github.io",
+            "star": 4,
+            "description": "Public facing notes page"
+        },
+        {
+            "name": "hexo-theme-matery",
+            "url": "https://github.com/blinkfox/hexo-theme-matery",
+            "star": 9,
+            "description": "A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。"
+        },
+        {
+            "name": "manual",
+            "url": "https://github.com/v2ray/manual",
+            "star": 7,
+            "description": "Source code for https://www.v2ray.com/"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 8,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        }
+    ],
+    "go": [
+        {
+            "name": "nomad",
+            "url": "https://github.com/hashicorp/nomad",
+            "star": 9,
+            "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+        },
+        {
+            "name": "gnet",
+            "url": "https://github.com/panjf2000/gnet",
+            "star": 273,
+            "description": "⚡️A high-performance, lightweight, nonblocking and event-loop networking library written in pure Go.🔥"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 208,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 11,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 56,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "ultimate-go",
+            "url": "https://github.com/hoanhan101/ultimate-go",
+            "star": 46,
+            "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place"
+        },
+        {
+            "name": "terraform-provider-aws",
+            "url": "https://github.com/terraform-providers/terraform-provider-aws",
+            "star": 11,
+            "description": "Terraform AWS provider"
+        },
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 16,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "websocket",
+            "url": "https://github.com/gorilla/websocket",
+            "star": 14,
+            "description": "A fast, well-tested and widely used WebSocket implementation for Go."
+        },
+        {
+            "name": "kind",
+            "url": "https://github.com/kubernetes-sigs/kind",
+            "star": 23,
+            "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
+        }
+    ]
+}

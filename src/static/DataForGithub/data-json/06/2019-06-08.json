@@ -1,0 +1,377 @@
+{
+    "date": "2019-06-08",
+    "month": 6,
+    "day": 8,
+    "python": [
+        {
+            "name": "EverydayWechat",
+            "url": "https://github.com/sfyc23/EverydayWechat",
+            "star": 217,
+            "description": "每日自动给女朋友发微信暖心话。"
+        },
+        {
+            "name": "kedro",
+            "url": "https://github.com/quantumblacklabs/kedro",
+            "star": 141,
+            "description": "A Python library for building robust production-ready data and analytics pipelines"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 80,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 48,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "football",
+            "url": "https://github.com/google-research/football",
+            "star": 44,
+            "description": ""
+        },
+        {
+            "name": "EfficientNet-PyTorch",
+            "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+            "star": 39,
+            "description": "A PyTorch implementation of EfficientNet"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 28,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 37,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "invertible-resnet",
+            "url": "https://github.com/jhjacobsen/invertible-resnet",
+            "star": 40,
+            "description": "Official Code for Invertible Residual Networks"
+        },
+        {
+            "name": "train-departure-screen",
+            "url": "https://github.com/chrishutchinson/train-departure-screen",
+            "star": 39,
+            "description": "Python script to display replica real-time UK railway station departure screens for SSD13xx devices"
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 119,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 101,
+            "description": "📚Basic Knowledge of Technical Interview（技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计）"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 93,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 65,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 55,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 18,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 30,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 26,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 24,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 19,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 509,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "Enterprise-Registration-Data-of-Chinese-Mainland",
+            "url": "https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland",
+            "star": 424,
+            "description": "中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。"
+        },
+        {
+            "name": "GSYFlutterBook",
+            "url": "https://github.com/CarGuo/GSYFlutterBook",
+            "star": 234,
+            "description": "Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。"
+        },
+        {
+            "name": "awesome-casestudy",
+            "url": "https://github.com/luruke/awesome-casestudy",
+            "star": 144,
+            "description": "📕Curated list of technical case studies on WebGL and creative development"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 114,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 48,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "The-Documentation-Compendium",
+            "url": "https://github.com/kylelobo/The-Documentation-Compendium",
+            "star": 68,
+            "description": "📢Various README templates & tips on writing high-quality documentation that people want to read."
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 64,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 63,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+        },
+        {
+            "name": "awesome-uikit",
+            "url": "https://github.com/jaywcjlove/awesome-uikit",
+            "star": 53,
+            "description": "Collect JS Frameworks, Web components library and Admin Template."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "entropic",
+            "url": "https://github.com/entropic-dev/entropic",
+            "star": 138,
+            "description": "🦝📦a package registry for anything, but mostly javascript 🦝 🦝 🦝"
+        },
+        {
+            "name": "laravel",
+            "url": "https://github.com/pipe-dream/laravel",
+            "star": 137,
+            "description": "Create Laravel projects really fast"
+        },
+        {
+            "name": "medium-to-own-blog",
+            "url": "https://github.com/mathieudutour/medium-to-own-blog",
+            "star": 125,
+            "description": "Switch from Medium to your own blog in a few minutes"
+        },
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 95,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "zdog",
+            "url": "https://github.com/metafizzy/zdog",
+            "star": 96,
+            "description": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 73,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "osgameclones",
+            "url": "https://github.com/opengaming/osgameclones",
+            "star": 73,
+            "description": "Open Source Clones of Popular Games"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 68,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "storefront-ui",
+            "url": "https://github.com/DivanteLtd/storefront-ui",
+            "star": 69,
+            "description": "Customization-first Vue.js UI framework for eCommerce."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 65,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        }
+    ],
+    "html": [
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 21,
+            "description": ""
+        },
+        {
+            "name": "globe.gl",
+            "url": "https://github.com/vasturiano/globe.gl",
+            "star": 17,
+            "description": "UI component for Globe Data Visualization using ThreeJS/WebGL"
+        },
+        {
+            "name": "proposal-top-level-await",
+            "url": "https://github.com/tc39/proposal-top-level-await",
+            "star": 16,
+            "description": "top-level `await` proposal for ECMAScript (stage 3)"
+        },
+        {
+            "name": "html_wysiwyg",
+            "url": "https://github.com/secretGeek/html_wysiwyg",
+            "star": 16,
+            "description": "A truly naked, brutalist html quine"
+        },
+        {
+            "name": "Java_Study_Zhao",
+            "url": "https://github.com/dixonzhao/Java_Study_Zhao",
+            "star": 15,
+            "description": ""
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 12,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 10,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 8,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "unwalled.garden",
+            "url": "https://github.com/beakerbrowser/unwalled.garden",
+            "star": 13,
+            "description": "Schemas for a p2p social-media network built on the Dat Web."
+        }
+    ],
+    "go": [
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 98,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "CovenantSQL",
+            "url": "https://github.com/CovenantSQL/CovenantSQL",
+            "star": 65,
+            "description": "Byzantine-Fault Tolerant distributed relational database built on SQLite"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 43,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "gosec",
+            "url": "https://github.com/securego/gosec",
+            "star": 38,
+            "description": "Golang security checker"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 34,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "go-cloud",
+            "url": "https://github.com/google/go-cloud",
+            "star": 31,
+            "description": "The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go."
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 28,
+            "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download🔴Lantern Latest Download https://github.com/getlantern/download🔴"
+        },
+        {
+            "name": "compress",
+            "url": "https://github.com/klauspost/compress",
+            "star": 28,
+            "description": "Optimized compression packages"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 26,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "sshcode",
+            "url": "https://github.com/cdr/sshcode",
+            "star": 25,
+            "description": "Run VS Code on any server over SSH."
+        }
+    ]
+}

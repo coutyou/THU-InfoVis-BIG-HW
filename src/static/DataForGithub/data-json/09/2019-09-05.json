@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-05",
+    "month": 9,
+    "day": 5,
+    "python": [
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 838,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 506,
+            "description": "Deepfakes Software For All"
+        },
+        {
+            "name": "mlcourse.ai",
+            "url": "https://github.com/Yorko/mlcourse.ai",
+            "star": 459,
+            "description": "Open Machine Learning Course"
+        },
+        {
+            "name": "pwn_jenkins",
+            "url": "https://github.com/gquere/pwn_jenkins",
+            "star": 57,
+            "description": "Notes about attacking Jenkins servers"
+        },
+        {
+            "name": "mne-python",
+            "url": "https://github.com/mne-tools/mne-python",
+            "star": 9,
+            "description": "MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 91,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "qiling",
+            "url": "https://github.com/qilingframework/qiling",
+            "star": 4,
+            "description": "Qiling Advanced Binary Emulation framework"
+        },
+        {
+            "name": "ckiptagger",
+            "url": "https://github.com/ckiplab/ckiptagger",
+            "star": 323,
+            "description": "CKIP Neural Chinese Word Segmentation, POS Tagging, and NER"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/public-apis/public-apis",
+            "star": 68,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "mlfinlab",
+            "url": "https://github.com/hudson-and-thames/mlfinlab",
+            "star": 58,
+            "description": "Package based on the work of Dr Marcos Lopez de Prado regarding his research with respect to Advances in Financial Machine Learning"
+        }
+    ],
+    "java": [
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 136,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 262,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 75,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "hope-boot",
+            "url": "https://github.com/hope-for/hope-boot",
+            "star": 49,
+            "description": "🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 65,
+            "description": "一款基于代码生成器的JAVA快速开发平台！采用最新技术，前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 26,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "canal",
+            "url": "https://github.com/alibaba/canal",
+            "star": 38,
+            "description": "阿里巴巴 MySQL binlog 增量订阅&消费组件"
+        },
+        {
+            "name": "flink-learning",
+            "url": "https://github.com/zhisheng17/flink-learning",
+            "star": 26,
+            "description": "flink learning blog. http://www.54tianzhisheng.cn"
+        },
+        {
+            "name": "hive",
+            "url": "https://github.com/apache/hive",
+            "star": 2,
+            "description": "Apache Hive"
+        },
+        {
+            "name": "SpringCloudLearning",
+            "url": "https://github.com/forezp/SpringCloudLearning",
+            "star": 40,
+            "description": "《史上最简单的Spring Cloud教程源码》"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "OnJava8",
+            "url": "https://github.com/LingCoder/OnJava8",
+            "star": 34,
+            "description": "《On Java 8》中文版，又名《Java编程思想》 第5版"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 120,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 128,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "javascript-testing-best-practices",
+            "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+            "star": 151,
+            "description": "📗🌐🚢Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)"
+        },
+        {
+            "name": "Data-Science-Competitions",
+            "url": "https://github.com/interviewBubble/Data-Science-Competitions",
+            "star": 52,
+            "description": "Goal of this repo is to provide solutions of all Data Science Competitions(Kaggle, Data Hack, Machine Hack, Driven Data etc...)."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 89,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "intuitive-advanced-cryptography",
+            "url": "https://github.com/cryptosubtlety/intuitive-advanced-cryptography",
+            "star": 9,
+            "description": "Intuitive Advanced Cryptography"
+        },
+        {
+            "name": "cheatsheets-ai",
+            "url": "https://github.com/kailashahirwar/cheatsheets-ai",
+            "star": 13,
+            "description": "Essential Cheat Sheets for deep learning and machine learning researchers"
+        },
+        {
+            "name": "git-flight-rules",
+            "url": "https://github.com/k88hudson/git-flight-rules",
+            "star": 41,
+            "description": "Flight rules for git"
+        },
+        {
+            "name": "1",
+            "url": "https://github.com/1jie/1",
+            "star": 8,
+            "description": "这里是直播平台永久回家页，有最新app下载地址。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leonsans",
+            "url": "https://github.com/cmiscm/leonsans",
+            "star": 867,
+            "description": "Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim."
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 152,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 135,
+            "description": "💯Materials to help you rock your next coding interview"
+        },
+        {
+            "name": "flow-typed",
+            "url": "https://github.com/flow-typed/flow-typed",
+            "star": 19,
+            "description": "A central repository for Flow library definitions"
+        },
+        {
+            "name": "taro",
+            "url": "https://github.com/NervJS/taro",
+            "star": 115,
+            "description": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com/"
+        },
+        {
+            "name": "uni-app",
+            "url": "https://github.com/dcloudio/uni-app",
+            "star": 56,
+            "description": "uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架"
+        },
+        {
+            "name": "umi",
+            "url": "https://github.com/umijs/umi",
+            "star": 18,
+            "description": "🌋Pluggable enterprise-level react application framework."
+        },
+        {
+            "name": "chart.xkcd",
+            "url": "https://github.com/timqian/chart.xkcd",
+            "star": 80,
+            "description": "xkcd styled chart lib"
+        },
+        {
+            "name": "Web",
+            "url": "https://github.com/qianguyihao/Web",
+            "star": 196,
+            "description": "前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新..."
+        },
+        {
+            "name": "react-testing-library",
+            "url": "https://github.com/testing-library/react-testing-library",
+            "star": 22,
+            "description": "🐐Simple and complete React DOM testing utilities that encourage good testing practices."
+        }
+    ],
+    "html": [
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 0,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 12,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "postmark-templates",
+            "url": "https://github.com/wildbit/postmark-templates",
+            "star": 2,
+            "description": "Rock-solid email templates for applications."
+        },
+        {
+            "name": "catapult",
+            "url": "https://github.com/catapult-project/catapult",
+            "star": 0,
+            "description": "Catapult"
+        },
+        {
+            "name": "dragon-book-exercise-answers",
+            "url": "https://github.com/fool2fish/dragon-book-exercise-answers",
+            "star": 8,
+            "description": "Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。"
+        },
+        {
+            "name": "dropcss",
+            "url": "https://github.com/leeoniya/dropcss",
+            "star": 14,
+            "description": "An exceptionally fast, thorough and tiny unused-CSS cleaner"
+        },
+        {
+            "name": "learnyounode",
+            "url": "https://github.com/workshopper/learnyounode",
+            "star": 2,
+            "description": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops."
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 4,
+            "description": ""
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 20,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "fuzzdb",
+            "url": "https://github.com/tennc/fuzzdb",
+            "star": 8,
+            "description": "一个fuzzdb扩展库"
+        }
+    ],
+    "go": [
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 76,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "golangci-lint",
+            "url": "https://github.com/golangci/golangci-lint",
+            "star": 11,
+            "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config."
+        },
+        {
+            "name": "golang-lru",
+            "url": "https://github.com/hashicorp/golang-lru",
+            "star": 24,
+            "description": "Golang LRU cache"
+        },
+        {
+            "name": "sqlx",
+            "url": "https://github.com/jmoiron/sqlx",
+            "star": 8,
+            "description": "general purpose extensions to golang's database/sql"
+        },
+        {
+            "name": "mysql",
+            "url": "https://github.com/go-sql-driver/mysql",
+            "star": 12,
+            "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 80,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "bank-vaults",
+            "url": "https://github.com/banzaicloud/bank-vaults",
+            "star": 4,
+            "description": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods."
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 12,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "goproxy.cn",
+            "url": "https://github.com/goproxy/goproxy.cn",
+            "star": 186,
+            "description": "The most trusted Go module proxy in China."
+        },
+        {
+            "name": "syncthing",
+            "url": "https://github.com/syncthing/syncthing",
+            "star": 35,
+            "description": "Open Source Continuous File Synchronization"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-07",
+    "month": 4,
+    "day": 7,
+    "python": [
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 67,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 56,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 51,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 41,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 45,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 42,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "AmpliGraph",
+            "url": "https://github.com/Accenture/AmpliGraph",
+            "star": 46,
+            "description": "Python library for Representation Learning on Knowledge Graphs"
+        },
+        {
+            "name": "mathematics_dataset",
+            "url": "https://github.com/deepmind/mathematics_dataset",
+            "star": 43,
+            "description": ""
+        },
+        {
+            "name": "CDCS",
+            "url": "https://github.com/geekinglcq/CDCS",
+            "star": 39,
+            "description": "Chinese Data Competitions' Solutions"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 32,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        }
+    ],
+    "java": [
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 177,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 127,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 57,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 39,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "SpringBlade",
+            "url": "https://github.com/chillzhuang/SpringBlade",
+            "star": 26,
+            "description": "SpringBlade 是由一个商业级项目升级优化而来的SpringCloud微服务架构，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2 、Spring Cloud Finchley 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS微服务系统平台。 QQ群：477853168"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 19,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 23,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 21,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 15,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "seata",
+            "url": "https://github.com/seata/seata",
+            "star": 22,
+            "description": "🔥Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "pumpkin-book",
+            "url": "https://github.com/datawhalechina/pumpkin-book",
+            "star": 283,
+            "description": "《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book"
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 209,
+            "description": "955 不加班的公司名单"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 166,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 137,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "AgileLite",
+            "url": "https://github.com/davebs/AgileLite",
+            "star": 141,
+            "description": "Agile software development without all the burnout."
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 102,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "996ICU",
+            "url": "https://github.com/995icu/996ICU",
+            "star": 90,
+            "description": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 71,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "CVPR2019-Code",
+            "url": "https://github.com/amusi/CVPR2019-Code",
+            "star": 67,
+            "description": "CVPR 2019 Paper with Code"
+        },
+        {
+            "name": "996.Leave",
+            "url": "https://github.com/623637646/996.Leave",
+            "star": 68,
+            "description": "逃离996"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 543,
+            "description": "The best design tools for everything👉"
+        },
+        {
+            "name": "You-Dont-Need-jQuery",
+            "url": "https://github.com/nefe/You-Dont-Need-jQuery",
+            "star": 161,
+            "description": "Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript."
+        },
+        {
+            "name": "solid",
+            "url": "https://github.com/ryansolid/solid",
+            "star": 126,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 74,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "dsa.js",
+            "url": "https://github.com/amejiarosario/dsa.js",
+            "star": 69,
+            "description": "Data Structures and Algorithms using JavaScript"
+        },
+        {
+            "name": "organigram",
+            "url": "https://github.com/shoumma/organigram",
+            "star": 69,
+            "description": "A JSON based tree structure with drag and drop functionally to re-arrange the tree. Show-cases some useful tree operations for deeply nested JSON data and webpack configuration for reducing bundle sizes. A sample JSON data for testing the functionality can be found in the repo/readme."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 61,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 40,
+            "description": "北京大学课程资料整理"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 44,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "is-online",
+            "url": "https://github.com/sindresorhus/is-online",
+            "star": 48,
+            "description": "Check if the internet connection is up"
+        }
+    ],
+    "html": [
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 84,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "learn-awesome",
+            "url": "https://github.com/learn-awesome/learn-awesome",
+            "star": 36,
+            "description": "Curated lists of awesome learning resources on various topics across formats."
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 19,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 8,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "mlh-hackathon-nodejs-starter",
+            "url": "https://github.com/MLH/mlh-hackathon-nodejs-starter",
+            "star": 13,
+            "description": "Hackathon starter project for Node.js applications"
+        },
+        {
+            "name": "Unifiedtransform",
+            "url": "https://github.com/changeweb/Unifiedtransform",
+            "star": 10,
+            "description": "A school management Software"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 12,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "heroku-cra-node",
+            "url": "https://github.com/mars/heroku-cra-node",
+            "star": 11,
+            "description": "⚛️How to use create-react-app with a custom Node server on Heroku"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 10,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "mlh-hackathon-flask-starter",
+            "url": "https://github.com/MLH/mlh-hackathon-flask-starter",
+            "star": 11,
+            "description": "Hackathon starter project for Flask applications"
+        }
+    ],
+    "go": [
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 167,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "popeye",
+            "url": "https://github.com/derailed/popeye",
+            "star": 162,
+            "description": "🧭 A Kubernetes cluster resource sanitizer"
+        },
+        {
+            "name": "algernon",
+            "url": "https://github.com/xyproto/algernon",
+            "star": 115,
+            "description": "🎩Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support"
+        },
+        {
+            "name": "goweight",
+            "url": "https://github.com/jondot/goweight",
+            "star": 112,
+            "description": "A tool to analyze and troubleshoot a Go binary size."
+        },
+        {
+            "name": "beam",
+            "url": "https://github.com/eBay/beam",
+            "star": 66,
+            "description": "A distributed knowledge graph store"
+        },
+        {
+            "name": "syncthing",
+            "url": "https://github.com/syncthing/syncthing",
+            "star": 52,
+            "description": "Open Source Continuous File Synchronization"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 41,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "footloose",
+            "url": "https://github.com/weaveworks/footloose",
+            "star": 40,
+            "description": "Container Machines - Containers that look like Virtual Machines"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 37,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "konfig",
+            "url": "https://github.com/kelseyhightower/konfig",
+            "star": 37,
+            "description": ""
+        }
+    ]
+}

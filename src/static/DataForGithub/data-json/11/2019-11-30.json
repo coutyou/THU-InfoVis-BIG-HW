@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-30",
+    "month": 11,
+    "day": 30,
+    "python": [
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 623,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 89,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 93,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "odoo",
+            "url": "https://github.com/odoo/odoo",
+            "star": 51,
+            "description": "Odoo. Open Source Apps To Grow Your Business."
+        },
+        {
+            "name": "kedro",
+            "url": "https://github.com/quantumblacklabs/kedro",
+            "star": 2,
+            "description": "A Python library that implements software engineering best-practice for data and ML pipelines."
+        },
+        {
+            "name": "Corsy",
+            "url": "https://github.com/s0md3v/Corsy",
+            "star": 43,
+            "description": "CORS Misconfiguration Scanner"
+        },
+        {
+            "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "star": 17,
+            "description": "💎1MB lightweight face detection model (1MB轻量级人脸检测模型)"
+        },
+        {
+            "name": "dimensionality_reduction_alo_codes",
+            "url": "https://github.com/heucoder/dimensionality_reduction_alo_codes",
+            "star": 86,
+            "description": "PCA、LDA、MDS、LLE、TSNE等降维算法的python实现"
+        },
+        {
+            "name": "khd2019",
+            "url": "https://github.com/khd2019/khd2019",
+            "star": 4,
+            "description": ""
+        },
+        {
+            "name": "cpython",
+            "url": "https://github.com/python/cpython",
+            "star": 31,
+            "description": "The Python programming language"
+        }
+    ],
+    "java": [
+        {
+            "name": "AndroidUtilCode",
+            "url": "https://github.com/Blankj/AndroidUtilCode",
+            "star": 66,
+            "description": "🔥Android developers should collect the following utils(updating)."
+        },
+        {
+            "name": "aws-athena-query-federation",
+            "url": "https://github.com/awslabs/aws-athena-query-federation",
+            "star": 8,
+            "description": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code."
+        },
+        {
+            "name": "mockito",
+            "url": "https://github.com/mockito/mockito",
+            "star": 14,
+            "description": "Most popular Mocking framework for unit tests written in Java"
+        },
+        {
+            "name": "SpringCloud",
+            "url": "https://github.com/zhoutaoo/SpringCloud",
+            "star": 38,
+            "description": "基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中"
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 39,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 34,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "hsweb-framework",
+            "url": "https://github.com/hs-web/hsweb-framework",
+            "star": 3,
+            "description": "hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:便捷的通用增删改查,强大的权限管理,动态多数据源,动态表单,在线数据库维护等. 基于 spring-boot,mybaits."
+        },
+        {
+            "name": "quickstart-android",
+            "url": "https://github.com/firebase/quickstart-android",
+            "star": 7,
+            "description": "Firebase Quickstart Samples for Android"
+        },
+        {
+            "name": "paascloud-master",
+            "url": "https://github.com/paascloud/paascloud-master",
+            "star": 8,
+            "description": "spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。"
+        },
+        {
+            "name": "generator",
+            "url": "https://github.com/mybatis/generator",
+            "star": 3,
+            "description": "A code generator for MyBatis."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-pentest",
+            "url": "https://github.com/enaqx/awesome-pentest",
+            "star": 137,
+            "description": "A collection of awesome penetration testing resources, tools and other shiny things"
+        },
+        {
+            "name": "google_dork_list",
+            "url": "https://github.com/BullsEye0/google_dork_list",
+            "star": 37,
+            "description": "Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of around 10,000 Dorks. Author: Jolanda de Koff"
+        },
+        {
+            "name": "wildcat-vip-account",
+            "url": "https://github.com/wuxingsanren/wildcat-vip-account",
+            "star": 33,
+            "description": "野猫VIP - 每天分享最新的百度网盘SVIP、迅雷超级会员、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、苹果ID、天眼查VIP等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、全网视频VIP解析、全网音乐MP3免费听及下载 ，欢迎推荐分享给好友！"
+        },
+        {
+            "name": "smartdns",
+            "url": "https://github.com/pymumu/smartdns",
+            "star": 12,
+            "description": "smart dns server"
+        },
+        {
+            "name": "InfoSec-Black-Friday",
+            "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+            "star": 29,
+            "description": "All the deals for InfoSec related software/tools this Black Friday"
+        },
+        {
+            "name": "awesome-cpp",
+            "url": "https://github.com/fffaraz/awesome-cpp",
+            "star": 33,
+            "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+        },
+        {
+            "name": "IntelliJ-IDEA-Tutorial",
+            "url": "https://github.com/judasn/IntelliJ-IDEA-Tutorial",
+            "star": 22,
+            "description": "IntelliJ IDEA 简体中文专题教程"
+        },
+        {
+            "name": "notable",
+            "url": "https://github.com/notable/notable",
+            "star": 36,
+            "description": "The Markdown-based note-taking app that doesn't suck."
+        },
+        {
+            "name": "awesome-vue",
+            "url": "https://github.com/vuejs/awesome-vue",
+            "star": 31,
+            "description": "🎉A curated list of awesome things related to Vue.js"
+        },
+        {
+            "name": "API-Security-Checklist",
+            "url": "https://github.com/shieldfy/API-Security-Checklist",
+            "star": 4,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "flowy",
+            "url": "https://github.com/alyssaxuu/flowy",
+            "star": 459,
+            "description": "The minimal javascript library to create flowcharts✨"
+        },
+        {
+            "name": "ARC",
+            "url": "https://github.com/fchollet/ARC",
+            "star": 35,
+            "description": "The Abstraction and Reasoning Corpus"
+        },
+        {
+            "name": "blocks",
+            "url": "https://github.com/blocks/blocks",
+            "star": 207,
+            "description": "A JSX-based page builder for creating beautiful websites without writing code"
+        },
+        {
+            "name": "roughViz",
+            "url": "https://github.com/jwilber/roughViz",
+            "star": 1565,
+            "description": "Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser."
+        },
+        {
+            "name": "Advanced-React",
+            "url": "https://github.com/wesbos/Advanced-React",
+            "star": 51,
+            "description": "Starter Files and Solutions for Full Stack Advanced React and GraphQL"
+        },
+        {
+            "name": "opensource.guide",
+            "url": "https://github.com/github/opensource.guide",
+            "star": 2,
+            "description": "📚Community guides for open source creators"
+        },
+        {
+            "name": "gutenberg",
+            "url": "https://github.com/WordPress/gutenberg",
+            "star": 0,
+            "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository."
+        },
+        {
+            "name": "intl-tel-input",
+            "url": "https://github.com/jackocnr/intl-tel-input",
+            "star": 3,
+            "description": "A JavaScript plugin for entering and validating international telephone numbers"
+        },
+        {
+            "name": "incubator-superset",
+            "url": "https://github.com/apache/incubator-superset",
+            "star": 15,
+            "description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application"
+        },
+        {
+            "name": "layuimini",
+            "url": "https://github.com/zhongshaofa/layuimini",
+            "star": 14,
+            "description": "后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。"
+        }
+    ],
+    "html": [
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 5,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 4,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "Crawler_Illegal_Cases_In_China",
+            "url": "https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China",
+            "star": 15,
+            "description": "Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 8,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 20,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "machine-learning-systems-design",
+            "url": "https://github.com/chiphuyen/machine-learning-systems-design",
+            "star": 238,
+            "description": "A booklet on machine learning systems design with exercises"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 15,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 19,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "ru.javascript.info",
+            "url": "https://github.com/javascript-tutorial/ru.javascript.info",
+            "star": 3,
+            "description": "Современный учебник JavaScript"
+        },
+        {
+            "name": "ecma262",
+            "url": "https://github.com/tc39/ecma262",
+            "star": 10,
+            "description": "Status, process, and documents for ECMA-262"
+        }
+    ],
+    "go": [
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 89,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/json-iterator/go",
+            "star": 51,
+            "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\""
+        },
+        {
+            "name": "validator",
+            "url": "https://github.com/go-playground/validator",
+            "star": 13,
+            "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+        },
+        {
+            "name": "containerd",
+            "url": "https://github.com/containerd/containerd",
+            "star": 4,
+            "description": "An open and reliable container runtime"
+        },
+        {
+            "name": "traefik",
+            "url": "https://github.com/containous/traefik",
+            "star": 39,
+            "description": "The Cloud Native Edge Router"
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 27,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 134,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "dep",
+            "url": "https://github.com/golang/dep",
+            "star": 14,
+            "description": "Go dependency management tool"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 10,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "elastic",
+            "url": "https://github.com/olivere/elastic",
+            "star": 5,
+            "description": "Elasticsearch client for Go."
+        }
+    ]
+}

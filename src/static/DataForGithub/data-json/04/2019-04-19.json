@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-19",
+    "month": 4,
+    "day": 19,
+    "python": [
+        {
+            "name": "spacy-course",
+            "url": "https://github.com/ines/spacy-course",
+            "star": 447,
+            "description": "👩‍🏫Advanced NLP with spaCy: A free online course"
+        },
+        {
+            "name": "CenterNet",
+            "url": "https://github.com/Duankaiwen/CenterNet",
+            "star": 269,
+            "description": "Codes for our paper \"CenterNet: Keypoint Triplets for Object Detection\" ."
+        },
+        {
+            "name": "CenterNet",
+            "url": "https://github.com/xingyizhou/CenterNet",
+            "star": 247,
+            "description": "Object detection, 3D detection, and pose estimation using center point detection:"
+        },
+        {
+            "name": "pyodide",
+            "url": "https://github.com/iodide-project/pyodide",
+            "star": 225,
+            "description": "The Python scientific stack, compiled to WebAssembly"
+        },
+        {
+            "name": "morph-net",
+            "url": "https://github.com/google-research/morph-net",
+            "star": 191,
+            "description": "Fast & Simple Resource-Constrained Learning of Deep Network Structure"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 152,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "meshroom",
+            "url": "https://github.com/alicevision/meshroom",
+            "star": 139,
+            "description": "3D Reconstruction Software"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 130,
+            "description": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "Text_Classification",
+            "url": "https://github.com/kk7nc/Text_Classification",
+            "star": 100,
+            "description": "Text Classification Algorithms: A Survey"
+        },
+        {
+            "name": "tfc",
+            "url": "https://github.com/maqp/tfc",
+            "star": 88,
+            "description": "Tinfoil Chat - Onion-routed, endpoint secure messaging system"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 196,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 182,
+            "description": "✍ Halo 可能是最好的 Java 博客系统"
+        },
+        {
+            "name": "litemall",
+            "url": "https://github.com/linlinjava/litemall",
+            "star": 166,
+            "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端"
+        },
+        {
+            "name": "hutool",
+            "url": "https://github.com/looly/hutool",
+            "star": 153,
+            "description": "A set of tools that keep Java sweet."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 119,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "Spring-Boot-In-Action",
+            "url": "https://github.com/hansonwang99/Spring-Boot-In-Action",
+            "star": 105,
+            "description": "Spring Boot 系列实战合集"
+        },
+        {
+            "name": "incubator-skywalking",
+            "url": "https://github.com/apache/incubator-skywalking",
+            "star": 93,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "token-core-android",
+            "url": "https://github.com/coinslabs/token-core-android",
+            "star": 87,
+            "description": "a blockchain private key management library on android"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 65,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 63,
+            "description": "Jeecg-boot 是一款基于代码生成器的智能开发平台！采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。提供强大的代码生成器， 前端页面代码和后端代码一键生成，不需要写任何代码，保持jeecg一贯的强大，绝对是全栈开发者福音！！ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同时，提高开发效率，追求更高的能力，No代码概念，一系列智能化在线开发。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "golang-developer-roadmap",
+            "url": "https://github.com/Alikhll/golang-developer-roadmap",
+            "star": 493,
+            "description": "Roadmap to becoming a Go developer in 2019"
+        },
+        {
+            "name": "git-tips",
+            "url": "https://github.com/521xueweihan/git-tips",
+            "star": 459,
+            "description": "Git的奇技淫巧"
+        },
+        {
+            "name": "SJTU-Courses",
+            "url": "https://github.com/CoolPhilChen/SJTU-Courses",
+            "star": 197,
+            "description": "上海交通大学课程资料分享"
+        },
+        {
+            "name": "Weekly-FE-Interview",
+            "url": "https://github.com/airuikun/Weekly-FE-Interview",
+            "star": 175,
+            "description": "每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。"
+        },
+        {
+            "name": "awesome-roadmaps",
+            "url": "https://github.com/orsanawwad/awesome-roadmaps",
+            "star": 166,
+            "description": "View roadmaps about developer roles to help you learn"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 152,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 145,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "xg2xg",
+            "url": "https://github.com/jhuangtw-dev/xg2xg",
+            "star": 134,
+            "description": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+        },
+        {
+            "name": "Awesome-Mobile-Machine-Learning",
+            "url": "https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning",
+            "star": 124,
+            "description": "A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices."
+        },
+        {
+            "name": "BestNote",
+            "url": "https://github.com/pengMaster/BestNote",
+            "star": 111,
+            "description": "👊Java Android 近几年最全面的技术点以及面试题 供自己学习使用"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "React95",
+            "url": "https://github.com/arturbien/React95",
+            "star": 794,
+            "description": "🌈🕹Refreshed Windows 95 style UI components for your React app"
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 433,
+            "description": "贵校课程资料民间整理"
+        },
+        {
+            "name": "squeezer",
+            "url": "https://github.com/SqueezerIO/squeezer",
+            "star": 465,
+            "description": "Squeezer Framework - Build serverless dApps"
+        },
+        {
+            "name": "glicky",
+            "url": "https://github.com/alex-saunders/glicky",
+            "star": 211,
+            "description": "🐭An in-browser task runner for modern web development"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 145,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "AreaCity-JsSpider-StatsGov",
+            "url": "https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov",
+            "star": 127,
+            "description": "国家统计局中的省市区镇行政区划数据带拼音标注，高德地图的坐标和行政区域边界范围，在浏览器里面运行js代码采集的2019年发布的最新数据，含采集源码，提供csv格式数据，支持csv转成省市区多级联动js代码"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 99,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "js-cloudimage-360-view",
+            "url": "https://github.com/scaleflex/js-cloudimage-360-view",
+            "star": 95,
+            "description": "Engage your customers with a stunning 360 view of your products"
+        },
+        {
+            "name": "nicedoc.io",
+            "url": "https://github.com/IBM/nicedoc.io",
+            "star": 88,
+            "description": "pretty README as service."
+        },
+        {
+            "name": "fluent",
+            "url": "https://github.com/projectfluent/fluent",
+            "star": 77,
+            "description": "Fluent — planning, spec and documentation"
+        }
+    ],
+    "html": [
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 283,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 164,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 93,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 37,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 36,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "CLRS",
+            "url": "https://github.com/walkccc/CLRS",
+            "star": 33,
+            "description": "📚Solutions to Introduction to Algorithms Third Edition"
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/valentinxxx/nginxconfig.io",
+            "star": 32,
+            "description": "⚙️NGiИX config generator on steroids💉"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 29,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "OUCML",
+            "url": "https://github.com/OUCMachineLearning/OUCML",
+            "star": 28,
+            "description": ""
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 22,
+            "description": "Style guides for Google-originated open-source projects"
+        }
+    ],
+    "go": [
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 139,
+            "description": "Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 66,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 60,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "owlcache",
+            "url": "https://github.com/xssed/owlcache",
+            "star": 57,
+            "description": "🦉owlcache is a lightweight, high-performance, non-centralized, distributed Key/Value memory-cached data sharing application written by Go . keyword : golang cache、go cache、golang nosql"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 54,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "jingo",
+            "url": "https://github.com/bet365/jingo",
+            "star": 53,
+            "description": "This package provides the ability to encode golang structs to a buffer as JSON very quickly."
+        },
+        {
+            "name": "space-cloud",
+            "url": "https://github.com/spaceuptech/space-cloud",
+            "star": 52,
+            "description": "Space Cloud is an open source, web server that provides instant Realtime APIs on any database of your choice. Build highly scalable apps with the agility of a prototype!"
+        },
+        {
+            "name": "revive",
+            "url": "https://github.com/mgechev/revive",
+            "star": 46,
+            "description": "🔥~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 40,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 40,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        }
+    ]
+}

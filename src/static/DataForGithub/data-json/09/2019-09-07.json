@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-07",
+    "month": 9,
+    "day": 7,
+    "python": [
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 643,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "neural-structured-learning",
+            "url": "https://github.com/tensorflow/neural-structured-learning",
+            "star": 77,
+            "description": ""
+        },
+        {
+            "name": "ckiptagger",
+            "url": "https://github.com/ckiplab/ckiptagger",
+            "star": 164,
+            "description": "CKIP Neural Chinese Word Segmentation, POS Tagging, and NER"
+        },
+        {
+            "name": "mlcourse.ai",
+            "url": "https://github.com/Yorko/mlcourse.ai",
+            "star": 173,
+            "description": "Open Machine Learning Course"
+        },
+        {
+            "name": "py12306",
+            "url": "https://github.com/pjialin/py12306",
+            "star": 13,
+            "description": "🚂12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理"
+        },
+        {
+            "name": "HungaBunga",
+            "url": "https://github.com/ypeleg/HungaBunga",
+            "star": 14,
+            "description": "HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!"
+        },
+        {
+            "name": "spinningup",
+            "url": "https://github.com/openai/spinningup",
+            "star": 7,
+            "description": "An educational resource to help anyone learn deep reinforcement learning."
+        },
+        {
+            "name": "keras",
+            "url": "https://github.com/keras-team/keras",
+            "star": 31,
+            "description": "Deep Learning for humans"
+        },
+        {
+            "name": "sagemaker-python-sdk",
+            "url": "https://github.com/aws/sagemaker-python-sdk",
+            "star": 1,
+            "description": "A library for training and deploying machine learning models on Amazon SageMaker"
+        },
+        {
+            "name": "ceviche",
+            "url": "https://github.com/twhughes/ceviche",
+            "star": 13,
+            "description": "🦐Electromagnetic Simulation + Automatic Differentiation"
+        }
+    ],
+    "java": [
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 158,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 252,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 55,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "micrometer",
+            "url": "https://github.com/micrometer-metrics/micrometer",
+            "star": 1,
+            "description": "An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 27,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 46,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 61,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "paascloud-master",
+            "url": "https://github.com/paascloud/paascloud-master",
+            "star": 24,
+            "description": "spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。"
+        },
+        {
+            "name": "react-native-push-notification",
+            "url": "https://github.com/zo0r/react-native-push-notification",
+            "star": 2,
+            "description": "React Native Local and Remote Notifications"
+        },
+        {
+            "name": "hive",
+            "url": "https://github.com/apache/hive",
+            "star": 4,
+            "description": "Apache Hive"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "roberta_zh",
+            "url": "https://github.com/brightmart/roberta_zh",
+            "star": 58,
+            "description": "RoBERTa for Chinese"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 136,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "CKAD-exercises",
+            "url": "https://github.com/dgkanatsios/CKAD-exercises",
+            "star": 3,
+            "description": "A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation"
+        },
+        {
+            "name": "android",
+            "url": "https://github.com/LineageOS/android",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "Nodejs-Developer-Roadmap",
+            "url": "https://github.com/aliyr/Nodejs-Developer-Roadmap",
+            "star": 52,
+            "description": "A Developer Roadmap to becoming a Node.js developer in 2019"
+        },
+        {
+            "name": "howto-make-more-money",
+            "url": "https://github.com/easychen/howto-make-more-money",
+            "star": 7,
+            "description": "程序员如何优雅的挣零花钱"
+        },
+        {
+            "name": "DevMoneySharing",
+            "url": "https://github.com/loonggg/DevMoneySharing",
+            "star": 32,
+            "description": "独立开发者赚钱经验分享"
+        },
+        {
+            "name": "godot-proposals",
+            "url": "https://github.com/godotengine/godot-proposals",
+            "star": 7,
+            "description": "Godot Improvement Proposals (GIPs)"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 2,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r…"
+        },
+        {
+            "name": "php-rfcs",
+            "url": "https://github.com/php/php-rfcs",
+            "star": 14,
+            "description": "Experimental repo for GitHub based RFC workflow. For now, please don't submit PRs."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "vue-form-making",
+            "url": "https://github.com/GavinZhuLei/vue-form-making",
+            "star": 23,
+            "description": "基于Vue的表单设计器，让表单开发简单而高效。"
+        },
+        {
+            "name": "flow-typed",
+            "url": "https://github.com/flow-typed/flow-typed",
+            "star": 28,
+            "description": "A central repository for Flow library definitions"
+        },
+        {
+            "name": "chakra-ui",
+            "url": "https://github.com/chakra-ui/chakra-ui",
+            "star": 470,
+            "description": "⚡️Simple, Modular & Accessible UI Components for your React Applications"
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 203,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "Ackee",
+            "url": "https://github.com/electerious/Ackee",
+            "star": 198,
+            "description": "Self-hosted, Node.js based analytics tool for those who care about privacy."
+        },
+        {
+            "name": "strapi",
+            "url": "https://github.com/strapi/strapi",
+            "star": 29,
+            "description": "🚀Open source Node.js Headless CMS to easily build customisable APIs"
+        },
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/stephentian/33-js-concepts",
+            "star": 26,
+            "description": "📜每个 JavaScript 工程师都应懂的33个概念 @leonardomso"
+        },
+        {
+            "name": "axios",
+            "url": "https://github.com/axios/axios",
+            "star": 45,
+            "description": "Promise based HTTP client for the browser and node.js"
+        },
+        {
+            "name": "d3",
+            "url": "https://github.com/d3/d3",
+            "star": 31,
+            "description": "Bring data to life with SVG, Canvas and HTML.📊📈🎉"
+        },
+        {
+            "name": "Thief-Book",
+            "url": "https://github.com/cteamx/Thief-Book",
+            "star": 27,
+            "description": "一款可以在任务栏、桌面、TouchBar上进行摸鱼的最强的跨平台摸鱼神器，支持小说、股票、按键翻页、鼠标翻页、自动翻页让你体验不同的工作 996，上班族必备神器"
+        }
+    ],
+    "html": [
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 39,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 3,
+            "description": "The Ethereum Improvement Proposal repository"
+        },
+        {
+            "name": "18337",
+            "url": "https://github.com/mitmath/18337",
+            "star": 6,
+            "description": "18.337 - Parallel Computing and Scientific Machine Learning"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 3,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 7,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "datasciencecoursera",
+            "url": "https://github.com/mGalarnyk/datasciencecoursera",
+            "star": 11,
+            "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions."
+        },
+        {
+            "name": "MatBlazor",
+            "url": "https://github.com/SamProf/MatBlazor",
+            "star": 4,
+            "description": "Material Design components for Blazor and Razor Components"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 21,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "swppfall2019",
+            "url": "https://github.com/swsnu/swppfall2019",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 8,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        }
+    ],
+    "go": [
+        {
+            "name": "goproxy.cn",
+            "url": "https://github.com/goproxy/goproxy.cn",
+            "star": 80,
+            "description": "The most trusted Go module proxy in China."
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 10,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "maesh",
+            "url": "https://github.com/containous/maesh",
+            "star": 82,
+            "description": "Simpler Service Mesh"
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 18,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        },
+        {
+            "name": "elastic",
+            "url": "https://github.com/olivere/elastic",
+            "star": 5,
+            "description": "Elasticsearch client for Go."
+        },
+        {
+            "name": "operator-sdk",
+            "url": "https://github.com/operator-framework/operator-sdk",
+            "star": 7,
+            "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 62,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "gods",
+            "url": "https://github.com/emirpasic/gods",
+            "star": 12,
+            "description": "GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …"
+        },
+        {
+            "name": "sarama",
+            "url": "https://github.com/Shopify/sarama",
+            "star": 12,
+            "description": "Sarama is a Go library for Apache Kafka 0.8, and up."
+        },
+        {
+            "name": "golangci-lint",
+            "url": "https://github.com/golangci/golangci-lint",
+            "star": 17,
+            "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-26",
+    "month": 9,
+    "day": 26,
+    "python": [
+        {
+            "name": "c9-python-getting-started",
+            "url": "https://github.com/microsoft/c9-python-getting-started",
+            "star": 832,
+            "description": "Sample code for Channel 9 Python for Beginners course"
+        },
+        {
+            "name": "wxpy",
+            "url": "https://github.com/youfou/wxpy",
+            "star": 174,
+            "description": "微信机器人 / 可能是最优雅的微信个人号 API✨✨"
+        },
+        {
+            "name": "tlroadmap",
+            "url": "https://github.com/tlbootcamp/tlroadmap",
+            "star": 16,
+            "description": "👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов"
+        },
+        {
+            "name": "flask",
+            "url": "https://github.com/pallets/flask",
+            "star": 37,
+            "description": "The Python micro framework for building web applications."
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 34,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "Gooey",
+            "url": "https://github.com/chriskiehl/Gooey",
+            "star": 120,
+            "description": "Turn (almost) any Python command line program into a full GUI application with one line"
+        },
+        {
+            "name": "tuya-convert",
+            "url": "https://github.com/ct-Open-Source/tuya-convert",
+            "star": 2,
+            "description": "A collection of scripts to flash Tuya IoT devices to alternative firmwares"
+        },
+        {
+            "name": "serverless-application-model",
+            "url": "https://github.com/awslabs/serverless-application-model",
+            "star": 7,
+            "description": "AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications"
+        },
+        {
+            "name": "gitGraber",
+            "url": "https://github.com/hisxo/gitGraber",
+            "star": 34,
+            "description": "gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe..."
+        },
+        {
+            "name": "wait-for-it",
+            "url": "https://github.com/vishnubob/wait-for-it",
+            "star": 5,
+            "description": "Pure bash script to test and wait on the availability of a TCP host and port"
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 39,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 84,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 148,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "piggymetrics",
+            "url": "https://github.com/sqshq/piggymetrics",
+            "star": 10,
+            "description": "Microservice Architecture with Spring Boot, Spring Cloud and Docker"
+        },
+        {
+            "name": "netty",
+            "url": "https://github.com/netty/netty",
+            "star": 19,
+            "description": "Netty project - an event-driven asynchronous network application framework"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 25,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "thingsboard",
+            "url": "https://github.com/thingsboard/thingsboard",
+            "star": 8,
+            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+        },
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 20,
+            "description": "Apache Flink"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 39,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 121,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 962,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "First-steps-towards-Deep-Learning",
+            "url": "https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning",
+            "star": 12,
+            "description": "This is an open sourced book on deep learning."
+        },
+        {
+            "name": "API-Security-Checklist",
+            "url": "https://github.com/shieldfy/API-Security-Checklist",
+            "star": 43,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API"
+        },
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 129,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "awesome-blazor",
+            "url": "https://github.com/AdrienTorris/awesome-blazor",
+            "star": 22,
+            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 51,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "30-seconds-of-css",
+            "url": "https://github.com/30-seconds/30-seconds-of-css",
+            "star": 12,
+            "description": "A curated collection of useful CSS snippets you can understand in 30 seconds or less."
+        },
+        {
+            "name": "awesome-cpp",
+            "url": "https://github.com/fffaraz/awesome-cpp",
+            "star": 23,
+            "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 9,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "awesome-public-datasets",
+            "url": "https://github.com/awesomedata/awesome-public-datasets",
+            "star": 31,
+            "description": "A topic-centric list of HQ open datasets. PR ☛☛☛"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 39,
+            "description": "✅The largest Node.js best practices list (September 2019)"
+        },
+        {
+            "name": "shiori",
+            "url": "https://github.com/go-shiori/shiori",
+            "star": 85,
+            "description": "Simple bookmark manager built with Go"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 159,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "openlayers",
+            "url": "https://github.com/openlayers/openlayers",
+            "star": 11,
+            "description": "OpenLayers"
+        },
+        {
+            "name": "quasar",
+            "url": "https://github.com/quasarframework/quasar",
+            "star": 15,
+            "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+        },
+        {
+            "name": "fabric.js",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "star": 23,
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 73,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "react-beautiful-dnd",
+            "url": "https://github.com/atlassian/react-beautiful-dnd",
+            "star": 27,
+            "description": "Beautiful and accessible drag and drop for lists with React"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 40,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "moment",
+            "url": "https://github.com/moment/moment",
+            "star": 18,
+            "description": "Parse, validate, manipulate, and display dates in javascript."
+        }
+    ],
+    "html": [
+        {
+            "name": "dragon-book-exercise-answers",
+            "url": "https://github.com/fool2fish/dragon-book-exercise-answers",
+            "star": 7,
+            "description": "Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/biaochenxuying/blog",
+            "star": 10,
+            "description": "技术为主，读书笔记、随笔、理财为辅，做个终身学习者。"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 6,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "hacktoberfest-swag-list",
+            "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+            "star": 25,
+            "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all."
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 5,
+            "description": ""
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 13,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "chosen",
+            "url": "https://github.com/harvesthq/chosen",
+            "star": 2,
+            "description": "Chosen is a library for making long, unwieldy select boxes more friendly."
+        },
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 2,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 1,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "core",
+            "url": "https://github.com/stackblitz/core",
+            "star": 4,
+            "description": "Online IDE powered by Visual Studio Code⚡️"
+        }
+    ],
+    "go": [
+        {
+            "name": "shhgit",
+            "url": "https://github.com/eth0izzle/shhgit",
+            "star": 96,
+            "description": "Ah shhgit! Find GitHub secrets in real time"
+        },
+        {
+            "name": "lazydocker",
+            "url": "https://github.com/jesseduffield/lazydocker",
+            "star": 40,
+            "description": "The lazier way to manage everything docker"
+        },
+        {
+            "name": "prometheus",
+            "url": "https://github.com/prometheus/prometheus",
+            "star": 28,
+            "description": "The Prometheus monitoring system and time series database."
+        },
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 15,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 17,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        },
+        {
+            "name": "kubeedge",
+            "url": "https://github.com/kubeedge/kubeedge",
+            "star": 10,
+            "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+        },
+        {
+            "name": "fasthttp",
+            "url": "https://github.com/valyala/fasthttp",
+            "star": 139,
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http"
+        },
+        {
+            "name": "gitea",
+            "url": "https://github.com/go-gitea/gitea",
+            "star": 83,
+            "description": "Git with a cup of tea, painless self-hosted git service"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 40,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 9,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        }
+    ]
+}

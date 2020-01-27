@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-10",
+    "month": 10,
+    "day": 10,
+    "python": [
+        {
+            "name": "imagededup",
+            "url": "https://github.com/idealo/imagededup",
+            "star": 336,
+            "description": "😎Finding duplicate images made easy!"
+        },
+        {
+            "name": "GitHub-Chinese-Top-Charts",
+            "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+            "star": 1252,
+            "description": "🇨🇳GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐🎉）"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 210,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "pytorch-CycleGAN-and-pix2pix",
+            "url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+            "star": 13,
+            "description": "Image-to-Image Translation in PyTorch"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 105,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "data-science-ipython-notebooks",
+            "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+            "star": 25,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+        },
+        {
+            "name": "OUCML",
+            "url": "https://github.com/OUCMachineLearning/OUCML",
+            "star": 35,
+            "description": ""
+        },
+        {
+            "name": "Python-100-Days",
+            "url": "https://github.com/ZiniuLu/Python-100-Days",
+            "star": 20,
+            "description": "出处：https://github.com/jackfrued/Python-100-Days.git"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 26,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "tvm",
+            "url": "https://github.com/dmlc/tvm",
+            "star": 9,
+            "description": "Open deep learning compiler stack for cpu, gpu and specialized accelerators"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 165,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "Anime4K",
+            "url": "https://github.com/bloc97/Anime4K",
+            "star": 776,
+            "description": "A High-Quality Real Time Upscaler for Anime Video"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 18,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 167,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 88,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 48,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 47,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 110,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "xxl-job",
+            "url": "https://github.com/xuxueli/xxl-job",
+            "star": 21,
+            "description": "A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 28,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 86,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 554,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "PLMpapers",
+            "url": "https://github.com/thunlp/PLMpapers",
+            "star": 130,
+            "description": "Must-read Papers on pre-trained language models."
+        },
+        {
+            "name": "awesome-wechat-weapp",
+            "url": "https://github.com/justjavac/awesome-wechat-weapp",
+            "star": 104,
+            "description": "微信小程序开发资源汇总💯"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 142,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "IntelliJ-IDEA-Tutorial",
+            "url": "https://github.com/judasn/IntelliJ-IDEA-Tutorial",
+            "star": 32,
+            "description": "IntelliJ IDEA 简体中文专题教程"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 91,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "awesome-spider",
+            "url": "https://github.com/facert/awesome-spider",
+            "star": 37,
+            "description": "爬虫集合"
+        },
+        {
+            "name": "resilience-engineering",
+            "url": "https://github.com/lorin/resilience-engineering",
+            "star": 72,
+            "description": "Resilience engineering papers"
+        },
+        {
+            "name": "OnJava8",
+            "url": "https://github.com/LingCoder/OnJava8",
+            "star": 39,
+            "description": "《On Java 8》中文版，又名《Java编程思想》 第5版"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "bustag",
+            "url": "https://github.com/gxtrobot/bustag",
+            "star": 154,
+            "description": "a tag and recommend system for old bus driver"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 129,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "XtreamUI",
+            "url": "https://github.com/xtreamui/XtreamUI",
+            "star": 9,
+            "description": "Xtream Codes 2.93 - Admin Interface"
+        },
+        {
+            "name": "d2-admin",
+            "url": "https://github.com/d2-projects/d2-admin",
+            "star": 55,
+            "description": "🌈An elegant dashboard"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 100,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 36,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 38,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 39,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 35,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "vuepress",
+            "url": "https://github.com/vuejs/vuepress",
+            "star": 12,
+            "description": "📝Minimalistic Vue-powered static site generator"
+        }
+    ],
+    "html": [
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 51,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 26,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "django-DefectDojo",
+            "url": "https://github.com/DefectDojo/django-DefectDojo",
+            "star": 1,
+            "description": "DefectDojo is an open-source application vulnerability correlation and security orchestration tool."
+        },
+        {
+            "name": "qiubaiying.github.io",
+            "url": "https://github.com/qiubaiying/qiubaiying.github.io",
+            "star": 2,
+            "description": "BY Blog ->"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 14,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "coreui-free-bootstrap-admin-template",
+            "url": "https://github.com/coreui/coreui-free-bootstrap-admin-template",
+            "star": 4,
+            "description": "CoreUI is free bootstrap admin template"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/knative/docs",
+            "star": 4,
+            "description": "User documentation for Knative components"
+        },
+        {
+            "name": "CLRS",
+            "url": "https://github.com/walkccc/CLRS",
+            "star": 4,
+            "description": "📚Solutions to Introduction to Algorithms Third Edition"
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 19,
+            "description": "Free Bootstrap 3 Admin Template"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/biaochenxuying/blog",
+            "star": 23,
+            "description": "大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。"
+        }
+    ],
+    "go": [
+        {
+            "name": "muon",
+            "url": "https://github.com/ImVexed/muon",
+            "star": 200,
+            "description": "GPU based Electron on a diet"
+        },
+        {
+            "name": "go-admin",
+            "url": "https://github.com/chenhg5/go-admin",
+            "star": 76,
+            "description": "a dataviz tool for golang developer which supports most framework"
+        },
+        {
+            "name": "env",
+            "url": "https://github.com/caarlos0/env",
+            "star": 100,
+            "description": "Simple lib to parse environment variables to structs"
+        },
+        {
+            "name": "rancher",
+            "url": "https://github.com/rancher/rancher",
+            "star": 12,
+            "description": "Complete container management platform"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/json-iterator/go",
+            "star": 9,
+            "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\""
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 36,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 20,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "datadog-agent",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "star": 1,
+            "description": "Datadog Agent"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 72,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "age",
+            "url": "https://github.com/FiloSottile/age",
+            "star": 28,
+            "description": "[ALPHA STATE] A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-06",
+    "month": 8,
+    "day": 6,
+    "python": [
+        {
+            "name": "face_recognition",
+            "url": "https://github.com/ageitgey/face_recognition",
+            "star": 230,
+            "description": "The world's simplest facial recognition api for Python and the command line"
+        },
+        {
+            "name": "studyFiles",
+            "url": "https://github.com/threerocks/studyFiles",
+            "star": 406,
+            "description": "一些经典且高质量的电子书分享"
+        },
+        {
+            "name": "pytorch-lightning",
+            "url": "https://github.com/williamFalcon/pytorch-lightning",
+            "star": 256,
+            "description": "Rapid research framework for PyTorch. The researcher's version of Keras"
+        },
+        {
+            "name": "keras-tuner",
+            "url": "https://github.com/keras-team/keras-tuner",
+            "star": 36,
+            "description": "Hyperparameter tuning for humans"
+        },
+        {
+            "name": "manim",
+            "url": "https://github.com/3b1b/manim",
+            "star": 124,
+            "description": "Animation engine for explanatory math videos"
+        },
+        {
+            "name": "video-object-removal",
+            "url": "https://github.com/zllrunning/video-object-removal",
+            "star": 77,
+            "description": "Just draw a bounding box and you can remove the object you want to remove."
+        },
+        {
+            "name": "neural-networks-and-deep-learning",
+            "url": "https://github.com/mnielsen/neural-networks-and-deep-learning",
+            "star": 52,
+            "description": "Code samples for my book \"Neural Networks and Deep Learning\""
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 24,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "NeuralNLP-NeuralClassifier",
+            "url": "https://github.com/Tencent/NeuralNLP-NeuralClassifier",
+            "star": 10,
+            "description": "An Open-source Neural Hierarchical Multi-label Text Classification Toolkit"
+        },
+        {
+            "name": "python_autocomplete",
+            "url": "https://github.com/vpj/python_autocomplete",
+            "star": 26,
+            "description": "A simple neural network for python autocompletion"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 141,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 93,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 127,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 58,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "bbs",
+            "url": "https://github.com/diyhi/bbs",
+            "star": 28,
+            "description": "巡云轻论坛系统采用JAVA+MYSQL架构，自适应手机端和电脑端，界面简洁，性能高效。数据库表结构设计使用分表方案,提高系统的负载能力。后台数据库备份/还原、全站指定目录打包、一键自动升级等功能使维护简单方便。系统拥有强大的模板管理功能，布局版块支持设置输出条件，让前端页面展示方便快捷。"
+        },
+        {
+            "name": "CtCI-6th-Edition",
+            "url": "https://github.com/careercup/CtCI-6th-Edition",
+            "star": 7,
+            "description": "Cracking the Coding Interview 6th Ed. Solutions"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://github.com/DrKLO/Telegram",
+            "star": 6,
+            "description": "Telegram for Android source"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 23,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "netbeans",
+            "url": "https://github.com/apache/netbeans",
+            "star": 4,
+            "description": "Apache NetBeans"
+        },
+        {
+            "name": "proxyee-down",
+            "url": "https://github.com/proxyee-down-org/proxyee-down",
+            "star": 20,
+            "description": "http下载工具，基于http代理，支持多连接分块下载"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 521,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "technology_books",
+            "url": "https://github.com/arpitjindal97/technology_books",
+            "star": 443,
+            "description": "Premium eBook free for Geeks"
+        },
+        {
+            "name": "xiaozhi",
+            "url": "https://github.com/qq449245884/xiaozhi",
+            "star": 19,
+            "description": ""
+        },
+        {
+            "name": "AZ-103-MicrosoftAzureAdministrator",
+            "url": "https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+            "star": 4,
+            "description": "AZ-103: Microsoft Azure Administrator"
+        },
+        {
+            "name": "rfcs",
+            "url": "https://github.com/vuejs/rfcs",
+            "star": 9,
+            "description": "RFCs for substantial changes / feature additions to Vue core"
+        },
+        {
+            "name": "awesome-tensorflow",
+            "url": "https://github.com/jtoy/awesome-tensorflow",
+            "star": 58,
+            "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org"
+        },
+        {
+            "name": "article",
+            "url": "https://github.com/ChenChunCamus/article",
+            "star": 30,
+            "description": ""
+        },
+        {
+            "name": "awesome-tech-papers",
+            "url": "https://github.com/hiddenzzh/awesome-tech-papers",
+            "star": 20,
+            "description": "IT资料整理"
+        },
+        {
+            "name": "modern-cpp-features",
+            "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+            "star": 6,
+            "description": "A cheatsheet of modern C++ language and library features."
+        },
+        {
+            "name": "Unlight-Images",
+            "url": "https://github.com/unlightcpa/Unlight-Images",
+            "star": 6,
+            "description": ""
+        }
+    ],
+    "javascript": [
+        {
+            "name": "hackathon-starter",
+            "url": "https://github.com/sahat/hackathon-starter",
+            "star": 205,
+            "description": "A boilerplate for Node.js web applications"
+        },
+        {
+            "name": "nodeppt",
+            "url": "https://github.com/ksky521/nodeppt",
+            "star": 184,
+            "description": "This is probably the best web presentation tool so far!"
+        },
+        {
+            "name": "diabloweb",
+            "url": "https://github.com/d07RiV/diabloweb",
+            "star": 134,
+            "description": "Diablo 1 for web browsers"
+        },
+        {
+            "name": "livewire",
+            "url": "https://github.com/calebporzio/livewire",
+            "star": 63,
+            "description": "A magical front-end framework for Laravel"
+        },
+        {
+            "name": "style2paints",
+            "url": "https://github.com/lllyasviel/style2paints",
+            "star": 138,
+            "description": "sketch + style = paints🎨"
+        },
+        {
+            "name": "NeteaseCloudMusicApi",
+            "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+            "star": 29,
+            "description": "网易云音乐 Node.js API service"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 29,
+            "description": "🖖油猴脚本 一个脚本搞定百度网盘下载"
+        },
+        {
+            "name": "Spring-Cloud-Admin",
+            "url": "https://github.com/wxiaoqi/Spring-Cloud-Admin",
+            "star": 26,
+            "description": "Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Spring Boot2以及Spring Cloud Gateway相关核心组件，前端采用vue-element-admin组件。"
+        },
+        {
+            "name": "components",
+            "url": "https://github.com/serverless/components",
+            "star": 28,
+            "description": "An easier way to build and share serverless applications w/ the Serverless Framework -"
+        },
+        {
+            "name": "awesome-selfhosted",
+            "url": "https://github.com/Kickball/awesome-selfhosted",
+            "star": 37,
+            "description": "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers."
+        }
+    ],
+    "html": [
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 68,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 11,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "frontend-tech-list",
+            "url": "https://github.com/alienzhou/frontend-tech-list",
+            "star": 37,
+            "description": "a frontend tech list for developers"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 16,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 10,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "sourcegraph",
+            "url": "https://github.com/sourcegraph/sourcegraph",
+            "star": 2,
+            "description": "Code search and navigation tool (self-hosted)"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 3,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "WebFundamentals",
+            "url": "https://github.com/google/WebFundamentals",
+            "star": 3,
+            "description": "Best practices for modern web development"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 18,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "training-kit",
+            "url": "https://github.com/github/training-kit",
+            "star": 1,
+            "description": "Open source cheat sheets for Git and GitHub"
+        }
+    ],
+    "go": [
+        {
+            "name": "sampler",
+            "url": "https://github.com/sqshq/sampler",
+            "star": 625,
+            "description": "A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
+        },
+        {
+            "name": "gitomatic",
+            "url": "https://github.com/muesli/gitomatic",
+            "star": 173,
+            "description": "A tool to monitor git repositories and automatically pull & push changes"
+        },
+        {
+            "name": "colly",
+            "url": "https://github.com/gocolly/colly",
+            "star": 16,
+            "description": "Elegant Scraper and Crawler Framework for Golang"
+        },
+        {
+            "name": "bettercap",
+            "url": "https://github.com/bettercap/bettercap",
+            "star": 20,
+            "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks."
+        },
+        {
+            "name": "ratelimit",
+            "url": "https://github.com/uber-go/ratelimit",
+            "star": 36,
+            "description": "A Golang blocking leaky-bucket rate limit implementation"
+        },
+        {
+            "name": "Go-SCP",
+            "url": "https://github.com/OWASP/Go-SCP",
+            "star": 118,
+            "description": "Go programming language secure coding practices guide"
+        },
+        {
+            "name": "monday",
+            "url": "https://github.com/eko/monday",
+            "star": 31,
+            "description": "⚡️A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP"
+        },
+        {
+            "name": "lazydocker",
+            "url": "https://github.com/jesseduffield/lazydocker",
+            "star": 77,
+            "description": "The lazier way to manage everything docker"
+        },
+        {
+            "name": "hub",
+            "url": "https://github.com/github/hub",
+            "star": 14,
+            "description": "A command-line tool that makes git easier to use with GitHub."
+        },
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 26,
+            "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s. https://vlang.io"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-07",
+    "month": 11,
+    "day": 7,
+    "python": [
+        {
+            "name": "spleeter",
+            "url": "https://github.com/deezer/spleeter",
+            "star": 1084,
+            "description": "Deezer source separation library including pretrained models."
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 250,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/PaddlePaddle/models",
+            "star": 19,
+            "description": "Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 90,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "python",
+            "url": "https://github.com/kubernetes-client/python",
+            "star": 7,
+            "description": "Official Python client library for kubernetes"
+        },
+        {
+            "name": "GNNs-for-NLP",
+            "url": "https://github.com/svjan5/GNNs-for-NLP",
+            "star": 41,
+            "description": "Graph Neural Networks for Natural Language Processing tutorial at EMNLP 2019"
+        },
+        {
+            "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "star": 48,
+            "description": "💎1MB lightweight face detection model (1MB轻量级人脸检测模型)"
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 104,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        },
+        {
+            "name": "research-charnet",
+            "url": "https://github.com/MalongTech/research-charnet",
+            "star": 23,
+            "description": "CharNet: Convolutional Character Networks"
+        },
+        {
+            "name": "perception",
+            "url": "https://github.com/thorn-oss/perception",
+            "star": 10,
+            "description": "Perceptual hashing tools for detecting child sexual abuse material"
+        }
+    ],
+    "java": [
+        {
+            "name": "Jetpack-MVVM-Best-Practice",
+            "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+            "star": 68,
+            "description": "是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！"
+        },
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 225,
+            "description": "大数据入门指南⭐️"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 88,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 171,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "selenium",
+            "url": "https://github.com/SeleniumHQ/selenium",
+            "star": 19,
+            "description": "A browser automation framework and ecosystem."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 66,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 55,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "retrofit",
+            "url": "https://github.com/square/retrofit",
+            "star": 16,
+            "description": "Type-safe HTTP client for Android and Java by Square, Inc."
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 48,
+            "description": "一款基于代码生成器的JAVA快速开发平台！采用最新技术，前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 67,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "fanhaodaquan",
+            "url": "https://github.com/imfht/fanhaodaquan",
+            "star": 208,
+            "description": "番号大全。"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 100,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 95,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+        },
+        {
+            "name": "few-shot-vid2vid",
+            "url": "https://github.com/NVlabs/few-shot-vid2vid",
+            "star": 47,
+            "description": ""
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 146,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 72,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 4,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "coding-music",
+            "url": "https://github.com/xaca/coding-music",
+            "star": 0,
+            "description": "Buscamos crear listas en texto con los nombres de canciones organizadas por genero. Esta es una iniciativa para cuando necesites inspiración musical para programar."
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 53,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "modern-cpp-features",
+            "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+            "star": 13,
+            "description": "A cheatsheet of modern C++ language and library features."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "relay-examples",
+            "url": "https://github.com/relayjs/relay-examples",
+            "star": 30,
+            "description": "A collection of sample Relay applications"
+        },
+        {
+            "name": "react-query",
+            "url": "https://github.com/tannerlinsley/react-query",
+            "star": 515,
+            "description": "⚛️Hooks for fetching, caching and updating asynchronous data in React"
+        },
+        {
+            "name": "BullshitGenerator",
+            "url": "https://github.com/menzi11/BullshitGenerator",
+            "star": 363,
+            "description": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this."
+        },
+        {
+            "name": "selectize.js",
+            "url": "https://github.com/selectize/selectize.js",
+            "star": 12,
+            "description": "Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc."
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 43,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/leonardomso/33-js-concepts",
+            "star": 26,
+            "description": "📜33 concepts every JavaScript developer should know."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 103,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "NeteaseCloudMusicApi",
+            "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+            "star": 33,
+            "description": "网易云音乐 Node.js API service"
+        },
+        {
+            "name": "telegram-react",
+            "url": "https://github.com/evgeny-nadymov/telegram-react",
+            "star": 6,
+            "description": "Experimental Telegram web client with tdlib, webassembly and react js under the hood"
+        },
+        {
+            "name": "wp-calypso",
+            "url": "https://github.com/Automattic/wp-calypso",
+            "star": 6,
+            "description": "The JavaScript and API powered WordPress.com"
+        }
+    ],
+    "html": [
+        {
+            "name": "DevOps-Guide",
+            "url": "https://github.com/Tikam02/DevOps-Guide",
+            "star": 309,
+            "description": "DevOps Guide from basic to advanced with Interview Questions and Notes🔥"
+        },
+        {
+            "name": "purecss-lace",
+            "url": "https://github.com/cyanharlow/purecss-lace",
+            "star": 30,
+            "description": "HTML/CSS drawing inspired by Flemish baroque oil portraits. Hand-coded entirely in HTML & CSS."
+        },
+        {
+            "name": "ecma262",
+            "url": "https://github.com/tc39/ecma262",
+            "star": 14,
+            "description": "Status, process, and documents for ECMA-262"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 14,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 0,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "chosen",
+            "url": "https://github.com/harvesthq/chosen",
+            "star": 4,
+            "description": "Chosen is a library for making long, unwieldy select boxes more friendly."
+        },
+        {
+            "name": "typedoc",
+            "url": "https://github.com/TypeStrong/typedoc",
+            "star": 6,
+            "description": "Documentation generator for TypeScript projects."
+        },
+        {
+            "name": "owasp-mstg",
+            "url": "https://github.com/OWASP/owasp-mstg",
+            "star": 5,
+            "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering."
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 24,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 3,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        }
+    ],
+    "go": [
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 48,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "night-reading-go",
+            "url": "https://github.com/developer-learning/night-reading-go",
+            "star": 32,
+            "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。"
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 42,
+            "description": "A Go microservices development framework"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 14,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 24,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "spikeSystem",
+            "url": "https://github.com/GuoZhaoran/spikeSystem",
+            "star": 105,
+            "description": ""
+        },
+        {
+            "name": "nomad",
+            "url": "https://github.com/hashicorp/nomad",
+            "star": 7,
+            "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 19,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "fsnotify",
+            "url": "https://github.com/fsnotify/fsnotify",
+            "star": 3,
+            "description": "Cross-platform file system notifications for Go."
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 11,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        }
+    ]
+}

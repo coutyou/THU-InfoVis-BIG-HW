@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-20",
+    "month": 8,
+    "day": 20,
+    "python": [
+        {
+            "name": "wifiphisher",
+            "url": "https://github.com/wifiphisher/wifiphisher",
+            "star": 152,
+            "description": "The Rogue Access Point Framework"
+        },
+        {
+            "name": "examples-of-web-crawlers",
+            "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+            "star": 89,
+            "description": "一些有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )"
+        },
+        {
+            "name": "video-object-removal",
+            "url": "https://github.com/zllrunning/video-object-removal",
+            "star": 21,
+            "description": "Just draw a bounding box and you can remove the object you want to remove."
+        },
+        {
+            "name": "snorkel",
+            "url": "https://github.com/snorkel-team/snorkel",
+            "star": 23,
+            "description": "A system for quickly generating training data with weak supervision"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 319,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 34,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "RAdam",
+            "url": "https://github.com/LiyuanLucasLiu/RAdam",
+            "star": 170,
+            "description": "On The Variance Of The Adaptive Learning Rate And Beyond"
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 34,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "tuya-convert",
+            "url": "https://github.com/ct-Open-Source/tuya-convert",
+            "star": 4,
+            "description": "A collection of scripts to flash Tuya IoT devices to alternative firmwares"
+        },
+        {
+            "name": "SickZil-Machine",
+            "url": "https://github.com/KUR-creative/SickZil-Machine",
+            "star": 51,
+            "description": "Manga/Comics Translation Helper Tool"
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 379,
+            "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…"
+        },
+        {
+            "name": "live-transcribe-speech-engine",
+            "url": "https://github.com/google/live-transcribe-speech-engine",
+            "star": 181,
+            "description": "Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe."
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/justauth/JustAuth",
+            "star": 185,
+            "description": "💯史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "Gadgetbridge",
+            "url": "https://github.com/Freeyourgadget/Gadgetbridge",
+            "star": 4,
+            "description": "Github mirror of Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more."
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 129,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 28,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "Arduino",
+            "url": "https://github.com/arduino/Arduino",
+            "star": 3,
+            "description": "open-source electronics prototyping platform"
+        },
+        {
+            "name": "backtobackswe",
+            "url": "https://github.com/bephrem1/backtobackswe",
+            "star": 2,
+            "description": "Code Examples For Back To Back SWE Lessons"
+        },
+        {
+            "name": "Anki-Android",
+            "url": "https://github.com/ankidroid/Anki-Android",
+            "star": 12,
+            "description": "AnkiDroid: Anki on Android"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 19,
+            "description": "The \"REST With Spring\" Course:"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "machine-learning-asset-management",
+            "url": "https://github.com/firmai/machine-learning-asset-management",
+            "star": 56,
+            "description": "Machine Learning in Asset Management"
+        },
+        {
+            "name": "p1xt-guides",
+            "url": "https://github.com/P1xt/p1xt-guides",
+            "star": 36,
+            "description": "Programming curricula"
+        },
+        {
+            "name": "new-grads-2020",
+            "url": "https://github.com/cmackenzie1/new-grads-2020",
+            "star": 29,
+            "description": "A collection of new grad roles for 2020"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 46,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "30-seconds-zh_CN",
+            "url": "https://github.com/b3log/30-seconds-zh_CN",
+            "star": 97,
+            "description": "📙前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 158,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "books",
+            "url": "https://github.com/programthink/books",
+            "star": 50,
+            "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）"
+        },
+        {
+            "name": "javascript-testing-best-practices",
+            "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+            "star": 486,
+            "description": "📗🌐🚢Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 276,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "toml",
+            "url": "https://github.com/toml-lang/toml",
+            "star": 25,
+            "description": "Tom's Obvious, Minimal Language"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 618,
+            "description": "💯Materials to help you rock your next coding interview"
+        },
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 312,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "ccxt",
+            "url": "https://github.com/ccxt/ccxt",
+            "star": 66,
+            "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges"
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 166,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "ERC-1808",
+            "url": "https://github.com/Cocos-BCX/ERC-1808",
+            "star": 9,
+            "description": ""
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 122,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 103,
+            "description": "🖖油猴脚本 一个脚本搞定百度网盘下载"
+        },
+        {
+            "name": "fanqiang",
+            "url": "https://github.com/bannedbook/fanqiang",
+            "star": 65,
+            "description": "翻墙-科学上网"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 50,
+            "description": "✅The largest Node.js best practices list (July 2019)"
+        },
+        {
+            "name": "front-end-interview-handbook",
+            "url": "https://github.com/yangshun/front-end-interview-handbook",
+            "star": 39,
+            "description": "🕸Almost complete answers to \"Front-end Job Interview Questions\" which you can use to interview potential candidates, test yourself or completely ignore"
+        }
+    ],
+    "html": [
+        {
+            "name": "react-tetris-starter-files",
+            "url": "https://github.com/weibenfalk/react-tetris-starter-files",
+            "star": 2,
+            "description": "Starter files for the React-Tetris tutorial"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 2,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 2,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 11,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "blackeye",
+            "url": "https://github.com/thelinuxchoice/blackeye",
+            "star": 81,
+            "description": "The most complete Phishing Tool, with 32 templates +1 customizable"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 14,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 3,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/letsencrypt/website",
+            "star": 1,
+            "description": "Let's Encrypt Website and Documentation"
+        },
+        {
+            "name": "datasciencecoursera",
+            "url": "https://github.com/mGalarnyk/datasciencecoursera",
+            "star": 7,
+            "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions."
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/biaochenxuying/blog",
+            "star": 23,
+            "description": "技术为主，读书笔记、随笔、理财为辅，做个终身学习者。"
+        }
+    ],
+    "go": [
+        {
+            "name": "learn-go-with-tests",
+            "url": "https://github.com/quii/learn-go-with-tests",
+            "star": 420,
+            "description": "Learn Go with test-driven development"
+        },
+        {
+            "name": "k3sup",
+            "url": "https://github.com/alexellis/k3sup",
+            "star": 80,
+            "description": "k3sup: from zero to KUBECONFIG in < 1 min"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "star": 35,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 34,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "distribution",
+            "url": "https://github.com/docker/distribution",
+            "star": 7,
+            "description": "The Docker toolset to pack, ship, store, and deliver content"
+        },
+        {
+            "name": "AdGuardHome",
+            "url": "https://github.com/AdguardTeam/AdGuardHome",
+            "star": 15,
+            "description": "Network-wide ads & trackers blocking DNS server"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 36,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "gapid",
+            "url": "https://github.com/google/gapid",
+            "star": 3,
+            "description": "Graphics API Debugger"
+        },
+        {
+            "name": "vid",
+            "url": "https://github.com/vlang/vid",
+            "star": 9,
+            "description": "1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s."
+        },
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 30,
+            "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s. https://vlang.io"
+        }
+    ]
+}

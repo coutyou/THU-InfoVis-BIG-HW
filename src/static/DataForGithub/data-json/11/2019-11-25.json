@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-25",
+    "month": 11,
+    "day": 25,
+    "python": [
+        {
+            "name": "geo-heatmap",
+            "url": "https://github.com/luka1199/geo-heatmap",
+            "star": 122,
+            "description": "🗺A script that generates an interactive geo heatmap from your Google location data"
+        },
+        {
+            "name": "pytorch-tutorial",
+            "url": "https://github.com/yunjey/pytorch-tutorial",
+            "star": 33,
+            "description": "PyTorch Tutorial for Deep Learning Researchers"
+        },
+        {
+            "name": "flan",
+            "url": "https://github.com/cloudflare/flan",
+            "star": 910,
+            "description": "A pretty sweet vulnerability scanner"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 649,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/StevenBlack/hosts",
+            "star": 31,
+            "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category."
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 236,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "python-patterns",
+            "url": "https://github.com/faif/python-patterns",
+            "star": 32,
+            "description": "A collection of design patterns/idioms in Python"
+        },
+        {
+            "name": "fusee-launcher",
+            "url": "https://github.com/Qyriad/fusee-launcher",
+            "star": 2,
+            "description": "work-in-progress launcher for one of the Tegra X1 bootROM exploits"
+        },
+        {
+            "name": "python-for-android",
+            "url": "https://github.com/kivy/python-for-android",
+            "star": 7,
+            "description": "Turn your Python application into an Android APK"
+        },
+        {
+            "name": "ml-agents",
+            "url": "https://github.com/Unity-Technologies/ml-agents",
+            "star": 17,
+            "description": "Unity Machine Learning Agents Toolkit"
+        }
+    ],
+    "java": [
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 4,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "Nukkit",
+            "url": "https://github.com/NukkitX/Nukkit",
+            "star": 1,
+            "description": "Nuclear-Powered Server Software for Minecraft: Bedrock Edition."
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 28,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "pulsar",
+            "url": "https://github.com/apache/pulsar",
+            "star": 9,
+            "description": "Apache Pulsar - distributed pub-sub messaging system"
+        },
+        {
+            "name": "incubator-dolphinscheduler",
+            "url": "https://github.com/apache/incubator-dolphinscheduler",
+            "star": 42,
+            "description": "Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 112,
+            "description": "一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等"
+        },
+        {
+            "name": "Signal-Android",
+            "url": "https://github.com/signalapp/Signal-Android",
+            "star": 9,
+            "description": "A private messenger for Android."
+        },
+        {
+            "name": "ud851-Exercises",
+            "url": "https://github.com/udacity/ud851-Exercises",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "ksql",
+            "url": "https://github.com/confluentinc/ksql",
+            "star": 163,
+            "description": "The event streaming database purpose-built for stream processing applications"
+        },
+        {
+            "name": "CalendarView",
+            "url": "https://github.com/huanghaibin-dev/CalendarView",
+            "star": 6,
+            "description": "Android上一个优雅、万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 691,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 513,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "AMD_Vanilla",
+            "url": "https://github.com/AMD-OSX/AMD_Vanilla",
+            "star": 6,
+            "description": "Native AMD macOS via Clover & OpenCore"
+        },
+        {
+            "name": "Online-Computer-Science-Degree",
+            "url": "https://github.com/shedm/Online-Computer-Science-Degree",
+            "star": 123,
+            "description": "Open-Source Computer Science Degree"
+        },
+        {
+            "name": "api-guidelines",
+            "url": "https://github.com/microsoft/api-guidelines",
+            "star": 1010,
+            "description": "Microsoft REST API Guidelines"
+        },
+        {
+            "name": "1024app-android",
+            "url": "https://github.com/yuuwill/1024app-android",
+            "star": 15,
+            "description": "草榴官方客户端，小草客户端，Android"
+        },
+        {
+            "name": "Share-SSR-V2ray",
+            "url": "https://github.com/selierlin/Share-SSR-V2ray",
+            "star": 45,
+            "description": "🃏Free SS/SSR/V2ray 免费分享节点账号信息网站"
+        },
+        {
+            "name": "download",
+            "url": "https://github.com/getlantern/download",
+            "star": 103,
+            "description": "Lantern官方版本下载 蓝灯 翻墙 科学上网 外网 加速器 梯子 路由"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 418,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 332,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 110,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 128,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "complete-javascript-course",
+            "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+            "star": 13,
+            "description": "Starter files, final projects and FAQ for my Complete JavaScript course"
+        },
+        {
+            "name": "cube.js",
+            "url": "https://github.com/cube-js/cube.js",
+            "star": 129,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "discord.js",
+            "url": "https://github.com/discordjs/discord.js",
+            "star": 7,
+            "description": "A powerful JavaScript library for interacting with the Discord API"
+        },
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 424,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 472,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "react-native-vector-icons",
+            "url": "https://github.com/oblador/react-native-vector-icons",
+            "star": 17,
+            "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling."
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/CodingTrain/website",
+            "star": 5,
+            "description": "Coding Train website"
+        },
+        {
+            "name": "complete-intro-to-react-v5",
+            "url": "https://github.com/btholt/complete-intro-to-react-v5",
+            "star": 10,
+            "description": "The Complete Intro to React, the fifth version"
+        }
+    ],
+    "html": [
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 28,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 24,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 7,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "node-ytdl-core",
+            "url": "https://github.com/fent/node-ytdl-core",
+            "star": 4,
+            "description": "YouTube video downloader in javascript."
+        },
+        {
+            "name": "haproxy-boshrelease",
+            "url": "https://github.com/cloudfoundry-incubator/haproxy-boshrelease",
+            "star": 0,
+            "description": "A BOSH release for haproxy (based on cf-release's haproxy job)"
+        },
+        {
+            "name": "riots_chile_analisis",
+            "url": "https://github.com/connectalabs/riots_chile_analisis",
+            "star": 4,
+            "description": "Análisis Twitter en las Protestas de Chile"
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 21,
+            "description": "Free Bootstrap 4 Admin Dashboard Template"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 33,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "aplus",
+            "url": "https://github.com/betagouv/aplus",
+            "star": 0,
+            "description": "Administration+"
+        },
+        {
+            "name": "THC-Archive",
+            "url": "https://github.com/vanhauser-thc/THC-Archive",
+            "star": 6,
+            "description": "All releases of the security research group (a.k.a. hackers) The Hacker's Choice"
+        }
+    ],
+    "go": [
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 148,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 18,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "vegeta",
+            "url": "https://github.com/tsenart/vegeta",
+            "star": 53,
+            "description": "HTTP load testing tool and library. It's over 9000!"
+        },
+        {
+            "name": "lotus",
+            "url": "https://github.com/filecoin-project/lotus",
+            "star": 2,
+            "description": "Implementation of the Filecoin protocol, written in Go"
+        },
+        {
+            "name": "restic",
+            "url": "https://github.com/restic/restic",
+            "star": 23,
+            "description": "Fast, secure, efficient backup program"
+        },
+        {
+            "name": "chat",
+            "url": "https://github.com/tinode/chat",
+            "star": 6,
+            "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots"
+        },
+        {
+            "name": "radvpn",
+            "url": "https://github.com/mehrdadrad/radvpn",
+            "star": 56,
+            "description": "Decentralized VPN"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 85,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "tinygo",
+            "url": "https://github.com/tinygo-org/tinygo",
+            "star": 8,
+            "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM."
+        },
+        {
+            "name": "yagpdb",
+            "url": "https://github.com/jonas747/yagpdb",
+            "star": 1,
+            "description": "Yet another general purpose discord bot"
+        }
+    ]
+}

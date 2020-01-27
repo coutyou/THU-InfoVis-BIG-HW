@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-28",
+    "month": 7,
+    "day": 28,
+    "python": [
+        {
+            "name": "apple_bleee",
+            "url": "https://github.com/hexway/apple_bleee",
+            "star": 70,
+            "description": "Apple BLE research"
+        },
+        {
+            "name": "Automagica",
+            "url": "https://github.com/OakwoodAI/Automagica",
+            "star": 80,
+            "description": "🤖Open Source (Smart) Robotic Process Automation"
+        },
+        {
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models",
+            "star": 48,
+            "description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more"
+        },
+        {
+            "name": "Detectron",
+            "url": "https://github.com/facebookresearch/Detectron",
+            "star": 34,
+            "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet."
+        },
+        {
+            "name": "wtfpython-cn",
+            "url": "https://github.com/leisurelicht/wtfpython-cn",
+            "star": 22,
+            "description": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译"
+        },
+        {
+            "name": "Awesome-PyTorch-Chinese",
+            "url": "https://github.com/INTERMT/Awesome-PyTorch-Chinese",
+            "star": 21,
+            "description": "【干货】史上最全的PyTorch学习资源汇总"
+        },
+        {
+            "name": "ZeroNet",
+            "url": "https://github.com/HelloZeroNet/ZeroNet",
+            "star": 2,
+            "description": "ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network"
+        },
+        {
+            "name": "DG-Net",
+            "url": "https://github.com/NVlabs/DG-Net",
+            "star": 11,
+            "description": "CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification"
+        },
+        {
+            "name": "wagtail",
+            "url": "https://github.com/wagtail/wagtail",
+            "star": 9,
+            "description": "A Django content management system focused on flexibility and user experience"
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 24,
+            "description": "100 Days of ML Coding"
+        }
+    ],
+    "java": [
+        {
+            "name": "EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "star": 29,
+            "description": "An Unofficial E-Hentai Application for Android"
+        },
+        {
+            "name": "tech-weekly",
+            "url": "https://github.com/mercyblitz/tech-weekly",
+            "star": 31,
+            "description": "「小马哥技术周报」"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 94,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "okdownload",
+            "url": "https://github.com/lingochamp/okdownload",
+            "star": 9,
+            "description": "A Reliable, Flexible, Fast and Powerful download engine."
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 16,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 1,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "server",
+            "url": "https://github.com/wildfirechat/server",
+            "star": 7,
+            "description": "开源即时通讯(IM)系统"
+        },
+        {
+            "name": "FATE",
+            "url": "https://github.com/WeBankFinTech/FATE",
+            "star": 10,
+            "description": "An Industrial Level Federated Learning Framework"
+        },
+        {
+            "name": "antlr4",
+            "url": "https://github.com/antlr/antlr4",
+            "star": 8,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 46,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 124,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "proposals",
+            "url": "https://github.com/tc39/proposals",
+            "star": 33,
+            "description": "Tracking ECMAScript Proposals"
+        },
+        {
+            "name": "AWS-IAM-Privilege-Escalation",
+            "url": "https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation",
+            "star": 70,
+            "description": "A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs."
+        },
+        {
+            "name": "git-flight-rules",
+            "url": "https://github.com/k88hudson/git-flight-rules",
+            "star": 41,
+            "description": "Flight rules for git"
+        },
+        {
+            "name": "CVE-2019-2107",
+            "url": "https://github.com/marcinguy/CVE-2019-2107",
+            "star": 22,
+            "description": "CVE-2019-2107"
+        },
+        {
+            "name": "English-level-up-tips-for-Chinese",
+            "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+            "star": 53,
+            "description": "可能是让你受益匪浅的英语进阶指南"
+        },
+        {
+            "name": "technology_books",
+            "url": "https://github.com/arpitjindal97/technology_books",
+            "star": 41,
+            "description": "Premium eBook free for Geeks"
+        },
+        {
+            "name": "ipfs",
+            "url": "https://github.com/ipfs/ipfs",
+            "star": 29,
+            "description": "Peer-to-peer hypermedia protocol"
+        },
+        {
+            "name": "awesome-java",
+            "url": "https://github.com/akullpp/awesome-java",
+            "star": 56,
+            "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+        },
+        {
+            "name": "Security-PPT",
+            "url": "https://github.com/FeeiCN/Security-PPT",
+            "star": 13,
+            "description": "大安全各领域各公司各会议分享的PPT"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "sequelize",
+            "url": "https://github.com/sequelize/sequelize",
+            "star": 30,
+            "description": "An easy-to-use multi SQL dialect ORM for Node.js"
+        },
+        {
+            "name": "500lines",
+            "url": "https://github.com/aosabook/500lines",
+            "star": 52,
+            "description": "500 Lines or Less"
+        },
+        {
+            "name": "jexcel",
+            "url": "https://github.com/paulhodel/jexcel",
+            "star": 60,
+            "description": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software."
+        },
+        {
+            "name": "Front-End-Checklist",
+            "url": "https://github.com/thedaviddias/Front-End-Checklist",
+            "star": 17,
+            "description": "🗂The perfect Front-End Checklist for modern websites and meticulous developers"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 13,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "vis-network",
+            "url": "https://github.com/visjs/vis-network",
+            "star": 9,
+            "description": "Display dynamic, automatically organised, customizable network views."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 44,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "PersonalBlog",
+            "url": "https://github.com/Nealyang/PersonalBlog",
+            "star": 10,
+            "description": "📝Nealyang personal blog"
+        },
+        {
+            "name": "livewire",
+            "url": "https://github.com/calebporzio/livewire",
+            "star": 27,
+            "description": "A magical front-end framework for Laravel"
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 56,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        }
+    ],
+    "html": [
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 21,
+            "description": ""
+        },
+        {
+            "name": "aws-well-architected-labs",
+            "url": "https://github.com/awslabs/aws-well-architected-labs",
+            "star": 4,
+            "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices."
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 3,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "craftinginterpreters",
+            "url": "https://github.com/munificent/craftinginterpreters",
+            "star": 5,
+            "description": "Repository for the book \"Crafting Interpreters\""
+        },
+        {
+            "name": "WanderingD19",
+            "url": "https://github.com/wanderingd19/WanderingD19",
+            "star": 0,
+            "description": "上海交通大学D19宿舍搬迁事件启示录"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 4,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 2,
+            "description": "The Ethereum Improvement Proposal repository"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 11,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/knative/docs",
+            "star": 0,
+            "description": "User documentation for Knative components"
+        },
+        {
+            "name": "glTF",
+            "url": "https://github.com/KhronosGroup/glTF",
+            "star": 3,
+            "description": "glTF – Runtime 3D Asset Delivery"
+        }
+    ],
+    "go": [
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 82,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 56,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 32,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "athens",
+            "url": "https://github.com/gomods/athens",
+            "star": 8,
+            "description": "A Go module datastore and proxy"
+        },
+        {
+            "name": "autoscaler",
+            "url": "https://github.com/kubernetes/autoscaler",
+            "star": 5,
+            "description": "Autoscaling components for Kubernetes"
+        },
+        {
+            "name": "terraform-provider-azurerm",
+            "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+            "star": 3,
+            "description": "Terraform provider for Azure Resource Manager"
+        },
+        {
+            "name": "elastic",
+            "url": "https://github.com/olivere/elastic",
+            "star": 9,
+            "description": "Elasticsearch client for Go."
+        },
+        {
+            "name": "testify",
+            "url": "https://github.com/stretchr/testify",
+            "star": 6,
+            "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 6,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 4,
+            "description": "An open source, general-purpose policy engine."
+        }
+    ]
+}

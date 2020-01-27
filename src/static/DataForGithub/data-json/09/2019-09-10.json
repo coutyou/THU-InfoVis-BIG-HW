@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-10",
+    "month": 9,
+    "day": 10,
+    "python": [
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 937,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "py12306",
+            "url": "https://github.com/pjialin/py12306",
+            "star": 269,
+            "description": "🚂12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理"
+        },
+        {
+            "name": "tiler",
+            "url": "https://github.com/nuno-faria/tiler",
+            "star": 563,
+            "description": "👷Build images with images"
+        },
+        {
+            "name": "instabot",
+            "url": "https://github.com/instagrambot/instabot",
+            "star": 29,
+            "description": "🐙Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!"
+        },
+        {
+            "name": "tf-quant-finance",
+            "url": "https://github.com/google/tf-quant-finance",
+            "star": 168,
+            "description": "High-performance TensorFlow library for quantitative finance."
+        },
+        {
+            "name": "data-science-ipython-notebooks",
+            "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+            "star": 155,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+        },
+        {
+            "name": "roberta_zh",
+            "url": "https://github.com/brightmart/roberta_zh",
+            "star": 63,
+            "description": "RoBERTa中文预训练模型: RoBERTa for Chinese"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 66,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "numpy-ml",
+            "url": "https://github.com/ddbourgin/numpy-ml",
+            "star": 44,
+            "description": "Machine learning, in numpy"
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 8,
+            "description": "🔎Find usernames across social networks"
+        }
+    ],
+    "java": [
+        {
+            "name": "bistoury",
+            "url": "https://github.com/qunarcorp/bistoury",
+            "star": 56,
+            "description": "Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案"
+        },
+        {
+            "name": "SkyStone",
+            "url": "https://github.com/FIRST-Tech-Challenge/SkyStone",
+            "star": 13,
+            "description": "FTC SDK"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 91,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://bt.biedian.me"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 96,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 31,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "antlr4",
+            "url": "https://github.com/antlr/antlr4",
+            "star": 9,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+        },
+        {
+            "name": "EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "star": 6,
+            "description": "[DEPRECATED] An Unofficial E-Hentai Application for Android"
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/justauth/JustAuth",
+            "star": 95,
+            "description": "💯史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐和Gitlab等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "libgdx",
+            "url": "https://github.com/libgdx/libgdx",
+            "star": 3,
+            "description": "Desktop/Android/HTML5/iOS Java game development framework"
+        },
+        {
+            "name": "MusicLake",
+            "url": "https://github.com/caiyonglong/MusicLake",
+            "star": 23,
+            "description": "音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "eng-practices",
+            "url": "https://github.com/google/eng-practices",
+            "star": 1535,
+            "description": "Google's Engineering Practices documentation"
+        },
+        {
+            "name": "backend",
+            "url": "https://github.com/kottans/backend",
+            "star": 29,
+            "description": "Kottans backend course🎓"
+        },
+        {
+            "name": "Java-Interview",
+            "url": "https://github.com/gzc426/Java-Interview",
+            "star": 49,
+            "description": "Java 面试必会 直通BAT"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 36,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 130,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "awesome-public-datasets",
+            "url": "https://github.com/awesomedata/awesome-public-datasets",
+            "star": 31,
+            "description": "A topic-centric list of HQ open datasets. PR ☛☛☛"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 23,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "Index",
+            "url": "https://github.com/HowProgrammingWorks/Index",
+            "star": 12,
+            "description": "Repositories Index"
+        },
+        {
+            "name": "vscode-icons",
+            "url": "https://github.com/microsoft/vscode-icons",
+            "star": 10,
+            "description": "Icons for Visual Studio Code"
+        },
+        {
+            "name": "Best-App",
+            "url": "https://github.com/hzlzh/Best-App",
+            "star": 10,
+            "description": "收集&推荐优秀的 Apps/硬件/技巧/周边等"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 221,
+            "description": "💯Materials to help you rock your next coding interview"
+        },
+        {
+            "name": "appwrite",
+            "url": "https://github.com/appwrite/appwrite",
+            "star": 90,
+            "description": "End to end backend server for frontend and mobile developers.👩‍💻👨‍💻"
+        },
+        {
+            "name": "goindex",
+            "url": "https://github.com/donwa/goindex",
+            "star": 30,
+            "description": "Google Drive Directory Index"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 26,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "Home-AssistantConfig",
+            "url": "https://github.com/CCOSTAN/Home-AssistantConfig",
+            "star": 7,
+            "description": "🏠Home Assistant configuration & Documentation for my Smart House. Write ups, videos, part lists and links throughout. Be sure to⭐️it. Updated FREQUENTLY!"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 41,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "opencti",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "star": 16,
+            "description": "Open Cyber Threat Intelligence Platform"
+        },
+        {
+            "name": "complete-intro-to-react-v5",
+            "url": "https://github.com/btholt/complete-intro-to-react-v5",
+            "star": 8,
+            "description": "The Complete Intro to React, the fifth version"
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 74,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "discord.js",
+            "url": "https://github.com/discordjs/discord.js",
+            "star": 2,
+            "description": "A powerful JavaScript library for interacting with the Discord API"
+        }
+    ],
+    "html": [
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 23,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 33,
+            "description": "Free Bootstrap 3 Admin Template"
+        },
+        {
+            "name": "tailwindcss",
+            "url": "https://github.com/laravel-frontend-presets/tailwindcss",
+            "star": 4,
+            "description": "A Tailwind CSS frontend preset for the Laravel Framework"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 13,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "WebFundamentals",
+            "url": "https://github.com/google/WebFundamentals",
+            "star": 20,
+            "description": "Best practices for modern web development"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 1,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 3,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        },
+        {
+            "name": "boost",
+            "url": "https://github.com/boostorg/boost",
+            "star": 4,
+            "description": "Super-project for modularized Boost"
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 3,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 8,
+            "description": "支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel"
+        }
+    ],
+    "go": [
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 21,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "xxhash",
+            "url": "https://github.com/cespare/xxhash",
+            "star": 11,
+            "description": "A Go implementation of the 64-bit xxHash algorithm (XXH64)"
+        },
+        {
+            "name": "kubesphere",
+            "url": "https://github.com/kubesphere/kubesphere",
+            "star": 24,
+            "description": "Easy-to-use Production Ready Container Management Platform"
+        },
+        {
+            "name": "joe",
+            "url": "https://github.com/go-joe/joe",
+            "star": 37,
+            "description": "A general-purpose bot library inspired by Hubot but written in Go."
+        },
+        {
+            "name": "mattermost-server",
+            "url": "https://github.com/mattermost/mattermost-server",
+            "star": 12,
+            "description": "Open source Slack-alternative in Golang and React - Mattermost"
+        },
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 2,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "community",
+            "url": "https://github.com/kubernetes/community",
+            "star": 24,
+            "description": "Kubernetes community content"
+        },
+        {
+            "name": "reading-go",
+            "url": "https://github.com/developer-learning/reading-go",
+            "star": 9,
+            "description": "Go 夜读 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 38,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "dns",
+            "url": "https://github.com/miekg/dns",
+            "star": 5,
+            "description": "DNS library in Go"
+        }
+    ]
+}

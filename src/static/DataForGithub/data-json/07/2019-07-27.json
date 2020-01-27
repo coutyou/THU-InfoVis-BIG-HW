@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-27",
+    "month": 7,
+    "day": 27,
+    "python": [
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 72,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "ludwig",
+            "url": "https://github.com/uber/ludwig",
+            "star": 33,
+            "description": "Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code."
+        },
+        {
+            "name": "azure-cli",
+            "url": "https://github.com/Azure/azure-cli",
+            "star": 1,
+            "description": "Command-line tools for Azure."
+        },
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 168,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models",
+            "star": 22,
+            "description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more"
+        },
+        {
+            "name": "maskrcnn-benchmark",
+            "url": "https://github.com/facebookresearch/maskrcnn-benchmark",
+            "star": 4,
+            "description": "Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch."
+        },
+        {
+            "name": "bluekeep",
+            "url": "https://github.com/0xeb-bp/bluekeep",
+            "star": 17,
+            "description": "Public work for CVE-2019-0708"
+        },
+        {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "star": 18,
+            "description": "💻A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!"
+        },
+        {
+            "name": "cheat.sh",
+            "url": "https://github.com/chubin/cheat.sh",
+            "star": 23,
+            "description": "the only cheat sheet you need"
+        },
+        {
+            "name": "mmaction",
+            "url": "https://github.com/open-mmlab/mmaction",
+            "star": 7,
+            "description": ""
+        }
+    ],
+    "java": [
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 143,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 116,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 29,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（18k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 27,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "caffeine",
+            "url": "https://github.com/ben-manes/caffeine",
+            "star": 7,
+            "description": "A high performance caching library for Java 8"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 82,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 13,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "presto",
+            "url": "https://github.com/prestosql/presto",
+            "star": 1,
+            "description": "Official home of the community version of Presto, the distributed SQL query engine for big data, under the auspices of the Presto Software Foundation."
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 28,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "lottie-android",
+            "url": "https://github.com/airbnb/lottie-android",
+            "star": 9,
+            "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 199,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "tlroadmap",
+            "url": "https://github.com/tlbootcamp/tlroadmap",
+            "star": 64,
+            "description": "👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов"
+        },
+        {
+            "name": "30-seconds-zh_CN",
+            "url": "https://github.com/b3log/30-seconds-zh_CN",
+            "star": 77,
+            "description": "📙前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。"
+        },
+        {
+            "name": "iccv2019",
+            "url": "https://github.com/extreme-assistant/iccv2019",
+            "star": 57,
+            "description": "ICCV 2019 papers/new汇总帖，极市团队整理"
+        },
+        {
+            "name": "awesome-java",
+            "url": "https://github.com/akullpp/awesome-java",
+            "star": 90,
+            "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 80,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r…"
+        },
+        {
+            "name": "AndroidInterView",
+            "url": "https://github.com/interviewandroid/AndroidInterView",
+            "star": 32,
+            "description": "Android面试2019年最新版（每日更新），音视频，Android高级，性能优化，算法，Flutter技术，FFmpeg OppenGl，资源混淆,插件化，组件化，OkHttp，Rxjava,架构师，Android架构"
+        },
+        {
+            "name": "flink-training-course",
+            "url": "https://github.com/flink-china/flink-training-course",
+            "star": 5,
+            "description": "Flink 中文视频课程（持续更新...）"
+        },
+        {
+            "name": "javascript-interview-questions-developer",
+            "url": "https://github.com/tuantvk/javascript-interview-questions-developer",
+            "star": 3,
+            "description": "Danh sách những câu hỏi trong phỏng vấn Javascript📝(Working in progress)"
+        },
+        {
+            "name": "industry-machine-learning",
+            "url": "https://github.com/firmai/industry-machine-learning",
+            "star": 52,
+            "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "cube.js",
+            "url": "https://github.com/cube-js/cube.js",
+            "star": 127,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 81,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        },
+        {
+            "name": "500lines",
+            "url": "https://github.com/aosabook/500lines",
+            "star": 78,
+            "description": "500 Lines or Less"
+        },
+        {
+            "name": "gutenberg",
+            "url": "https://github.com/WordPress/gutenberg",
+            "star": 5,
+            "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository."
+        },
+        {
+            "name": "semantic-release",
+            "url": "https://github.com/semantic-release/semantic-release",
+            "star": 7,
+            "description": "📦🚀Fully automated version management and package publishing"
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 21,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 60,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "carbon",
+            "url": "https://github.com/carbon-design-system/carbon",
+            "star": 6,
+            "description": "A design system built by IBM"
+        },
+        {
+            "name": "learnVue",
+            "url": "https://github.com/answershuto/learnVue",
+            "star": 13,
+            "description": "Vue.js 源码解析"
+        },
+        {
+            "name": "FileSaver.js",
+            "url": "https://github.com/eligrey/FileSaver.js",
+            "star": 15,
+            "description": "An HTML5 saveAs() FileSaver implementation"
+        }
+    ],
+    "html": [
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 87,
+            "description": ""
+        },
+        {
+            "name": "proposal-nullish-coalescing",
+            "url": "https://github.com/tc39/proposal-nullish-coalescing",
+            "star": 10,
+            "description": "Nullish coalescing proposal x ?? y"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 4,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "stickyfill",
+            "url": "https://github.com/wilddeer/stickyfill",
+            "star": 2,
+            "description": "Polyfill for CSS `position: sticky`"
+        },
+        {
+            "name": "webcomponents",
+            "url": "https://github.com/w3c/webcomponents",
+            "star": 1,
+            "description": "Web Components specifications"
+        },
+        {
+            "name": "mxgraph",
+            "url": "https://github.com/jgraph/mxgraph",
+            "star": 5,
+            "description": "mxGraph is a fully client side JavaScript diagramming library"
+        },
+        {
+            "name": "ng-alain",
+            "url": "https://github.com/ng-alain/ng-alain",
+            "star": 0,
+            "description": "NG-ZORRO admin panel front-end framework (netlify mirror https://netlify.ng-alain.com/)"
+        },
+        {
+            "name": "ctf-wiki",
+            "url": "https://github.com/ctf-wiki/ctf-wiki",
+            "star": 4,
+            "description": "CTF Wiki Online. Come and join us, we need you!"
+        },
+        {
+            "name": "ru.javascript.info",
+            "url": "https://github.com/javascript-tutorial/ru.javascript.info",
+            "star": 3,
+            "description": "Современный учебник JavaScript"
+        },
+        {
+            "name": "computer-science-flash-cards",
+            "url": "https://github.com/jwasham/computer-science-flash-cards",
+            "star": 7,
+            "description": "Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization."
+        }
+    ],
+    "go": [
+        {
+            "name": "yaegi",
+            "url": "https://github.com/containous/yaegi",
+            "star": 189,
+            "description": "Yaegi is Another Elegant Go Interpreter"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 72,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 116,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "argo",
+            "url": "https://github.com/argoproj/argo",
+            "star": 23,
+            "description": "Argo Workflows: Get stuff done with Kubernetes."
+        },
+        {
+            "name": "prometheus-operator",
+            "url": "https://github.com/coreos/prometheus-operator",
+            "star": 19,
+            "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+        },
+        {
+            "name": "influxdb",
+            "url": "https://github.com/influxdata/influxdb",
+            "star": 30,
+            "description": "Scalable datastore for metrics, events, and real-time analytics"
+        },
+        {
+            "name": "getAwayBSG",
+            "url": "https://github.com/jiangwei1995910/getAwayBSG",
+            "star": 43,
+            "description": "逃离北上广"
+        },
+        {
+            "name": "go-swagger",
+            "url": "https://github.com/go-swagger/go-swagger",
+            "star": 10,
+            "description": "Swagger 2.0 implementation for go"
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 9,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "skaffold",
+            "url": "https://github.com/GoogleContainerTools/skaffold",
+            "star": 10,
+            "description": "Easy and Repeatable Kubernetes Development"
+        }
+    ]
+}

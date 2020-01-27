@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-24",
+    "month": 7,
+    "day": 24,
+    "python": [
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 484,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "faceai",
+            "url": "https://github.com/vipstone/faceai",
+            "star": 144,
+            "description": "一款入门级的人脸、视频、文字检测以及识别的项目."
+        },
+        {
+            "name": "OmniNet",
+            "url": "https://github.com/subho406/OmniNet",
+            "star": 55,
+            "description": "Official Pytorch implementation of \"OmniNet: A unified architecture for multi-modal multi-task learning\" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain"
+        },
+        {
+            "name": "spack",
+            "url": "https://github.com/spack/spack",
+            "star": 27,
+            "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers."
+        },
+        {
+            "name": "redash",
+            "url": "https://github.com/getredash/redash",
+            "star": 28,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+        },
+        {
+            "name": "kedro",
+            "url": "https://github.com/quantumblacklabs/kedro",
+            "star": 7,
+            "description": "A Python library for building robust production-ready data and analytics pipelines."
+        },
+        {
+            "name": "theMLbook",
+            "url": "https://github.com/aburkov/theMLbook",
+            "star": 6,
+            "description": "The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book."
+        },
+        {
+            "name": "CenterNet",
+            "url": "https://github.com/xingyizhou/CenterNet",
+            "star": 12,
+            "description": "Object detection, 3D detection, and pose estimation using center point detection:"
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 29,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 51,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        }
+    ],
+    "java": [
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 273,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 275,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "react-native-navigation",
+            "url": "https://github.com/wix/react-native-navigation",
+            "star": 22,
+            "description": "A complete native navigation solution for React Native"
+        },
+        {
+            "name": "Shadow",
+            "url": "https://github.com/Tencent/Shadow",
+            "star": 30,
+            "description": "零反射全动态Android插件框架"
+        },
+        {
+            "name": "pinpoint",
+            "url": "https://github.com/naver/pinpoint",
+            "star": 23,
+            "description": "APM, (Application Performance Management) tool for large-scale distributed systems written in Java."
+        },
+        {
+            "name": "incubator-shardingsphere",
+            "url": "https://github.com/apache/incubator-shardingsphere",
+            "star": 15,
+            "description": "Distributed database middleware"
+        },
+        {
+            "name": "react-native-share",
+            "url": "https://github.com/react-native-community/react-native-share",
+            "star": 6,
+            "description": "Social share, sending simple data to other apps."
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 77,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 46,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 70,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 306,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "industry-machine-learning",
+            "url": "https://github.com/firmai/industry-machine-learning",
+            "star": 213,
+            "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries."
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 108,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r…"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 196,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "awesome-production-machine-learning",
+            "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+            "star": 143,
+            "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+        },
+        {
+            "name": "The-Flask-Mega-Tutorial-zh",
+            "url": "https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh",
+            "star": 26,
+            "description": "翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程"
+        },
+        {
+            "name": "English-level-up-tips-for-Chinese",
+            "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+            "star": 171,
+            "description": "可能是让你受益匪浅的英语进阶指南"
+        },
+        {
+            "name": "technology_books",
+            "url": "https://github.com/arpitjindal97/technology_books",
+            "star": 91,
+            "description": "Premium eBook free for Geeks"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 108,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "google-cloud-4-words",
+            "url": "https://github.com/gregsramblings/google-cloud-4-words",
+            "star": 17,
+            "description": "The Google Cloud Developer's Cheat Sheet"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "react-navigation",
+            "url": "https://github.com/react-navigation/react-navigation",
+            "star": 59,
+            "description": "Routing and navigation for your React Native apps"
+        },
+        {
+            "name": "Front-End-Checklist",
+            "url": "https://github.com/thedaviddias/Front-End-Checklist",
+            "star": 102,
+            "description": "🗂The perfect Front-End Checklist for modern websites and meticulous developers"
+        },
+        {
+            "name": "franz",
+            "url": "https://github.com/meetfranz/franz",
+            "star": 63,
+            "description": "Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more."
+        },
+        {
+            "name": "vuetify",
+            "url": "https://github.com/vuetifyjs/vuetify",
+            "star": 86,
+            "description": "🐉Material Component Framework for Vue.js 2"
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 33,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "bootstrap-vue",
+            "url": "https://github.com/bootstrap-vue/bootstrap-vue",
+            "star": 11,
+            "description": "BootstrapVue, with over 40 plugins and more than 75 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup."
+        },
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 507,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "junior-recruit-scheduler",
+            "url": "https://github.com/jojoldu/junior-recruit-scheduler",
+            "star": 5,
+            "description": "주니어 개발자 채용 정보"
+        },
+        {
+            "name": "js-framework-benchmark",
+            "url": "https://github.com/krausest/js-framework-benchmark",
+            "star": 4,
+            "description": "A comparison of the perfomance of a few popular javascript frameworks"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 71,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        }
+    ],
+    "html": [
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 22,
+            "description": "Modern Phishing Tool With Advanced Functionality [ Android-Support-Available ]"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 47,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/knative/docs",
+            "star": 1,
+            "description": "User documentation for Knative components"
+        },
+        {
+            "name": "zh.javascript.info",
+            "url": "https://github.com/javascript-tutorial/zh.javascript.info",
+            "star": 5,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "fastclick",
+            "url": "https://github.com/ftlabs/fastclick",
+            "star": 2,
+            "description": "Polyfill to remove click delays on browsers with touch UIs"
+        },
+        {
+            "name": "owasp-mstg",
+            "url": "https://github.com/OWASP/owasp-mstg",
+            "star": 4,
+            "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering."
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 9,
+            "description": "Free Bootstrap 3 Admin Template"
+        },
+        {
+            "name": "theory",
+            "url": "https://github.com/devinmcgloin/theory",
+            "star": 7,
+            "description": "Interesting Papers and Ideas"
+        },
+        {
+            "name": "qifi",
+            "url": "https://github.com/evgeni/qifi",
+            "star": 21,
+            "description": "pure JS WiFi QR Code Generator"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 20,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        }
+    ],
+    "go": [
+        {
+            "name": "rook",
+            "url": "https://github.com/rook/rook",
+            "star": 42,
+            "description": "Storage Orchestration for Kubernetes"
+        },
+        {
+            "name": "cert-manager",
+            "url": "https://github.com/jetstack/cert-manager",
+            "star": 17,
+            "description": "Automatically provision and manage TLS certificates in Kubernetes"
+        },
+        {
+            "name": "grpc-gateway",
+            "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+            "star": 14,
+            "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+        },
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 16,
+            "description": "A Commander for modern Go CLI interactions"
+        },
+        {
+            "name": "nvm-windows",
+            "url": "https://github.com/coreybutler/nvm-windows",
+            "star": 14,
+            "description": "A node.js version management utility for Windows. Ironically written in Go."
+        },
+        {
+            "name": "lindb",
+            "url": "https://github.com/eleme/lindb",
+            "star": 34,
+            "description": "LinDB is a scalable, distributed, high performance, high availability Time Series Database."
+        },
+        {
+            "name": "helm",
+            "url": "https://github.com/helm/helm",
+            "star": 38,
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "client_golang",
+            "url": "https://github.com/prometheus/client_golang",
+            "star": 10,
+            "description": "Prometheus instrumentation library for Go applications"
+        },
+        {
+            "name": "cosmos-sdk",
+            "url": "https://github.com/cosmos/cosmos-sdk",
+            "star": 5,
+            "description": "⛓Blockchain Application Framework✨"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 34,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        }
+    ]
+}

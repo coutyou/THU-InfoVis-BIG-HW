@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-11",
+    "month": 10,
+    "day": 11,
+    "python": [
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 331,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "GitHub-Chinese-Top-Charts",
+            "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+            "star": 1630,
+            "description": "🇨🇳GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐🎉）"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 218,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "d2l-zh",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "star": 108,
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。"
+        },
+        {
+            "name": "python-ds",
+            "url": "https://github.com/prabhupant/python-ds",
+            "star": 100,
+            "description": "Repository for data structure and algorithms in Python"
+        },
+        {
+            "name": "dgl",
+            "url": "https://github.com/dmlc/dgl",
+            "star": 23,
+            "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks."
+        },
+        {
+            "name": "funNLP",
+            "url": "https://github.com/fighting41love/funNLP",
+            "star": 66,
+            "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…"
+        },
+        {
+            "name": "tvm",
+            "url": "https://github.com/dmlc/tvm",
+            "star": 14,
+            "description": "Open deep learning compiler stack for cpu, gpu and specialized accelerators"
+        },
+        {
+            "name": "imagededup",
+            "url": "https://github.com/idealo/imagededup",
+            "star": 243,
+            "description": "😎Finding duplicate images made easy!"
+        },
+        {
+            "name": "google-research",
+            "url": "https://github.com/google-research/google-research",
+            "star": 20,
+            "description": "Google AI Research"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 306,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 92,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "Anime4K",
+            "url": "https://github.com/bloc97/Anime4K",
+            "star": 742,
+            "description": "A High-Quality Real Time Upscaler for Anime Video"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 26,
+            "description": "一款基于代码生成器的JAVA快速开发平台！采用最新技术，前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 134,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 218,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 48,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 162,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 31,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "rocketmq-externals",
+            "url": "https://github.com/apache/rocketmq-externals",
+            "star": 6,
+            "description": "Mirror of Apache RocketMQ (Incubating)"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 104,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 346,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "PLMpapers",
+            "url": "https://github.com/thunlp/PLMpapers",
+            "star": 77,
+            "description": "Must-read Papers on pre-trained language models."
+        },
+        {
+            "name": "awesome-wechat-weapp",
+            "url": "https://github.com/justjavac/awesome-wechat-weapp",
+            "star": 98,
+            "description": "微信小程序开发资源汇总💯"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 117,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "IntelliJ-IDEA-Tutorial",
+            "url": "https://github.com/judasn/IntelliJ-IDEA-Tutorial",
+            "star": 14,
+            "description": "IntelliJ IDEA 简体中文专题教程"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 93,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "awesome-spider",
+            "url": "https://github.com/facert/awesome-spider",
+            "star": 31,
+            "description": "爬虫集合"
+        },
+        {
+            "name": "resilience-engineering",
+            "url": "https://github.com/lorin/resilience-engineering",
+            "star": 16,
+            "description": "Resilience engineering papers"
+        },
+        {
+            "name": "OnJava8",
+            "url": "https://github.com/LingCoder/OnJava8",
+            "star": 23,
+            "description": "《On Java 8》中文版，又名《Java编程思想》 第5版"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 63,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 70,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "mini-tokyo-3d",
+            "url": "https://github.com/nagix/mini-tokyo-3d",
+            "star": 80,
+            "description": "A real-time 3D digital map of Tokyo's public transport system"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 130,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 98,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "XtreamUI",
+            "url": "https://github.com/xtreamui/XtreamUI",
+            "star": 7,
+            "description": "Xtream Codes 2.93 - Admin Interface"
+        },
+        {
+            "name": "wangEditor",
+            "url": "https://github.com/wangfupeng1988/wangEditor",
+            "star": 10,
+            "description": "wangEditor —— 轻量级web富文本框"
+        },
+        {
+            "name": "miniprogram-demo",
+            "url": "https://github.com/wechat-miniprogram/miniprogram-demo",
+            "star": 12,
+            "description": "微信小程序组件 / API / 云开发示例"
+        },
+        {
+            "name": "wechat-app-mall",
+            "url": "https://github.com/EastWorld/wechat-app-mall",
+            "star": 8,
+            "description": "微信小程序商城，微信小程序微店"
+        },
+        {
+            "name": "Sortable",
+            "url": "https://github.com/SortableJS/Sortable",
+            "star": 12,
+            "description": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap."
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 22,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 53,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 12,
+            "description": "Free Bootstrap 3 Admin Template"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 31,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "WebFundamentals",
+            "url": "https://github.com/google/WebFundamentals",
+            "star": 20,
+            "description": "Best practices for modern web development"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 8,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "glTF",
+            "url": "https://github.com/KhronosGroup/glTF",
+            "star": 4,
+            "description": "glTF – Runtime 3D Asset Delivery"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 13,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "ng-alain",
+            "url": "https://github.com/ng-alain/ng-alain",
+            "star": 1,
+            "description": "NG-ZORRO admin panel front-end framework (netlify mirror https://netlify.ng-alain.com/)"
+        },
+        {
+            "name": "books",
+            "url": "https://github.com/Thinkgamer/books",
+            "star": 3,
+            "description": "技术资料分享"
+        }
+    ],
+    "go": [
+        {
+            "name": "beats",
+            "url": "https://github.com/elastic/beats",
+            "star": 11,
+            "description": "🐠Beats - Lightweight shippers for Elasticsearch & Logstash"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 36,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "pan-light",
+            "url": "https://github.com/peterq/pan-light",
+            "star": 48,
+            "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+            "name": "advanced-go-programming-book",
+            "url": "https://github.com/chai2010/advanced-go-programming-book",
+            "star": 17,
+            "description": "📚《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+        },
+        {
+            "name": "go-admin",
+            "url": "https://github.com/chenhg5/go-admin",
+            "star": 111,
+            "description": "a dataviz tool for golang developer which supports most framework"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/json-iterator/go",
+            "star": 16,
+            "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\""
+        },
+        {
+            "name": "muon",
+            "url": "https://github.com/ImVexed/muon",
+            "star": 167,
+            "description": "GPU based Electron on a diet"
+        },
+        {
+            "name": "go-elasticsearch",
+            "url": "https://github.com/elastic/go-elasticsearch",
+            "star": 9,
+            "description": "The official Go client for Elasticsearch"
+        },
+        {
+            "name": "vitess",
+            "url": "https://github.com/vitessio/vitess",
+            "star": 13,
+            "description": "Vitess is a database clustering system for horizontal scaling of MySQL."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 50,
+            "description": "The Go programming language"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-27",
+    "month": 11,
+    "day": 27,
+    "python": [
+        {
+            "name": "geo-heatmap",
+            "url": "https://github.com/luka1199/geo-heatmap",
+            "star": 77,
+            "description": "🗺Generate an interactive geo heatmap from your Google location data"
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 70,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 34,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "makesite",
+            "url": "https://github.com/sunainapai/makesite",
+            "star": 49,
+            "description": "Simple, lightweight, and magic-free static site/blog generator for Python coders"
+        },
+        {
+            "name": "nni",
+            "url": "https://github.com/microsoft/nni",
+            "star": 23,
+            "description": "An open source AutoML toolkit for neural architecture search and hyper-parameter tuning."
+        },
+        {
+            "name": "bokeh",
+            "url": "https://github.com/bokeh/bokeh",
+            "star": 13,
+            "description": "Interactive Data Visualization in the browser, from Python"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 49,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "readthedocs.org",
+            "url": "https://github.com/readthedocs/readthedocs.org",
+            "star": 4,
+            "description": "The source code that powers readthedocs.org"
+        },
+        {
+            "name": "SlowFast",
+            "url": "https://github.com/facebookresearch/SlowFast",
+            "star": 10,
+            "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models."
+        },
+        {
+            "name": "Ultimate-Facebook-Scraper",
+            "url": "https://github.com/harismuneer/Ultimate-Facebook-Scraper",
+            "star": 133,
+            "description": "🤖A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc)."
+        }
+    ],
+    "java": [
+        {
+            "name": "Jetpack-MVVM-Best-Practice",
+            "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+            "star": 54,
+            "description": "是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 110,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "react-native-camera",
+            "url": "https://github.com/react-native-community/react-native-camera",
+            "star": 7,
+            "description": "A Camera component for React Native. Also supports barcode scanning!"
+        },
+        {
+            "name": "cordova-plugin-background-mode",
+            "url": "https://github.com/katzer/cordova-plugin-background-mode",
+            "star": 0,
+            "description": "Keep app running in background"
+        },
+        {
+            "name": "cordova-plugin-local-notifications",
+            "url": "https://github.com/katzer/cordova-plugin-local-notifications",
+            "star": 5,
+            "description": "Cordova Local-Notification Plugin"
+        },
+        {
+            "name": "flowable-engine",
+            "url": "https://github.com/flowable/flowable-engine",
+            "star": 6,
+            "description": "A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users."
+        },
+        {
+            "name": "pulsar",
+            "url": "https://github.com/apache/pulsar",
+            "star": 7,
+            "description": "Apache Pulsar - distributed pub-sub messaging system"
+        },
+        {
+            "name": "spring-kafka",
+            "url": "https://github.com/spring-projects/spring-kafka",
+            "star": 1,
+            "description": "Provides Familiar Spring Abstractions for Apache Kafka"
+        },
+        {
+            "name": "mapbox-navigation-android",
+            "url": "https://github.com/mapbox/mapbox-navigation-android",
+            "star": 0,
+            "description": "Mapbox Navigation SDK for Android"
+        },
+        {
+            "name": "nuxeo",
+            "url": "https://github.com/nuxeo/nuxeo",
+            "star": 0,
+            "description": "Content management platform to build modern business applications"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 2,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "Production-Level-Deep-Learning",
+            "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+            "star": 259,
+            "description": "A guideline for building practical production-level deep learning systems to be deployed in real world applications."
+        },
+        {
+            "name": "eng-practices",
+            "url": "https://github.com/google/eng-practices",
+            "star": 16,
+            "description": "Google's Engineering Practices documentation"
+        },
+        {
+            "name": "vector-tile-spec",
+            "url": "https://github.com/mapbox/vector-tile-spec",
+            "star": 0,
+            "description": "Mapbox Vector Tile specification"
+        },
+        {
+            "name": "KnowledgeGraphCourse",
+            "url": "https://github.com/npubird/KnowledgeGraphCourse",
+            "star": 13,
+            "description": "东南大学《知识图谱》研究生课程"
+        },
+        {
+            "name": "benchmark_results",
+            "url": "https://github.com/foolwood/benchmark_results",
+            "star": 3,
+            "description": "Visual Tracking Paper List"
+        },
+        {
+            "name": "996.Leave",
+            "url": "https://github.com/623637646/996.Leave",
+            "star": 2,
+            "description": "逃离996"
+        },
+        {
+            "name": "AMD_Vanilla",
+            "url": "https://github.com/AMD-OSX/AMD_Vanilla",
+            "star": 3,
+            "description": "Native AMD macOS via Clover & OpenCore"
+        },
+        {
+            "name": "Flutter-Course-Resources",
+            "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+            "star": 7,
+            "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+        },
+        {
+            "name": "ansible-role-mysql",
+            "url": "https://github.com/geerlingguy/ansible-role-mysql",
+            "star": 0,
+            "description": "Ansible Role - MySQL"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "cypress",
+            "url": "https://github.com/cypress-io/cypress",
+            "star": 30,
+            "description": "Fast, easy and reliable testing for anything that runs in a browser."
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 113,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer",
+            "star": 56,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "monaco-editor",
+            "url": "https://github.com/microsoft/monaco-editor",
+            "star": 10,
+            "description": "A browser based code editor"
+        },
+        {
+            "name": "plugins",
+            "url": "https://github.com/rollup/plugins",
+            "star": 5,
+            "description": "🍣The one-stop shop for official Rollup plugins"
+        },
+        {
+            "name": "jitsi-meet",
+            "url": "https://github.com/jitsi/jitsi-meet",
+            "star": 12,
+            "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+        },
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 5,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        },
+        {
+            "name": "pdfmake",
+            "url": "https://github.com/bpampuch/pdfmake",
+            "star": 12,
+            "description": "Client/server side PDF printing in pure JavaScript"
+        },
+        {
+            "name": "pai",
+            "url": "https://github.com/microsoft/pai",
+            "star": 2,
+            "description": "Resource scheduling and cluster management for AI"
+        },
+        {
+            "name": "formio.js",
+            "url": "https://github.com/formio/formio.js",
+            "star": 2,
+            "description": "JavaScript powered Forms with JSON Form Builder"
+        }
+    ],
+    "html": [
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 8,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 2,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        },
+        {
+            "name": "rellax",
+            "url": "https://github.com/dixonandmoe/rellax",
+            "star": 5,
+            "description": "Lightweight, vanilla javascript parallax library"
+        },
+        {
+            "name": "stickyfill",
+            "url": "https://github.com/wilddeer/stickyfill",
+            "star": 3,
+            "description": "Polyfill for CSS `position: sticky`"
+        },
+        {
+            "name": "chosen",
+            "url": "https://github.com/harvesthq/chosen",
+            "star": 2,
+            "description": "Chosen is a library for making long, unwieldy select boxes more friendly."
+        },
+        {
+            "name": "bibanon",
+            "url": "https://github.com/bibanon/bibanon",
+            "star": 0,
+            "description": "The Bibliotheca Anonoma: A wikified library of the internet's treasures. Researching Something Awful, 2channel, 4chan, and other imageboard/textboard communities."
+        },
+        {
+            "name": "go101",
+            "url": "https://github.com/go101/go101",
+            "star": 4,
+            "description": "An online book focusing on Go syntax/semantics."
+        },
+        {
+            "name": "SynapseX",
+            "url": "https://github.com/LoukaMB/SynapseX",
+            "star": 0,
+            "description": "Synapse X information, API and bug tracker."
+        },
+        {
+            "name": "twofactorauth",
+            "url": "https://github.com/2factorauth/twofactorauth",
+            "star": 3,
+            "description": "List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software."
+        },
+        {
+            "name": "monaco-editor-samples",
+            "url": "https://github.com/microsoft/monaco-editor-samples",
+            "star": 0,
+            "description": "Samples for using the Monaco Editor"
+        }
+    ],
+    "go": [
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 44,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 8,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "redis",
+            "url": "https://github.com/go-redis/redis",
+            "star": 13,
+            "description": "Type-safe Redis client for Golang"
+        },
+        {
+            "name": "gin-swagger",
+            "url": "https://github.com/swaggo/gin-swagger",
+            "star": 6,
+            "description": "gin middleware to automatically generate RESTful API documentation with Swagger 2.0."
+        },
+        {
+            "name": "go-admin",
+            "url": "https://github.com/GoAdminGroup/go-admin",
+            "star": 18,
+            "description": "A dataviz framework help gopher to build a admin panel in ten minutes"
+        },
+        {
+            "name": "websocket",
+            "url": "https://github.com/gorilla/websocket",
+            "star": 15,
+            "description": "A fast, well-tested and widely used WebSocket implementation for Go."
+        },
+        {
+            "name": "go-swagger",
+            "url": "https://github.com/go-swagger/go-swagger",
+            "star": 4,
+            "description": "Swagger 2.0 implementation for go"
+        },
+        {
+            "name": "chat",
+            "url": "https://github.com/tinode/chat",
+            "star": 14,
+            "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots"
+        },
+        {
+            "name": "go-sqlmock",
+            "url": "https://github.com/DATA-DOG/go-sqlmock",
+            "star": 6,
+            "description": "Sql mock driver for golang to test database interactions"
+        },
+        {
+            "name": "dep",
+            "url": "https://github.com/golang/dep",
+            "star": 6,
+            "description": "Go dependency management tool"
+        }
+    ]
+}

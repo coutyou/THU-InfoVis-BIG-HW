@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-10",
+    "month": 8,
+    "day": 10,
+    "python": [
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 98,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "MedicalNet",
+            "url": "https://github.com/Tencent/MedicalNet",
+            "star": 41,
+            "description": "Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project provides a series of 3D-ResNet pre-trained models and relative code."
+        },
+        {
+            "name": "delta",
+            "url": "https://github.com/didi/delta",
+            "star": 61,
+            "description": "DELTA is a deep learning based natural language and speech processing platform."
+        },
+        {
+            "name": "tlroadmap",
+            "url": "https://github.com/tlbootcamp/tlroadmap",
+            "star": 39,
+            "description": "👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов"
+        },
+        {
+            "name": "UGATIT-pytorch",
+            "url": "https://github.com/znxlwm/UGATIT-pytorch",
+            "star": 43,
+            "description": "Official PyTorch implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation"
+        },
+        {
+            "name": "celery",
+            "url": "https://github.com/celery/celery",
+            "star": 7,
+            "description": "Distributed Task Queue (development branch)"
+        },
+        {
+            "name": "redash",
+            "url": "https://github.com/getredash/redash",
+            "star": 7,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+        },
+        {
+            "name": "mmdetection",
+            "url": "https://github.com/open-mmlab/mmdetection",
+            "star": 28,
+            "description": "Open MMLab Detection Toolbox and Benchmark"
+        },
+        {
+            "name": "pytorch-tutorial",
+            "url": "https://github.com/yunjey/pytorch-tutorial",
+            "star": 14,
+            "description": "PyTorch Tutorial for Deep Learning Researchers"
+        },
+        {
+            "name": "saleor",
+            "url": "https://github.com/mirumee/saleor",
+            "star": 7,
+            "description": "A modular, high performance e-commerce storefront built with Python, GraphQL, Django, and ReactJS."
+        }
+    ],
+    "java": [
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 231,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://bt.biedian.me"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 51,
+            "description": "基于SpringBoot+Dubbo构建的电商平台-微服务架构"
+        },
+        {
+            "name": "rabbitmq-tutorials",
+            "url": "https://github.com/rabbitmq/rabbitmq-tutorials",
+            "star": 33,
+            "description": "Tutorials for using RabbitMQ in various ways"
+        },
+        {
+            "name": "hutool",
+            "url": "https://github.com/looly/hutool",
+            "star": 17,
+            "description": "A set of tools that keep Java sweet."
+        },
+        {
+            "name": "cat",
+            "url": "https://github.com/dianping/cat",
+            "star": 33,
+            "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 52,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "HanLP",
+            "url": "https://github.com/hankcs/HanLP",
+            "star": 25,
+            "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁"
+        },
+        {
+            "name": "pulsar",
+            "url": "https://github.com/apache/pulsar",
+            "star": 3,
+            "description": "Apache Pulsar - distributed pub-sub messaging system"
+        },
+        {
+            "name": "react-native-camera",
+            "url": "https://github.com/react-native-community/react-native-camera",
+            "star": 1,
+            "description": "A Camera component for React Native. Also supports barcode scanning!"
+        },
+        {
+            "name": "seata",
+            "url": "https://github.com/seata/seata",
+            "star": 11,
+            "description": "🔥Seata is an easy-to-use, high-performance, open source distributed transaction solution."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "technology_books",
+            "url": "https://github.com/arpitjindal97/technology_books",
+            "star": 24,
+            "description": "Premium eBook free for Geeks"
+        },
+        {
+            "name": "leeml-notes",
+            "url": "https://github.com/datawhalechina/leeml-notes",
+            "star": 240,
+            "description": "李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 142,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "StabilityGuide",
+            "url": "https://github.com/StabilityMan/StabilityGuide",
+            "star": 15,
+            "description": "【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。"
+        },
+        {
+            "name": "corteza-docs",
+            "url": "https://github.com/cortezaproject/corteza-docs",
+            "star": 3,
+            "description": ""
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 35,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "petition",
+            "url": "https://github.com/otvorete/petition",
+            "star": 50,
+            "description": "ПОКАЖЕТЕ НИ КОДА!"
+        },
+        {
+            "name": "LiteratureDL4Graph",
+            "url": "https://github.com/DeepGraphLearning/LiteratureDL4Graph",
+            "star": 31,
+            "description": ""
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 23,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "YCBlogs",
+            "url": "https://github.com/yangchong211/YCBlogs",
+            "star": 3,
+            "description": "技术博客笔记大汇总【15年10月到至今】，包括Java基础及深入知识点，Android技术博客，Python，Go学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字]，转载请注明出处，谢谢！"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "dsa.js-data-structures-algorithms-javascript",
+            "url": "https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript",
+            "star": 180,
+            "description": "Data Structures and Algorithms explained and implemented in JavaScript"
+        },
+        {
+            "name": "remote-jobs",
+            "url": "https://github.com/remoteintech/remote-jobs",
+            "star": 91,
+            "description": "A list of semi to fully remote-friendly companies in tech."
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 58,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "uni-app",
+            "url": "https://github.com/dcloudio/uni-app",
+            "star": 41,
+            "description": "uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架"
+        },
+        {
+            "name": "cosmoscout-vr",
+            "url": "https://github.com/cosmoscout/cosmoscout-vr",
+            "star": 13,
+            "description": "A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time."
+        },
+        {
+            "name": "next.js",
+            "url": "https://github.com/zeit/next.js",
+            "star": 35,
+            "description": "The React Framework"
+        },
+        {
+            "name": "fullPage.js",
+            "url": "https://github.com/alvarotrigo/fullPage.js",
+            "star": 19,
+            "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple"
+        },
+        {
+            "name": "mc.js",
+            "url": "https://github.com/ian13456/mc.js",
+            "star": 109,
+            "description": "Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS."
+        },
+        {
+            "name": "MagicMirror",
+            "url": "https://github.com/MichMich/MagicMirror",
+            "star": 55,
+            "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 62,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 31,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "GTFOBins.github.io",
+            "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+            "star": 35,
+            "description": "Curated list of Unix binaries that can be exploited to bypass system security restrictions"
+        },
+        {
+            "name": "Phishing-Simulation",
+            "url": "https://github.com/jenyraval/Phishing-Simulation",
+            "star": 4,
+            "description": "Phishing Simulation mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 6,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 4,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "glTF",
+            "url": "https://github.com/KhronosGroup/glTF",
+            "star": 1,
+            "description": "glTF – Runtime 3D Asset Delivery"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 7,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 6,
+            "description": "python 重构 sprov-ui，一个船新的 v2ray 面板，给你一种船新的体验"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 2,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/letsencrypt/website",
+            "star": 3,
+            "description": "Let's Encrypt Website and Documentation"
+        }
+    ],
+    "go": [
+        {
+            "name": "octant",
+            "url": "https://github.com/vmware/octant",
+            "star": 170,
+            "description": "A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters."
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 164,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "istio",
+            "url": "https://github.com/istio/istio",
+            "star": 18,
+            "description": "Connect, secure, control, and observe services."
+        },
+        {
+            "name": "TopList",
+            "url": "https://github.com/timeromantic/TopList",
+            "star": 150,
+            "description": "今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html"
+        },
+        {
+            "name": "mux",
+            "url": "https://github.com/gorilla/mux",
+            "star": 8,
+            "description": "A powerful HTTP router and URL matcher for building Go web servers with🦍"
+        },
+        {
+            "name": "kratos",
+            "url": "https://github.com/bilibili/kratos",
+            "star": 7,
+            "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。"
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 11,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "aws-lambda-go",
+            "url": "https://github.com/aws/aws-lambda-go",
+            "star": 6,
+            "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions."
+        },
+        {
+            "name": "community",
+            "url": "https://github.com/kubernetes/community",
+            "star": 59,
+            "description": "Kubernetes community content"
+        },
+        {
+            "name": "tendermint",
+            "url": "https://github.com/tendermint/tendermint",
+            "star": 4,
+            "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+        }
+    ]
+}

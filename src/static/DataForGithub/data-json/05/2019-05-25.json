@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-25",
+    "month": 5,
+    "day": 25,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 273,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "pythia",
+            "url": "https://github.com/facebookresearch/pythia",
+            "star": 130,
+            "description": "A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)"
+        },
+        {
+            "name": "pysot",
+            "url": "https://github.com/STVIR/pysot",
+            "star": 113,
+            "description": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask."
+        },
+        {
+            "name": "machine-learning-course",
+            "url": "https://github.com/machinelearningmindset/machine-learning-course",
+            "star": 100,
+            "description": "💬Machine Learning Course with Python"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 58,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 66,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "DeleteFB",
+            "url": "https://github.com/weskerfoot/DeleteFB",
+            "star": 71,
+            "description": "Selenium script to delete all of your Facebook wall posts"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 56,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "cpython",
+            "url": "https://github.com/python/cpython",
+            "star": 50,
+            "description": "The Python programming language"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 57,
+            "description": "A collective list of free APIs for use in software and web development."
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 328,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 193,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 156,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 115,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "sia-task",
+            "url": "https://github.com/siaorg/sia-task",
+            "star": 79,
+            "description": "微服务任务调度框架"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 74,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "open_nsfw_android",
+            "url": "https://github.com/devzwy/open_nsfw_android",
+            "star": 55,
+            "description": "色情图片离线识别，基于TensorFlow实现。识别只需200ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open_nsfw移植，tflite（6M）为训练好的模型，该模型文件可用于iOS、java、C++等平台"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 47,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 44,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 42,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 1109,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 127,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful."
+        },
+        {
+            "name": "polarbearrepo",
+            "url": "https://github.com/SandboxEscaper/polarbearrepo",
+            "star": 101,
+            "description": ""
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 85,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome-wechat-weapp",
+            "url": "https://github.com/justjavac/awesome-wechat-weapp",
+            "star": 89,
+            "description": "微信小程序开发资源汇总💯"
+        },
+        {
+            "name": "babel-handbook",
+            "url": "https://github.com/jamiebuilds/babel-handbook",
+            "star": 81,
+            "description": "📘A guided handbook on how to use Babel and how to create plugins for Babel."
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 75,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 56,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "hacker-laws-zh",
+            "url": "https://github.com/nusr/hacker-laws-zh",
+            "star": 64,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 55,
+            "description": "Roadmap to becoming a web developer in 2019"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "gitfolio",
+            "url": "https://github.com/imfunniee/gitfolio",
+            "star": 264,
+            "description": "personal website + blog for every github user"
+        },
+        {
+            "name": "dsa.js",
+            "url": "https://github.com/amejiarosario/dsa.js",
+            "star": 235,
+            "description": "Data Structures and Algorithms explained and implemented in JavaScript"
+        },
+        {
+            "name": "scar",
+            "url": "https://github.com/cloudkj/scar",
+            "star": 224,
+            "description": "Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains."
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 174,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 150,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 141,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "js-cloudimage-360-view",
+            "url": "https://github.com/scaleflex/js-cloudimage-360-view",
+            "star": 140,
+            "description": "Engage your customers with a stunning 360 view of your products"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 136,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "WebGL-Fluid-Simulation",
+            "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+            "star": 109,
+            "description": "Play with fluids in your browser (works even on mobile)"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 98,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        }
+    ],
+    "html": [
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 134,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "Terminus2049.github.io",
+            "url": "https://github.com/Terminus2049/Terminus2049.github.io",
+            "star": 39,
+            "description": "No more 404"
+        },
+        {
+            "name": "design-blocks",
+            "url": "https://github.com/froala/design-blocks",
+            "star": 33,
+            "description": "A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites."
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 31,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 26,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 26,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 16,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 10,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 12,
+            "description": "Library for fast text representation and classification."
+        }
+    ],
+    "go": [
+        {
+            "name": "Gaea",
+            "url": "https://github.com/XiaoMi/Gaea",
+            "star": 359,
+            "description": "Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team."
+        },
+        {
+            "name": "simple-computer",
+            "url": "https://github.com/djhworld/simple-computer",
+            "star": 115,
+            "description": "the scott CPU from \"But How Do It Know?\" by J. Clark Scott"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 71,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "rio",
+            "url": "https://github.com/rancher/rio",
+            "star": 67,
+            "description": "Kubernetes based MicroPaaS"
+        },
+        {
+            "name": "VictoriaMetrics",
+            "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+            "star": 64,
+            "description": "VictoriaMetrics - high-performance and cost-effective time series database"
+        },
+        {
+            "name": "grpcurl",
+            "url": "https://github.com/fullstorydev/grpcurl",
+            "star": 63,
+            "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers"
+        },
+        {
+            "name": "gos",
+            "url": "https://github.com/storyicon/gos",
+            "star": 58,
+            "description": "Gos: Armed Golang💪( solutions for go module, goproxy, cross compilation, etc.)"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 51,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 52,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "trivy",
+            "url": "https://github.com/knqyf263/trivy",
+            "star": 43,
+            "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI"
+        }
+    ]
+}

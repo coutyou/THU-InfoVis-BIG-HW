@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-22",
+    "month": 11,
+    "day": 22,
+    "python": [
+        {
+            "name": "3d-ken-burns",
+            "url": "https://github.com/sniklaus/3d-ken-burns",
+            "star": 70,
+            "description": "an implementation of 3D Ken Burns Effect from a Single Image using PyTorch"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 178,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 40,
+            "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "PayloadsAllTheThings",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "star": 14,
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF"
+        },
+        {
+            "name": "flair",
+            "url": "https://github.com/zalandoresearch/flair",
+            "star": 12,
+            "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
+        },
+        {
+            "name": "mmdetection",
+            "url": "https://github.com/open-mmlab/mmdetection",
+            "star": 10,
+            "description": "Open MMLab Detection Toolbox and Benchmark"
+        },
+        {
+            "name": "pytorch-lightning",
+            "url": "https://github.com/williamFalcon/pytorch-lightning",
+            "star": 13,
+            "description": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate"
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 61,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        },
+        {
+            "name": "rasa",
+            "url": "https://github.com/RasaHQ/rasa",
+            "star": 10,
+            "description": "💬Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 68,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        }
+    ],
+    "java": [
+        {
+            "name": "univocity-trader",
+            "url": "https://github.com/uniVocity/univocity-trader",
+            "star": 32,
+            "description": "open-source trading framework for java, supports backtesting and live trading with exchanges"
+        },
+        {
+            "name": "servicecomb-pack",
+            "url": "https://github.com/apache/servicecomb-pack",
+            "star": 21,
+            "description": "Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent ."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 162,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "flink-learning",
+            "url": "https://github.com/zhisheng17/flink-learning",
+            "star": 131,
+            "description": "flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。"
+        },
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 21,
+            "description": "大数据入门指南⭐️"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 293,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 79,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "servicecomb-java-chassis",
+            "url": "https://github.com/apache/servicecomb-java-chassis",
+            "star": 4,
+            "description": "ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features"
+        },
+        {
+            "name": "material-components-android",
+            "url": "https://github.com/material-components/material-components-android",
+            "star": 18,
+            "description": "Modular and customizable Material Design UI components for Android"
+        },
+        {
+            "name": "javafuzz",
+            "url": "https://github.com/fuzzitdev/javafuzz",
+            "star": 15,
+            "description": "coverage guided fuzz testing for java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 281,
+            "description": "【互联网一线大厂Java 工程师面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 223,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 68,
+            "description": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+        },
+        {
+            "name": "physical-docs",
+            "url": "https://github.com/trustedsec/physical-docs",
+            "star": 16,
+            "description": "This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments."
+        },
+        {
+            "name": "Best-websites-a-programmer-should-visit",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "star": 11,
+            "description": "🔗Some useful websites for programmers."
+        },
+        {
+            "name": "react-typescript-cheatsheet",
+            "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+            "star": 24,
+            "description": "Cheatsheets for experienced React developers getting started with TypeScript"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 10,
+            "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/sorrycc/blog",
+            "star": 10,
+            "description": "💡"
+        },
+        {
+            "name": "iCloudBypassCA",
+            "url": "https://github.com/crazymind90/iCloudBypassCA",
+            "star": 5,
+            "description": ""
+        },
+        {
+            "name": "okd",
+            "url": "https://github.com/openshift/okd",
+            "star": 4,
+            "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "jquery",
+            "url": "https://github.com/jquery/jquery",
+            "star": 19,
+            "description": "jQuery JavaScript Library"
+        },
+        {
+            "name": "umi",
+            "url": "https://github.com/umijs/umi",
+            "star": 27,
+            "description": "🌋Pluggable enterprise-level react application framework."
+        },
+        {
+            "name": "Sortable",
+            "url": "https://github.com/SortableJS/Sortable",
+            "star": 35,
+            "description": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap."
+        },
+        {
+            "name": "clean-code-javascript",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+            "star": 37,
+            "description": "🛁Clean Code concepts adapted for JavaScript"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 109,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 68,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "cypress",
+            "url": "https://github.com/cypress-io/cypress",
+            "star": 30,
+            "description": "Fast, easy and reliable testing for anything that runs in a browser."
+        },
+        {
+            "name": "generator-jhipster",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "star": 12,
+            "description": "Open Source application platform for creating Spring Boot + Angular/React projects in seconds!"
+        },
+        {
+            "name": "bootstrap-vue",
+            "url": "https://github.com/bootstrap-vue/bootstrap-vue",
+            "star": 12,
+            "description": "BootstrapVue, with over 40 plugins and more than 80 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup."
+        },
+        {
+            "name": "styled-components",
+            "url": "https://github.com/styled-components/styled-components",
+            "star": 27,
+            "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress💅"
+        }
+    ],
+    "html": [
+        {
+            "name": "500LineorLess_CN",
+            "url": "https://github.com/HT524/500LineorLess_CN",
+            "star": 15,
+            "description": "500 line or less 中文翻译计划。"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 21,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "3d-force-graph",
+            "url": "https://github.com/vasturiano/3d-force-graph",
+            "star": 4,
+            "description": "3D force-directed graph component using ThreeJS/WebGL"
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/digitalocean/nginxconfig.io",
+            "star": 15,
+            "description": "⚙️NGiИX config generator on steroids💉"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 3,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "manual",
+            "url": "https://github.com/v2ray/manual",
+            "star": 1,
+            "description": "Source code for https://www.v2ray.com/"
+        },
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 4,
+            "description": "The Ethereum Improvement Proposal repository"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 5,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "android_interview",
+            "url": "https://github.com/LRH1993/android_interview",
+            "star": 4,
+            "description": "gitbook地址"
+        },
+        {
+            "name": "ctf-wiki",
+            "url": "https://github.com/ctf-wiki/ctf-wiki",
+            "star": 4,
+            "description": "CTF Wiki Online. Come and join us, we need you!"
+        }
+    ],
+    "go": [
+        {
+            "name": "nebula",
+            "url": "https://github.com/slackhq/nebula",
+            "star": 484,
+            "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
+        },
+        {
+            "name": "bfe",
+            "url": "https://github.com/baidu/bfe",
+            "star": 242,
+            "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 63,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 74,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 14,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "echo",
+            "url": "https://github.com/labstack/echo",
+            "star": 12,
+            "description": "High performance, minimalist Go web framework"
+        },
+        {
+            "name": "sarama",
+            "url": "https://github.com/Shopify/sarama",
+            "star": 9,
+            "description": "Sarama is a Go library for Apache Kafka 0.8, and up."
+        },
+        {
+            "name": "telegraf",
+            "url": "https://github.com/influxdata/telegraf",
+            "star": 11,
+            "description": "The plugin-driven server agent for collecting & reporting metrics."
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 5,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 38,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-01",
+    "month": 7,
+    "day": 1,
+    "python": [
+        {
+            "name": "byteps",
+            "url": "https://github.com/bytedance/byteps",
+            "star": 158,
+            "description": "A high performance and general PS framework for distributed training"
+        },
+        {
+            "name": "machine_learning_examples",
+            "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+            "star": 78,
+            "description": "A collection of machine learning examples and tutorials."
+        },
+        {
+            "name": "Infosec_Reference",
+            "url": "https://github.com/rmusser01/Infosec_Reference",
+            "star": 69,
+            "description": "An Information Security Reference That Doesn't Suck"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 438,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 31,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "deepfakes",
+            "url": "https://github.com/llSourcell/deepfakes",
+            "star": 5,
+            "description": "This is the code for \"DeepFakes\" by Siraj Raval on Youtube"
+        },
+        {
+            "name": "meshroom",
+            "url": "https://github.com/alicevision/meshroom",
+            "star": 7,
+            "description": "3D Reconstruction Software"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 51,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "hub",
+            "url": "https://github.com/tensorflow/hub",
+            "star": 4,
+            "description": "A library for transfer learning by reusing parts of TensorFlow models."
+        },
+        {
+            "name": "pandas-profiling",
+            "url": "https://github.com/pandas-profiling/pandas-profiling",
+            "star": 10,
+            "description": "Create HTML profiling reports from pandas DataFrame objects"
+        }
+    ],
+    "java": [
+        {
+            "name": "thingsboard",
+            "url": "https://github.com/thingsboard/thingsboard",
+            "star": 75,
+            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 8,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "MinecraftForge",
+            "url": "https://github.com/MinecraftForge/MinecraftForge",
+            "star": 6,
+            "description": "Modifications to the Minecraft base files to assist in compatibility between mods."
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 49,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 212,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 127,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "MyBookshelf",
+            "url": "https://github.com/gedoor/MyBookshelf",
+            "star": 17,
+            "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+        },
+        {
+            "name": "guice",
+            "url": "https://github.com/google/guice",
+            "star": 8,
+            "description": "Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google."
+        },
+        {
+            "name": "lucene-solr",
+            "url": "https://github.com/apache/lucene-solr",
+            "star": 6,
+            "description": "Mirror of Apache Lucene + Solr"
+        },
+        {
+            "name": "cas",
+            "url": "https://github.com/apereo/cas",
+            "star": 3,
+            "description": "Apereo CAS - Enterprise Single Sign On for all earthlings and beyond."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Behinder",
+            "url": "https://github.com/rebeyond/Behinder",
+            "star": 41,
+            "description": "“冰蝎”动态二进制加密网站管理客户端"
+        },
+        {
+            "name": "xray",
+            "url": "https://github.com/chaitin/xray",
+            "star": 53,
+            "description": "xray 安全评估工具"
+        },
+        {
+            "name": "awesome-community-detection",
+            "url": "https://github.com/benedekrozemberczki/awesome-community-detection",
+            "star": 43,
+            "description": "A curated list of community detection research papers with implementations."
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 96,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "learnapidoc-ru",
+            "url": "https://github.com/docops-hq/learnapidoc-ru",
+            "star": 10,
+            "description": "Курс по документированию API. Вольный перевод курса https://idratherbewriting.com/learnapidoc/, составленного Томом Джонсоном, техническим писателем Amazon."
+        },
+        {
+            "name": "bugbounty-cheatsheet",
+            "url": "https://github.com/EdOverflow/bugbounty-cheatsheet",
+            "star": 9,
+            "description": "A list of interesting payloads, tips and tricks for bug bounty hunters."
+        },
+        {
+            "name": "awesome-go-cn",
+            "url": "https://github.com/yinggaozhen/awesome-go-cn",
+            "star": 26,
+            "description": "一个很棒的Go框架、库和软件的中文收录大全。⏰脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。"
+        },
+        {
+            "name": "Learn_Machine_Learning_in_3_Months",
+            "url": "https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months",
+            "star": 8,
+            "description": "This is the code for \"Learn Machine Learning in 3 Months\" by Siraj Raval on Youtube"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 46,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "technology-talk",
+            "url": "https://github.com/aalansehaiyang/technology-talk",
+            "star": 35,
+            "description": "汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "opencti",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "star": 128,
+            "description": "Open Cyber Threat Intelligence Platform"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 398,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 47,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 297,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 90,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "complete-node-bootcamp",
+            "url": "https://github.com/jonasschmedtmann/complete-node-bootcamp",
+            "star": 23,
+            "description": "Starter files, final projects and FAQ for my Complete Node.js Bootcamp"
+        },
+        {
+            "name": "camp",
+            "url": "https://github.com/ipfs/camp",
+            "star": 29,
+            "description": "🏕IPFS Camp is a 3 day hacker retreat designed for the builders of the Distributed Web."
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 57,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "send",
+            "url": "https://github.com/mozilla/send",
+            "star": 9,
+            "description": "Simple, private file sharing from the makers of Firefox"
+        },
+        {
+            "name": "discord.js",
+            "url": "https://github.com/discordjs/discord.js",
+            "star": 13,
+            "description": "A powerful JavaScript library for interacting with the Discord API"
+        }
+    ],
+    "html": [
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 88,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 67,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 10,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "Intro-to-Data-APIs-JS",
+            "url": "https://github.com/CodingTrain/Intro-to-Data-APIs-JS",
+            "star": 0,
+            "description": "Working with Data and APIs in JavaScript"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 36,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 4,
+            "description": "Modern Phishing Tool With Advanced Functionality [ Android-Support-Available ]"
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 2,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 7,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 2,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "ru.javascript.info",
+            "url": "https://github.com/javascript-tutorial/ru.javascript.info",
+            "star": 3,
+            "description": "Современный учебник JavaScript"
+        }
+    ],
+    "go": [
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 40,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "mux",
+            "url": "https://github.com/gorilla/mux",
+            "star": 22,
+            "description": "A powerful HTTP router and URL matcher for building Go web servers with🦍"
+        },
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 11,
+            "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 29,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 36,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "code",
+            "url": "https://github.com/goinaction/code",
+            "star": 18,
+            "description": "Source Code for Go In Action examples"
+        },
+        {
+            "name": "LeetCode-Go",
+            "url": "https://github.com/halfrost/LeetCode-Go",
+            "star": 44,
+            "description": "✅Solutions to LeetCode by Go, 100% test coverage."
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 32,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 9,
+            "description": "An open source, general-purpose policy engine."
+        },
+        {
+            "name": "chainlink",
+            "url": "https://github.com/smartcontractkit/chainlink",
+            "star": 7,
+            "description": "node of the decentralized oracle network, bridging on and off-chain computation"
+        }
+    ]
+}

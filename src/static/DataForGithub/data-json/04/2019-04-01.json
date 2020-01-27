@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-01",
+    "month": 4,
+    "day": 1,
+    "python": [
+        {
+            "name": "Python-crawler-tutorial-starts-from-zero",
+            "url": "https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero",
+            "star": 289,
+            "description": "python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架"
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 167,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "pyright",
+            "url": "https://github.com/Microsoft/pyright",
+            "star": 96,
+            "description": "Static type checker for Python"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 79,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 58,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "instantbox",
+            "url": "https://github.com/instantbox/instantbox",
+            "star": 62,
+            "description": "Get a clean, ready-to-go Linux box in seconds."
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 53,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "RW_Password",
+            "url": "https://github.com/r35tart/RW_Password",
+            "star": 48,
+            "description": "此项目用来提取收集以往泄露的密码中符合条件的强弱密码"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 49,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "public-speaking-with-meaning",
+            "url": "https://github.com/xiaolai/public-speaking-with-meaning",
+            "star": 45,
+            "description": "《我也有话要说》—— 普通人的当众讲话技能"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 146,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 49,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 41,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 41,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 34,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 31,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 25,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "SpringBoot-Learning",
+            "url": "https://github.com/dyc87112/SpringBoot-Learning",
+            "star": 30,
+            "description": "Spring Boot基础教程，Spring Boot 2.x版本连载中！！！"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 31,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "poc-graphql",
+            "url": "https://github.com/righettod/poc-graphql",
+            "star": 34,
+            "description": "Research on GraphQL from an AppSec point of view."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 998,
+            "description": "955 不加班的公司名单"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 208,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 188,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "notes",
+            "url": "https://github.com/8483/notes",
+            "star": 185,
+            "description": "Full-stack web development notes."
+        },
+        {
+            "name": "everyone-can-use-english",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "star": 164,
+            "description": "人人都能用英语"
+        },
+        {
+            "name": "996ICU",
+            "url": "https://github.com/995icu/996ICU",
+            "star": 147,
+            "description": "996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪"
+        },
+        {
+            "name": "996.Law",
+            "url": "https://github.com/Y1ran/996.Law",
+            "star": 126,
+            "description": "联合仲裁发起地 | 法律板块(主站：996.ICU)"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 71,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "reactjs-interview-questions",
+            "url": "https://github.com/sudheerj/reactjs-interview-questions",
+            "star": 70,
+            "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!"
+        },
+        {
+            "name": "996.TSC",
+            "url": "https://github.com/lxlxw/996.TSC",
+            "star": 68,
+            "description": "996.ICU周边文化 | 创意板块(主站：996.ICU)"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 293,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "winXP",
+            "url": "https://github.com/ShizukuIchi/winXP",
+            "star": 162,
+            "description": "🏁Web based Windows XP desktop recreation."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 114,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "Tone.js",
+            "url": "https://github.com/Tonejs/Tone.js",
+            "star": 119,
+            "description": "A Web Audio framework for making interactive music in the browser."
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 115,
+            "description": "A web-based JavaScript（canvas） spreadsheet"
+        },
+        {
+            "name": "vexchords",
+            "url": "https://github.com/0xfe/vexchords",
+            "star": 104,
+            "description": "JavaScript Chord Charts"
+        },
+        {
+            "name": "dialog-web-components",
+            "url": "https://github.com/dialogs/dialog-web-components",
+            "star": 88,
+            "description": "Set of react components for building messaging applications"
+        },
+        {
+            "name": "razzle",
+            "url": "https://github.com/jaredpalmer/razzle",
+            "star": 79,
+            "description": "✨Create server-rendered universal JavaScript applications with no configuration"
+        },
+        {
+            "name": "cube.js",
+            "url": "https://github.com/statsbotco/cube.js",
+            "star": 68,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "whale-kit",
+            "url": "https://github.com/jingwhale/whale-kit",
+            "star": 64,
+            "description": "A quick prototype tool library for sketch. Includes page layout, page flow, Web Screen Shot, and more."
+        }
+    ],
+    "html": [
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 125,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 32,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 23,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 17,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 15,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "data-science-toolkit",
+            "url": "https://github.com/pmaji/data-science-toolkit",
+            "star": 17,
+            "description": "Collection of stats, modeling, and data science tools in Python and R."
+        },
+        {
+            "name": "lets-get-arrested",
+            "url": "https://github.com/hamukazu/lets-get-arrested",
+            "star": 15,
+            "description": "This project is intended to protest against the police in Japan"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 10,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "day-day-up",
+            "url": "https://github.com/zhenmang/day-day-up",
+            "star": 15,
+            "description": ""
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 11,
+            "description": "Style guides for Google-originated open-source projects"
+        }
+    ],
+    "go": [
+        {
+            "name": "vugu",
+            "url": "https://github.com/vugu/vugu",
+            "star": 147,
+            "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)"
+        },
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 111,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 50,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 44,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 37,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 39,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "owlcache",
+            "url": "https://github.com/xssed/owlcache",
+            "star": 37,
+            "description": "🦉owlcache 是一款由Go编写的轻量级、高性能、无中心分布式的Key/Value内存缓存型的数据共享应用(一定场景下可以作为轻量型数据库来使用)。 keyword : golang cache、go cache、golang nosql"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 32,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 28,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "red",
+            "url": "https://github.com/antonmedv/red",
+            "star": 30,
+            "description": "Terminal log analysis tools"
+        }
+    ]
+}

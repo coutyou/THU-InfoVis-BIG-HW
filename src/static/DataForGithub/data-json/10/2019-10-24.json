@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-24",
+    "month": 10,
+    "day": 24,
+    "python": [
+        {
+            "name": "keras",
+            "url": "https://github.com/keras-team/keras",
+            "star": 35,
+            "description": "Deep Learning for humans"
+        },
+        {
+            "name": "zipline",
+            "url": "https://github.com/quantopian/zipline",
+            "star": 124,
+            "description": "Zipline, a Pythonic Algorithmic Trading Library"
+        },
+        {
+            "name": "chrome_password_grabber",
+            "url": "https://github.com/x899/chrome_password_grabber",
+            "star": 33,
+            "description": "Get unencrypted 'Saved Password' from Google Chrome"
+        },
+        {
+            "name": "pwnagotchi",
+            "url": "https://github.com/evilsocket/pwnagotchi",
+            "star": 97,
+            "description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning."
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 85,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 129,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "algo",
+            "url": "https://github.com/trailofbits/algo",
+            "star": 130,
+            "description": "Set up a personal VPN in the cloud"
+        },
+        {
+            "name": "tensortrade",
+            "url": "https://github.com/notadamking/tensortrade",
+            "star": 113,
+            "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents."
+        },
+        {
+            "name": "bcc",
+            "url": "https://github.com/iovisor/bcc",
+            "star": 12,
+            "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more"
+        },
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 20,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        }
+    ],
+    "java": [
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 75,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "mantis",
+            "url": "https://github.com/Netflix/mantis",
+            "star": 37,
+            "description": "A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications"
+        },
+        {
+            "name": "Sentinel",
+            "url": "https://github.com/alibaba/Sentinel",
+            "star": 30,
+            "description": "A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 98,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "grpc-java",
+            "url": "https://github.com/grpc/grpc-java",
+            "star": 5,
+            "description": "The Java gRPC implementation. HTTP/2 based RPC"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 22,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 60,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "dbeaver",
+            "url": "https://github.com/dbeaver/dbeaver",
+            "star": 19,
+            "description": "Free universal database tool and SQL client"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 32,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "h2o-3",
+            "url": "https://github.com/h2oai/h2o-3",
+            "star": 7,
+            "description": "Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 43,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "awesome-web-security",
+            "url": "https://github.com/qazbnm456/awesome-web-security",
+            "star": 174,
+            "description": "🐶A curated list of Web Security materials and resources."
+        },
+        {
+            "name": "PLMpapers",
+            "url": "https://github.com/thunlp/PLMpapers",
+            "star": 26,
+            "description": "Must-read Papers on pre-trained language models."
+        },
+        {
+            "name": "best-practices-checklist",
+            "url": "https://github.com/palash25/best-practices-checklist",
+            "star": 41,
+            "description": "A list of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 44,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "javascript-testing-best-practices",
+            "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+            "star": 20,
+            "description": "📗🌐🚢Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)"
+        },
+        {
+            "name": "kubernetes-the-hard-way",
+            "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+            "star": 40,
+            "description": "Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts."
+        },
+        {
+            "name": "books",
+            "url": "https://github.com/programthink/books",
+            "star": 22,
+            "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）"
+        },
+        {
+            "name": "reverse-interview",
+            "url": "https://github.com/viraptor/reverse-interview",
+            "star": 44,
+            "description": "Questions to ask the company during your interview"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 68,
+            "description": "Roadmap to becoming a web developer in 2019"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "hyper",
+            "url": "https://github.com/zeit/hyper",
+            "star": 104,
+            "description": "A terminal built on web technologies"
+        },
+        {
+            "name": "kubernetes-basicLearning",
+            "url": "https://github.com/knrt10/kubernetes-basicLearning",
+            "star": 142,
+            "description": "Understand kubernetes step by step. A simple repo for beginners🔥"
+        },
+        {
+            "name": "Script",
+            "url": "https://github.com/NobyDa/Script",
+            "star": 10,
+            "description": ""
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 101,
+            "description": "✅The largest Node.js best practices list (September 2019)"
+        },
+        {
+            "name": "swiper",
+            "url": "https://github.com/nolimits4web/swiper",
+            "star": 31,
+            "description": "Most modern mobile touch slider with hardware accelerated transitions"
+        },
+        {
+            "name": "node",
+            "url": "https://github.com/nodejs/node",
+            "star": 64,
+            "description": "Node.js JavaScript runtime✨🐢🚀✨"
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 39,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 36,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "gulp",
+            "url": "https://github.com/gulpjs/gulp",
+            "star": 6,
+            "description": "The streaming build system"
+        },
+        {
+            "name": "aws-serverless-workshops",
+            "url": "https://github.com/aws-samples/aws-serverless-workshops",
+            "star": 5,
+            "description": "Code and walkthrough labs to set up serverless applications for Wild Rydes workshops"
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 245,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "dragon-book-exercise-answers",
+            "url": "https://github.com/fool2fish/dragon-book-exercise-answers",
+            "star": 4,
+            "description": "Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。"
+        },
+        {
+            "name": "hackergame2019-writeups",
+            "url": "https://github.com/ustclug/hackergame2019-writeups",
+            "star": 23,
+            "description": "Write-ups for hackergame 2019"
+        },
+        {
+            "name": "foundation-emails",
+            "url": "https://github.com/foundation/foundation-emails",
+            "star": 2,
+            "description": "Quickly create responsive HTML emails that work on any device and client. Even Outlook."
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 62,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 3,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 15,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 8,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 31,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 11,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        }
+    ],
+    "go": [
+        {
+            "name": "rancher",
+            "url": "https://github.com/rancher/rancher",
+            "star": 69,
+            "description": "Complete container management platform"
+        },
+        {
+            "name": "Yearning",
+            "url": "https://github.com/cookieY/Yearning",
+            "star": 39,
+            "description": "受欢迎的 Mysql sql审核平台"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/json-iterator/go",
+            "star": 89,
+            "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\""
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 43,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 14,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "origin",
+            "url": "https://github.com/openshift/origin",
+            "star": 2,
+            "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone"
+        },
+        {
+            "name": "etcd",
+            "url": "https://github.com/etcd-io/etcd",
+            "star": 27,
+            "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+        },
+        {
+            "name": "minio",
+            "url": "https://github.com/minio/minio",
+            "star": 23,
+            "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs"
+        },
+        {
+            "name": "advanced-go-programming-book",
+            "url": "https://github.com/chai2010/advanced-go-programming-book",
+            "star": 15,
+            "description": "📚《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 22,
+            "description": "Curated applications for Kubernetes"
+        }
+    ]
+}

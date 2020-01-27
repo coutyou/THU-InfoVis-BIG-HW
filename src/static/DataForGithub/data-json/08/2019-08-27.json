@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-27",
+    "month": 8,
+    "day": 27,
+    "python": [
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 373,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 196,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "AutoTimer",
+            "url": "https://github.com/KalleHallden/AutoTimer",
+            "star": 23,
+            "description": ""
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 91,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "GPT2-Chinese",
+            "url": "https://github.com/Morizeyao/GPT2-Chinese",
+            "star": 58,
+            "description": "Chinese version of GPT2 training code, using BERT or BPE tokenizer."
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 27,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "Ranger-Deep-Learning-Optimizer",
+            "url": "https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer",
+            "star": 24,
+            "description": "Ranger - a synergistic optimizer using RAdam (Rectified Adam) and LookAhead in one codebase"
+        },
+        {
+            "name": "Shadowrocket-ADBlock-Rules",
+            "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+            "star": 15,
+            "description": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。"
+        },
+        {
+            "name": "manim",
+            "url": "https://github.com/3b1b/manim",
+            "star": 37,
+            "description": "Animation engine for explanatory math videos"
+        },
+        {
+            "name": "causalml",
+            "url": "https://github.com/uber/causalml",
+            "star": 42,
+            "description": "Uplift modeling and causal inference with machine learning algorithms"
+        }
+    ],
+    "java": [
+        {
+            "name": "angel",
+            "url": "https://github.com/Angel-ML/angel",
+            "star": 140,
+            "description": "A Flexible and Powerful Parameter Server for large-scale machine learning"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 73,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 7,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 106,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 3,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "SkyStone",
+            "url": "https://github.com/FIRST-Tech-Challenge/SkyStone",
+            "star": 3,
+            "description": "FTC SDK"
+        },
+        {
+            "name": "spring-boot-api-project-seed",
+            "url": "https://github.com/lihengming/spring-boot-api-project-seed",
+            "star": 52,
+            "description": "🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~"
+        },
+        {
+            "name": "DragonProxy",
+            "url": "https://github.com/DragonetMC/DragonProxy",
+            "star": 3,
+            "description": "A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers."
+        },
+        {
+            "name": "NewPipe",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "star": 12,
+            "description": "A libre lightweight streaming front-end for Android."
+        },
+        {
+            "name": "traccar",
+            "url": "https://github.com/traccar/traccar",
+            "star": 2,
+            "description": "Traccar GPS Tracking System"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Privilege-Escalation",
+            "url": "https://github.com/Ignitetechnologies/Privilege-Escalation",
+            "star": 81,
+            "description": "This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples."
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 241,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "Deep-Learning-Interview-Book",
+            "url": "https://github.com/amusi/Deep-Learning-Interview-Book",
+            "star": 89,
+            "description": "深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 29,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 56,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/datasciencemasters/go",
+            "star": 10,
+            "description": "The Open Source Data Science Masters"
+        },
+        {
+            "name": "apple-terminated-my-dev-account",
+            "url": "https://github.com/cyanzhong/apple-terminated-my-dev-account",
+            "star": 48,
+            "description": "Apple terminated my developer account for no reason"
+        },
+        {
+            "name": "The-Economist",
+            "url": "https://github.com/nailperry-zd/The-Economist",
+            "star": 4,
+            "description": "The Economist 经济学人，持续更新"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 23,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "Probable-Wordlists",
+            "url": "https://github.com/berzerk0/Probable-Wordlists",
+            "star": 5,
+            "description": "Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "MagicMirror",
+            "url": "https://github.com/MichMich/MagicMirror",
+            "star": 95,
+            "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+        },
+        {
+            "name": "bank",
+            "url": "https://github.com/pietrzakadrian/bank",
+            "star": 169,
+            "description": "Full Stack Web Application using ReactJS+Redux with NodeJS (Express+TypeORM), WebSocket, RESTful API and MySQL"
+        },
+        {
+            "name": "standard",
+            "url": "https://github.com/standard/standard",
+            "star": 142,
+            "description": "🌟JavaScript Style Guide, with linter & automatic code fixer"
+        },
+        {
+            "name": "the-super-tiny-compiler",
+            "url": "https://github.com/jamiebuilds/the-super-tiny-compiler",
+            "star": 143,
+            "description": "⛄️Possibly the smallest compiler ever"
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 68,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 129,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 188,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 82,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        },
+        {
+            "name": "MikuTools",
+            "url": "https://github.com/Ice-Hazymoon/MikuTools",
+            "star": 57,
+            "description": "一个轻量的工具集合"
+        },
+        {
+            "name": "todomvc",
+            "url": "https://github.com/tastejs/todomvc",
+            "star": 6,
+            "description": "Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more"
+        }
+    ],
+    "html": [
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 19,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "ppts",
+            "url": "https://github.com/iv-web/ppts",
+            "star": 19,
+            "description": "团队对外分享ppt"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 4,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "ctf-wiki",
+            "url": "https://github.com/ctf-wiki/ctf-wiki",
+            "star": 2,
+            "description": "CTF Wiki Online. Come and join us, we need you!"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 1,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "Sudomy",
+            "url": "https://github.com/Screetsec/Sudomy",
+            "star": 6,
+            "description": "Sudomy is a subdomain enumeration tool, created using a bash script, to analyze domains and collect subdomains in fast and comprehensive way ( Easy, light, fast and powerful )"
+        },
+        {
+            "name": "open-quant-live-book",
+            "url": "https://github.com/souzatharsis/open-quant-live-book",
+            "star": 1,
+            "description": "An open source, hands-on and fully reproducible book in quantitative finance, data science and econophysics. Join us and help Make Wall Street Great Again!"
+        },
+        {
+            "name": "Dism-Multi-language",
+            "url": "https://github.com/Chuyu-Team/Dism-Multi-language",
+            "star": 4,
+            "description": "Dism++ Multi-language Support & BUG Report"
+        },
+        {
+            "name": "android_interview",
+            "url": "https://github.com/LRH1993/android_interview",
+            "star": 0,
+            "description": "gitbook地址"
+        },
+        {
+            "name": "FantasyFootballAnalyticsR",
+            "url": "https://github.com/FantasyFootballAnalytics/FantasyFootballAnalyticsR",
+            "star": 0,
+            "description": "R scripts and data files for the Fantasy Football Analytics website"
+        }
+    ],
+    "go": [
+        {
+            "name": "tinygo",
+            "url": "https://github.com/tinygo-org/tinygo",
+            "star": 39,
+            "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM."
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 14,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "annie",
+            "url": "https://github.com/iawia002/annie",
+            "star": 66,
+            "description": "👾Fast, simple and clean video downloader"
+        },
+        {
+            "name": "kind",
+            "url": "https://github.com/kubernetes-sigs/kind",
+            "star": 22,
+            "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
+        },
+        {
+            "name": "webhook",
+            "url": "https://github.com/adnanh/webhook",
+            "star": 13,
+            "description": "webhook is a lightweight incoming webhook server to run shell commands"
+        },
+        {
+            "name": "mkcert",
+            "url": "https://github.com/FiloSottile/mkcert",
+            "star": 26,
+            "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 31,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "golang123",
+            "url": "https://github.com/shen100/golang123",
+            "star": 3,
+            "description": "golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统"
+        },
+        {
+            "name": "ecs",
+            "url": "https://github.com/elastic/ecs",
+            "star": 7,
+            "description": "Elastic Common Schema"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 40,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        }
+    ]
+}

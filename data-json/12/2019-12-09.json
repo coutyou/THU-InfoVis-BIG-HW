@@ -1,0 +1,377 @@
+{
+    "date": "2019-12-09",
+    "month": 12,
+    "day": 9,
+    "python": [
+        {
+            "name": "AIDungeon",
+            "url": "https://github.com/AIDungeon/AIDungeon",
+            "star": 378,
+            "description": ""
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 29,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "alpha_vantage",
+            "url": "https://github.com/RomelTorres/alpha_vantage",
+            "star": 24,
+            "description": "A python wrapper for Alpha Vantage API for financial data."
+        },
+        {
+            "name": "PythonPlantsVsZombies",
+            "url": "https://github.com/marblexu/PythonPlantsVsZombies",
+            "star": 26,
+            "description": "a simple PlantsVsZombies game"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 527,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "YouCompleteMe",
+            "url": "https://github.com/ycm-core/YouCompleteMe",
+            "star": 16,
+            "description": "A code-completion engine for Vim"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 59,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 73,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 36,
+            "description": "Deepfakes Software For All"
+        },
+        {
+            "name": "pytorch-lightning",
+            "url": "https://github.com/williamFalcon/pytorch-lightning",
+            "star": 16,
+            "description": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate"
+        }
+    ],
+    "java": [
+        {
+            "name": "mall-swarm",
+            "url": "https://github.com/macrozheng/mall-swarm",
+            "star": 176,
+            "description": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。"
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 29,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "termux-app",
+            "url": "https://github.com/termux/termux-app",
+            "star": 9,
+            "description": "Android terminal and Linux environment - app repository."
+        },
+        {
+            "name": "openhab2-addons",
+            "url": "https://github.com/openhab/openhab2-addons",
+            "star": 1,
+            "description": "Add-ons for openHAB 2.x"
+        },
+        {
+            "name": "complete-microservices-env",
+            "url": "https://github.com/juliofalbo/complete-microservices-env",
+            "star": 10,
+            "description": "This is a whole environment of a Microservices Architecture using Spring Cloud, Splunk, Zipkin, Grafana, Prometheus, Postgres with Replication Strategy, Redis and RabbitMQ."
+        },
+        {
+            "name": "graal",
+            "url": "https://github.com/oracle/graal",
+            "star": 18,
+            "description": "GraalVM: Run Programs Faster Anywhere🚀"
+        },
+        {
+            "name": "maven",
+            "url": "https://github.com/apache/maven",
+            "star": 4,
+            "description": "Apache Maven core"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 26,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 33,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "spring-security-oauth",
+            "url": "https://github.com/Baeldung/spring-security-oauth",
+            "star": 2,
+            "description": "Just Announced - \"Learn Spring Security OAuth\":"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 50,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "Huawei-Joke",
+            "url": "https://github.com/HuaweiJoke/Huawei-Joke",
+            "star": 113,
+            "description": "本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。"
+        },
+        {
+            "name": "Best-websites-a-programmer-should-visit",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "star": 308,
+            "description": "🔗Some useful websites for programmers."
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 66,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "Manual",
+            "url": "https://github.com/Bloomberg-Beta/Manual",
+            "star": 6,
+            "description": "You were probably looking for our website... this is it. We moved our website here, so you can see the insides of how we work."
+        },
+        {
+            "name": "Production-Level-Deep-Learning",
+            "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+            "star": 69,
+            "description": "A guideline for building practical production-level deep learning systems to be deployed in real world applications."
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 60,
+            "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+        },
+        {
+            "name": "awesome-iptv",
+            "url": "https://github.com/iptv-org/awesome-iptv",
+            "star": 7,
+            "description": "A curated list of resources related to IPTV"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/datasciencemasters/go",
+            "star": 7,
+            "description": "The Open Source Data Science Masters"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 84,
+            "description": "Updated list of public BitTorrent trackers"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "CVE-2019-11708",
+            "url": "https://github.com/0vercl0k/CVE-2019-11708",
+            "star": 137,
+            "description": "Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit."
+        },
+        {
+            "name": "mukemmel-blog",
+            "url": "https://github.com/SelmanKahya/mukemmel-blog",
+            "star": 6,
+            "description": "Bu proje nasıl kodlandı izlemek ister misin? Youtube videosu:"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 122,
+            "description": "✅The largest Node.js best practices list (November 2019)"
+        },
+        {
+            "name": "keystone",
+            "url": "https://github.com/keystonejs/keystone",
+            "star": 18,
+            "description": "A scalable platform and CMS to build Node.js applications"
+        },
+        {
+            "name": "awesome-selfhosted",
+            "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+            "star": 109,
+            "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers"
+        },
+        {
+            "name": "lite-youtube-embed",
+            "url": "https://github.com/paulirish/lite-youtube-embed",
+            "star": 129,
+            "description": "A faster youtube embed."
+        },
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 8,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        },
+        {
+            "name": "node",
+            "url": "https://github.com/nodejs/node",
+            "star": 70,
+            "description": "Node.js JavaScript runtime✨🐢🚀✨"
+        },
+        {
+            "name": "webtorrent-desktop",
+            "url": "https://github.com/webtorrent/webtorrent-desktop",
+            "star": 4,
+            "description": "❤️Streaming torrent app for Mac, Windows, and Linux"
+        },
+        {
+            "name": "bustag",
+            "url": "https://github.com/gxtrobot/bustag",
+            "star": 10,
+            "description": "a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统"
+        }
+    ],
+    "html": [
+        {
+            "name": "FOSSASAT-1",
+            "url": "https://github.com/FOSSASystems/FOSSASAT-1",
+            "star": 8,
+            "description": ""
+        },
+        {
+            "name": "PortFolio_Website",
+            "url": "https://github.com/akashyap2013/PortFolio_Website",
+            "star": 1,
+            "description": "Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch."
+        },
+        {
+            "name": "passdb-frontend",
+            "url": "https://github.com/audibleblink/passdb-frontend",
+            "star": 20,
+            "description": "WIP: (do not use) Pivoting Frontend for Pre-Seeded Password Databases"
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 4,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 1,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "hugo-coder",
+            "url": "https://github.com/luizdepra/hugo-coder",
+            "star": 2,
+            "description": "A minimalist blog theme for hugo."
+        },
+        {
+            "name": "ClashA",
+            "url": "https://github.com/ccg2018/ClashA",
+            "star": 19,
+            "description": "A Android GUI for Clash"
+        },
+        {
+            "name": "Markdown-Resume",
+            "url": "https://github.com/CyC2018/Markdown-Resume",
+            "star": 3,
+            "description": "⭐️Markdown 简历模版"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 3,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "python-getting-started",
+            "url": "https://github.com/heroku/python-getting-started",
+            "star": 1,
+            "description": "Getting Started with Python on Heroku."
+        }
+    ],
+    "go": [
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 12,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 19,
+            "description": "Lantern官方版本下载 蓝灯 翻墙 科学上网 外网 加速器 梯子 路由 lantern censorship-circumvention censorship gfw vpn accelerator"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 37,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "lnd",
+            "url": "https://github.com/lightningnetwork/lnd",
+            "star": 6,
+            "description": "Lightning Network Daemon⚡️"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 19,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "gitea",
+            "url": "https://github.com/go-gitea/gitea",
+            "star": 28,
+            "description": "Git with a cup of tea, painless self-hosted git service"
+        },
+        {
+            "name": "brook",
+            "url": "https://github.com/txthinking/brook",
+            "star": 9,
+            "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software"
+        },
+        {
+            "name": "gopl.io",
+            "url": "https://github.com/adonovan/gopl.io",
+            "star": 4,
+            "description": "Example programs from \"The Go Programming Language\""
+        },
+        {
+            "name": "jwt-go",
+            "url": "https://github.com/dgrijalva/jwt-go",
+            "star": 7,
+            "description": "Golang implementation of JSON Web Tokens (JWT)"
+        },
+        {
+            "name": "golang-web-dev",
+            "url": "https://github.com/GoesToEleven/golang-web-dev",
+            "star": 3,
+            "description": ""
+        }
+    ]
+}

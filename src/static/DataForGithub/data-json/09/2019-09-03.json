@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-03",
+    "month": 9,
+    "day": 3,
+    "python": [
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 553,
+            "description": "Deepfakes Software For All"
+        },
+        {
+            "name": "nlp",
+            "url": "https://github.com/microsoft/nlp",
+            "star": 152,
+            "description": "Natural Language Processing Best Practices & Examples"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 287,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "craftassist",
+            "url": "https://github.com/facebookresearch/craftassist",
+            "star": 39,
+            "description": "A virtual assistant bot in Minecraft"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 30,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "code_snippets",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "star": 8,
+            "description": ""
+        },
+        {
+            "name": "django-allauth",
+            "url": "https://github.com/pennersr/django-allauth",
+            "star": 6,
+            "description": "Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication."
+        },
+        {
+            "name": "chromego",
+            "url": "https://github.com/killgcd/chromego",
+            "star": 11,
+            "description": "ChromeGo 翻墙工具包"
+        },
+        {
+            "name": "pytorch-lightning",
+            "url": "https://github.com/williamFalcon/pytorch-lightning",
+            "star": 19,
+            "description": "Rapid research framework for PyTorch. The researcher's version of Keras"
+        },
+        {
+            "name": "signature_algorithm",
+            "url": "https://github.com/gadfly0x/signature_algorithm",
+            "star": 14,
+            "description": "各种App、小程序、网站的请求签名算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)"
+        }
+    ],
+    "java": [
+        {
+            "name": "hope-boot",
+            "url": "https://github.com/hope-for/hope-boot",
+            "star": 185,
+            "description": "🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 138,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 225,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "baritone",
+            "url": "https://github.com/cabaletta/baritone",
+            "star": 9,
+            "description": "google maps for block game"
+        },
+        {
+            "name": "backtobackswe",
+            "url": "https://github.com/bephrem1/backtobackswe",
+            "star": 2,
+            "description": "Code Examples For Back To Back SWE Lessons"
+        },
+        {
+            "name": "interview",
+            "url": "https://github.com/mission-peace/interview",
+            "star": 9,
+            "description": "Interview questions"
+        },
+        {
+            "name": "live-transcribe-speech-engine",
+            "url": "https://github.com/google/live-transcribe-speech-engine",
+            "star": 5,
+            "description": "Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe."
+        },
+        {
+            "name": "dropwizard",
+            "url": "https://github.com/dropwizard/dropwizard",
+            "star": 5,
+            "description": "A damn simple library for building production-ready RESTful web services."
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 45,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "caffeine",
+            "url": "https://github.com/ben-manes/caffeine",
+            "star": 9,
+            "description": "A high performance caching library for Java 8"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 198,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 120,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "regular-investing-in-box",
+            "url": "https://github.com/xiaolai/regular-investing-in-box",
+            "star": 105,
+            "description": "定投改变命运 —— 让时间陪你慢慢变富"
+        },
+        {
+            "name": "git-flight-rules",
+            "url": "https://github.com/k88hudson/git-flight-rules",
+            "star": 127,
+            "description": "Flight rules for git"
+        },
+        {
+            "name": "javascript-testing-best-practices",
+            "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+            "star": 195,
+            "description": "📗🌐🚢Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/googlehosts/hosts",
+            "star": 14,
+            "description": "镜像：https://coding.net/u/scaffrey/p/hosts/git"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 104,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "Nodejs-Developer-Roadmap",
+            "url": "https://github.com/aliyr/Nodejs-Developer-Roadmap",
+            "star": 36,
+            "description": "A Developer Roadmap to becoming a Node.js developer in 2019"
+        },
+        {
+            "name": "GitHubDaily",
+            "url": "https://github.com/GitHubDaily/GitHubDaily",
+            "star": 7,
+            "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+        },
+        {
+            "name": "TaiChi",
+            "url": "https://github.com/taichi-framework/TaiChi",
+            "star": 7,
+            "description": "A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 433,
+            "description": "💯Materials to help you rock your next coding interview"
+        },
+        {
+            "name": "leonsans",
+            "url": "https://github.com/cmiscm/leonsans",
+            "star": 1294,
+            "description": "Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 211,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 77,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/freearhey/iptv",
+            "star": 37,
+            "description": "Collection of 6000+ publicly available IPTV channels from all over the world."
+        },
+        {
+            "name": "appwrite",
+            "url": "https://github.com/appwrite/appwrite",
+            "star": 41,
+            "description": "End to end backend server for frontend and mobile developers.👩‍💻👨‍💻"
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 28,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 73,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "lx-music-desktop",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "star": 22,
+            "description": "一个基于 electron 的音乐软件"
+        },
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 7,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 43,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 22,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 4,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 21,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 0,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "metasploitable3",
+            "url": "https://github.com/rapid7/metasploitable3",
+            "star": 3,
+            "description": "Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities."
+        },
+        {
+            "name": "WebFundamentals",
+            "url": "https://github.com/google/WebFundamentals",
+            "star": 2,
+            "description": "Best practices for modern web development"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 3,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "EducateAll-Foundation",
+            "url": "https://github.com/fabianuzukwu/EducateAll-Foundation",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "zenbot",
+            "url": "https://github.com/DeviaVir/zenbot",
+            "star": 1,
+            "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB."
+        }
+    ],
+    "go": [
+        {
+            "name": "TopList",
+            "url": "https://github.com/tophubs/TopList",
+            "star": 174,
+            "description": "今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html"
+        },
+        {
+            "name": "douyin",
+            "url": "https://github.com/cnbattle/douyin",
+            "star": 55,
+            "description": "抖音推荐列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb nodejs anyproxy"
+        },
+        {
+            "name": "cue",
+            "url": "https://github.com/cuelang/cue",
+            "star": 65,
+            "description": "Validate and define text-based and dynamic configuration"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 15,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "golang-web-dev",
+            "url": "https://github.com/GoesToEleven/golang-web-dev",
+            "star": 7,
+            "description": ""
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 27,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "hcl",
+            "url": "https://github.com/hashicorp/hcl",
+            "star": 6,
+            "description": "HCL is the HashiCorp configuration language."
+        },
+        {
+            "name": "go-simplejson",
+            "url": "https://github.com/bitly/go-simplejson",
+            "star": 12,
+            "description": "a Go package to interact with arbitrary JSON"
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 12,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "quorum",
+            "url": "https://github.com/jpmorganchase/quorum",
+            "star": 6,
+            "description": "A permissioned implementation of Ethereum supporting data privacy"
+        }
+    ]
+}

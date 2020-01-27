@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-19",
+    "month": 7,
+    "day": 19,
+    "python": [
+        {
+            "name": "pytorch-transformers",
+            "url": "https://github.com/huggingface/pytorch-transformers",
+            "star": 302,
+            "description": "👾A library of state-of-the-art pretrained models for Natural Language Processing (NLP)"
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 340,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 1369,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "uiautomator2",
+            "url": "https://github.com/openatx/uiautomator2",
+            "star": 14,
+            "description": "Android Uiautomator2 Python Wrapper"
+        },
+        {
+            "name": "django-rest-framework",
+            "url": "https://github.com/encode/django-rest-framework",
+            "star": 15,
+            "description": "Web APIs for Django.⚡️"
+        },
+        {
+            "name": "bert-as-service",
+            "url": "https://github.com/hanxiao/bert-as-service",
+            "star": 23,
+            "description": "Mapping a variable-length sentence to a fixed-length vector using BERT model"
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 29,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "DeepLearningExamples",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "star": 58,
+            "description": "Deep Learning Examples"
+        },
+        {
+            "name": "video-object-removal",
+            "url": "https://github.com/zllrunning/video-object-removal",
+            "star": 71,
+            "description": "Just draw a bounding box and you can remove the object you want to remove."
+        },
+        {
+            "name": "image-super-resolution",
+            "url": "https://github.com/idealo/image-super-resolution",
+            "star": 13,
+            "description": "Super-scale your images and run experiments with Residual Dense and Adversarial Networks."
+        }
+    ],
+    "java": [
+        {
+            "name": "solo",
+            "url": "https://github.com/b3log/solo",
+            "star": 274,
+            "description": "🎸一款小而美的博客系统，专为程序员设计。https://hacpai.com/tag/solo"
+        },
+        {
+            "name": "kafka",
+            "url": "https://github.com/apache/kafka",
+            "star": 52,
+            "description": "Mirror of Apache Kafka"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 55,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 89,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "cat",
+            "url": "https://github.com/dianping/cat",
+            "star": 92,
+            "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 54,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 78,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "java8-tutorial",
+            "url": "https://github.com/winterbe/java8-tutorial",
+            "star": 24,
+            "description": "Modern Java - A Guide to Java 8"
+        },
+        {
+            "name": "ksql",
+            "url": "https://github.com/confluentinc/ksql",
+            "star": 1,
+            "description": "KSQL - the Streaming SQL Engine for Apache Kafka"
+        },
+        {
+            "name": "spring-cloud-netflix",
+            "url": "https://github.com/spring-cloud/spring-cloud-netflix",
+            "star": 5,
+            "description": "Integration with Netflix OSS components"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-graph-classification",
+            "url": "https://github.com/benedekrozemberczki/awesome-graph-classification",
+            "star": 155,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations."
+        },
+        {
+            "name": "kube-ladder",
+            "url": "https://github.com/caicloud/kube-ladder",
+            "star": 96,
+            "description": "Learning Kubernetes, The Chinese Taoist Way"
+        },
+        {
+            "name": "awesome-nodejs",
+            "url": "https://github.com/sindresorhus/awesome-nodejs",
+            "star": 148,
+            "description": "⚡️Delightful Node.js packages and resources"
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 46,
+            "description": "Curated list of resources for college students"
+        },
+        {
+            "name": "The-Hundred-Page-Machine-Learning-Book",
+            "url": "https://github.com/ZakiaSalod/The-Hundred-Page-Machine-Learning-Book",
+            "star": 5,
+            "description": "This repository contains the draft PDF copies of the book: The 100 Page Machine Learning Book"
+        },
+        {
+            "name": "html-handbook",
+            "url": "https://github.com/flaviocopes/html-handbook",
+            "star": 3,
+            "description": "A draft of the HTML Handbook free ebook. Looking for feedback before I publish it!"
+        },
+        {
+            "name": "lectures",
+            "url": "https://github.com/oxford-cs-deepnlp-2017/lectures",
+            "star": 3,
+            "description": "Oxford Deep NLP 2017 course"
+        },
+        {
+            "name": "awesome-sysadmin",
+            "url": "https://github.com/kahun/awesome-sysadmin",
+            "star": 76,
+            "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP."
+        },
+        {
+            "name": "public",
+            "url": "https://github.com/openconfig/public",
+            "star": 0,
+            "description": "Repository for publishing OpenConfig models, documentation, and other material for the community."
+        },
+        {
+            "name": "awesome-java-books",
+            "url": "https://github.com/sorenduan/awesome-java-books",
+            "star": 138,
+            "description": "Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "clean-code-javascript",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+            "star": 213,
+            "description": "🛁Clean Code concepts adapted for JavaScript"
+        },
+        {
+            "name": "umi",
+            "url": "https://github.com/umijs/umi",
+            "star": 52,
+            "description": "🌋Pluggable enterprise-level react application framework."
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 63,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "graphql-engine",
+            "url": "https://github.com/hasura/graphql-engine",
+            "star": 21,
+            "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events."
+        },
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 608,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "jumpserver",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "star": 37,
+            "description": "Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 83,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "vue-echarts",
+            "url": "https://github.com/ecomfe/vue-echarts",
+            "star": 7,
+            "description": "ECharts component for Vue.js."
+        },
+        {
+            "name": "pm2",
+            "url": "https://github.com/Unitech/pm2",
+            "star": 20,
+            "description": "Node.js Production Process Manager with a built-in Load Balancer."
+        },
+        {
+            "name": "vuepress",
+            "url": "https://github.com/vuejs/vuepress",
+            "star": 21,
+            "description": "📝Minimalistic Vue-powered static site generator"
+        }
+    ],
+    "html": [
+        {
+            "name": "node-interview",
+            "url": "https://github.com/ElemeFE/node-interview",
+            "star": 8,
+            "description": "How to pass the Node.js interview of ElemeFE."
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 2,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "learn_python3_spider",
+            "url": "https://github.com/wistbean/learn_python3_spider",
+            "star": 59,
+            "description": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，爬虫项目实战实例等"
+        },
+        {
+            "name": "email-templates",
+            "url": "https://github.com/ColorlibHQ/email-templates",
+            "star": 0,
+            "description": "Free HTML email templates for Mailchimp and other emails services"
+        },
+        {
+            "name": "tiny-slider",
+            "url": "https://github.com/ganlanyuan/tiny-slider",
+            "star": 2,
+            "description": "Vanilla javascript slider for all purposes."
+        },
+        {
+            "name": "izone",
+            "url": "https://github.com/Hopetree/izone",
+            "star": 1,
+            "description": "django+bootstrap4 个人博客"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 0,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "antd-mobile-samples",
+            "url": "https://github.com/ant-design/antd-mobile-samples",
+            "star": 1,
+            "description": "antd-mobile samples"
+        },
+        {
+            "name": "Machine-Learning-in-Action-Python3",
+            "url": "https://github.com/wzy6642/Machine-Learning-in-Action-Python3",
+            "star": 5,
+            "description": "《机器学习实战》python3源码"
+        },
+        {
+            "name": "sql-formatter",
+            "url": "https://github.com/jdorn/sql-formatter",
+            "star": 3,
+            "description": "A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting."
+        }
+    ],
+    "go": [
+        {
+            "name": "vugu",
+            "url": "https://github.com/vugu/vugu",
+            "star": 182,
+            "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)"
+        },
+        {
+            "name": "octosql",
+            "url": "https://github.com/cube2222/octosql",
+            "star": 165,
+            "description": "OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL."
+        },
+        {
+            "name": "soar",
+            "url": "https://github.com/XiaoMi/soar",
+            "star": 70,
+            "description": "SQL Optimizer And Rewriter"
+        },
+        {
+            "name": "autoscaler",
+            "url": "https://github.com/kubernetes/autoscaler",
+            "star": 52,
+            "description": "Autoscaling components for Kubernetes"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 13,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "serving",
+            "url": "https://github.com/knative/serving",
+            "star": 10,
+            "description": "Kubernetes-based, scale-to-zero, request-driven compute"
+        },
+        {
+            "name": "goss",
+            "url": "https://github.com/aelsabbahy/goss",
+            "star": 15,
+            "description": "Quick and Easy server testing/validation"
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 8,
+            "description": "An open source, general-purpose policy engine."
+        },
+        {
+            "name": "mongo-go-driver",
+            "url": "https://github.com/mongodb/mongo-go-driver",
+            "star": 14,
+            "description": "The Go driver for MongoDB"
+        },
+        {
+            "name": "swag",
+            "url": "https://github.com/swaggo/swag",
+            "star": 15,
+            "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go."
+        }
+    ]
+}

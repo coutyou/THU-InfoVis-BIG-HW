@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-25",
+    "month": 8,
+    "day": 25,
+    "python": [
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 246,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 139,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "former",
+            "url": "https://github.com/pbloem/former",
+            "star": 14,
+            "description": "Simple transformer implementation from scratch in pytorch."
+        },
+        {
+            "name": "spotify-downloader",
+            "url": "https://github.com/ritiek/spotify-downloader",
+            "star": 7,
+            "description": "Download Spotify playlists with albumart and meta-tags"
+        },
+        {
+            "name": "mlflow",
+            "url": "https://github.com/mlflow/mlflow",
+            "star": 7,
+            "description": "Open source platform for the machine learning lifecycle"
+        },
+        {
+            "name": "keras-yolo3",
+            "url": "https://github.com/qqwweee/keras-yolo3",
+            "star": 7,
+            "description": "A Keras implementation of YOLOv3 (Tensorflow backend)"
+        },
+        {
+            "name": "qiling",
+            "url": "https://github.com/qilingframework/qiling",
+            "star": 16,
+            "description": "Qiling Advanced Binary Emulation framework"
+        },
+        {
+            "name": "image-super-resolution",
+            "url": "https://github.com/idealo/image-super-resolution",
+            "star": 4,
+            "description": "Super-scale your images and run experiments with Residual Dense and Adversarial Networks."
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 10,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "GPT2-Chinese",
+            "url": "https://github.com/Morizeyao/GPT2-Chinese",
+            "star": 25,
+            "description": "Chinese version of GPT2 training code, using BERT or BPE tokenizer."
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 109,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/justauth/JustAuth",
+            "star": 107,
+            "description": "💯史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 24,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 12,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "vertx-examples",
+            "url": "https://github.com/vert-x3/vertx-examples",
+            "star": 4,
+            "description": "Vert.x examples"
+        },
+        {
+            "name": "flutter_boost",
+            "url": "https://github.com/alibaba/flutter_boost",
+            "star": 4,
+            "description": "FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts"
+        },
+        {
+            "name": "angel",
+            "url": "https://github.com/Angel-ML/angel",
+            "star": 131,
+            "description": "A Flexible and Powerful Parameter Server for large-scale machine learning"
+        },
+        {
+            "name": "RxJava",
+            "url": "https://github.com/ReactiveX/RxJava",
+            "star": 13,
+            "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+        },
+        {
+            "name": "resilience4j",
+            "url": "https://github.com/resilience4j/resilience4j",
+            "star": 3,
+            "description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 38,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 125,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "Deep-Learning-Interview-Book",
+            "url": "https://github.com/amusi/Deep-Learning-Interview-Book",
+            "star": 48,
+            "description": "深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 17,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "RedTeam-BCS",
+            "url": "https://github.com/Mel0day/RedTeam-BCS",
+            "star": 15,
+            "description": "BCS（北京网络安全大会）2019 红队行动会议重点内容"
+        },
+        {
+            "name": "Index",
+            "url": "https://github.com/HowProgrammingWorks/Index",
+            "star": 4,
+            "description": "Repositories Index"
+        },
+        {
+            "name": "one-python-craftsman",
+            "url": "https://github.com/piglei/one-python-craftsman",
+            "star": 5,
+            "description": "来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。"
+        },
+        {
+            "name": "Behinder",
+            "url": "https://github.com/rebeyond/Behinder",
+            "star": 12,
+            "description": "“冰蝎”动态二进制加密网站管理客户端"
+        },
+        {
+            "name": "privacy-model",
+            "url": "https://github.com/michaelkleber/privacy-model",
+            "star": 0,
+            "description": "A Potential Privacy Model for the Web: Sharding Web Identity"
+        },
+        {
+            "name": "first-contributions",
+            "url": "https://github.com/firstcontributions/first-contributions",
+            "star": 8,
+            "description": "🚀✨Help beginners to contribute to open source projects"
+        },
+        {
+            "name": "Flutter-Course-Resources",
+            "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+            "star": 2,
+            "description": ""
+        }
+    ],
+    "javascript": [
+        {
+            "name": "node",
+            "url": "https://github.com/nodejs/node",
+            "star": 58,
+            "description": "Node.js JavaScript runtime✨🐢🚀✨"
+        },
+        {
+            "name": "the-super-tiny-compiler",
+            "url": "https://github.com/jamiebuilds/the-super-tiny-compiler",
+            "star": 63,
+            "description": "⛄️Possibly the smallest compiler ever"
+        },
+        {
+            "name": "csgo-crash-exploit",
+            "url": "https://github.com/BeepFelix/csgo-crash-exploit",
+            "star": 20,
+            "description": "Allows you to crash any Windows user"
+        },
+        {
+            "name": "admin-bro",
+            "url": "https://github.com/SoftwareBrothers/admin-bro",
+            "star": 45,
+            "description": "AdminBro is an admin panel for apps written in node.js"
+        },
+        {
+            "name": "date-fns",
+            "url": "https://github.com/date-fns/date-fns",
+            "star": 52,
+            "description": "⏳Modern JavaScript date utility library⌛️"
+        },
+        {
+            "name": "reveal.js",
+            "url": "https://github.com/hakimel/reveal.js",
+            "star": 18,
+            "description": "The HTML Presentation Framework"
+        },
+        {
+            "name": "react-dates",
+            "url": "https://github.com/airbnb/react-dates",
+            "star": 5,
+            "description": "An easily internationalizable, mobile-friendly datepicker library for the web"
+        },
+        {
+            "name": "snabbdom",
+            "url": "https://github.com/snabbdom/snabbdom",
+            "star": 10,
+            "description": "A virtual DOM library with focus on simplicity, modularity, powerful features and performance."
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 27,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "rollup",
+            "url": "https://github.com/rollup/rollup",
+            "star": 13,
+            "description": "Next-generation ES module bundler"
+        }
+    ],
+    "html": [
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "Dism-Multi-language",
+            "url": "https://github.com/Chuyu-Team/Dism-Multi-language",
+            "star": 4,
+            "description": "Dism++ Multi-language Support & BUG Report"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 2,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 6,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "ppts",
+            "url": "https://github.com/iv-web/ppts",
+            "star": 61,
+            "description": "团队对外分享ppt"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 7,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        },
+        {
+            "name": "svelte-material-ui",
+            "url": "https://github.com/hperrin/svelte-material-ui",
+            "star": 15,
+            "description": "Svelte Material UI Components"
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 0,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "wallets-recovery",
+            "url": "https://github.com/nvk/wallets-recovery",
+            "star": 2,
+            "description": "Information about wallet defaults for external recovery"
+        },
+        {
+            "name": "hermit",
+            "url": "https://github.com/Track3/hermit",
+            "star": 2,
+            "description": "A minimal & fast Hugo theme for bloggers"
+        }
+    ],
+    "go": [
+        {
+            "name": "kind",
+            "url": "https://github.com/kubernetes-sigs/kind",
+            "star": 34,
+            "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
+        },
+        {
+            "name": "annie",
+            "url": "https://github.com/iawia002/annie",
+            "star": 34,
+            "description": "👾Fast, simple and clean video downloader"
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 1,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "traefik",
+            "url": "https://github.com/containous/traefik",
+            "star": 16,
+            "description": "The Cloud Native Edge Router"
+        },
+        {
+            "name": "torrent",
+            "url": "https://github.com/anacrolix/torrent",
+            "star": 21,
+            "description": "Full-featured BitTorrent-client package and utilities"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 2,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "elastic",
+            "url": "https://github.com/olivere/elastic",
+            "star": 2,
+            "description": "Elasticsearch client for Go."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 16,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "ginkgo",
+            "url": "https://github.com/onsi/ginkgo",
+            "star": 16,
+            "description": "BDD Testing Framework for Go"
+        },
+        {
+            "name": "easyjson",
+            "url": "https://github.com/mailru/easyjson",
+            "star": 5,
+            "description": "Fast JSON serializer for golang."
+        }
+    ]
+}

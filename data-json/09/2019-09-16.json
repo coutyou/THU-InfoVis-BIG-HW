@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-16",
+    "month": 9,
+    "day": 16,
+    "python": [
+        {
+            "name": "30-seconds-of-python",
+            "url": "https://github.com/30-seconds/30-seconds-of-python",
+            "star": 231,
+            "description": "A curated collection of useful Python snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "learn2learn",
+            "url": "https://github.com/learnables/learn2learn",
+            "star": 67,
+            "description": "PyTorch Meta-learning Framework for Researchers"
+        },
+        {
+            "name": "mne-python",
+            "url": "https://github.com/mne-tools/mne-python",
+            "star": 19,
+            "description": "MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 41,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "pycparser",
+            "url": "https://github.com/eliben/pycparser",
+            "star": 6,
+            "description": "🐍Complete C99 parser in pure Python"
+        },
+        {
+            "name": "open-event-server",
+            "url": "https://github.com/fossasia/open-event-server",
+            "star": 35,
+            "description": "The Open Event Organizer Server to Manage Events https://api.eventyay.com | http://open-event-api.herokuapp.com"
+        },
+        {
+            "name": "manim",
+            "url": "https://github.com/3b1b/manim",
+            "star": 26,
+            "description": "Animation engine for explanatory math videos"
+        },
+        {
+            "name": "speedtest-cli",
+            "url": "https://github.com/sivel/speedtest-cli",
+            "star": 16,
+            "description": "Command line interface for testing internet bandwidth using speedtest.net"
+        },
+        {
+            "name": "anki",
+            "url": "https://github.com/dae/anki",
+            "star": 9,
+            "description": "Anki for desktop computers"
+        },
+        {
+            "name": "spaCy",
+            "url": "https://github.com/explosion/spaCy",
+            "star": 90,
+            "description": "💫Industrial-strength Natural Language Processing (NLP) with Python and Cython"
+        }
+    ],
+    "java": [
+        {
+            "name": "phimpme-android",
+            "url": "https://github.com/fossasia/phimpme-android",
+            "star": 32,
+            "description": "Phimp.me Photo Imaging and Picture Editor https://play.google.com/store/apps/details?id=org.fossasia.phimpme"
+        },
+        {
+            "name": "cassandra",
+            "url": "https://github.com/apache/cassandra",
+            "star": 5,
+            "description": "Mirror of Apache Cassandra"
+        },
+        {
+            "name": "NetGuard",
+            "url": "https://github.com/M66B/NetGuard",
+            "star": 9,
+            "description": "A simple way to block access to the internet per application"
+        },
+        {
+            "name": "amidst",
+            "url": "https://github.com/toolbox4minecraft/amidst",
+            "star": 3,
+            "description": "Advanced Minecraft Interface and Data/Structure Tracking"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 6,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 107,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "SkyStone",
+            "url": "https://github.com/FIRST-Tech-Challenge/SkyStone",
+            "star": 6,
+            "description": "FTC SDK"
+        },
+        {
+            "name": "Anki-Android",
+            "url": "https://github.com/ankidroid/Anki-Android",
+            "star": 4,
+            "description": "AnkiDroid: Anki on Android"
+        },
+        {
+            "name": "spring-security-react-ant-design-polls-app",
+            "url": "https://github.com/callicoder/spring-security-react-ant-design-polls-app",
+            "star": 4,
+            "description": "Full Stack Polls App built using Spring Boot, Spring Security, JWT, React, and Ant Design"
+        },
+        {
+            "name": "Android-Image-Slider",
+            "url": "https://github.com/smarteist/Android-Image-Slider",
+            "star": 2,
+            "description": "Android Auto Image Slider"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 181,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "Hacking-Security-Ebooks",
+            "url": "https://github.com/yeahhub/Hacking-Security-Ebooks",
+            "star": 336,
+            "description": "Top 100 Hacking & Security E-Books (Free Download) - Powered by Yeahhub.com"
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 335,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "ECMAScript-new-features-list",
+            "url": "https://github.com/daumann/ECMAScript-new-features-list",
+            "star": 303,
+            "description": "A comprehensive list of new ES features, including ES2015 (ES6), ES2016 (ES7), ES2017 (ES8), ES2018 (ES9), ES2019 (ES10)"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 230,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "Python-programming-exercises",
+            "url": "https://github.com/zhiwehu/Python-programming-exercises",
+            "star": 36,
+            "description": "100+ Python challenging programming exercises"
+        },
+        {
+            "name": "Project-Based-Tutorials-in-C",
+            "url": "https://github.com/rby90/Project-Based-Tutorials-in-C",
+            "star": 58,
+            "description": "A curated list of project-based tutorials in C"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 87,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 29,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "awesome-actions",
+            "url": "https://github.com/sdras/awesome-actions",
+            "star": 36,
+            "description": "A curated list of awesome actions to use on GitHub"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "girls-reptile",
+            "url": "https://github.com/Licoy/girls-reptile",
+            "star": 95,
+            "description": "🎨Beautiful girl collector, support custom acquisition source, compatible with Windows and MacOS 奈斯！"
+        },
+        {
+            "name": "hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "star": 26,
+            "description": "⭐️Companies that don't have a broken hiring process"
+        },
+        {
+            "name": "borderlands",
+            "url": "https://github.com/rockdevourer/borderlands",
+            "star": 22,
+            "description": "Interact with Shift"
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/freearhey/iptv",
+            "star": 18,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/CodingTrain/website",
+            "star": 9,
+            "description": "Coding Train website"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 66,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "google-unlocked",
+            "url": "https://github.com/Ibit-to/google-unlocked",
+            "star": 31,
+            "description": "Google Unlocked browser extension uncensor google search results"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 66,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "react-table",
+            "url": "https://github.com/tannerlinsley/react-table",
+            "star": 149,
+            "description": "⚛️Hooks for building fast and extendable tables and datagrids for React"
+        },
+        {
+            "name": "rn-casts",
+            "url": "https://github.com/StephenGrider/rn-casts",
+            "star": 4,
+            "description": "Companion Repo for a React Native course on Udemy"
+        }
+    ],
+    "html": [
+        {
+            "name": "stisla",
+            "url": "https://github.com/stisla/stisla",
+            "star": 15,
+            "description": "Free Bootstrap Admin Template"
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 5,
+            "description": ""
+        },
+        {
+            "name": "zfaka",
+            "url": "https://github.com/zlkbdotnet/zfaka",
+            "star": 12,
+            "description": "免费、安全、稳定、高效的发卡系统，值得拥有!"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 8,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "datasciencecoursera",
+            "url": "https://github.com/mGalarnyk/datasciencecoursera",
+            "star": 3,
+            "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions."
+        },
+        {
+            "name": "TranslatorX",
+            "url": "https://github.com/pingfangx/TranslatorX",
+            "star": 43,
+            "description": "JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.2 汉化包 DataGrip 2019.2 汉化包 GoLand 2019.2 汉化包 IntelliJ IDEA 2019.2 汉化包 PhpStorm 2019.2 汉化包 PyCharm 2019.2 汉化包 Rider 2019.2 汉化包 RubyMine 2019.2 汉化包 WebStorm 2019.2 汉化包"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 9,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 8,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/biaochenxuying/blog",
+            "star": 6,
+            "description": "技术为主，读书笔记、随笔、理财为辅，做个终身学习者。"
+        },
+        {
+            "name": "summit.fossasia.org",
+            "url": "https://github.com/fossasia/summit.fossasia.org",
+            "star": 32,
+            "description": "FOSSASIA Summit 2020 https://summit.fossasia.org"
+        }
+    ],
+    "go": [
+        {
+            "name": "cadence",
+            "url": "https://github.com/uber/cadence",
+            "star": 82,
+            "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way."
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 36,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "clash",
+            "url": "https://github.com/Dreamacro/clash",
+            "star": 18,
+            "description": "A rule-based tunnel in Go."
+        },
+        {
+            "name": "quic-go",
+            "url": "https://github.com/lucas-clemente/quic-go",
+            "star": 31,
+            "description": "A QUIC implementation in pure go"
+        },
+        {
+            "name": "goquery",
+            "url": "https://github.com/PuerkitoBio/goquery",
+            "star": 11,
+            "description": "A little like that j-thing, only in Go."
+        },
+        {
+            "name": "cli",
+            "url": "https://github.com/smallstep/cli",
+            "star": 36,
+            "description": "🧰 A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc."
+        },
+        {
+            "name": "certificates",
+            "url": "https://github.com/smallstep/certificates",
+            "star": 35,
+            "description": "🛡️A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management, so you can use TLS everywhere & SSO for SSH."
+        },
+        {
+            "name": "seaweedfs",
+            "url": "https://github.com/chrislusf/seaweedfs",
+            "star": 5,
+            "description": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek and an optional Filer with POSIX interface, supporting S3 API, Rack-Aware Erasure Coding for warm storage, FUSE mount, Hadoop compatible, WebDAV."
+        },
+        {
+            "name": "caddy",
+            "url": "https://github.com/caddyserver/caddy",
+            "star": 40,
+            "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS"
+        },
+        {
+            "name": "tinygo",
+            "url": "https://github.com/tinygo-org/tinygo",
+            "star": 12,
+            "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM."
+        }
+    ]
+}

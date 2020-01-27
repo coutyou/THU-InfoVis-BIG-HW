@@ -1,0 +1,377 @@
+{
+    "date": "2019-03-26",
+    "month": 3,
+    "day": 26,
+    "python": [
+        {
+            "name": "pyright",
+            "url": "https://github.com/Microsoft/pyright",
+            "star": 588,
+            "description": "Static type checker for Python"
+        },
+        {
+            "name": "instantbox",
+            "url": "https://github.com/instantbox/instantbox",
+            "star": 339,
+            "description": "Get a clean, ready-to-go Linux box in seconds."
+        },
+        {
+            "name": "pytype",
+            "url": "https://github.com/google/pytype",
+            "star": 251,
+            "description": "A static type analyzer for Python code"
+        },
+        {
+            "name": "beagle",
+            "url": "https://github.com/yampelo/beagle",
+            "star": 191,
+            "description": "Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs."
+        },
+        {
+            "name": "prefect",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "star": 172,
+            "description": "The Prefect Core automation engine"
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+            "star": 132,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "BigGAN-PyTorch",
+            "url": "https://github.com/ajbrock/BigGAN-PyTorch",
+            "star": 138,
+            "description": "The author's officially unofficial PyTorch BigGAN implementation."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 102,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 61,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "voicefilter",
+            "url": "https://github.com/mindslab-ai/voicefilter",
+            "star": 85,
+            "description": "Unofficial PyTorch implementation of Google AI's VoiceFilter system"
+        }
+    ],
+    "java": [
+        {
+            "name": "Gloading",
+            "url": "https://github.com/luckybilly/Gloading",
+            "star": 108,
+            "description": "Show global loading status view in a low coupling way for Android App(深度解耦Android App中全局加载中、加载失败及空数据视图)"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 96,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "light-4j",
+            "url": "https://github.com/networknt/light-4j",
+            "star": 100,
+            "description": "A fast, lightweight and more productive microservices framework"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 85,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 81,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "SpringBoot-Learning",
+            "url": "https://github.com/dyc87112/SpringBoot-Learning",
+            "star": 74,
+            "description": "Spring Boot基础教程，Spring Boot 2.x版本连载中！！！"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 53,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 37,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 58,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 48,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Data-Science-Study-Paths-March-2019",
+            "url": "https://github.com/clone95/Data-Science-Study-Paths-March-2019",
+            "star": 732,
+            "description": "A complete ML study path, focused on TensorFlow and Scikit-Learn"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 178,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 108,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "TNFE-Weekly",
+            "url": "https://github.com/Tnfe/TNFE-Weekly",
+            "star": 124,
+            "description": "每周为你提供高质量的关于小程序、h5等前端领域的文章和项目"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 75,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "SPADE",
+            "url": "https://github.com/NVlabs/SPADE",
+            "star": 91,
+            "description": ""
+        },
+        {
+            "name": "open-source-jobs",
+            "url": "https://github.com/t9tio/open-source-jobs",
+            "star": 86,
+            "description": "Open Source Jobs: A list of Open Source projects offering jobs. For who want to work on open source and get paid."
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 75,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 68,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 66,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "griffith",
+            "url": "https://github.com/zhihu/griffith",
+            "star": 307,
+            "description": "A React-based web video player"
+        },
+        {
+            "name": "laxxx",
+            "url": "https://github.com/alexfoxy/laxxx",
+            "star": 254,
+            "description": "Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!"
+        },
+        {
+            "name": "dropcss",
+            "url": "https://github.com/leeoniya/dropcss",
+            "star": 222,
+            "description": "A simple, thorough and fast unused-CSS cleaner"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 200,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "taskbook",
+            "url": "https://github.com/klaussinani/taskbook",
+            "star": 187,
+            "description": "📓Tasks, boards & notes for the command-line habitat"
+        },
+        {
+            "name": "KaTeX",
+            "url": "https://github.com/KaTeX/KaTeX",
+            "star": 159,
+            "description": "Fast math typesetting for the web."
+        },
+        {
+            "name": "CyberChef",
+            "url": "https://github.com/gchq/CyberChef",
+            "star": 131,
+            "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 121,
+            "description": "油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速"
+        },
+        {
+            "name": "storybook",
+            "url": "https://github.com/storybooks/storybook",
+            "star": 115,
+            "description": "UI component dev & test: React, Vue, Angular, React Native, Ember & more!"
+        },
+        {
+            "name": "election-live",
+            "url": "https://github.com/codeforthailand/election-live",
+            "star": 101,
+            "description": "Live Scoreboard for Thai General Election 2562 (2019)"
+        }
+    ],
+    "html": [
+        {
+            "name": "WeChatAgreement.WebApi.Simple",
+            "url": "https://github.com/changtuiqie/WeChatAgreement.WebApi.Simple",
+            "star": 88,
+            "description": "微信mac/ipad协议，webapi封装好的实现方案，免IIS一键部署。 可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等"
+        },
+        {
+            "name": "Panda-Learning",
+            "url": "https://github.com/Alivon/Panda-Learning",
+            "star": 46,
+            "description": "学习强国xuexiqiangguo--熊猫学习Panda-Learning是一个辅助学习 学习强国的程序,帮助挤不出时间，却仍然需要学习的积极分子，学习强国(xuexiqiangguo)"
+        },
+        {
+            "name": "lets-get-arrested",
+            "url": "https://github.com/hamukazu/lets-get-arrested",
+            "star": 42,
+            "description": "This project is intended to protest against the police in Japan"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 32,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 29,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 26,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "bestofml",
+            "url": "https://github.com/RemoteML/bestofml",
+            "star": 25,
+            "description": "The best resources around Machine Learning"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 13,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 15,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        }
+    ],
+    "go": [
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 1156,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "red",
+            "url": "https://github.com/antonmedv/red",
+            "star": 228,
+            "description": "Terminal log analysis tools"
+        },
+        {
+            "name": "pipeline",
+            "url": "https://github.com/tektoncd/pipeline",
+            "star": 194,
+            "description": "A K8s-native Pipeline resource."
+        },
+        {
+            "name": "crfs",
+            "url": "https://github.com/google/crfs",
+            "star": 163,
+            "description": "CRFS: Container Registry Filesystem"
+        },
+        {
+            "name": "Golang-Project-Structure",
+            "url": "https://github.com/Mindinventory/Golang-Project-Structure",
+            "star": 63,
+            "description": "Golang Skeleton with fully version managed"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 66,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "Golang-Paytm",
+            "url": "https://github.com/Mindinventory/Golang-Paytm",
+            "star": 54,
+            "description": "Golang Paytm Intergration Library"
+        },
+        {
+            "name": "Golang-PayU",
+            "url": "https://github.com/Mindinventory/Golang-PayU",
+            "star": 51,
+            "description": "Golang Payu Integration"
+        },
+        {
+            "name": "Golang-HTMLTOPDF-Converter",
+            "url": "https://github.com/Mindinventory/Golang-HTMLTOPDF-Converter",
+            "star": 50,
+            "description": "Golang HTMLTOPDF Converter"
+        },
+        {
+            "name": "qri",
+            "url": "https://github.com/qri-io/qri",
+            "star": 65,
+            "description": "you're invited to a data party!"
+        }
+    ]
+}

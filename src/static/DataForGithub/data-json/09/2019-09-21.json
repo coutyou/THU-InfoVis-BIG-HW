@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-21",
+    "month": 9,
+    "day": 21,
+    "python": [
+        {
+            "name": "case-212",
+            "url": "https://github.com/developers-against-repressions/case-212",
+            "star": 226,
+            "description": "Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»"
+        },
+        {
+            "name": "bsuite",
+            "url": "https://github.com/deepmind/bsuite",
+            "star": 24,
+            "description": "bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent"
+        },
+        {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "star": 33,
+            "description": "💻A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!"
+        },
+        {
+            "name": "shadowsocks",
+            "url": "https://github.com/shadowsocks/shadowsocks",
+            "star": 26,
+            "description": ""
+        },
+        {
+            "name": "shadowsocksr",
+            "url": "https://github.com/shadowsocksr-backup/shadowsocksr",
+            "star": 11,
+            "description": "Python port of ShadowsocksR"
+        },
+        {
+            "name": "pytorch_geometric",
+            "url": "https://github.com/rusty1s/pytorch_geometric",
+            "star": 7,
+            "description": "Geometric Deep Learning Extension Library for PyTorch"
+        },
+        {
+            "name": "big-list-of-naughty-strings",
+            "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+            "star": 10,
+            "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data."
+        },
+        {
+            "name": "alexa-prize-topical-chat-dataset",
+            "url": "https://github.com/alexa/alexa-prize-topical-chat-dataset",
+            "star": 12,
+            "description": "A knowledge-grounded human-human dataset of open-domain conversations."
+        },
+        {
+            "name": "locust",
+            "url": "https://github.com/locustio/locust",
+            "star": 16,
+            "description": "Scalable user load testing tool written in Python"
+        },
+        {
+            "name": "chainer",
+            "url": "https://github.com/chainer/chainer",
+            "star": 2,
+            "description": "A flexible framework of neural networks for deep learning"
+        }
+    ],
+    "java": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 209,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 313,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 30,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://biedian.me"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 128,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 26,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 69,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "kubernetes-client",
+            "url": "https://github.com/fabric8io/kubernetes-client",
+            "star": 6,
+            "description": "Java client for Kubernetes & OpenShift"
+        },
+        {
+            "name": "seata",
+            "url": "https://github.com/seata/seata",
+            "star": 22,
+            "description": "🔥Seata is an easy-to-use, high-performance, open source distributed transaction solution."
+        },
+        {
+            "name": "incubator-dolphinscheduler",
+            "url": "https://github.com/apache/incubator-dolphinscheduler",
+            "star": 49,
+            "description": "Apache DolphinScheduler"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 36,
+            "description": "All Algorithms implemented in Java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "eng-practices",
+            "url": "https://github.com/google/eng-practices",
+            "star": 207,
+            "description": "Google's Engineering Practices documentation"
+        },
+        {
+            "name": "cascadia-code",
+            "url": "https://github.com/microsoft/cascadia-code",
+            "star": 1549,
+            "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 141,
+            "description": "✅Curated list of resources for college students"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/googlehosts/hosts",
+            "star": 33,
+            "description": "镜像：https://coding.net/u/scaffrey/p/hosts/git"
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 95,
+            "description": ""
+        },
+        {
+            "name": "xiaozhi",
+            "url": "https://github.com/qq449245884/xiaozhi",
+            "star": 8,
+            "description": ""
+        },
+        {
+            "name": "google-cloud-4-words",
+            "url": "https://github.com/gregsramblings/google-cloud-4-words",
+            "star": 14,
+            "description": "The Google Cloud Developer's Cheat Sheet"
+        },
+        {
+            "name": "awesome-shodan-queries",
+            "url": "https://github.com/jakejarvis/awesome-shodan-queries",
+            "star": 27,
+            "description": "🔍A collection of interesting, funny, and depressing search queries to plug into https://shodan.io/👩‍💻"
+        },
+        {
+            "name": "reverse-interview-zh",
+            "url": "https://github.com/yifeikong/reverse-interview-zh",
+            "star": 304,
+            "description": "技术面试最后反问面试官的话"
+        },
+        {
+            "name": "deep_learning_object_detection",
+            "url": "https://github.com/hoya012/deep_learning_object_detection",
+            "star": 11,
+            "description": "A paper list of object detection using deep learning."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 122,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 57,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "yapi",
+            "url": "https://github.com/YMFE/yapi",
+            "star": 25,
+            "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台"
+        },
+        {
+            "name": "jsonbox",
+            "url": "https://github.com/vasanthv/jsonbox",
+            "star": 396,
+            "description": "A Free HTTP based JSON storage."
+        },
+        {
+            "name": "crypto-js",
+            "url": "https://github.com/brix/crypto-js",
+            "star": 11,
+            "description": "JavaScript library of crypto standards."
+        },
+        {
+            "name": "vant",
+            "url": "https://github.com/youzan/vant",
+            "star": 19,
+            "description": "Lightweight Mobile UI Components built on Vue"
+        },
+        {
+            "name": "taro",
+            "url": "https://github.com/NervJS/taro",
+            "star": 18,
+            "description": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com/"
+        },
+        {
+            "name": "vue-admin-template",
+            "url": "https://github.com/PanJiaChen/vue-admin-template",
+            "star": 14,
+            "description": "a vue2.0 minimal admin template"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 74,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "CyberChef",
+            "url": "https://github.com/gchq/CyberChef",
+            "star": 41,
+            "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+        }
+    ],
+    "html": [
+        {
+            "name": "treehouses.github.io",
+            "url": "https://github.com/treehouses/treehouses.github.io",
+            "star": 8,
+            "description": "A Markdown Wiki for treehouses🏡"
+        },
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 8,
+            "description": ""
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 19,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "technical-books",
+            "url": "https://github.com/doocs/technical-books",
+            "star": 9,
+            "description": "😆国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习..."
+        },
+        {
+            "name": "tiny-slider",
+            "url": "https://github.com/ganlanyuan/tiny-slider",
+            "star": 12,
+            "description": "Vanilla javascript slider for all purposes."
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 8,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "coexisting-vue-microfrontends",
+            "url": "https://github.com/joeldenning/coexisting-vue-microfrontends",
+            "star": 17,
+            "description": "A repo showing separate vue apps coexisting as microfrontends with single-spa"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 2,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 5,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "errors",
+            "url": "https://github.com/LaravelCollective/errors",
+            "star": 24,
+            "description": "Some elegant error page illustrations for Laravel"
+        }
+    ],
+    "go": [
+        {
+            "name": "gnet",
+            "url": "https://github.com/panjf2000/gnet",
+            "star": 171,
+            "description": "⚡️A high-performance, lightweight, nonblocking and event-loop networking library written in pure Go.🔥"
+        },
+        {
+            "name": "brook",
+            "url": "https://github.com/txthinking/brook",
+            "star": 25,
+            "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software"
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 24,
+            "description": "Curated applications for Kubernetes"
+        },
+        {
+            "name": "prometheus",
+            "url": "https://github.com/prometheus/prometheus",
+            "star": 19,
+            "description": "The Prometheus monitoring system and time series database."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 31,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 27,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "go-restful",
+            "url": "https://github.com/emicklei/go-restful",
+            "star": 3,
+            "description": "package for building REST-style Web Services using Go"
+        },
+        {
+            "name": "harbor",
+            "url": "https://github.com/goharbor/harbor",
+            "star": 21,
+            "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+        },
+        {
+            "name": "influxdb",
+            "url": "https://github.com/influxdata/influxdb",
+            "star": 9,
+            "description": "Scalable datastore for metrics, events, and real-time analytics"
+        },
+        {
+            "name": "traefik",
+            "url": "https://github.com/containous/traefik",
+            "star": 66,
+            "description": "The Cloud Native Edge Router"
+        }
+    ]
+}

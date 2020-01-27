@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-14",
+    "month": 10,
+    "day": 14,
+    "python": [
+        {
+            "name": "detectron2",
+            "url": "https://github.com/facebookresearch/detectron2",
+            "star": 563,
+            "description": "Detectron2 is FAIR's next-generation research platform for object detection and segmentation."
+        },
+        {
+            "name": "fairseq",
+            "url": "https://github.com/pytorch/fairseq",
+            "star": 19,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+        },
+        {
+            "name": "CrypTen",
+            "url": "https://github.com/facebookresearch/CrypTen",
+            "star": 33,
+            "description": "A framework for Privacy Preserving Machine Learning"
+        },
+        {
+            "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "star": 126,
+            "description": "💎一款超轻量级通用人脸检测模型（模型文件大小仅1MB，320x240输入下计算量仅90MFlops）适用于边缘计算设备、移动端设备以及PC"
+        },
+        {
+            "name": "torch2trt",
+            "url": "https://github.com/NVIDIA-AI-IOT/torch2trt",
+            "star": 35,
+            "description": "An easy to use PyTorch to TensorRT converter"
+        },
+        {
+            "name": "hydra",
+            "url": "https://github.com/facebookresearch/hydra",
+            "star": 170,
+            "description": "Hydra is a framework for elegantly configuring complex applications"
+        },
+        {
+            "name": "captum",
+            "url": "https://github.com/pytorch/captum",
+            "star": 57,
+            "description": "Model interpretability and understanding for PyTorch"
+        },
+        {
+            "name": "synapse",
+            "url": "https://github.com/matrix-org/synapse",
+            "star": 8,
+            "description": "Synapse: Matrix reference homeserver"
+        },
+        {
+            "name": "face_recognition",
+            "url": "https://github.com/ageitgey/face_recognition",
+            "star": 19,
+            "description": "The world's simplest facial recognition api for Python and the command line"
+        },
+        {
+            "name": "d2l-zh",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "star": 45,
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。"
+        }
+    ],
+    "java": [
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 58,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 99,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 9,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 15,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 16,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 15,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "netty",
+            "url": "https://github.com/netty/netty",
+            "star": 10,
+            "description": "Netty project - an event-driven asynchronous network application framework"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 17,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 19,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "ImmersionBar",
+            "url": "https://github.com/gyf-dev/ImmersionBar",
+            "star": 4,
+            "description": "android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "guide",
+            "url": "https://github.com/uber-go/guide",
+            "star": 1174,
+            "description": "The Uber Go Style Guide."
+        },
+        {
+            "name": "free-api",
+            "url": "https://github.com/fangzesheng/free-api",
+            "star": 217,
+            "description": "收集免费的接口服务,做一个api的搬运工"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 142,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "guido_blog_translation",
+            "url": "https://github.com/chinesehuazhou/guido_blog_translation",
+            "star": 16,
+            "description": "翻译 Guido 的解析器系列文章"
+        },
+        {
+            "name": "DMG-CPU-Inside",
+            "url": "https://github.com/furrtek/DMG-CPU-Inside",
+            "star": 8,
+            "description": "Reverse-engineered schematics for DMG-CPU-B"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/googlehosts/hosts",
+            "star": 25,
+            "description": "镜像：https://coding.net/u/scaffrey/p/hosts/git"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 22,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 4,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 41,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "fancyss_history_package",
+            "url": "https://github.com/hq450/fancyss_history_package",
+            "star": 16,
+            "description": "科学上网插件的离线安装包储存在这里"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js",
+            "star": 35,
+            "description": "JavaScript 3D library."
+        },
+        {
+            "name": "luban-h5",
+            "url": "https://github.com/ly525/luban-h5",
+            "star": 26,
+            "description": "en: A mobile page builder/editor, similar with amolink. zh: 类似易企秀的H5制作、建站工具."
+        },
+        {
+            "name": "Profiles",
+            "url": "https://github.com/ConnersHua/Profiles",
+            "star": 60,
+            "description": "Clash、Kitsunebi、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件"
+        },
+        {
+            "name": "is-website-vulnerable",
+            "url": "https://github.com/lirantal/is-website-vulnerable",
+            "star": 36,
+            "description": "finds publicly known security vulnerabilities in a website's frontend JavaScript libraries"
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 37,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "taro",
+            "url": "https://github.com/NervJS/taro",
+            "star": 6,
+            "description": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com/"
+        },
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 44,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 0,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 21,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "roughViz",
+            "url": "https://github.com/jwilber/roughViz",
+            "star": 86,
+            "description": "Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser."
+        }
+    ],
+    "html": [
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 58,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 19,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 6,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 7,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "Hacktoberfest2019",
+            "url": "https://github.com/Ishaan28malik/Hacktoberfest2019",
+            "star": 7,
+            "description": "for beginners who are going to start with therefirst PR"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 9,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 12,
+            "description": "Free Bootstrap 3 Admin Template"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 13,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "boost",
+            "url": "https://github.com/boostorg/boost",
+            "star": 3,
+            "description": "Super-project for modularized Boost"
+        },
+        {
+            "name": "portable-strlen",
+            "url": "https://github.com/DeBos99/portable-strlen",
+            "star": 0,
+            "description": "Portable Strlen is an chrome browser extension that provides simple strlen function."
+        }
+    ],
+    "go": [
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "star": 45,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "clash",
+            "url": "https://github.com/Dreamacro/clash",
+            "star": 15,
+            "description": "A rule-based tunnel in Go."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 25,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "nsq",
+            "url": "https://github.com/nsqio/nsq",
+            "star": 6,
+            "description": "A realtime distributed messaging platform"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 39,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "vulcain",
+            "url": "https://github.com/dunglas/vulcain",
+            "star": 320,
+            "description": "Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs"
+        },
+        {
+            "name": "music-get",
+            "url": "https://github.com/winterssy/music-get",
+            "star": 15,
+            "description": "只需一步，下载你喜欢的音乐到本地"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 24,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 7,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "redigo",
+            "url": "https://github.com/gomodule/redigo",
+            "star": 3,
+            "description": "Go client for Redis"
+        }
+    ]
+}

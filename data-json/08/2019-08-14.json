@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-14",
+    "month": 8,
+    "day": 14,
+    "python": [
+        {
+            "name": "AbsoluteZero",
+            "url": "https://github.com/TheSph1nx/AbsoluteZero",
+            "star": 30,
+            "description": "Python APT Backdoor"
+        },
+        {
+            "name": "favorite-link",
+            "url": "https://github.com/guanguans/favorite-link",
+            "star": 136,
+            "description": "❤️每日收集喜欢的开源项目"
+        },
+        {
+            "name": "thefuck",
+            "url": "https://github.com/nvbn/thefuck",
+            "star": 208,
+            "description": "Magnificent app which corrects your previous console command."
+        },
+        {
+            "name": "serverless-application-model",
+            "url": "https://github.com/awslabs/serverless-application-model",
+            "star": 12,
+            "description": "AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 81,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "audio",
+            "url": "https://github.com/pytorch/audio",
+            "star": 5,
+            "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
+        },
+        {
+            "name": "google-research",
+            "url": "https://github.com/google-research/google-research",
+            "star": 37,
+            "description": "Google AI Research"
+        },
+        {
+            "name": "hacs",
+            "url": "https://github.com/custom-components/hacs",
+            "star": 3,
+            "description": "Manage (Install, track, upgrade) and discover custom elements for Home Assistant."
+        },
+        {
+            "name": "scipy",
+            "url": "https://github.com/scipy/scipy",
+            "star": 10,
+            "description": "Scipy library main repository"
+        },
+        {
+            "name": "pandas",
+            "url": "https://github.com/pandas-dev/pandas",
+            "star": 24,
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+        }
+    ],
+    "java": [
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 142,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 167,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "hope-boot",
+            "url": "https://github.com/hope-for/hope-boot",
+            "star": 146,
+            "description": "🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。"
+        },
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 149,
+            "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 65,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "C-OCR",
+            "url": "https://github.com/ctripcorp/C-OCR",
+            "star": 176,
+            "description": "C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 101,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 85,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 23,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "wwa",
+            "url": "https://github.com/warofants/wwa",
+            "star": 21,
+            "description": "World War of Ants"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "regular-investing-in-box",
+            "url": "https://github.com/xiaolai/regular-investing-in-box",
+            "star": 119,
+            "description": "定投改变命运 —— 让时间陪你慢慢变富"
+        },
+        {
+            "name": "slides",
+            "url": "https://github.com/TritonHo/slides",
+            "star": 17,
+            "description": "it is a repository to store all slides used by Triton Ho's public presentation and course."
+        },
+        {
+            "name": "badass-conference-talks",
+            "url": "https://github.com/emmawedekind/badass-conference-talks",
+            "star": 46,
+            "description": ""
+        },
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 188,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        },
+        {
+            "name": "starter-workflows",
+            "url": "https://github.com/actions/starter-workflows",
+            "star": 26,
+            "description": "Accelerating new GitHub Actions workflows"
+        },
+        {
+            "name": "AZ-300-MicrosoftAzureArchitectTechnologies",
+            "url": "https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "Shift-AI-models-to-real-world-products",
+            "url": "https://github.com/lonelygo/Shift-AI-models-to-real-world-products",
+            "star": 38,
+            "description": "Share some useful guides and references about how to shift AI models to real world products or projects."
+        },
+        {
+            "name": "rfcs",
+            "url": "https://github.com/vuejs/rfcs",
+            "star": 2,
+            "description": "RFCs for substantial changes / feature additions to Vue core"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 28,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 82,
+            "description": "Roadmap to becoming a web developer in 2019"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 55,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "mc.js",
+            "url": "https://github.com/ian13456/mc.js",
+            "star": 323,
+            "description": "Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS."
+        },
+        {
+            "name": "taro",
+            "url": "https://github.com/NervJS/taro",
+            "star": 36,
+            "description": "多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com/"
+        },
+        {
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js",
+            "star": 38,
+            "description": "JavaScript 3D library."
+        },
+        {
+            "name": "complete-javascript-course",
+            "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+            "star": 7,
+            "description": "Starter files, final projects and FAQ for my Complete JavaScript course"
+        },
+        {
+            "name": "fullstack-course4",
+            "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+            "star": 1,
+            "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/cezaraugusto/You-Dont-Know-JS",
+            "star": 44,
+            "description": "📗📒(PT-BR translation) JS Book Series."
+        },
+        {
+            "name": "semana-omnistack-8",
+            "url": "https://github.com/Rocketseat/semana-omnistack-8",
+            "star": 19,
+            "description": "Código da aplicação da Semana OmniStack 8.0"
+        },
+        {
+            "name": "next.js",
+            "url": "https://github.com/zeit/next.js",
+            "star": 36,
+            "description": "The React Framework"
+        },
+        {
+            "name": "quasar",
+            "url": "https://github.com/quasarframework/quasar",
+            "star": 14,
+            "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+        }
+    ],
+    "html": [
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 4,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 8,
+            "description": "A collection of resources on modern C++"
+        },
+        {
+            "name": "stisla",
+            "url": "https://github.com/stisla/stisla",
+            "star": 3,
+            "description": "Free Bootstrap Admin Template"
+        },
+        {
+            "name": "country-list",
+            "url": "https://github.com/umpirsky/country-list",
+            "star": 5,
+            "description": "🌐List of all countries with names and ISO 3166-1 codes in all languages and data formats."
+        },
+        {
+            "name": "aws-well-architected-labs",
+            "url": "https://github.com/awslabs/aws-well-architected-labs",
+            "star": 2,
+            "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices."
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 4,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "webcomponents",
+            "url": "https://github.com/w3c/webcomponents",
+            "star": 9,
+            "description": "Web Components specifications"
+        },
+        {
+            "name": "flexboxgrid",
+            "url": "https://github.com/kristoferjoseph/flexboxgrid",
+            "star": 3,
+            "description": "Grid based on CSS3 flexbox"
+        },
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 2,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "ASVS",
+            "url": "https://github.com/OWASP/ASVS",
+            "star": 1,
+            "description": "Application Security Verification Standard"
+        }
+    ],
+    "go": [
+        {
+            "name": "telegraf",
+            "url": "https://github.com/influxdata/telegraf",
+            "star": 16,
+            "description": "The plugin-driven server agent for collecting & reporting metrics."
+        },
+        {
+            "name": "kingpin",
+            "url": "https://github.com/alecthomas/kingpin",
+            "star": 7,
+            "description": "A Go (golang) command line and flag parser"
+        },
+        {
+            "name": "sarama",
+            "url": "https://github.com/Shopify/sarama",
+            "star": 9,
+            "description": "Sarama is a Go library for Apache Kafka 0.8, and up."
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 9,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "kops",
+            "url": "https://github.com/kubernetes/kops",
+            "star": 5,
+            "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management"
+        },
+        {
+            "name": "go-kill-mysql-query",
+            "url": "https://github.com/mugli/go-kill-mysql-query",
+            "star": 8,
+            "description": "Interactively shows long running queries in MySQL server and provides option to kill them one by one"
+        },
+        {
+            "name": "golang-samples",
+            "url": "https://github.com/GoogleCloudPlatform/golang-samples",
+            "star": 11,
+            "description": "Sample apps and code written for Google Cloud in the Go programming language."
+        },
+        {
+            "name": "torrent",
+            "url": "https://github.com/anacrolix/torrent",
+            "star": 7,
+            "description": "Full-featured BitTorrent-client package and utilities"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 9,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 51,
+            "description": "Production-Grade Container Scheduling and Management"
+        }
+    ]
+}

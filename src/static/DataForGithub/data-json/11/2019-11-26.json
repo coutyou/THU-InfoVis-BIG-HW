@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-26",
+    "month": 11,
+    "day": 26,
+    "python": [
+        {
+            "name": "Ultimate-Facebook-Scraper",
+            "url": "https://github.com/harismuneer/Ultimate-Facebook-Scraper",
+            "star": 22,
+            "description": "🤖A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc)."
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 38,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "star": 22,
+            "description": "scikit-learn: machine learning in Python"
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 190,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "python-for-android",
+            "url": "https://github.com/kivy/python-for-android",
+            "star": 19,
+            "description": "Turn your Python application into an Android APK"
+        },
+        {
+            "name": "vim-snippets",
+            "url": "https://github.com/honza/vim-snippets",
+            "star": 3,
+            "description": "vim-snipmate default snippets (Previously snipmate-snippets)"
+        },
+        {
+            "name": "flan",
+            "url": "https://github.com/cloudflare/flan",
+            "star": 324,
+            "description": "A pretty sweet vulnerability scanner"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 14,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "scipy",
+            "url": "https://github.com/scipy/scipy",
+            "star": 1,
+            "description": "Scipy library main repository"
+        },
+        {
+            "name": "oppia",
+            "url": "https://github.com/oppia/oppia",
+            "star": 6,
+            "description": "Tool for collaboratively building interactive lessons."
+        }
+    ],
+    "java": [
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 16,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "Nukkit",
+            "url": "https://github.com/NukkitX/Nukkit",
+            "star": 4,
+            "description": "Nuclear-Powered Server Software for Minecraft: Bedrock Edition."
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 21,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "selenium",
+            "url": "https://github.com/SeleniumHQ/selenium",
+            "star": 11,
+            "description": "A browser automation framework and ecosystem."
+        },
+        {
+            "name": "user-interface-samples",
+            "url": "https://github.com/android/user-interface-samples",
+            "star": 3,
+            "description": "Multiple samples showing the best practices in the user interface on Android."
+        },
+        {
+            "name": "ud851-Exercises",
+            "url": "https://github.com/udacity/ud851-Exercises",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "CtCI-6th-Edition",
+            "url": "https://github.com/careercup/CtCI-6th-Edition",
+            "star": 6,
+            "description": "Cracking the Coding Interview 6th Ed. Solutions"
+        },
+        {
+            "name": "SkyStone",
+            "url": "https://github.com/FIRST-Tech-Challenge/SkyStone",
+            "star": 1,
+            "description": "FTC SDK"
+        },
+        {
+            "name": "baritone",
+            "url": "https://github.com/cabaletta/baritone",
+            "star": 0,
+            "description": "google maps for block game"
+        },
+        {
+            "name": "backtobackswe",
+            "url": "https://github.com/bephrem1/backtobackswe",
+            "star": 3,
+            "description": "Code Examples For Back To Back SWE Lessons"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Production-Level-Deep-Learning",
+            "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+            "star": 182,
+            "description": "This repo attempts to serve as a guideline for building practical production-level deep learning systems to be deployed in real world applications."
+        },
+        {
+            "name": "electron-ssr-backup",
+            "url": "https://github.com/qingshuisiyuan/electron-ssr-backup",
+            "star": 27,
+            "description": "electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜"
+        },
+        {
+            "name": "academic_advisory",
+            "url": "https://github.com/brohrer/academic_advisory",
+            "star": 15,
+            "description": "Collected opinions and advice for academic programs focused on data science skills."
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 154,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "zero-trust-architecture",
+            "url": "https://github.com/ukncsc/zero-trust-architecture",
+            "star": 16,
+            "description": "Principles to help you design and deploy a zero trust architecture"
+        },
+        {
+            "name": "curriculum",
+            "url": "https://github.com/TheOdinProject/curriculum",
+            "star": 4,
+            "description": "The open curriculum for learning web development"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 13,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "awesome-shodan-queries",
+            "url": "https://github.com/jakejarvis/awesome-shodan-queries",
+            "star": 8,
+            "description": "🔍A collection of interesting, funny, and depressing search queries to plug into https://shodan.io/👩‍💻"
+        },
+        {
+            "name": "CTRPF-AR-CHEAT-CODES",
+            "url": "https://github.com/JourneyOver/CTRPF-AR-CHEAT-CODES",
+            "star": 0,
+            "description": "[Database] CTRPF AR CHEAT CODES TO BE USED WITH CTRPF WITH ACTION REPLAY SUPPORT"
+        },
+        {
+            "name": "fancyss_history_package",
+            "url": "https://github.com/hq450/fancyss_history_package",
+            "star": 10,
+            "description": "科学上网插件的离线安装包储存在这里"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 212,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 131,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "uBlock",
+            "url": "https://github.com/gorhill/uBlock",
+            "star": 18,
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+        },
+        {
+            "name": "etcher",
+            "url": "https://github.com/balena-io/etcher",
+            "star": 14,
+            "description": "Flash OS images to SD cards & USB drives, safely and easily."
+        },
+        {
+            "name": "MagicMirror",
+            "url": "https://github.com/MichMich/MagicMirror",
+            "star": 15,
+            "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+        },
+        {
+            "name": "discord.js",
+            "url": "https://github.com/discordjs/discord.js",
+            "star": 55,
+            "description": "A powerful JavaScript library for interacting with the Discord API"
+        },
+        {
+            "name": "cgm-remote-monitor",
+            "url": "https://github.com/nightscout/cgm-remote-monitor",
+            "star": 0,
+            "description": "nightscout web monitor"
+        },
+        {
+            "name": "lighthouse",
+            "url": "https://github.com/GoogleChrome/lighthouse",
+            "star": 18,
+            "description": "Automated auditing, performance metrics, and best practices for the web."
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/CodingTrain/website",
+            "star": 4,
+            "description": "Coding Train website"
+        },
+        {
+            "name": "fullstack-course4",
+            "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+            "star": 0,
+            "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course"
+        }
+    ],
+    "html": [
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 15,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 9,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "roll20-character-sheets",
+            "url": "https://github.com/Roll20/roll20-character-sheets",
+            "star": 0,
+            "description": "Character sheet templates created by the community for use in Roll20."
+        },
+        {
+            "name": "DnDAppFiles",
+            "url": "https://github.com/ceryliae/DnDAppFiles",
+            "star": 1,
+            "description": "Files for the Fifth Edition apps by Lion's Den"
+        },
+        {
+            "name": "computer-science-flash-cards",
+            "url": "https://github.com/jwasham/computer-science-flash-cards",
+            "star": 5,
+            "description": "Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization."
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 1,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 7,
+            "description": "支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 8,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 12,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "taskmanager-10",
+            "url": "https://github.com/htmlacademy-ecmascript/taskmanager-10",
+            "star": 0,
+            "description": ""
+        }
+    ],
+    "go": [
+        {
+            "name": "gost",
+            "url": "https://github.com/ginuerzh/gost",
+            "star": 45,
+            "description": "GO Simple Tunnel - a simple tunnel written in golang"
+        },
+        {
+            "name": "echo",
+            "url": "https://github.com/labstack/echo",
+            "star": 26,
+            "description": "High performance, minimalist Go web framework"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 39,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 6,
+            "description": "An open source, general-purpose policy engine."
+        },
+        {
+            "name": "iotex-core",
+            "url": "https://github.com/iotexproject/iotex-core",
+            "star": 2,
+            "description": "Official implementation of IoTeX blockchain protocol in Go."
+        },
+        {
+            "name": "harmony",
+            "url": "https://github.com/harmony-one/harmony",
+            "star": 1,
+            "description": "The core protocol of harmony"
+        },
+        {
+            "name": "spark-on-k8s-operator",
+            "url": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator",
+            "star": 3,
+            "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes."
+        },
+        {
+            "name": "quic-go",
+            "url": "https://github.com/lucas-clemente/quic-go",
+            "star": 10,
+            "description": "A QUIC implementation in pure go"
+        },
+        {
+            "name": "go-oidc",
+            "url": "https://github.com/coreos/go-oidc",
+            "star": 2,
+            "description": "A Go OpenID Connect client."
+        },
+        {
+            "name": "advanced-go-programming-book",
+            "url": "https://github.com/chai2010/advanced-go-programming-book",
+            "star": 101,
+            "description": "📚《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+        }
+    ]
+}

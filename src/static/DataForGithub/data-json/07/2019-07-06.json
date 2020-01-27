@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-06",
+    "month": 7,
+    "day": 6,
+    "python": [
+        {
+            "name": "open-deepnude",
+            "url": "https://github.com/open-deepnude/open-deepnude",
+            "star": 228,
+            "description": "Open source reverse-engineered clone of DeepNude"
+        },
+        {
+            "name": "dlrm",
+            "url": "https://github.com/facebookresearch/dlrm",
+            "star": 157,
+            "description": "An implementation of a deep learning recommendation model (DLRM)"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 92,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "DeepNude-an-Image-to-Image-technology",
+            "url": "https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology",
+            "star": 99,
+            "description": "DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。"
+        },
+        {
+            "name": "marshmallow",
+            "url": "https://github.com/marshmallow-code/marshmallow",
+            "star": 30,
+            "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 100,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "star": 17,
+            "description": "scikit-learn: machine learning in Python"
+        },
+        {
+            "name": "USTC-Course",
+            "url": "https://github.com/USTC-Resource/USTC-Course",
+            "star": 28,
+            "description": "❤️中国科学技术大学课程资源"
+        },
+        {
+            "name": "tensorpack",
+            "url": "https://github.com/tensorpack/tensorpack",
+            "star": 9,
+            "description": "A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility"
+        },
+        {
+            "name": "python",
+            "url": "https://github.com/kubernetes-client/python",
+            "star": 9,
+            "description": "Official Python client library for kubernetes"
+        }
+    ],
+    "java": [
+        {
+            "name": "GSYVideoPlayer",
+            "url": "https://github.com/CarGuo/GSYVideoPlayer",
+            "star": 60,
+            "description": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。"
+        },
+        {
+            "name": "Qigsaw",
+            "url": "https://github.com/iqiyi/Qigsaw",
+            "star": 30,
+            "description": "🔥🔥Qigsaw is a dynamic modularization library which is based on Android App Bundles. It supports dynamic delivery for split APKs without reinstalling the base one."
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 53,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（16k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "piggymetrics",
+            "url": "https://github.com/sqshq/piggymetrics",
+            "star": 34,
+            "description": "Microservice Architecture with Spring Boot, Spring Cloud and Docker"
+        },
+        {
+            "name": "seata",
+            "url": "https://github.com/seata/seata",
+            "star": 19,
+            "description": "🔥Seata is an easy-to-use, high-performance, open source distributed transaction solution."
+        },
+        {
+            "name": "paascloud-master",
+            "url": "https://github.com/paascloud/paascloud-master",
+            "star": 25,
+            "description": "spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。"
+        },
+        {
+            "name": "react-native-share",
+            "url": "https://github.com/react-native-community/react-native-share",
+            "star": 12,
+            "description": "Social share, sending simple data to other apps."
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 46,
+            "description": "一款基于代码生成器的JAVA快速开发平台！全新架构前后端分离：SpringBoot 2.x，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 49,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "lottie-android",
+            "url": "https://github.com/airbnb/lottie-android",
+            "star": 10,
+            "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 253,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 129,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "notes",
+            "url": "https://github.com/darshanime/notes",
+            "star": 120,
+            "description": "detailed notes on computer science topics, in one page"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/yygmind/blog",
+            "star": 15,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 28,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 31,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "bxaq",
+            "url": "https://github.com/motherboardgithub/bxaq",
+            "star": 13,
+            "description": ""
+        },
+        {
+            "name": "SJTU-Courses",
+            "url": "https://github.com/CoolPhilChen/SJTU-Courses",
+            "star": 24,
+            "description": "上海交通大学课程资料分享"
+        },
+        {
+            "name": "The-Flask-Mega-Tutorial-zh",
+            "url": "https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh",
+            "star": 8,
+            "description": "翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程"
+        },
+        {
+            "name": "BERT_Paper_Chinese_Translation",
+            "url": "https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation",
+            "star": 7,
+            "description": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 论文的中文翻译 Chinese Translation!"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "material-shell",
+            "url": "https://github.com/PapyElGringo/material-shell",
+            "star": 71,
+            "description": "New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse/keyboard workflow to increase daily productivity and comfort"
+        },
+        {
+            "name": "cli",
+            "url": "https://github.com/react-native-community/cli",
+            "star": 22,
+            "description": "React Native command line tools"
+        },
+        {
+            "name": "AnotherRedisDesktopManager",
+            "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+            "star": 23,
+            "description": "🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys."
+        },
+        {
+            "name": "AwesomeXSS",
+            "url": "https://github.com/s0md3v/AwesomeXSS",
+            "star": 24,
+            "description": "Awesome XSS stuff"
+        },
+        {
+            "name": "openlayers",
+            "url": "https://github.com/openlayers/openlayers",
+            "star": 15,
+            "description": "OpenLayers"
+        },
+        {
+            "name": "jsencrypt",
+            "url": "https://github.com/travist/jsencrypt",
+            "star": 7,
+            "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation."
+        },
+        {
+            "name": "blockly",
+            "url": "https://github.com/google/blockly",
+            "star": 13,
+            "description": "The web-based visual programming editor."
+        },
+        {
+            "name": "js-xlsx",
+            "url": "https://github.com/SheetJS/js-xlsx",
+            "star": 21,
+            "description": "📗SheetJS Community Edition -- Spreadsheet Toolkit"
+        },
+        {
+            "name": "nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js",
+            "star": 21,
+            "description": "The Vue.js Framework"
+        },
+        {
+            "name": "lodash",
+            "url": "https://github.com/lodash/lodash",
+            "star": 22,
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+        }
+    ],
+    "html": [
+        {
+            "name": "book",
+            "url": "https://github.com/PaddlePaddle/book",
+            "star": 21,
+            "description": "Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 84,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "shiro-example",
+            "url": "https://github.com/zhangkaitao/shiro-example",
+            "star": 4,
+            "description": "跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 25,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 43,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "inside_the_machine",
+            "url": "https://github.com/collectiveidea/inside_the_machine",
+            "star": 12,
+            "description": ""
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 10,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 17,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 7,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 9,
+            "description": "Library for fast text representation and classification."
+        }
+    ],
+    "go": [
+        {
+            "name": "helm",
+            "url": "https://github.com/helm/helm",
+            "star": 26,
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 8,
+            "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+            "name": "cosmos-sdk",
+            "url": "https://github.com/cosmos/cosmos-sdk",
+            "star": 11,
+            "description": "⛓Blockchain Application Framework✨"
+        },
+        {
+            "name": "gocui",
+            "url": "https://github.com/jroimartin/gocui",
+            "star": 50,
+            "description": "Minimalist Go package aimed at creating Console User Interfaces."
+        },
+        {
+            "name": "harbor",
+            "url": "https://github.com/goharbor/harbor",
+            "star": 9,
+            "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+        },
+        {
+            "name": "volcano",
+            "url": "https://github.com/volcano-sh/volcano",
+            "star": 32,
+            "description": "A Kubernetes Native Batch System"
+        },
+        {
+            "name": "GolangTraining",
+            "url": "https://github.com/GoesToEleven/GolangTraining",
+            "star": 15,
+            "description": "Training for Golang (go language)"
+        },
+        {
+            "name": "go-swagger",
+            "url": "https://github.com/go-swagger/go-swagger",
+            "star": 11,
+            "description": "Swagger 2.0 implementation for go"
+        },
+        {
+            "name": "pan-light",
+            "url": "https://github.com/peterq/pan-light",
+            "star": 106,
+            "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+            "name": "lindb",
+            "url": "https://github.com/eleme/lindb",
+            "star": 26,
+            "description": "LinDB is a scalable, distributed, high performance, high availability Time Series Database."
+        }
+    ]
+}

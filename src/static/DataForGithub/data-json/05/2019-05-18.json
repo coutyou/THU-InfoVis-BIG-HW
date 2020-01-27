@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-18",
+    "month": 5,
+    "day": 18,
+    "python": [
+        {
+            "name": "uds",
+            "url": "https://github.com/stewartmcgown/uds",
+            "star": 486,
+            "description": "Unlimited Drive Storage by splitting binary files into base64"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 422,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "machine-learning-course",
+            "url": "https://github.com/machinelearningmindset/machine-learning-course",
+            "star": 343,
+            "description": "💬Machine Learning Course with Python"
+        },
+        {
+            "name": "black",
+            "url": "https://github.com/python/black",
+            "star": 334,
+            "description": "The uncompromising Python code formatter"
+        },
+        {
+            "name": "client",
+            "url": "https://github.com/wandb/client",
+            "star": 168,
+            "description": "🔥A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API."
+        },
+        {
+            "name": "pywick",
+            "url": "https://github.com/achaiah/pywick",
+            "star": 106,
+            "description": "High-level batteries-included neural network training library for Pytorch"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 63,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 77,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "transfer-learning-conv-ai",
+            "url": "https://github.com/huggingface/transfer-learning-conv-ai",
+            "star": 72,
+            "description": "🦄State-of-the-Art Conversational AI with Transfer Learning"
+        },
+        {
+            "name": "ray",
+            "url": "https://github.com/ray-project/ray",
+            "star": 67,
+            "description": "A fast and simple framework for building and running distributed applications."
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 432,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 180,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 151,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 84,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "Linkage-RecyclerView",
+            "url": "https://github.com/KunMinX/Linkage-RecyclerView",
+            "star": 92,
+            "description": "即使不用饿了么订餐，也请务必收藏好该库！🔥一行代码即可接入，二级联动订餐列表 - Even if you don't order by PrubHub, please be sure to collect the library!🔥This secondary linkage list widget can be accessed by only one line of code. Supporting by RecyclerView & AndroidX."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 75,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 75,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "gogo",
+            "url": "https://github.com/zenuo/gogo",
+            "star": 70,
+            "description": "「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 57,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 53,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 593,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful."
+        },
+        {
+            "name": "hacker-laws-zh",
+            "url": "https://github.com/nusr/hacker-laws-zh",
+            "star": 416,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)"
+        },
+        {
+            "name": "The-Hackers-Hardware-Toolkit",
+            "url": "https://github.com/yadox666/The-Hackers-Hardware-Toolkit",
+            "star": 162,
+            "description": "The best hacker's gadgets for Red Team pentesters and security researchers."
+        },
+        {
+            "name": "resilience-engineering",
+            "url": "https://github.com/lorin/resilience-engineering",
+            "star": 159,
+            "description": "Resilience Engineering Notes"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 102,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 73,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "PowerToys",
+            "url": "https://github.com/microsoft/PowerToys",
+            "star": 77,
+            "description": "Windows system utilities to maximize productivity"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 53,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 62,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 64,
+            "description": "Roadmap to becoming a web developer in 2019"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 347,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 198,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "ola",
+            "url": "https://github.com/franciscop/ola",
+            "star": 143,
+            "description": "🌊Smooth animation library for interpolating numbers"
+        },
+        {
+            "name": "my-budget",
+            "url": "https://github.com/reZach/my-budget",
+            "star": 139,
+            "description": "Free, open source offline cross-platform budgeting solution built with Electron."
+        },
+        {
+            "name": "get-v2ex",
+            "url": "https://github.com/7nights/get-v2ex",
+            "star": 134,
+            "description": "The back-end of bv2ex web application."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 104,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 90,
+            "description": "🖖油猴脚本 一个脚本搞定百度网盘下载"
+        },
+        {
+            "name": "noa",
+            "url": "https://github.com/andyhall/noa",
+            "star": 93,
+            "description": "Experimental voxel game engine."
+        },
+        {
+            "name": "gun",
+            "url": "https://github.com/amark/gun",
+            "star": 93,
+            "description": "A realtime, decentralized, offline-first, mutable graph protocol to sync the web."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 66,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 209,
+            "description": "A collection of resources on modern C++"
+        },
+        {
+            "name": "human_dynamics",
+            "url": "https://github.com/akanazawa/human_dynamics",
+            "star": 45,
+            "description": "project for paper \"Learning 3D Human Dynamics from Video\""
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 37,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "TrackRay",
+            "url": "https://github.com/iSafeBlue/TrackRay",
+            "star": 31,
+            "description": "溯光 (TrackRay) 3 插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit）"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 35,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 24,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "go101",
+            "url": "https://github.com/go101/go101",
+            "star": 23,
+            "description": "An online book focusing on Go syntax/semantics."
+        },
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 21,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 20,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "playground",
+            "url": "https://github.com/tailwindcss/playground",
+            "star": 19,
+            "description": ""
+        }
+    ],
+    "go": [
+        {
+            "name": "trivy",
+            "url": "https://github.com/knqyf263/trivy",
+            "star": 350,
+            "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI"
+        },
+        {
+            "name": "polaris",
+            "url": "https://github.com/reactiveops/polaris",
+            "star": 228,
+            "description": "Validation of best practices in your Kubernetes clusters"
+        },
+        {
+            "name": "uiprogress",
+            "url": "https://github.com/gosuri/uiprogress",
+            "star": 94,
+            "description": "A go library to render progress bars in terminal applications"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 76,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "panicparse",
+            "url": "https://github.com/maruel/panicparse",
+            "star": 77,
+            "description": "Crash your app in style (Golang)"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 65,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 61,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 50,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "gameboy.live",
+            "url": "https://github.com/HFO4/gameboy.live",
+            "star": 50,
+            "description": "🕹️A basic gameboy emulator with terminal \"Cloud Gaming\" support"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 43,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        }
+    ]
+}

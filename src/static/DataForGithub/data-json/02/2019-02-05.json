@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-05",
+    "month": 2,
+    "day": 5,
+    "python": [
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 556,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 345,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "gita",
+            "url": "https://github.com/nosarthur/gita",
+            "star": 247,
+            "description": "Manage multiple git repos side by side for sanity"
+        },
+        {
+            "name": "ASCII-generator",
+            "url": "https://github.com/vietnguyen91/ASCII-generator",
+            "star": 128,
+            "description": "ASCII generator (image to text, image to image, video to video)"
+        },
+        {
+            "name": "stanfordnlp",
+            "url": "https://github.com/stanfordnlp/stanfordnlp",
+            "star": 77,
+            "description": "Official Stanford NLP Python Library for Many Human Languages"
+        },
+        {
+            "name": "ArchiveBox",
+            "url": "https://github.com/pirate/ArchiveBox",
+            "star": 52,
+            "description": "🗃The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..."
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 50,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "inter",
+            "url": "https://github.com/rsms/inter",
+            "star": 49,
+            "description": "The Inter font family"
+        },
+        {
+            "name": "apprise",
+            "url": "https://github.com/caronc/apprise",
+            "star": 48,
+            "description": "Apprise - Push Notifications that work with just about every platform!"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 30,
+            "description": "Models and examples built with TensorFlow"
+        }
+    ],
+    "java": [
+        {
+            "name": "Magisk",
+            "url": "https://github.com/topjohnwu/Magisk",
+            "star": 39,
+            "description": "A Magic Mask to Alter Android System Systemless-ly"
+        },
+        {
+            "name": "santa-tracker-android",
+            "url": "https://github.com/google/santa-tracker-android",
+            "star": 32,
+            "description": "Ho Ho Ho"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 13,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 28,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "SmartYouTubeTV",
+            "url": "https://github.com/yuliskov/SmartYouTubeTV",
+            "star": 27,
+            "description": "Watch YouTube videos on your TV and set-top-box with comfort"
+        },
+        {
+            "name": "dagger-reflect",
+            "url": "https://github.com/JakeWharton/dagger-reflect",
+            "star": 26,
+            "description": "A reflection-based implementation of the Dagger dependency injection library."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 24,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "byte-buddy",
+            "url": "https://github.com/raphw/byte-buddy",
+            "star": 23,
+            "description": "Runtime code generation for the Java virtual machine."
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 16,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 17,
+            "description": "All Algorithms implemented in Java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 349,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "awesome-podcasts",
+            "url": "https://github.com/rShetty/awesome-podcasts",
+            "star": 204,
+            "description": "Collection of awesome podcasts"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 154,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 115,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 110,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "Consolas",
+            "url": "https://github.com/PiotrGrochowski/Consolas",
+            "star": 90,
+            "description": "The Consolas font since I became a designer of it starting at version 8.0. It's of course open source."
+        },
+        {
+            "name": "clean-code-typescript",
+            "url": "https://github.com/labs42io/clean-code-typescript",
+            "star": 79,
+            "description": "Clean Code concepts adapted for TypeScript"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 72,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "the-practical-linux-hardening-guide",
+            "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+            "star": 71,
+            "description": "🔥This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 44,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "flexsearch",
+            "url": "https://github.com/nextapps-de/flexsearch",
+            "star": 551,
+            "description": "Next-Generation full text search library for Browser and Node.js"
+        },
+        {
+            "name": "learn-react-app",
+            "url": "https://github.com/tyroprogrammer/learn-react-app",
+            "star": 227,
+            "description": "Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!"
+        },
+        {
+            "name": "react-insta-stories",
+            "url": "https://github.com/mohitk05/react-insta-stories",
+            "star": 141,
+            "description": "A React component for Instagram like stories"
+        },
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 137,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "speedometer-pwa",
+            "url": "https://github.com/justinribeiro/speedometer-pwa",
+            "star": 135,
+            "description": "A tiny no-frills speedometer progressive web app based on Geolocation API, AmbientLightSensor API, and WakeLock API."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 107,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 110,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 101,
+            "description": "A web-based JavaScript（canvas） spreadsheet"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 93,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "stylelint",
+            "url": "https://github.com/stylelint/stylelint",
+            "star": 86,
+            "description": "A mighty, modern style linter"
+        }
+    ],
+    "html": [
+        {
+            "name": "hello-css",
+            "url": "https://github.com/Carpetsmoker/hello-css",
+            "star": 27,
+            "description": "A CSS template focused on readability"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 19,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "build-your-own-mint",
+            "url": "https://github.com/yyx990803/build-your-own-mint",
+            "star": 15,
+            "description": "Build your own personal finance analytics using Plaid, Google Sheets and CircleCI."
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 9,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "terminal.css",
+            "url": "https://github.com/Gioni06/terminal.css",
+            "star": 13,
+            "description": "Modern and minimalistic CSS framework for terminal enthusiasts"
+        },
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 12,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "patchwork",
+            "url": "https://github.com/jlord/patchwork",
+            "star": null,
+            "description": "All the Git-it Workshop completers!"
+        },
+        {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "star": 7,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+        },
+        {
+            "name": "sleek-dashboard",
+            "url": "https://github.com/tafcoder/sleek-dashboard",
+            "star": 8,
+            "description": "Sleek Dashboard - Free Bootstrap 4 Admin Template and UI Kit"
+        }
+    ],
+    "go": [
+        {
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s",
+            "star": 243,
+            "description": "🐶Kubernetes CLI To Manage Your Clusters In Style!"
+        },
+        {
+            "name": "istio",
+            "url": "https://github.com/istio/istio",
+            "star": 131,
+            "description": "Connect, secure, control, and observe services."
+        },
+        {
+            "name": "aresdb",
+            "url": "https://github.com/uber/aresdb",
+            "star": 57,
+            "description": "A GPU-powered real-time analytics storage and query engine."
+        },
+        {
+            "name": "gitin",
+            "url": "https://github.com/isacikgoz/gitin",
+            "star": 57,
+            "description": "commit/branch/workdir explorer for git"
+        },
+        {
+            "name": "k3s",
+            "url": "https://github.com/ibuildthecloud/k3s",
+            "star": 54,
+            "description": "5 less then k8s. Lightweight Kubernetes."
+        },
+        {
+            "name": "websocketd",
+            "url": "https://github.com/joewalnes/websocketd",
+            "star": 48,
+            "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets."
+        },
+        {
+            "name": "docui",
+            "url": "https://github.com/skanehira/docui",
+            "star": 46,
+            "description": "TUI Tool for Docker"
+        },
+        {
+            "name": "mkcert",
+            "url": "https://github.com/FiloSottile/mkcert",
+            "star": 40,
+            "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+        },
+        {
+            "name": "fathom",
+            "url": "https://github.com/usefathom/fathom",
+            "star": 39,
+            "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 38,
+            "description": "The Go programming language"
+        }
+    ]
+}

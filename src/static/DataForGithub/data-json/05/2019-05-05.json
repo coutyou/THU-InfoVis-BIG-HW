@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-05",
+    "month": 5,
+    "day": 5,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 428,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 80,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 87,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 60,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 50,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 51,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "tvm",
+            "url": "https://github.com/pytorch/tvm",
+            "star": 51,
+            "description": "TVM integration into PyTorch"
+        },
+        {
+            "name": "DeepSwarm",
+            "url": "https://github.com/Pattio/DeepSwarm",
+            "star": 46,
+            "description": "Neural Architecture Search Powered by Swarm Intelligence🐜"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 37,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "alibi",
+            "url": "https://github.com/SeldonIO/alibi",
+            "star": 44,
+            "description": "Algorithms for monitoring and explaining machine learning models"
+        }
+    ],
+    "java": [
+        {
+            "name": "manifold",
+            "url": "https://github.com/manifold-systems/manifold",
+            "star": 168,
+            "description": "Manifold re-energizes Java with powerful features like Type-safe Metaprogramming, Structural Typing, and Extension Methods."
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 124,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 85,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 51,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 47,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 35,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "INFILTRATE2019",
+            "url": "https://github.com/0xAlexei/INFILTRATE2019",
+            "star": 39,
+            "description": "INFILTRATE 2019 Demo Materials"
+        },
+        {
+            "name": "hope-boot",
+            "url": "https://github.com/hope-for/hope-boot",
+            "star": 38,
+            "description": "基于Spring Boot 2.x开发 整合：Spring Boot 2.x/Apache Shiro+JWT/Spring Data JPA+Mybatis+Tk.Mybatis+PageHelper/Redis/Flyway/Swagger/SSO/Thymeleaf 动态权限管理 AES+MD5+盐加解密 代码生成 日志记录 Google验证码登录 单点登录 项目地址：https://github.com/hope-for/hope-boot 主语言[java]"
+        },
+        {
+            "name": "hutool",
+            "url": "https://github.com/looly/hutool",
+            "star": 32,
+            "description": "A set of tools that keep Java sweet."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 21,
+            "description": "The \"REST With Spring\" Course:"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 204,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "industry-machine-learning",
+            "url": "https://github.com/firmai/industry-machine-learning",
+            "star": 107,
+            "description": "A curated list of applied machine learning and data science notebooks and libraries accross different industries."
+        },
+        {
+            "name": "vscode-remote-release",
+            "url": "https://github.com/Microsoft/vscode-remote-release",
+            "star": 67,
+            "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 59,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "commit-messages-guide",
+            "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+            "star": 61,
+            "description": "A guide to understand the importance of commit messages and how to write them well"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 38,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 53,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 52,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "golang-developer-roadmap",
+            "url": "https://github.com/Alikhll/golang-developer-roadmap",
+            "star": 52,
+            "description": "Roadmap to becoming a Go developer in 2019"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 38,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 315,
+            "description": "leetcode题解，记录自己的leetcode解题之路。"
+        },
+        {
+            "name": "response",
+            "url": "https://github.com/monzo/response",
+            "star": 141,
+            "description": "Monzo's real-time incident response and reporting tool⚡️"
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 137,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/i0natan/nodebestpractices",
+            "star": 120,
+            "description": "✅The largest Node.js best practices list (April 2019)"
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 110,
+            "description": "贵校课程资料民间整理"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 98,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 58,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "sql.js",
+            "url": "https://github.com/kripken/sql.js",
+            "star": 63,
+            "description": "SQLite compiled to JavaScript through Emscripten"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 57,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "use-http",
+            "url": "https://github.com/alex-cory/use-http",
+            "star": 52,
+            "description": "🐶React hook for making isomorphic http requests"
+        }
+    ],
+    "html": [
+        {
+            "name": "Python-100-Days",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "star": 850,
+            "description": "Python - 100天从新手到大师"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 102,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 34,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "impatient-js-zh",
+            "url": "https://github.com/apachecn/impatient-js-zh",
+            "star": 28,
+            "description": "📖[译] 写给不耐烦程序员的 JavaScript"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 21,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 19,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "Elf",
+            "url": "https://github.com/fguby/Elf",
+            "star": 15,
+            "description": "使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 14,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 12,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 8,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        }
+    ],
+    "go": [
+        {
+            "name": "komiser",
+            "url": "https://github.com/mlabouardy/komiser",
+            "star": 283,
+            "description": "AWS Environment Inspector👮"
+        },
+        {
+            "name": "dexon",
+            "url": "https://github.com/dexon-foundation/dexon",
+            "star": 235,
+            "description": "Official golang DEXON fullnode implementation"
+        },
+        {
+            "name": "terraformer",
+            "url": "https://github.com/GoogleCloudPlatform/terraformer",
+            "star": 150,
+            "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform)."
+        },
+        {
+            "name": "gameboy.live",
+            "url": "https://github.com/HFO4/gameboy.live",
+            "star": 139,
+            "description": "🕹️A basic gameboy emulator with terminal \"Cloud Gaming\" support"
+        },
+        {
+            "name": "tml",
+            "url": "https://github.com/liamg/tml",
+            "star": 122,
+            "description": "🌈💻🎨A tiny markup language for terminal output. Makes formatting output in CLI apps easier!"
+        },
+        {
+            "name": "termdash",
+            "url": "https://github.com/mum4k/termdash",
+            "star": 96,
+            "description": "Terminal based dashboard."
+        },
+        {
+            "name": "auxpi",
+            "url": "https://github.com/aimerforreimu/auxpi",
+            "star": 85,
+            "description": "🍭集合多家 API 的新一代图床"
+        },
+        {
+            "name": "dexon-consensus",
+            "url": "https://github.com/dexon-foundation/dexon-consensus",
+            "star": 57,
+            "description": "DEXON consensus Implementation & Simulation"
+        },
+        {
+            "name": "pie",
+            "url": "https://github.com/elliotchance/pie",
+            "star": 48,
+            "description": "🍕Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 38,
+            "description": "The Go programming language"
+        }
+    ]
+}

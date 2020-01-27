@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-28",
+    "month": 10,
+    "day": 28,
+    "python": [
+        {
+            "name": "google-research",
+            "url": "https://github.com/google-research/google-research",
+            "star": 118,
+            "description": "Google AI Research"
+        },
+        {
+            "name": "ML-From-Scratch",
+            "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+            "star": 57,
+            "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning."
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/geekcomputers/Python",
+            "star": 97,
+            "description": "My Python Examples"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 63,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "kudeki-chain",
+            "url": "https://github.com/seungwonpark/kudeki-chain",
+            "star": 6,
+            "description": "Nth commit must have commit hash with N leading zeros - 진짜 구데기컵 2018"
+        },
+        {
+            "name": "neural-networks-and-deep-learning",
+            "url": "https://github.com/mnielsen/neural-networks-and-deep-learning",
+            "star": 6,
+            "description": "Code samples for my book \"Neural Networks and Deep Learning\""
+        },
+        {
+            "name": "napari",
+            "url": "https://github.com/napari/napari",
+            "star": 12,
+            "description": "napari: a fast, interactive, multi-dimensional image viewer for python"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 19,
+            "description": "Deepfakes Software For All"
+        },
+        {
+            "name": "gensim",
+            "url": "https://github.com/RaRe-Technologies/gensim",
+            "star": 12,
+            "description": "Topic Modelling for Humans"
+        },
+        {
+            "name": "learnable-triangulation-pytorch",
+            "url": "https://github.com/karfly/learnable-triangulation-pytorch",
+            "star": 3,
+            "description": "This repository is an official PyTorch implementation of the paper \"Learnable Triangulation of Human Pose\" (ICCV 2019, oral). Proposed method archives state-of-the-art results in multi-view 3D human pose estimation!"
+        }
+    ],
+    "java": [
+        {
+            "name": "algorithm004-01",
+            "url": "https://github.com/algorithm004-01/algorithm004-01",
+            "star": 99,
+            "description": ""
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 15,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 13,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "Auto.js",
+            "url": "https://github.com/hyb1996/Auto.js",
+            "star": 75,
+            "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 35,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 2,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "clojure",
+            "url": "https://github.com/clojure/clojure",
+            "star": 10,
+            "description": "The Clojure programming language"
+        },
+        {
+            "name": "testcontainers-java",
+            "url": "https://github.com/testcontainers/testcontainers-java",
+            "star": 9,
+            "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+        },
+        {
+            "name": "libsvm",
+            "url": "https://github.com/cjlin1/libsvm",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 39,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "free-books",
+            "url": "https://github.com/ruanyf/free-books",
+            "star": 126,
+            "description": "互联网上的免费书籍"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 55,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 20,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 15,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "shadowsocks-rss",
+            "url": "https://github.com/shadowsocksr-backup/shadowsocks-rss",
+            "star": 5,
+            "description": "ShadowsocksR update rss, SSR organization"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 63,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "devmap",
+            "url": "https://github.com/zualex/devmap",
+            "star": 10,
+            "description": "Карта развития веб-разработчика"
+        },
+        {
+            "name": "php-rfcs",
+            "url": "https://github.com/php/php-rfcs",
+            "star": 4,
+            "description": "Experimental repo for GitHub based RFC workflow. For now, please don't submit PRs."
+        },
+        {
+            "name": "mod",
+            "url": "https://github.com/lavendnigth/mod",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "gibl",
+            "url": "https://github.com/bor0/gibl",
+            "star": 4,
+            "description": "Book: Gentle Introduction to Blockchain with Lisp"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "mobile-first-animation",
+            "url": "https://github.com/aholachek/mobile-first-animation",
+            "star": 308,
+            "description": "Performant gesture-driven animation on the mobile web"
+        },
+        {
+            "name": "credit-card-form",
+            "url": "https://github.com/muhammederdem/credit-card-form",
+            "star": 669,
+            "description": "Credit card form with smooth and sweet micro-interactions"
+        },
+        {
+            "name": "cube.js",
+            "url": "https://github.com/cube-js/cube.js",
+            "star": 39,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "folio-2019",
+            "url": "https://github.com/brunosimon/folio-2019",
+            "star": 173,
+            "description": ""
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 127,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 76,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 31,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "mermaid",
+            "url": "https://github.com/knsv/mermaid",
+            "star": 100,
+            "description": "Generation of diagram and flowchart from text in a similar manner as markdown"
+        },
+        {
+            "name": "discord.js",
+            "url": "https://github.com/discordjs/discord.js",
+            "star": 4,
+            "description": "A powerful JavaScript library for interacting with the Discord API"
+        },
+        {
+            "name": "axios-crash",
+            "url": "https://github.com/bradtraversy/axios-crash",
+            "star": 25,
+            "description": "Axios crash course files"
+        }
+    ],
+    "html": [
+        {
+            "name": "ctf-wiki",
+            "url": "https://github.com/ctf-wiki/ctf-wiki",
+            "star": 2,
+            "description": "CTF Wiki Online. Come and join us, we need you!"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 15,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "fluxion",
+            "url": "https://github.com/FluxionNetwork/fluxion",
+            "star": 5,
+            "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality."
+        },
+        {
+            "name": "twofactorauth",
+            "url": "https://github.com/2factorauth/twofactorauth",
+            "star": 3,
+            "description": "List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software."
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 18,
+            "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning"
+        },
+        {
+            "name": "html",
+            "url": "https://github.com/whatwg/html",
+            "star": 2,
+            "description": "HTML Standard"
+        },
+        {
+            "name": "coreui-free-bootstrap-admin-template",
+            "url": "https://github.com/coreui/coreui-free-bootstrap-admin-template",
+            "star": 8,
+            "description": "CoreUI is free bootstrap admin template"
+        },
+        {
+            "name": "stisla",
+            "url": "https://github.com/stisla/stisla",
+            "star": 4,
+            "description": "Free Bootstrap Admin Template"
+        },
+        {
+            "name": "uPlot",
+            "url": "https://github.com/leeoniya/uPlot",
+            "star": 23,
+            "description": "📈An exceptionally fast, tiny time series chart"
+        },
+        {
+            "name": "polynote",
+            "url": "https://github.com/Netflix/polynote",
+            "star": 5,
+            "description": ""
+        }
+    ],
+    "go": [
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 13,
+            "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+            "name": "ultimate-go",
+            "url": "https://github.com/hoanhan101/ultimate-go",
+            "star": 152,
+            "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →"
+        },
+        {
+            "name": "phuip-fpizdam",
+            "url": "https://github.com/neex/phuip-fpizdam",
+            "star": 124,
+            "description": "Exploit for CVE-2019-11043"
+        },
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 23,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "btcd",
+            "url": "https://github.com/btcsuite/btcd",
+            "star": 1,
+            "description": "An alternative full node bitcoin implementation written in Go (golang)"
+        },
+        {
+            "name": "gobuster",
+            "url": "https://github.com/OJ/gobuster",
+            "star": 5,
+            "description": "Directory/File, DNS and VHost busting tool written in Go"
+        },
+        {
+            "name": "syncthing",
+            "url": "https://github.com/syncthing/syncthing",
+            "star": 36,
+            "description": "Open Source Continuous File Synchronization"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 10,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "go-jose",
+            "url": "https://github.com/square/go-jose",
+            "star": 29,
+            "description": "An implementation of JOSE standards (JWE, JWS, JWT) in Go"
+        },
+        {
+            "name": "fasthttp",
+            "url": "https://github.com/valyala/fasthttp",
+            "star": 44,
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http"
+        }
+    ]
+}

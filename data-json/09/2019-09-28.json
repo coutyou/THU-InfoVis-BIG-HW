@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-28",
+    "month": 9,
+    "day": 28,
+    "python": [
+        {
+            "name": "electricitymap-contrib",
+            "url": "https://github.com/tmrowco/electricitymap-contrib",
+            "star": 21,
+            "description": "A real-time visualisation of the CO2 emissions of electricity consumption"
+        },
+        {
+            "name": "FaceForensics",
+            "url": "https://github.com/ondyari/FaceForensics",
+            "star": 76,
+            "description": "Github of the FaceForensics dataset"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/geekcomputers/Python",
+            "star": 112,
+            "description": "My Python Examples"
+        },
+        {
+            "name": "wxpy",
+            "url": "https://github.com/youfou/wxpy",
+            "star": 242,
+            "description": "微信机器人 / 可能是最优雅的微信个人号 API✨✨"
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 226,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 386,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        },
+        {
+            "name": "rlpyt",
+            "url": "https://github.com/astooke/rlpyt",
+            "star": 33,
+            "description": "Reinforcement Learning in PyTorch"
+        },
+        {
+            "name": "DeepLearningExamples",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "star": 10,
+            "description": "Deep Learning Examples"
+        },
+        {
+            "name": "django",
+            "url": "https://github.com/django/django",
+            "star": 29,
+            "description": "The Web framework for perfectionists with deadlines."
+        },
+        {
+            "name": "redash",
+            "url": "https://github.com/getredash/redash",
+            "star": 14,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 71,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 37,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 37,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "canal",
+            "url": "https://github.com/alibaba/canal",
+            "star": 39,
+            "description": "阿里巴巴 MySQL binlog 增量订阅&消费组件"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 25,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 60,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "MyBookshelf",
+            "url": "https://github.com/gedoor/MyBookshelf",
+            "star": 24,
+            "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 29,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 23,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "otter",
+            "url": "https://github.com/alibaba/otter",
+            "star": 18,
+            "description": "阿里巴巴分布式数据库同步系统(解决中美异地机房)"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "API-Security-Checklist",
+            "url": "https://github.com/shieldfy/API-Security-Checklist",
+            "star": 190,
+            "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API"
+        },
+        {
+            "name": "nlp-roadmap",
+            "url": "https://github.com/graykode/nlp-roadmap",
+            "star": 203,
+            "description": "ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP"
+        },
+        {
+            "name": "DSA20",
+            "url": "https://github.com/helghareeb/DSA20",
+            "star": 9,
+            "description": "Data Structures and Algorithms - Mansoura University - 2019/2020"
+        },
+        {
+            "name": "First-steps-towards-Deep-Learning",
+            "url": "https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning",
+            "star": 38,
+            "description": "This is an open sourced book on deep learning."
+        },
+        {
+            "name": "awesome-blazor",
+            "url": "https://github.com/AdrienTorris/awesome-blazor",
+            "star": 36,
+            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+        },
+        {
+            "name": "iPhoneOSDeviceSupport",
+            "url": "https://github.com/filsv/iPhoneOSDeviceSupport",
+            "star": 13,
+            "description": "Xcode iPhoneOS DeviceSupport files (6.0 - 13.1 (17A5821e))"
+        },
+        {
+            "name": "FreeNetwork",
+            "url": "https://github.com/xiaoming2028/FreeNetwork",
+            "star": 38,
+            "description": "翻墙-科学上网 史上最全教程"
+        },
+        {
+            "name": "awesome-nlp",
+            "url": "https://github.com/keon/awesome-nlp",
+            "star": 10,
+            "description": "📖A curated list of resources dedicated to Natural Language Processing (NLP)"
+        },
+        {
+            "name": "dotnetconf2019",
+            "url": "https://github.com/dotnet-presentations/dotnetconf2019",
+            "star": 9,
+            "description": "Creative and technical content for running a .NET Conf 2019 local event in your community"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 87,
+            "description": "A complete computer science study plan to become a software engineer."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 86,
+            "description": "✅The largest Node.js best practices list (September 2019)"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 122,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "CppCon2019",
+            "url": "https://github.com/CppCon/CppCon2019",
+            "star": 41,
+            "description": "Slides and other materials from CppCon 2019"
+        },
+        {
+            "name": "Web",
+            "url": "https://github.com/qianguyihao/Web",
+            "star": 83,
+            "description": "前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新..."
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 83,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 38,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 49,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "joplin",
+            "url": "https://github.com/laurent22/joplin",
+            "star": 15,
+            "description": "Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/"
+        },
+        {
+            "name": "hackathon-starter",
+            "url": "https://github.com/sahat/hackathon-starter",
+            "star": 27,
+            "description": "A boilerplate for Node.js web applications"
+        },
+        {
+            "name": "ogl",
+            "url": "https://github.com/oframe/ogl",
+            "star": 61,
+            "description": "Minimal WebGL framework"
+        }
+    ],
+    "html": [
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 97,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 45,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "hacktoberfest-swag-list",
+            "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+            "star": 14,
+            "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all."
+        },
+        {
+            "name": "facebook360_dep",
+            "url": "https://github.com/facebook/facebook360_dep",
+            "star": 12,
+            "description": "Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 37,
+            "description": "支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel"
+        },
+        {
+            "name": "aws-well-architected-labs",
+            "url": "https://github.com/awslabs/aws-well-architected-labs",
+            "star": 2,
+            "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices."
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 10,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "ecma262",
+            "url": "https://github.com/tc39/ecma262",
+            "star": 14,
+            "description": "Status, process, and documents for ECMA-262"
+        },
+        {
+            "name": "swagger-codegen-generators",
+            "url": "https://github.com/swagger-api/swagger-codegen-generators",
+            "star": 0,
+            "description": ""
+        },
+        {
+            "name": "book",
+            "url": "https://github.com/PaddlePaddle/book",
+            "star": 2,
+            "description": "Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）"
+        }
+    ],
+    "go": [
+        {
+            "name": "watermill",
+            "url": "https://github.com/ThreeDotsLabs/watermill",
+            "star": 110,
+            "description": "Building event-driven applications easy way in Go."
+        },
+        {
+            "name": "shhgit",
+            "url": "https://github.com/eth0izzle/shhgit",
+            "star": 109,
+            "description": "Ah shhgit! Find GitHub secrets in real time"
+        },
+        {
+            "name": "linkchain",
+            "url": "https://github.com/lianxiangcloud/linkchain",
+            "star": 7,
+            "description": "享云链-郑和版本"
+        },
+        {
+            "name": "gev",
+            "url": "https://github.com/Allenxuxu/gev",
+            "star": 102,
+            "description": "gev is a lightweight, fast non-blocking TCP network library based on Reactor mode."
+        },
+        {
+            "name": "client_golang",
+            "url": "https://github.com/prometheus/client_golang",
+            "star": 29,
+            "description": "Prometheus instrumentation library for Go applications"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 60,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "operator-sdk",
+            "url": "https://github.com/operator-framework/operator-sdk",
+            "star": 10,
+            "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+        },
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 10,
+            "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+            "name": "lazydocker",
+            "url": "https://github.com/jesseduffield/lazydocker",
+            "star": 41,
+            "description": "The lazier way to manage everything docker"
+        },
+        {
+            "name": "prometheus",
+            "url": "https://github.com/prometheus/prometheus",
+            "star": 29,
+            "description": "The Prometheus monitoring system and time series database."
+        }
+    ]
+}

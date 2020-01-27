@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-08",
+    "month": 11,
+    "day": 8,
+    "python": [
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 204,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "gpt-2-output-dataset",
+            "url": "https://github.com/openai/gpt-2-output-dataset",
+            "star": 60,
+            "description": "Dataset of GPT-2 outputs for research in detection, biases, and more"
+        },
+        {
+            "name": "pandas",
+            "url": "https://github.com/pandas-dev/pandas",
+            "star": 20,
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+        },
+        {
+            "name": "DeepCTR",
+            "url": "https://github.com/shenweichen/DeepCTR",
+            "star": 28,
+            "description": "Easy-to-use,Modular and Extendible package of deep-learning based CTR models."
+        },
+        {
+            "name": "spleeter",
+            "url": "https://github.com/deezer/spleeter",
+            "star": 721,
+            "description": "Deezer source separation library including pretrained models."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/PaddlePaddle/models",
+            "star": 82,
+            "description": "Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 78,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "locust",
+            "url": "https://github.com/locustio/locust",
+            "star": 20,
+            "description": "Scalable user load testing tool written in Python"
+        },
+        {
+            "name": "algo",
+            "url": "https://github.com/wangzheng0822/algo",
+            "star": 33,
+            "description": "数据结构和算法必知必会的50个代码实现"
+        },
+        {
+            "name": "sentry",
+            "url": "https://github.com/getsentry/sentry",
+            "star": 61,
+            "description": "Sentry is cross-platform application monitoring, with a focus on error reporting."
+        }
+    ],
+    "java": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 160,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 179,
+            "description": "大数据入门指南⭐️"
+        },
+        {
+            "name": "Jetpack-MVVM-Best-Practice",
+            "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+            "star": 232,
+            "description": "是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 134,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "springboot-socks",
+            "url": "https://github.com/yizhiwazi/springboot-socks",
+            "star": 34,
+            "description": "SpringBoot 基础教程 | 从入门到上瘾 | 基于2.0.0.M5制作"
+        },
+        {
+            "name": "schema-registry",
+            "url": "https://github.com/confluentinc/schema-registry",
+            "star": 6,
+            "description": "Confluent Schema Registry for Kafka"
+        },
+        {
+            "name": "ksql",
+            "url": "https://github.com/confluentinc/ksql",
+            "star": 8,
+            "description": "KSQL - the Streaming SQL Engine for Apache Kafka"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 28,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "Auto.js",
+            "url": "https://github.com/hyb1996/Auto.js",
+            "star": 125,
+            "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)"
+        },
+        {
+            "name": "servicetalk",
+            "url": "https://github.com/apple/servicetalk",
+            "star": 94,
+            "description": "A networking framework that evolves with your application"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "fanhaodaquan",
+            "url": "https://github.com/imfht/fanhaodaquan",
+            "star": 389,
+            "description": "番号大全。"
+        },
+        {
+            "name": "best-practices-checklist",
+            "url": "https://github.com/palash25/best-practices-checklist",
+            "star": 26,
+            "description": "A list of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 140,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "haoel.github.io",
+            "url": "https://github.com/haoel/haoel.github.io",
+            "star": 343,
+            "description": ""
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 50,
+            "description": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+        },
+        {
+            "name": "sec-chart",
+            "url": "https://github.com/SecWiki/sec-chart",
+            "star": 9,
+            "description": "安全思维导图集合"
+        },
+        {
+            "name": "Anime-Girls-Holding-Programming-Books",
+            "url": "https://github.com/laynH/Anime-Girls-Holding-Programming-Books",
+            "star": 10,
+            "description": "Anime Girls Holding Programming Books"
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 112,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+        },
+        {
+            "name": "aws-modern-application-workshop",
+            "url": "https://github.com/aws-samples/aws-modern-application-workshop",
+            "star": 0,
+            "description": "A tutorial for developers that want to learn about how to build modern applications on top of AWS. You will build a sample website that leverages infrastructure as code, containers, serverless code functions, CI/CD, and more."
+        },
+        {
+            "name": "distributed-consensus-reading-list",
+            "url": "https://github.com/heidi-ann/distributed-consensus-reading-list",
+            "star": 12,
+            "description": "List of academic papers on distributed consensus"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "react-query",
+            "url": "https://github.com/tannerlinsley/react-query",
+            "star": 305,
+            "description": "⚛️Hooks for fetching, caching and updating asynchronous data in React"
+        },
+        {
+            "name": "marktext",
+            "url": "https://github.com/marktext/marktext",
+            "star": 392,
+            "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+        },
+        {
+            "name": "taobaoVisitingVenues",
+            "url": "https://github.com/sleepybear1113/taobaoVisitingVenues",
+            "star": 224,
+            "description": "双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android"
+        },
+        {
+            "name": "d3",
+            "url": "https://github.com/d3/d3",
+            "star": 31,
+            "description": "Bring data to life with SVG, Canvas and HTML.📊📈🎉"
+        },
+        {
+            "name": "suspense-experimental-github-demo",
+            "url": "https://github.com/gaearon/suspense-experimental-github-demo",
+            "star": 85,
+            "description": "Sample project built with Suspense to demonstrate render-as-you-fetch"
+        },
+        {
+            "name": "WheelChair",
+            "url": "https://github.com/hrt/WheelChair",
+            "star": 2,
+            "description": "A nerfed piece of alien technology"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 50,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "bpmn-js",
+            "url": "https://github.com/bpmn-io/bpmn-js",
+            "star": 8,
+            "description": "A BPMN 2.0 rendering toolkit and web modeler."
+        },
+        {
+            "name": "vxe-table",
+            "url": "https://github.com/xuliangzhan/vxe-table",
+            "star": 7,
+            "description": "🐬一个简单实用的 Vue 表格组件"
+        },
+        {
+            "name": "next.js",
+            "url": "https://github.com/zeit/next.js",
+            "star": 38,
+            "description": "The React Framework"
+        }
+    ],
+    "html": [
+        {
+            "name": "DevOps-Guide",
+            "url": "https://github.com/Tikam02/DevOps-Guide",
+            "star": 252,
+            "description": "DevOps Guide from basic to advanced with Interview Questions and Notes🔥"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 13,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "ctf-wiki",
+            "url": "https://github.com/ctf-wiki/ctf-wiki",
+            "star": 9,
+            "description": "CTF Wiki Online. Come and join us, we need you!"
+        },
+        {
+            "name": "foundation-sites",
+            "url": "https://github.com/foundation/foundation-sites",
+            "star": 6,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device."
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 9,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "chosen",
+            "url": "https://github.com/harvesthq/chosen",
+            "star": 2,
+            "description": "Chosen is a library for making long, unwieldy select boxes more friendly."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 11,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 1,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "DetectionLab",
+            "url": "https://github.com/clong/DetectionLab",
+            "star": 11,
+            "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices"
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 5,
+            "description": "程序员技能图谱"
+        }
+    ],
+    "go": [
+        {
+            "name": "spikeSystem",
+            "url": "https://github.com/GuoZhaoran/spikeSystem",
+            "star": 78,
+            "description": ""
+        },
+        {
+            "name": "elastic",
+            "url": "https://github.com/olivere/elastic",
+            "star": 12,
+            "description": "Elasticsearch client for Go."
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 43,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 31,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "vitess",
+            "url": "https://github.com/vitessio/vitess",
+            "star": 39,
+            "description": "Vitess is a database clustering system for horizontal scaling of MySQL."
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 31,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "helmfile",
+            "url": "https://github.com/roboll/helmfile",
+            "star": 5,
+            "description": "Deploy Kubernetes Helm Charts"
+        },
+        {
+            "name": "golangci-lint",
+            "url": "https://github.com/golangci/golangci-lint",
+            "star": 9,
+            "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 46,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "istio",
+            "url": "https://github.com/istio/istio",
+            "star": 40,
+            "description": "Connect, secure, control, and observe services."
+        }
+    ]
+}

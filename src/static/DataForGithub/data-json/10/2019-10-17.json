@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-17",
+    "month": 10,
+    "day": 17,
+    "python": [
+        {
+            "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "star": 327,
+            "description": "💎1MB轻量级通用人脸检测模型"
+        },
+        {
+            "name": "100-Days-of-ML-Code-Chinese-Version",
+            "url": "https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version",
+            "star": 53,
+            "description": "Chinese Translation for Machine Learning Infographics"
+        },
+        {
+            "name": "poetry",
+            "url": "https://github.com/sdispater/poetry",
+            "star": 21,
+            "description": "Python dependency management and packaging made easy."
+        },
+        {
+            "name": "Chinese-Text-Classification-Pytorch",
+            "url": "https://github.com/649453932/Chinese-Text-Classification-Pytorch",
+            "star": 33,
+            "description": "中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。"
+        },
+        {
+            "name": "pkuseg-python",
+            "url": "https://github.com/lancopku/pkuseg-python",
+            "star": 43,
+            "description": "pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation"
+        },
+        {
+            "name": "pip",
+            "url": "https://github.com/pypa/pip",
+            "star": 5,
+            "description": "The Python package installer"
+        },
+        {
+            "name": "compose",
+            "url": "https://github.com/docker/compose",
+            "star": 13,
+            "description": "Define and run multi-container applications with Docker"
+        },
+        {
+            "name": "Awesome-WAF",
+            "url": "https://github.com/0xInfection/Awesome-WAF",
+            "star": 72,
+            "description": "🔥Everything awesome about web-application firewalls (WAF)."
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 118,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "CppCoreGuidelines",
+            "url": "https://github.com/isocpp/CppCoreGuidelines",
+            "star": 42,
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++"
+        }
+    ],
+    "java": [
+        {
+            "name": "react-native-camera",
+            "url": "https://github.com/react-native-community/react-native-camera",
+            "star": 8,
+            "description": "A Camera component for React Native. Also supports barcode scanning!"
+        },
+        {
+            "name": "openj9",
+            "url": "https://github.com/eclipse/openj9",
+            "star": 4,
+            "description": "Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo."
+        },
+        {
+            "name": "MPAndroidChart",
+            "url": "https://github.com/PhilJay/MPAndroidChart",
+            "star": 16,
+            "description": "A powerful🚀Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations."
+        },
+        {
+            "name": "react-native-fbsdk",
+            "url": "https://github.com/facebook/react-native-fbsdk",
+            "star": 2,
+            "description": "A React Native wrapper around the Facebook SDKs for Android and iOS. Provides access to Facebook login, sharing, graph requests, app events etc."
+        },
+        {
+            "name": "YCWebView",
+            "url": "https://github.com/yangchong211/YCWebView",
+            "star": 30,
+            "description": "基于腾讯x5开源库，提高webView开发效率，大概要节约你百分之六十的时间成本。该案例支持处理js的交互逻辑且无耦合、同时暴露进度条加载进度、可以监听异常error状态、支持视频播放并且可以全频、支持加载word，xls，ppt，pdf，txt等文件文档、发短信、打电话、发邮件、打开文件操作上传图片、唤起原生App、x5库为最新版本，功能强大。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 106,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "kubernetes-plugin",
+            "url": "https://github.com/jenkinsci/kubernetes-plugin",
+            "star": 5,
+            "description": "Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment"
+        },
+        {
+            "name": "onemall",
+            "url": "https://github.com/YunaiV/onemall",
+            "star": 30,
+            "description": "mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。"
+        },
+        {
+            "name": "karate",
+            "url": "https://github.com/intuit/karate",
+            "star": 5,
+            "description": "Test Automation Made Simple"
+        },
+        {
+            "name": "android-interview-questions",
+            "url": "https://github.com/MindorksOpenSource/android-interview-questions",
+            "star": 4,
+            "description": "Your Cheat Sheet For Android Interview - Android Interview Questions"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "free-api",
+            "url": "https://github.com/fangzesheng/free-api",
+            "star": 484,
+            "description": "收集免费的接口服务,做一个api的搬运工"
+        },
+        {
+            "name": "xg2xg",
+            "url": "https://github.com/jhuangtw-dev/xg2xg",
+            "star": 161,
+            "description": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 161,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "chapter",
+            "url": "https://github.com/freeCodeCamp/chapter",
+            "star": 209,
+            "description": "A self-hosted event management tool for nonprofits"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 126,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "fanhaodaquan",
+            "url": "https://github.com/imfht/fanhaodaquan",
+            "star": 17,
+            "description": "番号大全。"
+        },
+        {
+            "name": "bank_interview",
+            "url": "https://github.com/sty945/bank_interview",
+            "star": 23,
+            "description": "银行笔试面试经验分享及资料分享"
+        },
+        {
+            "name": "Zure",
+            "url": "https://github.com/zealson/Zure",
+            "star": 5,
+            "description": "Quantumult X Policy Icon Set"
+        },
+        {
+            "name": "awesome-console-services",
+            "url": "https://github.com/chubin/awesome-console-services",
+            "star": 10,
+            "description": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 115,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 81,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        },
+        {
+            "name": "tsdx",
+            "url": "https://github.com/jaredpalmer/tsdx",
+            "star": 43,
+            "description": "Zero-config CLI for TypeScript package development"
+        },
+        {
+            "name": "reinvent-planner",
+            "url": "https://github.com/carlosesilva/reinvent-planner",
+            "star": 7,
+            "description": "Plan your AWS re:Invent 2019 sessions by visualizing it in a calendar."
+        },
+        {
+            "name": "generator-jhipster",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "star": 16,
+            "description": "Open Source application platform for creating Spring Boot + Angular/React projects in seconds!"
+        },
+        {
+            "name": "keystone-5",
+            "url": "https://github.com/keystonejs/keystone-5",
+            "star": 10,
+            "description": "🚀The future of KeystoneJS"
+        },
+        {
+            "name": "strapi",
+            "url": "https://github.com/strapi/strapi",
+            "star": 86,
+            "description": "🚀Open source Node.js Headless CMS to easily build customisable APIs"
+        },
+        {
+            "name": "react-vis",
+            "url": "https://github.com/uber/react-vis",
+            "star": 13,
+            "description": "Data Visualization Components"
+        },
+        {
+            "name": "Semantic-UI-React",
+            "url": "https://github.com/Semantic-Org/Semantic-UI-React",
+            "star": 7,
+            "description": "The official Semantic-UI-React integration"
+        },
+        {
+            "name": "react-router",
+            "url": "https://github.com/ReactTraining/react-router",
+            "star": 17,
+            "description": "Declarative routing for React"
+        },
+        {
+            "name": "bootcamp-gostack-desafio-01",
+            "url": "https://github.com/Rocketseat/bootcamp-gostack-desafio-01",
+            "star": 5,
+            "description": "Desafio do primeiro módulo do Bootcamp GoStack🚀👨🏻‍🚀"
+        }
+    ],
+    "html": [
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 7,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "WikiSQL",
+            "url": "https://github.com/salesforce/WikiSQL",
+            "star": 5,
+            "description": "A large annotated semantic parsing corpus for developing natural language interfaces."
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 13,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 24,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "stickyfill",
+            "url": "https://github.com/wilddeer/stickyfill",
+            "star": 1,
+            "description": "Polyfill for CSS `position: sticky`"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 25,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 11,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "data_analysis",
+            "url": "https://github.com/zhouwei713/data_analysis",
+            "star": 19,
+            "description": "一些爬虫和数据分析相关实战练习"
+        },
+        {
+            "name": "bn.javascript.info",
+            "url": "https://github.com/javascript-tutorial/bn.javascript.info",
+            "star": 0,
+            "description": "Modern JavaScript Tutorial in Bengali"
+        },
+        {
+            "name": "ko.javascript.info",
+            "url": "https://github.com/javascript-tutorial/ko.javascript.info",
+            "star": 1,
+            "description": "Modern JavaScript Tutorial in Korean (모던 자바스크립트 튜토리얼)"
+        }
+    ],
+    "go": [
+        {
+            "name": "minikube",
+            "url": "https://github.com/kubernetes/minikube",
+            "star": 22,
+            "description": "Run Kubernetes locally"
+        },
+        {
+            "name": "harbor",
+            "url": "https://github.com/goharbor/harbor",
+            "star": 31,
+            "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "star": 166,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "zap",
+            "url": "https://github.com/uber-go/zap",
+            "star": 12,
+            "description": "Blazing fast, structured, leveled logging in Go."
+        },
+        {
+            "name": "ssrf-sheriff",
+            "url": "https://github.com/teknogeek/ssrf-sheriff",
+            "star": 6,
+            "description": "A simple SSRF-testing sheriff written in Go"
+        },
+        {
+            "name": "client_golang",
+            "url": "https://github.com/prometheus/client_golang",
+            "star": 5,
+            "description": "Prometheus instrumentation library for Go applications"
+        },
+        {
+            "name": "influxdb",
+            "url": "https://github.com/influxdata/influxdb",
+            "star": 10,
+            "description": "Scalable datastore for metrics, events, and real-time analytics"
+        },
+        {
+            "name": "cockroach",
+            "url": "https://github.com/cockroachdb/cockroach",
+            "star": 10,
+            "description": "CockroachDB - the open source, cloud-native SQL database."
+        },
+        {
+            "name": "helm",
+            "url": "https://github.com/helm/helm",
+            "star": 22,
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "jwt-go",
+            "url": "https://github.com/dgrijalva/jwt-go",
+            "star": 5,
+            "description": "Golang implementation of JSON Web Tokens (JWT)"
+        }
+    ]
+}

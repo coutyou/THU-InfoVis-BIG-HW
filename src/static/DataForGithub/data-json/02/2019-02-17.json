@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-17",
+    "month": 2,
+    "day": 17,
+    "python": [
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 492,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "stylegan",
+            "url": "https://github.com/NVlabs/stylegan",
+            "star": 284,
+            "description": "StyleGAN - Official TensorFlow Implementation"
+        },
+        {
+            "name": "ludwig",
+            "url": "https://github.com/uber/ludwig",
+            "star": 173,
+            "description": "Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code."
+        },
+        {
+            "name": "planet",
+            "url": "https://github.com/google-research/planet",
+            "star": 138,
+            "description": "Deep Planning Network: Control from pixels by latent planning with learned dynamics"
+        },
+        {
+            "name": "rasa_core",
+            "url": "https://github.com/RasaHQ/rasa_core",
+            "star": 122,
+            "description": "🤖Open source chatbot framework with machine learning-based dialogue management - Build contextual AI assistants"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 111,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "PayloadsAllTheThings",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "star": 55,
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF"
+        },
+        {
+            "name": "neural-pipeline",
+            "url": "https://github.com/toodef/neural-pipeline",
+            "star": 48,
+            "description": "Neural networks training pipeline based on PyTorch"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 45,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 39,
+            "description": "Models and examples built with TensorFlow"
+        }
+    ],
+    "java": [
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 112,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 92,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 76,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 65,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "DETA_DataBase",
+            "url": "https://github.com/yaoguangluo/DETA_DataBase",
+            "star": 44,
+            "description": "🚀Deta quantum-field json PLSQL database integrated in deta《VPCS架构》http server. size 30KB / Json量子碎片去死锁带binlog动态回滚的PLSQL数据库，启动50毫秒，100,000 QPS"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 35,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 33,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "jib",
+            "url": "https://github.com/GoogleContainerTools/jib",
+            "star": 34,
+            "description": "⛵️Build container images for your Java applications."
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 31,
+            "description": "⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "geektime-spring-family",
+            "url": "https://github.com/geektime-geekbang/geektime-spring-family",
+            "star": 27,
+            "description": "极客时间视频课程《玩转Spring全家桶》"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "How-To-Secure-A-Linux-Server",
+            "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+            "star": 1105,
+            "description": "An evolving how-to guide for securing a Linux server."
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 245,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "nsfw_data_source_urls",
+            "url": "https://github.com/EBazarov/nsfw_data_source_urls",
+            "star": 160,
+            "description": "Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier"
+        },
+        {
+            "name": "nginx-quick-reference",
+            "url": "https://github.com/trimstray/nginx-quick-reference",
+            "star": 150,
+            "description": "⚡️This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 111,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 95,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 82,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "nlp_chinese_corpus",
+            "url": "https://github.com/brightmart/nlp_chinese_corpus",
+            "star": 59,
+            "description": "大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 55,
+            "description": "技术分享周刊，每周五发布"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 51,
+            "description": "😎Curated list of awesome lists"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leon",
+            "url": "https://github.com/leon-ai/leon",
+            "star": 672,
+            "description": "🧠 Leon is your open-source personal assistant."
+        },
+        {
+            "name": "git-history",
+            "url": "https://github.com/pomber/git-history",
+            "star": 159,
+            "description": "Quickly browse the history of any GitHub file"
+        },
+        {
+            "name": "uppy",
+            "url": "https://github.com/transloadit/uppy",
+            "star": 126,
+            "description": "The next open source file uploader for web browsers🐶"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 110,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 83,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "chameleon",
+            "url": "https://github.com/didi/chameleon",
+            "star": 73,
+            "description": "🦎一套代码运行多端，一端所见即多端所见"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 63,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 67,
+            "description": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "instant.page",
+            "url": "https://github.com/instantpage/instant.page",
+            "star": 66,
+            "description": "Make your site’s pages instant in 1 minute and improve your conversion rate by 1%"
+        },
+        {
+            "name": "split",
+            "url": "https://github.com/nathancahill/split",
+            "star": 53,
+            "description": "Unopinionated utilities for resizeable split views"
+        }
+    ],
+    "html": [
+        {
+            "name": "frontendDaily",
+            "url": "https://github.com/kujian/frontendDaily",
+            "star": 38,
+            "description": "前端开发技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 20,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "evtjs",
+            "url": "https://github.com/everitoken/evtjs",
+            "star": 20,
+            "description": "API Bindings (SDK) for the everiToken blockchain."
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 10,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 15,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 15,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 13,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "WDScanner",
+            "url": "https://github.com/TideSec/WDScanner",
+            "star": 13,
+            "description": "WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署、密码定向破解、社工库查询等功能。"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "30-seconds-of-css",
+            "url": "https://github.com/30-seconds/30-seconds-of-css",
+            "star": 13,
+            "description": "A curated collection of useful CSS snippets you can understand in 30 seconds or less."
+        }
+    ],
+    "go": [
+        {
+            "name": "talos",
+            "url": "https://github.com/autonomy/talos",
+            "star": 276,
+            "description": "A modern Linux distribution for Kubernetes."
+        },
+        {
+            "name": "dgraph",
+            "url": "https://github.com/dgraph-io/dgraph",
+            "star": 250,
+            "description": "Fast, Distributed Graph DB"
+        },
+        {
+            "name": "1m-go-websockets",
+            "url": "https://github.com/eranyanay/1m-go-websockets",
+            "star": 183,
+            "description": "handling 1M websockets connections in Go"
+        },
+        {
+            "name": "cortex",
+            "url": "https://github.com/cortexlabs/cortex",
+            "star": 135,
+            "description": "Machine learning infrastructure for developers"
+        },
+        {
+            "name": "CVE-2019-5736-PoC",
+            "url": "https://github.com/Frichetten/CVE-2019-5736-PoC",
+            "star": 54,
+            "description": "PoC for CVE-2019-5736"
+        },
+        {
+            "name": "go-filecoin",
+            "url": "https://github.com/filecoin-project/go-filecoin",
+            "star": 55,
+            "description": "Filecoin Full Node Implementation in Go"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 47,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 45,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 38,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "gotop",
+            "url": "https://github.com/cjbassi/gotop",
+            "star": 41,
+            "description": "A terminal based graphical activity monitor inspired by gtop and vtop"
+        }
+    ]
+}

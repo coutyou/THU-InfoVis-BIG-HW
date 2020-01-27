@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-17",
+    "month": 8,
+    "day": 17,
+    "python": [
+        {
+            "name": "google-research",
+            "url": "https://github.com/google-research/google-research",
+            "star": 61,
+            "description": "Google AI Research"
+        },
+        {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "star": 57,
+            "description": "💻A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!"
+        },
+        {
+            "name": "bsuite",
+            "url": "https://github.com/deepmind/bsuite",
+            "star": 43,
+            "description": "bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent"
+        },
+        {
+            "name": "snorkel",
+            "url": "https://github.com/snorkel-team/snorkel",
+            "star": 43,
+            "description": "A system for quickly generating training data with weak supervision"
+        },
+        {
+            "name": "algo",
+            "url": "https://github.com/wangzheng0822/algo",
+            "star": 22,
+            "description": "数据结构和算法必知必会的50个代码实现"
+        },
+        {
+            "name": "DeepLearningExamples",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "star": 17,
+            "description": "Deep Learning Examples"
+        },
+        {
+            "name": "examples-of-web-crawlers",
+            "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+            "star": 60,
+            "description": "一些有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )"
+        },
+        {
+            "name": "pyforest",
+            "url": "https://github.com/8080labs/pyforest",
+            "star": 34,
+            "description": "Lazy-import of all popular Python Data Science libraries"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/public-apis/public-apis",
+            "star": 26,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "CVE-2018-13379",
+            "url": "https://github.com/milo2012/CVE-2018-13379",
+            "star": 5,
+            "description": "CVE-2018-13379"
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 173,
+            "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…"
+        },
+        {
+            "name": "Anime4K",
+            "url": "https://github.com/bloc97/Anime4K",
+            "star": 233,
+            "description": "A High-Quality Real Time Anime Upscaler"
+        },
+        {
+            "name": "baritone",
+            "url": "https://github.com/cabaletta/baritone",
+            "star": 27,
+            "description": "google maps for block game"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 53,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 24,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "xxl-job",
+            "url": "https://github.com/xuxueli/xxl-job",
+            "star": 16,
+            "description": "A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）"
+        },
+        {
+            "name": "Hacker-walker",
+            "url": "https://github.com/hacker-walker/Hacker-walker",
+            "star": 35,
+            "description": "🐳Hacker-walker——》一款多模块化开发框架项目，该项目采用了𝓢𝓹𝓻𝓲𝓷𝓰 𝓑𝓸𝓸𝓽 2.𝔁 + 𝓐𝓹𝓪𝓬𝓱𝓮 𝓢𝓱𝓲𝓻𝓸 + 𝓜𝔂𝓫𝓪𝓽𝓲𝓼-plus +𝓜𝓓5 + 𝓢𝓪𝓵𝓽 + 𝓡𝓮𝓭𝓲𝓼 等多种架构，项目采用𝓐𝓹𝓪𝓬𝓱𝓮 𝓢𝓱𝓲𝓻𝓸权限，该项目目前支持三种支付模式，目前还在稳定开发中。 𝓪𝓭𝓭𝓻𝓮𝓼𝓼 : Hacker-walker 𝓶𝓪𝓲𝓷 [𝓳𝓪𝓿𝓪]"
+        },
+        {
+            "name": "grpc-java",
+            "url": "https://github.com/grpc/grpc-java",
+            "star": 8,
+            "description": "The Java gRPC implementation. HTTP/2 based RPC"
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/justauth/JustAuth",
+            "star": 45,
+            "description": "💯史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 18,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "javascript-testing-best-practices",
+            "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+            "star": 411,
+            "description": "📗🌐🚢Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)"
+        },
+        {
+            "name": "books",
+            "url": "https://github.com/programthink/books",
+            "star": 66,
+            "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）"
+        },
+        {
+            "name": "security-bulletins",
+            "url": "https://github.com/Netflix/security-bulletins",
+            "star": 23,
+            "description": "Security Bulletins that relate to Netflix Open Source"
+        },
+        {
+            "name": "Yearning",
+            "url": "https://github.com/cookieY/Yearning",
+            "star": 0,
+            "description": "Mysql web端sql审核平台"
+        },
+        {
+            "name": "awesome-wechat-weapp",
+            "url": "https://github.com/justjavac/awesome-wechat-weapp",
+            "star": 21,
+            "description": "微信小程序开发资源汇总💯"
+        },
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 181,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 56,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 43,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        },
+        {
+            "name": "binance-official-api-docs",
+            "url": "https://github.com/binance-exchange/binance-official-api-docs",
+            "star": 2,
+            "description": "Official Documentation for the Binance APIs and Streams"
+        },
+        {
+            "name": "MSRC-Security-Research",
+            "url": "https://github.com/microsoft/MSRC-Security-Research",
+            "star": 0,
+            "description": "Security Research from the Microsoft Security Response Center (MSRC)"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 262,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 76,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 52,
+            "description": "🖖油猴脚本 一个脚本搞定百度网盘下载"
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 27,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "mc.js",
+            "url": "https://github.com/ian13456/mc.js",
+            "star": 172,
+            "description": "Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS."
+        },
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 36,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "tabler",
+            "url": "https://github.com/tabler/tabler",
+            "star": 10,
+            "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 31,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "reactide",
+            "url": "https://github.com/reactide/reactide",
+            "star": 77,
+            "description": "Reactide is the first dedicated IDE for React web application development."
+        },
+        {
+            "name": "juice-shop",
+            "url": "https://github.com/bkimminich/juice-shop",
+            "star": 8,
+            "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application"
+        }
+    ],
+    "html": [
+        {
+            "name": "technical-books",
+            "url": "https://github.com/doocs/technical-books",
+            "star": 5,
+            "description": "😆国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、..."
+        },
+        {
+            "name": "twemoji",
+            "url": "https://github.com/twitter/twemoji",
+            "star": 3,
+            "description": "Emoji for everyone. https://twemoji.twitter.com/"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/letsencrypt/website",
+            "star": 13,
+            "description": "Let's Encrypt Website and Documentation"
+        },
+        {
+            "name": "ChineseNLP",
+            "url": "https://github.com/didi/ChineseNLP",
+            "star": 10,
+            "description": "Datasets, SOTA results of every fields of Chinese NLP"
+        },
+        {
+            "name": "ecma262",
+            "url": "https://github.com/tc39/ecma262",
+            "star": 2,
+            "description": "Status, process, and documents for ECMA-262"
+        },
+        {
+            "name": "markdown-preview-enhanced",
+            "url": "https://github.com/shd101wyy/markdown-preview-enhanced",
+            "star": 4,
+            "description": "One of the 'BEST' markdown preview extensions for Atom editor!"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 5,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "intro.js",
+            "url": "https://github.com/usablica/intro.js",
+            "star": 5,
+            "description": "A better way for new feature introduction and step-by-step users guide for your website and project."
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 9,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 11,
+            "description": ""
+        }
+    ],
+    "go": [
+        {
+            "name": "HFish",
+            "url": "https://github.com/hacklcx/HFish",
+            "star": 67,
+            "description": "Extend the enterprise security test open source honeypot system , Record hacker attacks. 扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段"
+        },
+        {
+            "name": "learn-go-with-tests",
+            "url": "https://github.com/quii/learn-go-with-tests",
+            "star": 202,
+            "description": "Learn Go with test-driven development"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 39,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "prometheus",
+            "url": "https://github.com/prometheus/prometheus",
+            "star": 46,
+            "description": "The Prometheus monitoring system and time series database."
+        },
+        {
+            "name": "pipeline",
+            "url": "https://github.com/tektoncd/pipeline",
+            "star": 21,
+            "description": "A K8s-native Pipeline resource."
+        },
+        {
+            "name": "examples",
+            "url": "https://github.com/micro/examples",
+            "star": 7,
+            "description": "Learn micro by example"
+        },
+        {
+            "name": "redigo",
+            "url": "https://github.com/gomodule/redigo",
+            "star": 2,
+            "description": "Go client for Redis"
+        },
+        {
+            "name": "gofpdf",
+            "url": "https://github.com/jung-kurt/gofpdf",
+            "star": 2,
+            "description": "A PDF document generator with high level support for text, drawing and images"
+        },
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 24,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 17,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        }
+    ]
+}

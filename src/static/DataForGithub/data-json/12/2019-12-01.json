@@ -1,0 +1,377 @@
+{
+    "date": "2019-12-01",
+    "month": 12,
+    "day": 1,
+    "python": [
+        {
+            "name": "geo-heatmap",
+            "url": "https://github.com/luka1199/geo-heatmap",
+            "star": 209,
+            "description": "🗺Generate an interactive geo heatmap from your Google location data"
+        },
+        {
+            "name": "demucs",
+            "url": "https://github.com/facebookresearch/demucs",
+            "star": 96,
+            "description": "Code for the paper Music Source Separation in the Waveform Domain"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 149,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 895,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "sha-rnn",
+            "url": "https://github.com/Smerity/sha-rnn",
+            "star": 334,
+            "description": "Single Headed Attention RNN - \"Stop thinking with your head\""
+        },
+        {
+            "name": "Deep-Learning-with-TensorFlow-book",
+            "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+            "star": 171,
+            "description": "深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework."
+        },
+        {
+            "name": "BlackFridayScrape",
+            "url": "https://github.com/KalleHallden/BlackFridayScrape",
+            "star": 18,
+            "description": ""
+        },
+        {
+            "name": "facenet",
+            "url": "https://github.com/davidsandberg/facenet",
+            "star": 14,
+            "description": "Face recognition using Tensorflow"
+        },
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 14,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 29,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        }
+    ],
+    "java": [
+        {
+            "name": "AndroidUtilCode",
+            "url": "https://github.com/Blankj/AndroidUtilCode",
+            "star": 98,
+            "description": "🔥Android developers should collect the following utils(updating)."
+        },
+        {
+            "name": "Alink",
+            "url": "https://github.com/alibaba/Alink",
+            "star": 376,
+            "description": "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform."
+        },
+        {
+            "name": "storm",
+            "url": "https://github.com/apache/storm",
+            "star": 6,
+            "description": "Mirror of Apache Storm"
+        },
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 38,
+            "description": "Apache Flink"
+        },
+        {
+            "name": "incubator-druid",
+            "url": "https://github.com/apache/incubator-druid",
+            "star": 11,
+            "description": "Apache Druid (Incubating) - Column oriented distributed data store ideal for powering interactive applications"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 43,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 36,
+            "description": "Just Announced - \"Learn Spring Security OAuth\":"
+        },
+        {
+            "name": "kylin",
+            "url": "https://github.com/apache/kylin",
+            "star": 4,
+            "description": "Apache Kylin"
+        },
+        {
+            "name": "SpringCloud",
+            "url": "https://github.com/zhoutaoo/SpringCloud",
+            "star": 68,
+            "description": "基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 19,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "InfoSec-Black-Friday",
+            "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+            "star": 40,
+            "description": "All the deals for InfoSec related software/tools this Black Friday"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 53,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "google_dork_list",
+            "url": "https://github.com/BullsEye0/google_dork_list",
+            "star": 5,
+            "description": "Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of around 10,000 Dorks. Author: Jolanda de Koff"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 100,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 1,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "gov-takedowns",
+            "url": "https://github.com/github/gov-takedowns",
+            "star": 123,
+            "description": "Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 131,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 112,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "awesome-pentest",
+            "url": "https://github.com/enaqx/awesome-pentest",
+            "star": 233,
+            "description": "A collection of awesome penetration testing resources, tools and other shiny things"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 182,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "folio-2019",
+            "url": "https://github.com/brunosimon/folio-2019",
+            "star": 396,
+            "description": ""
+        },
+        {
+            "name": "chinese-independent-blogs",
+            "url": "https://github.com/timqian/chinese-independent-blogs",
+            "star": 455,
+            "description": "中文独立博客列表"
+        },
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 252,
+            "description": "💯Materials to help you rock your next coding interview"
+        },
+        {
+            "name": "unlock-music",
+            "url": "https://github.com/ix64/unlock-music",
+            "star": 175,
+            "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。"
+        },
+        {
+            "name": "blocks",
+            "url": "https://github.com/blocks/blocks",
+            "star": 402,
+            "description": "A JSX-based page builder for creating beautiful websites without writing code"
+        },
+        {
+            "name": "lighthouse-ci",
+            "url": "https://github.com/GoogleChrome/lighthouse-ci",
+            "star": 147,
+            "description": "Automate running Lighthouse for every commit, viewing the changes, and preventing regressions"
+        },
+        {
+            "name": "wp-calypso",
+            "url": "https://github.com/Automattic/wp-calypso",
+            "star": 4,
+            "description": "The JavaScript and API powered WordPress.com"
+        },
+        {
+            "name": "Advanced-React",
+            "url": "https://github.com/wesbos/Advanced-React",
+            "star": 74,
+            "description": "Starter Files and Solutions for Full Stack Advanced React and GraphQL"
+        },
+        {
+            "name": "Rocket.Chat",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "star": 19,
+            "description": "The ultimate Free Open Source Solution for team communications."
+        },
+        {
+            "name": "flowy",
+            "url": "https://github.com/alyssaxuu/flowy",
+            "star": 385,
+            "description": "The minimal javascript library to create flowcharts✨"
+        }
+    ],
+    "html": [
+        {
+            "name": "beginner-javascript",
+            "url": "https://github.com/wesbos/beginner-javascript",
+            "star": 451,
+            "description": "Slam Dunk JavaScript"
+        },
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 224,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "awesome-kubernetes-notes",
+            "url": "https://github.com/redhatxl/awesome-kubernetes-notes",
+            "star": 19,
+            "description": "awesome-kubernetes-notes🎉"
+        },
+        {
+            "name": "tabler",
+            "url": "https://github.com/tabler/tabler",
+            "star": 16,
+            "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 25,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 8,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "boost",
+            "url": "https://github.com/boostorg/boost",
+            "star": 6,
+            "description": "Super-project for modularized Boost"
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 16,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 4,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "TranslatorX",
+            "url": "https://github.com/pingfangx/TranslatorX",
+            "star": 21,
+            "description": "JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.2 汉化包 DataGrip 2019.2 汉化包 GoLand 2019.2 汉化包 IntelliJ IDEA 2019.2 汉化包 PhpStorm 2019.2 汉化包 PyCharm 2019.2 汉化包 Rider 2019.2 汉化包 RubyMine 2019.2 汉化包 WebStorm 2019.2 汉化包"
+        }
+    ],
+    "go": [
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 33,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 64,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "goldmark",
+            "url": "https://github.com/yuin/goldmark",
+            "star": 21,
+            "description": "🏆A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured."
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 65,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "Burrow",
+            "url": "https://github.com/linkedin/Burrow",
+            "star": 9,
+            "description": "Kafka Consumer Lag Checking"
+        },
+        {
+            "name": "helm",
+            "url": "https://github.com/helm/helm",
+            "star": 28,
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/json-iterator/go",
+            "star": 67,
+            "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\""
+        },
+        {
+            "name": "telegraf",
+            "url": "https://github.com/influxdata/telegraf",
+            "star": 13,
+            "description": "The plugin-driven server agent for collecting & reporting metrics."
+        },
+        {
+            "name": "mattermost-server",
+            "url": "https://github.com/mattermost/mattermost-server",
+            "star": 15,
+            "description": "Open source Slack-alternative in Golang and React - Mattermost"
+        },
+        {
+            "name": "AdGuardHome",
+            "url": "https://github.com/AdguardTeam/AdGuardHome",
+            "star": 24,
+            "description": "Network-wide ads & trackers blocking DNS server"
+        }
+    ]
+}

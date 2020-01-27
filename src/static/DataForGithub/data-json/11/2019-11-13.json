@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-13",
+    "month": 11,
+    "day": 13,
+    "python": [
+        {
+            "name": "exercises",
+            "url": "https://github.com/Softwarepark/exercises",
+            "star": 43,
+            "description": "SoftwarePark exercises and dojos"
+        },
+        {
+            "name": "my_first_calculator.py",
+            "url": "https://github.com/AceLewis/my_first_calculator.py",
+            "star": 197,
+            "description": "my_first_calculator.py"
+        },
+        {
+            "name": "DeepFaceLab",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "star": 50,
+            "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)."
+        },
+        {
+            "name": "dbt",
+            "url": "https://github.com/fishtown-analytics/dbt",
+            "star": 7,
+            "description": "dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
+        },
+        {
+            "name": "fairseq",
+            "url": "https://github.com/pytorch/fairseq",
+            "star": 19,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+        },
+        {
+            "name": "pytorch_geometric",
+            "url": "https://github.com/rusty1s/pytorch_geometric",
+            "star": 13,
+            "description": "Geometric Deep Learning Extension Library for PyTorch"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 43,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 133,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "ray",
+            "url": "https://github.com/ray-project/ray",
+            "star": 19,
+            "description": "A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library."
+        },
+        {
+            "name": "rasa",
+            "url": "https://github.com/RasaHQ/rasa",
+            "star": 12,
+            "description": "💬Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+        }
+    ],
+    "java": [
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 219,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "Algorithms",
+            "url": "https://github.com/williamfiset/Algorithms",
+            "star": 11,
+            "description": "A collection of algorithms and data structures"
+        },
+        {
+            "name": "kubernetes-client",
+            "url": "https://github.com/fabric8io/kubernetes-client",
+            "star": 2,
+            "description": "Java client for Kubernetes & OpenShift"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 107,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mantis",
+            "url": "https://github.com/Netflix/mantis",
+            "star": 54,
+            "description": "A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications"
+        },
+        {
+            "name": "resilience4j",
+            "url": "https://github.com/resilience4j/resilience4j",
+            "star": 40,
+            "description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming"
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 21,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "x-boot",
+            "url": "https://github.com/Exrick/x-boot",
+            "star": 12,
+            "description": "基于Spring Boot 2.x的前后端分离开发平台X-Boot 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/Spring Data JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID生成 动态权限管理 数据权限 工作流 代码生成 日志记录 定时任务 第三方社交账号、短信登录 单点登录"
+        },
+        {
+            "name": "AnyChart-Android",
+            "url": "https://github.com/AnyChart/AnyChart-Android",
+            "star": 10,
+            "description": "AnyChart Android Chart is an amazing data visualization library for easily creating interactive charts in Android apps. It runs on API 19+ (Android 4.4) and features dozens of built-in chart types."
+        },
+        {
+            "name": "java",
+            "url": "https://github.com/kubernetes-client/java",
+            "star": 2,
+            "description": "Official Java client library for kubernetes"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 99,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome-programming-books",
+            "url": "https://github.com/jobbole/awesome-programming-books",
+            "star": 314,
+            "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等"
+        },
+        {
+            "name": "Beginner-Network-Pentesting",
+            "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+            "star": 80,
+            "description": "Notes for Beginner Network Pentesting Course"
+        },
+        {
+            "name": "wtv",
+            "url": "https://github.com/biancangming/wtv",
+            "star": 137,
+            "description": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 73,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 128,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 72,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 122,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "from_coder_to_expert",
+            "url": "https://github.com/0voice/from_coder_to_expert",
+            "star": 58,
+            "description": "2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 33,
+            "description": "后端架构师技术图谱"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/leonardomso/33-js-concepts",
+            "star": 97,
+            "description": "📜33 concepts every JavaScript developer should know."
+        },
+        {
+            "name": "react-interactive-paycard",
+            "url": "https://github.com/jasminmif/react-interactive-paycard",
+            "star": 86,
+            "description": "Interactive React Paycard"
+        },
+        {
+            "name": "vue-cli",
+            "url": "https://github.com/vuejs/vue-cli",
+            "star": 17,
+            "description": "🛠️Standard Tooling for Vue.js Development"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 21,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 61,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 37,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "GSAP",
+            "url": "https://github.com/greensock/GSAP",
+            "star": 23,
+            "description": "GreenSock's GSAP JavaScript animation library (including Draggable)."
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 39,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "material-components-web",
+            "url": "https://github.com/material-components/material-components-web",
+            "star": 8,
+            "description": "Modular and customizable Material Design UI components for the web"
+        },
+        {
+            "name": "nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js",
+            "star": 29,
+            "description": "The Vue.js Framework"
+        }
+    ],
+    "html": [
+        {
+            "name": "datasciencecoursera",
+            "url": "https://github.com/mGalarnyk/datasciencecoursera",
+            "star": 4,
+            "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions."
+        },
+        {
+            "name": "mxgraph",
+            "url": "https://github.com/jgraph/mxgraph",
+            "star": 37,
+            "description": "mxGraph is a fully client side JavaScript diagramming library"
+        },
+        {
+            "name": "zfaka",
+            "url": "https://github.com/zlkbdotnet/zfaka",
+            "star": 1,
+            "description": "免费、安全、稳定、高效的发卡系统，值得拥有!"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 11,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "node-js-getting-started",
+            "url": "https://github.com/heroku/node-js-getting-started",
+            "star": 1,
+            "description": "Getting Started with Node on Heroku"
+        },
+        {
+            "name": "CLRS",
+            "url": "https://github.com/walkccc/CLRS",
+            "star": 6,
+            "description": "📚Solutions to Introduction to Algorithms Third Edition"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 2,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "flag-icon-css",
+            "url": "https://github.com/lipis/flag-icon-css",
+            "star": 2,
+            "description": "🎏A collection of all country flags in SVG — plus the CSS for easier integration"
+        },
+        {
+            "name": "embeddedsw",
+            "url": "https://github.com/Xilinx/embeddedsw",
+            "star": 0,
+            "description": "Xilinx Embedded Software (embeddedsw) Development"
+        },
+        {
+            "name": "kongqi_laravel_admin",
+            "url": "https://github.com/kong-qi/kongqi_laravel_admin",
+            "star": 6,
+            "description": "快速laravel后台管理系统，集成了，图片上传，多图上传，批量Excel导入，批量插入，修改，添加，搜索，权限管理RBAC,验证码，插件一个综合完善后台，助你开发快人一步。"
+        }
+    ],
+    "go": [
+        {
+            "name": "tfsec",
+            "url": "https://github.com/liamg/tfsec",
+            "star": 79,
+            "description": "🔒🌍Static analysis powered security scanner for your terraform code"
+        },
+        {
+            "name": "advanced-go-programming-book",
+            "url": "https://github.com/chai2010/advanced-go-programming-book",
+            "star": 74,
+            "description": "📚《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+        },
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 9,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "go-tools",
+            "url": "https://github.com/dominikh/go-tools",
+            "star": 17,
+            "description": "Staticcheck – a collection of static analysis tools for working with Go code"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 48,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "star": 118,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "lazydocker",
+            "url": "https://github.com/jesseduffield/lazydocker",
+            "star": 54,
+            "description": "The lazier way to manage everything docker"
+        },
+        {
+            "name": "prometheus",
+            "url": "https://github.com/prometheus/prometheus",
+            "star": 31,
+            "description": "The Prometheus monitoring system and time series database."
+        },
+        {
+            "name": "minio-go",
+            "url": "https://github.com/minio/minio-go",
+            "star": 2,
+            "description": "MinIO Client SDK for Go"
+        },
+        {
+            "name": "eksctl",
+            "url": "https://github.com/weaveworks/eksctl",
+            "star": 3,
+            "description": "The official CLI for Amazon EKS"
+        }
+    ]
+}

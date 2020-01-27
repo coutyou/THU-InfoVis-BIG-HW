@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-01",
+    "month": 8,
+    "day": 1,
+    "python": [
+        {
+            "name": "fairseq",
+            "url": "https://github.com/pytorch/fairseq",
+            "star": 103,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+        },
+        {
+            "name": "antialiased-cnns",
+            "url": "https://github.com/adobe/antialiased-cnns",
+            "star": 93,
+            "description": "Antialiasing cnns to improve stability and accuracy. In ICML 2019."
+        },
+        {
+            "name": "Chinese-BERT-wwm",
+            "url": "https://github.com/ymcui/Chinese-BERT-wwm",
+            "star": 66,
+            "description": "Pre-Training with Whole Word Masking for Chinese BERT（中文预训练BERT-wwm）"
+        },
+        {
+            "name": "football",
+            "url": "https://github.com/google-research/football",
+            "star": 50,
+            "description": ""
+        },
+        {
+            "name": "pandas-profiling",
+            "url": "https://github.com/pandas-profiling/pandas-profiling",
+            "star": 19,
+            "description": "Create HTML profiling reports from pandas DataFrame objects"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 52,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "kill-the-bits",
+            "url": "https://github.com/facebookresearch/kill-the-bits",
+            "star": 21,
+            "description": "Code for: \"And the bit goes down: Revisiting the quantization of neural networks\""
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 38,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models",
+            "star": 34,
+            "description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more"
+        },
+        {
+            "name": "pandas",
+            "url": "https://github.com/pandas-dev/pandas",
+            "star": 17,
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-boot-plus",
+            "url": "https://github.com/geekidea/spring-boot-plus",
+            "star": 173,
+            "description": "🔥spring-boot-plus集成Spring Boot 2.1.6,Mybatis,Mybatis Plus,Druid,FastJson,Redis,Rabbit MQ,Kafka等，可使用代码生成器快速开发项目🚀"
+        },
+        {
+            "name": "android-developer-roadmap",
+            "url": "https://github.com/MindorksOpenSource/android-developer-roadmap",
+            "star": 98,
+            "description": "Android Developer Roadmap - A complete roadmap to learn Android App Development"
+        },
+        {
+            "name": "GSYVideoPlayer",
+            "url": "https://github.com/CarGuo/GSYVideoPlayer",
+            "star": 100,
+            "description": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。"
+        },
+        {
+            "name": "beam",
+            "url": "https://github.com/apache/beam",
+            "star": 33,
+            "description": "Apache Beam"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 146,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "springboot-learning-example",
+            "url": "https://github.com/JeffLi1993/springboot-learning-example",
+            "star": 35,
+            "description": "spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。"
+        },
+        {
+            "name": "google-cloud-java",
+            "url": "https://github.com/googleapis/google-cloud-java",
+            "star": 4,
+            "description": "Google Cloud Client Library for Java"
+        },
+        {
+            "name": "kafka-connect-jdbc",
+            "url": "https://github.com/confluentinc/kafka-connect-jdbc",
+            "star": 4,
+            "description": "Kafka Connect connector for JDBC-compatible databases"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 39,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "seata",
+            "url": "https://github.com/seata/seata",
+            "star": 49,
+            "description": "🔥Seata is an easy-to-use, high-performance, open source distributed transaction solution."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 179,
+            "description": "Curated list of resources for college students"
+        },
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 291,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 474,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "SlimYOLOv3",
+            "url": "https://github.com/PengyiZhang/SlimYOLOv3",
+            "star": 49,
+            "description": "This page is for the SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications"
+        },
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 68,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 113,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 70,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "google-cloud-4-words",
+            "url": "https://github.com/gregsramblings/google-cloud-4-words",
+            "star": 67,
+            "description": "The Google Cloud Developer's Cheat Sheet"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 35,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "Blog",
+            "url": "https://github.com/mqyqingfeng/Blog",
+            "star": 16,
+            "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "ch-download",
+            "url": "https://github.com/alekseylovchikov/ch-download",
+            "star": 20,
+            "description": "download video from coursehunters.net"
+        },
+        {
+            "name": "jexcel",
+            "url": "https://github.com/paulhodel/jexcel",
+            "star": 113,
+            "description": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software."
+        },
+        {
+            "name": "daterangepicker",
+            "url": "https://github.com/dangrossman/daterangepicker",
+            "star": 18,
+            "description": "JavaScript Date Range, Date and Time Picker Component"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 33,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 172,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 39,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 87,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "MikuTools",
+            "url": "https://github.com/Ice-Hazymoon/MikuTools",
+            "star": 44,
+            "description": "一个轻量的工具集合"
+        },
+        {
+            "name": "markdown-here",
+            "url": "https://github.com/adam-p/markdown-here",
+            "star": 25,
+            "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending."
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/freearhey/iptv",
+            "star": 35,
+            "description": "Collection of 7000+ free IPTV channels from all over the world"
+        }
+    ],
+    "html": [
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 26,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "awesome-creative-coding",
+            "url": "https://github.com/terkelg/awesome-creative-coding",
+            "star": 9,
+            "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources."
+        },
+        {
+            "name": "MatBlazor",
+            "url": "https://github.com/SamProf/MatBlazor",
+            "star": 8,
+            "description": "Material Design components for Blazor and Razor Components"
+        },
+        {
+            "name": "responsive-html-email-template",
+            "url": "https://github.com/leemunroe/responsive-html-email-template",
+            "star": 3,
+            "description": "A free simple responsive HTML email template"
+        },
+        {
+            "name": "dash-sample-apps",
+            "url": "https://github.com/plotly/dash-sample-apps",
+            "star": 4,
+            "description": "Apps hosted in the Dash Gallery"
+        },
+        {
+            "name": "data_analysis",
+            "url": "https://github.com/zhouwei713/data_analysis",
+            "star": 2,
+            "description": "一些数据分析相关实战练习"
+        },
+        {
+            "name": "awesome-angular",
+            "url": "https://github.com/PatrickJS/awesome-angular",
+            "star": 3,
+            "description": "📄A curated list of awesome Angular resources"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 3,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 37,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        }
+    ],
+    "go": [
+        {
+            "name": "liftbridge",
+            "url": "https://github.com/liftbridge-io/liftbridge",
+            "star": 61,
+            "description": "Lightweight, fault-tolerant message streams."
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 13,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 57,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 90,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "kafka-go",
+            "url": "https://github.com/segmentio/kafka-go",
+            "star": 11,
+            "description": "Kafka library in Go"
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 6,
+            "description": "An open source, general-purpose policy engine."
+        },
+        {
+            "name": "terraform-provider-azurerm",
+            "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+            "star": 2,
+            "description": "Terraform provider for Azure Resource Manager"
+        },
+        {
+            "name": "test-infra",
+            "url": "https://github.com/kubernetes/test-infra",
+            "star": 5,
+            "description": "Test infrastructure for the Kubernetes project."
+        },
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 20,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 14,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        }
+    ]
+}

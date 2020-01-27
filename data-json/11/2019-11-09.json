@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-09",
+    "month": 11,
+    "day": 9,
+    "python": [
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 271,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "gpt-2-output-dataset",
+            "url": "https://github.com/openai/gpt-2-output-dataset",
+            "star": 101,
+            "description": "Dataset of GPT-2 outputs for research in detection, biases, and more"
+        },
+        {
+            "name": "FASPell",
+            "url": "https://github.com/iqiyi/FASPell",
+            "star": 129,
+            "description": "产学界最强（SOTA）的简繁中文拼写检查工具：FASPell Chinese Spell Checker (Chinese Spell Check / 中文拼写检错 / 中文拼写纠错 / 中文拼写检查)"
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 51,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "OUCML",
+            "url": "https://github.com/OUCMachineLearning/OUCML",
+            "star": 18,
+            "description": ""
+        },
+        {
+            "name": "d2l-zh",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "star": 24,
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。"
+        },
+        {
+            "name": "pytorch_geometric",
+            "url": "https://github.com/rusty1s/pytorch_geometric",
+            "star": 22,
+            "description": "Geometric Deep Learning Extension Library for PyTorch"
+        },
+        {
+            "name": "GPT2-Chinese",
+            "url": "https://github.com/Morizeyao/GPT2-Chinese",
+            "star": 36,
+            "description": "Chinese version of GPT2 training code, using BERT tokenizer."
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/public-apis/public-apis",
+            "star": 103,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "mmfashion",
+            "url": "https://github.com/open-mmlab/mmfashion",
+            "star": 14,
+            "description": "Open-source toolbox for visual fashion analysis based on PyTorch"
+        }
+    ],
+    "java": [
+        {
+            "name": "Jetpack-MVVM-Best-Practice",
+            "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+            "star": 151,
+            "description": "是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 203,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 25,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 36,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 34,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "resilience4j",
+            "url": "https://github.com/resilience4j/resilience4j",
+            "star": 6,
+            "description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming"
+        },
+        {
+            "name": "redisson",
+            "url": "https://github.com/redisson/redisson",
+            "star": 12,
+            "description": "Redisson - Redis Java client with features of In-Memory Data Grid. Supports over 30 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC."
+        },
+        {
+            "name": "x-boot",
+            "url": "https://github.com/Exrick/x-boot",
+            "star": 25,
+            "description": "基于Spring Boot 2.x的前后端分离开发平台X-Boot 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/Spring Data JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID生成 动态权限管理 数据权限 工作流 代码生成 日志记录 定时任务 第三方社交账号、短信登录 单点登录"
+        },
+        {
+            "name": "libgdx",
+            "url": "https://github.com/libgdx/libgdx",
+            "star": 13,
+            "description": "Desktop/Android/HTML5/iOS Java game development framework"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 80,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "haoel.github.io",
+            "url": "https://github.com/haoel/haoel.github.io",
+            "star": 201,
+            "description": ""
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 113,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 4,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "wtv",
+            "url": "https://github.com/biancangming/wtv",
+            "star": 8,
+            "description": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站"
+        },
+        {
+            "name": "awesome-android-ui",
+            "url": "https://github.com/wasabeef/awesome-android-ui",
+            "star": 7,
+            "description": "A curated list of awesome Android UI/UX libraries"
+        },
+        {
+            "name": "Dancing2Music",
+            "url": "https://github.com/NVlabs/Dancing2Music",
+            "star": 32,
+            "description": ""
+        },
+        {
+            "name": "few-shot-vid2vid",
+            "url": "https://github.com/NVlabs/few-shot-vid2vid",
+            "star": 18,
+            "description": ""
+        },
+        {
+            "name": "GNNPapers",
+            "url": "https://github.com/thunlp/GNNPapers",
+            "star": 25,
+            "description": "Must-read papers on graph neural networks (GNN)"
+        },
+        {
+            "name": "first-contributions",
+            "url": "https://github.com/firstcontributions/first-contributions",
+            "star": 30,
+            "description": "🚀✨Help beginners to contribute to open source projects"
+        },
+        {
+            "name": "css-modules",
+            "url": "https://github.com/css-modules/css-modules",
+            "star": 6,
+            "description": "Documentation about css-modules"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "ARC",
+            "url": "https://github.com/fchollet/ARC",
+            "star": 43,
+            "description": "The Abstraction and Reasoning Corpus"
+        },
+        {
+            "name": "marktext",
+            "url": "https://github.com/marktext/marktext",
+            "star": 253,
+            "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 73,
+            "description": "✅The largest Node.js best practices list (November 2019)"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 71,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "prettier",
+            "url": "https://github.com/prettier/prettier",
+            "star": 26,
+            "description": "Prettier is an opinionated code formatter."
+        },
+        {
+            "name": "openlayers",
+            "url": "https://github.com/openlayers/openlayers",
+            "star": 6,
+            "description": "OpenLayers"
+        },
+        {
+            "name": "slick",
+            "url": "https://github.com/kenwheeler/slick",
+            "star": 15,
+            "description": "the last carousel you'll ever need"
+        },
+        {
+            "name": "Auto.js_Projects",
+            "url": "https://github.com/SuperMonster003/Auto.js_Projects",
+            "star": 39,
+            "description": "基于Auto.js的辅助工具项目 Auto.js-based assistant tools projects"
+        },
+        {
+            "name": "lottie-web",
+            "url": "https://github.com/airbnb/lottie-web",
+            "star": 21,
+            "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+        },
+        {
+            "name": "relay",
+            "url": "https://github.com/facebook/relay",
+            "star": 19,
+            "description": "Relay is a JavaScript framework for building data-driven React applications."
+        }
+    ],
+    "html": [
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 15,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "bootstrap-multiselect",
+            "url": "https://github.com/davidstutz/bootstrap-multiselect",
+            "star": 2,
+            "description": "JQuery multiselect plugin based on Twitter Bootstrap."
+        },
+        {
+            "name": "book",
+            "url": "https://github.com/PaddlePaddle/book",
+            "star": 3,
+            "description": "Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）"
+        },
+        {
+            "name": "wysiwyg-editor",
+            "url": "https://github.com/froala/wysiwyg-editor",
+            "star": 2,
+            "description": "The next generation Javascript WYSIWYG HTML Editor."
+        },
+        {
+            "name": "foundation-sites",
+            "url": "https://github.com/foundation/foundation-sites",
+            "star": 5,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device."
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 15,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "DevOps-Guide",
+            "url": "https://github.com/Tikam02/DevOps-Guide",
+            "star": 91,
+            "description": "DevOps Guide from basic to advanced with Interview Questions and Notes🔥"
+        },
+        {
+            "name": "embaixadoras",
+            "url": "https://github.com/okfn-brasil/embaixadoras",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "Django-CRM",
+            "url": "https://github.com/MicroPyramid/Django-CRM",
+            "star": 1,
+            "description": "Open Source Python CRM based on Django aimed to salesforce compatible for migrating to"
+        },
+        {
+            "name": "PortFolio_Website",
+            "url": "https://github.com/akashyap2013/PortFolio_Website",
+            "star": 5,
+            "description": "Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch."
+        }
+    ],
+    "go": [
+        {
+            "name": "gost",
+            "url": "https://github.com/ginuerzh/gost",
+            "star": 156,
+            "description": "GO Simple Tunnel - a simple tunnel written in golang"
+        },
+        {
+            "name": "terraform-provider-aws",
+            "url": "https://github.com/terraform-providers/terraform-provider-aws",
+            "star": 12,
+            "description": "Terraform AWS provider"
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 89,
+            "description": "A Go microservices development framework"
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 8,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 13,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "fabric",
+            "url": "https://github.com/hyperledger/fabric",
+            "star": 25,
+            "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric"
+        },
+        {
+            "name": "night-reading-go",
+            "url": "https://github.com/developer-learning/night-reading-go",
+            "star": 27,
+            "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 44,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 39,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "telegraf",
+            "url": "https://github.com/influxdata/telegraf",
+            "star": 9,
+            "description": "The plugin-driven server agent for collecting & reporting metrics."
+        }
+    ]
+}

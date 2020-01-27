@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-13",
+    "month": 9,
+    "day": 13,
+    "python": [
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 73,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "py12306",
+            "url": "https://github.com/pjialin/py12306",
+            "star": 246,
+            "description": "🚂12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 808,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "instabot",
+            "url": "https://github.com/instagrambot/instabot",
+            "star": 64,
+            "description": "🐙Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!"
+        },
+        {
+            "name": "easy12306",
+            "url": "https://github.com/zhaipro/easy12306",
+            "star": 127,
+            "description": "使用机器学习算法完成对12306验证码的自动识别"
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 17,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "numpy-ml",
+            "url": "https://github.com/ddbourgin/numpy-ml",
+            "star": 67,
+            "description": "Machine learning, in numpy"
+        },
+        {
+            "name": "redash",
+            "url": "https://github.com/getredash/redash",
+            "star": 12,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+        },
+        {
+            "name": "pythia",
+            "url": "https://github.com/facebookresearch/pythia",
+            "star": 4,
+            "description": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)"
+        },
+        {
+            "name": "TcloudServer",
+            "url": "https://github.com/bigbaser/TcloudServer",
+            "star": 36,
+            "description": "Tcloud云测平台后端服务"
+        }
+    ],
+    "java": [
+        {
+            "name": "litemall",
+            "url": "https://github.com/linlinjava/litemall",
+            "star": 38,
+            "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端"
+        },
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 154,
+            "description": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 62 个集成demo，已经完成 50 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…"
+        },
+        {
+            "name": "SpringCloud",
+            "url": "https://github.com/zhoutaoo/SpringCloud",
+            "star": 64,
+            "description": "基于SpringCloud2.0的微服务开发脚手架，整合了spring-security-oauth2、apollo、eureka、feign、hystrix、springcloud-gateway、springcloud-bus等。治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中"
+        },
+        {
+            "name": "spring-boot-plus",
+            "url": "https://github.com/geekidea/spring-boot-plus",
+            "star": 45,
+            "description": "🔥Spring-Boot-Plus is a easy-to-use, high-speed, high-efficient,feature-rich, open source spring boot scaffolding.🚀"
+        },
+        {
+            "name": "easy-rules",
+            "url": "https://github.com/j-easy/easy-rules",
+            "star": 7,
+            "description": "The simple, stupid rules engine for Java"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 46,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "C-OCR",
+            "url": "https://github.com/ctripcorp/C-OCR",
+            "star": 28,
+            "description": "C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。"
+        },
+        {
+            "name": "testcontainers-java",
+            "url": "https://github.com/testcontainers/testcontainers-java",
+            "star": 3,
+            "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 33,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "thingsboard",
+            "url": "https://github.com/thingsboard/thingsboard",
+            "star": 16,
+            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 30,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 3,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "Hacking-Security-Ebooks",
+            "url": "https://github.com/yeahhub/Hacking-Security-Ebooks",
+            "star": 135,
+            "description": "Top 100 Hacking & Security E-Books (Free Download) - Powered by Yeahhub.com"
+        },
+        {
+            "name": "summer2020internships",
+            "url": "https://github.com/elaine-zheng/summer2020internships",
+            "star": 15,
+            "description": "Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields"
+        },
+        {
+            "name": "AZ-103-MicrosoftAzureAdministrator",
+            "url": "https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+            "star": 0,
+            "description": "AZ-103: Microsoft Azure Administrator"
+        },
+        {
+            "name": "reverse-interview",
+            "url": "https://github.com/viraptor/reverse-interview",
+            "star": 705,
+            "description": "Questions to ask the company during your interview"
+        },
+        {
+            "name": "Red-Teaming-Toolkit",
+            "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+            "star": 41,
+            "description": "A collection of open source and commercial tools that aid in red team operations."
+        },
+        {
+            "name": "aws-solutions-architect-associate-notes",
+            "url": "https://github.com/SkullTech/aws-solutions-architect-associate-notes",
+            "star": 1,
+            "description": "My notes for AWS Solutions Architect Associate."
+        },
+        {
+            "name": "lectures",
+            "url": "https://github.com/rolling-scopes-school/lectures",
+            "star": 15,
+            "description": ""
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 32,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 107,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "deck.gl",
+            "url": "https://github.com/uber/deck.gl",
+            "star": 8,
+            "description": "WebGL2 powered geospatial visualization layers"
+        },
+        {
+            "name": "strapi",
+            "url": "https://github.com/strapi/strapi",
+            "star": 31,
+            "description": "🚀Open source Node.js Headless CMS to easily build customisable APIs"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 50,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 108,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 29,
+            "description": "✅The largest Node.js best practices list (September 2019)"
+        },
+        {
+            "name": "axios",
+            "url": "https://github.com/axios/axios",
+            "star": 32,
+            "description": "Promise based HTTP client for the browser and node.js"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 45,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "stf",
+            "url": "https://github.com/openstf/stf",
+            "star": 10,
+            "description": "Control and manage Android devices from your browser."
+        },
+        {
+            "name": "json-server",
+            "url": "https://github.com/typicode/json-server",
+            "star": 24,
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
+        }
+    ],
+    "html": [
+        {
+            "name": "universal-resume",
+            "url": "https://github.com/WebPraktikos/universal-resume",
+            "star": 33,
+            "description": "Minimal and formal résumé (CV) website template for print, mobile, and desktop. https://bit.ly/2kEzgt8"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 6,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 13,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "mkdocs-material",
+            "url": "https://github.com/squidfunk/mkdocs-material",
+            "star": 3,
+            "description": "A Material Design theme for MkDocs"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 6,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 4,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 4,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "mescroll",
+            "url": "https://github.com/mescroll/mescroll",
+            "star": 1,
+            "description": "精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)"
+        },
+        {
+            "name": "glTF",
+            "url": "https://github.com/KhronosGroup/glTF",
+            "star": 1,
+            "description": "glTF – Runtime 3D Asset Delivery"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 3,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        }
+    ],
+    "go": [
+        {
+            "name": "client",
+            "url": "https://github.com/keybase/client",
+            "star": 103,
+            "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron"
+        },
+        {
+            "name": "kuma",
+            "url": "https://github.com/Kong/kuma",
+            "star": 92,
+            "description": "🐻The Universal Control Plane for Service Mesh"
+        },
+        {
+            "name": "go-patterns",
+            "url": "https://github.com/tmrts/go-patterns",
+            "star": 24,
+            "description": "Curated list of Go design patterns, recipes and idioms"
+        },
+        {
+            "name": "packer",
+            "url": "https://github.com/hashicorp/packer",
+            "star": 4,
+            "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+        },
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 20,
+            "description": "A Commander for modern Go CLI interactions"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 7,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "blackbox_exporter",
+            "url": "https://github.com/prometheus/blackbox_exporter",
+            "star": 2,
+            "description": "Blackbox prober exporter"
+        },
+        {
+            "name": "octant",
+            "url": "https://github.com/vmware/octant",
+            "star": 19,
+            "description": "A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters."
+        },
+        {
+            "name": "zap",
+            "url": "https://github.com/uber-go/zap",
+            "star": 13,
+            "description": "Blazing fast, structured, leveled logging in Go."
+        },
+        {
+            "name": "go-cache",
+            "url": "https://github.com/patrickmn/go-cache",
+            "star": 4,
+            "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications."
+        }
+    ]
+}

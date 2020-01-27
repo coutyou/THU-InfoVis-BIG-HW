@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-23",
+    "month": 11,
+    "day": 23,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 345,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "cascadia-code",
+            "url": "https://github.com/microsoft/cascadia-code",
+            "star": 41,
+            "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+        },
+        {
+            "name": "3d-ken-burns",
+            "url": "https://github.com/sniklaus/3d-ken-burns",
+            "star": 164,
+            "description": "an implementation of 3D Ken Burns Effect from a Single Image using PyTorch"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/public-apis/public-apis",
+            "star": 252,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 45,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "zulip",
+            "url": "https://github.com/zulip/zulip",
+            "star": 16,
+            "description": "Zulip server - powerful open source team chat"
+        },
+        {
+            "name": "boto3",
+            "url": "https://github.com/boto/boto3",
+            "star": 3,
+            "description": "AWS SDK for Python"
+        },
+        {
+            "name": "salt",
+            "url": "https://github.com/saltstack/salt",
+            "star": 6,
+            "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:"
+        },
+        {
+            "name": "shadowsocksr",
+            "url": "https://github.com/shadowsocksr-backup/shadowsocksr",
+            "star": 12,
+            "description": "Python port of ShadowsocksR"
+        },
+        {
+            "name": "locust",
+            "url": "https://github.com/locustio/locust",
+            "star": 20,
+            "description": "Scalable user load testing tool written in Python"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 251,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 155,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 73,
+            "description": "一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等"
+        },
+        {
+            "name": "ksql",
+            "url": "https://github.com/confluentinc/ksql",
+            "star": 35,
+            "description": "The event streaming database purpose-built for stream processing applications"
+        },
+        {
+            "name": "flink-learning",
+            "url": "https://github.com/zhisheng17/flink-learning",
+            "star": 92,
+            "description": "flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 66,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 36,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "pentaho-kettle",
+            "url": "https://github.com/pentaho/pentaho-kettle",
+            "star": 10,
+            "description": "Pentaho Data Integration ( ETL ) a.k.a Kettle"
+        },
+        {
+            "name": "graal",
+            "url": "https://github.com/oracle/graal",
+            "star": 48,
+            "description": "GraalVM: Run Programs Faster Anywhere🚀"
+        },
+        {
+            "name": "springboot-guide",
+            "url": "https://github.com/Snailclimb/springboot-guide",
+            "star": 12,
+            "description": "SpringBoot 核心知识点和面试题总结。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 154,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 353,
+            "description": "【互联网一线大厂Java 工程师面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 381,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "Awesome-Hacking",
+            "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+            "star": 54,
+            "description": "A collection of various awesome lists for hackers, pentesters and security researchers"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 237,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 195,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 110,
+            "description": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+        },
+        {
+            "name": "YCBlogs",
+            "url": "https://github.com/yangchong211/YCBlogs",
+            "star": 16,
+            "description": "技术博客笔记大汇总【15年10月到至今】，包括Java基础及深入知识点，Android技术博客，Python，Go学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字]，转载请注明出处，谢谢！"
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 1,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "react-typescript-cheatsheet",
+            "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+            "star": 23,
+            "description": "Cheatsheets for experienced React developers getting started with TypeScript"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 174,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "freeCodeCamp",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "star": 230,
+            "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people."
+        },
+        {
+            "name": "cube.js",
+            "url": "https://github.com/cube-js/cube.js",
+            "star": 87,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "lite-youtube-embed",
+            "url": "https://github.com/paulirish/lite-youtube-embed",
+            "star": 153,
+            "description": "A faster youtube embed."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 53,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "generator-jhipster",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "star": 13,
+            "description": "Open Source application platform for creating Spring Boot + Angular/React projects in seconds!"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 100,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "react-native-firebase",
+            "url": "https://github.com/invertase/react-native-firebase",
+            "star": 8,
+            "description": "🔥A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+        },
+        {
+            "name": "serverless",
+            "url": "https://github.com/serverless/serverless",
+            "star": 19,
+            "description": "Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –"
+        },
+        {
+            "name": "fingerprintjs2",
+            "url": "https://github.com/Valve/fingerprintjs2",
+            "star": 52,
+            "description": "Modern & flexible browser fingerprinting library"
+        }
+    ],
+    "html": [
+        {
+            "name": "500LineorLess_CN",
+            "url": "https://github.com/HT524/500LineorLess_CN",
+            "star": 5,
+            "description": "500 line or less 中文翻译计划。"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 10,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "3d-force-graph",
+            "url": "https://github.com/vasturiano/3d-force-graph",
+            "star": 3,
+            "description": "3D force-directed graph component using ThreeJS/WebGL"
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/digitalocean/nginxconfig.io",
+            "star": 12,
+            "description": "⚙️NGiИX config generator on steroids💉"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 3,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "manual",
+            "url": "https://github.com/v2ray/manual",
+            "star": 0,
+            "description": "Source code for https://www.v2ray.com/"
+        },
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 3,
+            "description": "The Ethereum Improvement Proposal repository"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 5,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "android_interview",
+            "url": "https://github.com/LRH1993/android_interview",
+            "star": 4,
+            "description": "gitbook地址"
+        },
+        {
+            "name": "ctf-wiki",
+            "url": "https://github.com/ctf-wiki/ctf-wiki",
+            "star": 3,
+            "description": "CTF Wiki Online. Come and join us, we need you!"
+        }
+    ],
+    "go": [
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 183,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "nebula",
+            "url": "https://github.com/slackhq/nebula",
+            "star": 477,
+            "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
+        },
+        {
+            "name": "advanced-go-programming-book",
+            "url": "https://github.com/chai2010/advanced-go-programming-book",
+            "star": 243,
+            "description": "📚《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+        },
+        {
+            "name": "night-reading-go",
+            "url": "https://github.com/developer-learning/night-reading-go",
+            "star": 33,
+            "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。"
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 22,
+            "description": "Curated applications for Kubernetes"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 69,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 5,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "terraform-provider-azurerm",
+            "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+            "star": 5,
+            "description": "Terraform provider for Azure Resource Manager"
+        },
+        {
+            "name": "gotenberg",
+            "url": "https://github.com/thecodingmachine/gotenberg",
+            "star": 10,
+            "description": "A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF"
+        },
+        {
+            "name": "bigcache",
+            "url": "https://github.com/allegro/bigcache",
+            "star": 41,
+            "description": "Efficient cache for gigabytes of data written in Go."
+        }
+    ]
+}

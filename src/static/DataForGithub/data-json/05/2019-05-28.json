@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-28",
+    "month": 5,
+    "day": 28,
+    "python": [
+        {
+            "name": "minimalRL",
+            "url": "https://github.com/seungeunrho/minimalRL",
+            "star": 376,
+            "description": "Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 211,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/shunliz/Machine-Learning",
+            "star": 135,
+            "description": "机器学习原理"
+        },
+        {
+            "name": "maildown",
+            "url": "https://github.com/chris104957/maildown",
+            "star": 84,
+            "description": "A super simple CLI for sending emails"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 73,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "pysot",
+            "url": "https://github.com/STVIR/pysot",
+            "star": 72,
+            "description": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 52,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "pythia",
+            "url": "https://github.com/facebookresearch/pythia",
+            "star": 69,
+            "description": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 57,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "ERNIE",
+            "url": "https://github.com/thunlp/ERNIE",
+            "star": 65,
+            "description": "Source code and dataset for ACL 2019 paper \"ERNIE: Enhanced Language Representation with Informative Entities\""
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 298,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 164,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 146,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 134,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "SoulPermission",
+            "url": "https://github.com/soulqw/SoulPermission",
+            "star": 116,
+            "description": "a permission check or request for android"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 85,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "sia-task",
+            "url": "https://github.com/siaorg/sia-task",
+            "star": 84,
+            "description": "微服务任务调度框架"
+        },
+        {
+            "name": "FocusLayoutManager",
+            "url": "https://github.com/CCY0122/FocusLayoutManager",
+            "star": 79,
+            "description": "有焦点item的水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐“频道列表布局"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 60,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "litemall",
+            "url": "https://github.com/linlinjava/litemall",
+            "star": 58,
+            "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 733,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 478,
+            "description": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "RenZhengfei1",
+            "url": "https://github.com/benmahr/RenZhengfei1",
+            "star": 340,
+            "description": "任正非思想"
+        },
+        {
+            "name": "stanford-cs-221-artificial-intelligence",
+            "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence",
+            "star": 263,
+            "description": "VIP cheatsheets for Stanford's CS 221 Artificial Intelligence"
+        },
+        {
+            "name": "android-developer-roadmap",
+            "url": "https://github.com/anacoimbrag/android-developer-roadmap",
+            "star": 211,
+            "description": "Android Developer Roadmap 2019"
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 148,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 60,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "hacker-laws-zh",
+            "url": "https://github.com/nusr/hacker-laws-zh",
+            "star": 77,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)"
+        },
+        {
+            "name": "gdpr-documents",
+            "url": "https://github.com/good-lly/gdpr-documents",
+            "star": 75,
+            "description": "🇪🇺Your Right to be Informed and Erased. The General Data Protection Regulation (EU) 2016/679 (\"GDPR\") documents for personal use."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 65,
+            "description": "Cheat Sheets"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "youtube-dl-interactive",
+            "url": "https://github.com/synox/youtube-dl-interactive",
+            "star": 301,
+            "description": "Interactively select the quality and format for youtube-dl"
+        },
+        {
+            "name": "react-vertex",
+            "url": "https://github.com/sghall/react-vertex",
+            "star": 280,
+            "description": "◾️React Vertex | Hooks-based WebGL library for React"
+        },
+        {
+            "name": "tiptap",
+            "url": "https://github.com/scrumpy/tiptap",
+            "star": 240,
+            "description": "A rich-text editor for Vue.js"
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 194,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "mini-github",
+            "url": "https://github.com/kezhenxu94/mini-github",
+            "star": 189,
+            "description": "GitHub WeChat Mini Program (可能是功能最全的 GitHub 微信小程序)"
+        },
+        {
+            "name": "xstyled",
+            "url": "https://github.com/smooth-code/xstyled",
+            "star": 175,
+            "description": "Consistent theme based CSS for styled-components💅"
+        },
+        {
+            "name": "pixi.js",
+            "url": "https://github.com/pixijs/pixi.js",
+            "star": 161,
+            "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 131,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 132,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "gitfolio",
+            "url": "https://github.com/imfunniee/gitfolio",
+            "star": 134,
+            "description": "personal website + blog for every github user"
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 362,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 43,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 26,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 19,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 24,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 12,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 11,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 16,
+            "description": "A collection of resources on modern C++"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 14,
+            "description": "Simple management UI for Docker"
+        }
+    ],
+    "go": [
+        {
+            "name": "Gaea",
+            "url": "https://github.com/XiaoMi/Gaea",
+            "star": 197,
+            "description": "Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team."
+        },
+        {
+            "name": "dive-to-gosync-workshop",
+            "url": "https://github.com/smallnest/dive-to-gosync-workshop",
+            "star": 185,
+            "description": "深入Go并发编程研讨课"
+        },
+        {
+            "name": "VictoriaMetrics",
+            "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+            "star": 112,
+            "description": "VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus"
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 89,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "unipdf",
+            "url": "https://github.com/unidoc/unipdf",
+            "star": 68,
+            "description": "Golang PDF library for creating and processing PDF files (pure go)"
+        },
+        {
+            "name": "limiter",
+            "url": "https://github.com/ulule/limiter",
+            "star": 66,
+            "description": "Dead simple rate limit middleware for Go."
+        },
+        {
+            "name": "werf",
+            "url": "https://github.com/flant/werf",
+            "star": 64,
+            "description": "Werf (previously known as dapp) helps to implement and support Continuous Integration and Continuous Delivery"
+        },
+        {
+            "name": "grpcurl",
+            "url": "https://github.com/fullstorydev/grpcurl",
+            "star": 53,
+            "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 44,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 49,
+            "description": "The Go programming language"
+        }
+    ]
+}

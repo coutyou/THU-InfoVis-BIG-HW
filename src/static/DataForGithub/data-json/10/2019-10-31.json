@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-31",
+    "month": 10,
+    "day": 31,
+    "python": [
+        {
+            "name": "iOS-DeviceSupport",
+            "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+            "star": 143,
+            "description": "This repository holds the device support files for the iOS, and I will update it regularly."
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 144,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "KubeOperator",
+            "url": "https://github.com/KubeOperator/KubeOperator",
+            "star": 31,
+            "description": "KubeOperator 是一个开源项目，通过 Web UI 在 VMware、OpenStack、物理机上一键部署和管理生产级别的 Kubernetes 集群。"
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 43,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "SlowFast",
+            "url": "https://github.com/facebookresearch/SlowFast",
+            "star": 56,
+            "description": "Present SlowFast networks for video recognition."
+        },
+        {
+            "name": "cvxpylayers",
+            "url": "https://github.com/cvxgrp/cvxpylayers",
+            "star": 49,
+            "description": "Differentiable convex optimization layers"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/geekcomputers/Python",
+            "star": 123,
+            "description": "My Python Examples"
+        },
+        {
+            "name": "compose",
+            "url": "https://github.com/docker/compose",
+            "star": 17,
+            "description": "Define and run multi-container applications with Docker"
+        },
+        {
+            "name": "black",
+            "url": "https://github.com/psf/black",
+            "star": 45,
+            "description": "The uncompromising Python code formatter"
+        },
+        {
+            "name": "the-gan-zoo",
+            "url": "https://github.com/hindupuravinash/the-gan-zoo",
+            "star": 35,
+            "description": "A list of all named GANs!"
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 67,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 117,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "hbase",
+            "url": "https://github.com/apache/hbase",
+            "star": 4,
+            "description": "Mirror of Apache HBase"
+        },
+        {
+            "name": "Auto.js",
+            "url": "https://github.com/hyb1996/Auto.js",
+            "star": 71,
+            "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 180,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 50,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "mlkit-material-android",
+            "url": "https://github.com/firebase/mlkit-material-android",
+            "star": 3,
+            "description": "ML Kit Showcase App with Material Design"
+        },
+        {
+            "name": "jetty.project",
+            "url": "https://github.com/eclipse/jetty.project",
+            "star": 0,
+            "description": "Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 43,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "kafka",
+            "url": "https://github.com/apache/kafka",
+            "star": 19,
+            "description": "Mirror of Apache Kafka"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "README-template.md",
+            "url": "https://github.com/scottydocs/README-template.md",
+            "star": 67,
+            "description": "A README template for anyone to copy and use."
+        },
+        {
+            "name": "free-books",
+            "url": "https://github.com/ruanyf/free-books",
+            "star": 301,
+            "description": "互联网上的免费书籍"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 70,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "python_for_data_analysis_2nd_chinese_version",
+            "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version",
+            "star": 33,
+            "description": "《利用Python进行数据分析·第2版》"
+        },
+        {
+            "name": "blockchain",
+            "url": "https://github.com/LiuBoyu/blockchain",
+            "star": 68,
+            "description": "区块链 - 中文资源"
+        },
+        {
+            "name": "eng-practices",
+            "url": "https://github.com/google/eng-practices",
+            "star": 133,
+            "description": "Google's Engineering Practices documentation"
+        },
+        {
+            "name": "gov-takedowns",
+            "url": "https://github.com/github/gov-takedowns",
+            "star": 256,
+            "description": "Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices."
+        },
+        {
+            "name": "CKAD-exercises",
+            "url": "https://github.com/dgkanatsios/CKAD-exercises",
+            "star": 29,
+            "description": "A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 178,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "gatsby-pt-BR",
+            "url": "https://github.com/gatsbyjs/gatsby-pt-BR",
+            "star": 14,
+            "description": "Brazilian Portuguese translation of Gatsbyjs.org"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "awesome-selfhosted",
+            "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+            "star": 405,
+            "description": "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers."
+        },
+        {
+            "name": "smart-tracker",
+            "url": "https://github.com/airuikun/smart-tracker",
+            "star": 43,
+            "description": "smart-tracker简易型前端无痕埋点"
+        },
+        {
+            "name": "leonsans",
+            "url": "https://github.com/cmiscm/leonsans",
+            "star": 204,
+            "description": "Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim."
+        },
+        {
+            "name": "ccxt",
+            "url": "https://github.com/ccxt/ccxt",
+            "star": 14,
+            "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 31,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js",
+            "star": 31,
+            "description": "The Vue.js Framework"
+        },
+        {
+            "name": "workshop-webgl-glsl",
+            "url": "https://github.com/mattdesl/workshop-webgl-glsl",
+            "star": 89,
+            "description": "A workshop on WebGL and GLSL"
+        },
+        {
+            "name": "plotly.js",
+            "url": "https://github.com/plotly/plotly.js",
+            "star": 8,
+            "description": "Open-source JavaScript charting library behind Plotly and Dash"
+        },
+        {
+            "name": "appwrite",
+            "url": "https://github.com/appwrite/appwrite",
+            "star": 16,
+            "description": "End to end backend server for frontend and mobile developers.👩‍💻👨‍💻"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 36,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        }
+    ],
+    "html": [
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 19,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 17,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "polymer",
+            "url": "https://github.com/Polymer/polymer",
+            "star": 2,
+            "description": "Our original Web Component library."
+        },
+        {
+            "name": "rellax",
+            "url": "https://github.com/dixonandmoe/rellax",
+            "star": 4,
+            "description": "Lightweight, vanilla javascript parallax library"
+        },
+        {
+            "name": "DevOps-Guide",
+            "url": "https://github.com/Tikam02/DevOps-Guide",
+            "star": 165,
+            "description": "DevOps Guide from basic to advanced with Interview Questions and Notes🔥"
+        },
+        {
+            "name": "GTFOBins.github.io",
+            "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+            "star": 4,
+            "description": "Curated list of Unix binaries that can be exploited to bypass system security restrictions"
+        },
+        {
+            "name": "colcade",
+            "url": "https://github.com/desandro/colcade",
+            "star": 5,
+            "description": "Lightweight masonry layout"
+        },
+        {
+            "name": "CreditRiskPaper",
+            "url": "https://github.com/brainy749/CreditRiskPaper",
+            "star": 1,
+            "description": "Codes for replication and implementation of techniques in our credit risk article"
+        },
+        {
+            "name": "proposal-nullish-coalescing",
+            "url": "https://github.com/tc39/proposal-nullish-coalescing",
+            "star": 2,
+            "description": "Nullish coalescing proposal x ?? y"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 13,
+            "description": "Library for fast text representation and classification."
+        }
+    ],
+    "go": [
+        {
+            "name": "shhgit",
+            "url": "https://github.com/eth0izzle/shhgit",
+            "star": 76,
+            "description": "Ah shhgit! Find GitHub secrets in real time"
+        },
+        {
+            "name": "ultimate-go",
+            "url": "https://github.com/hoanhan101/ultimate-go",
+            "star": 378,
+            "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →"
+        },
+        {
+            "name": "prometheus",
+            "url": "https://github.com/prometheus/prometheus",
+            "star": 31,
+            "description": "The Prometheus monitoring system and time series database."
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 13,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "mongo-go-driver",
+            "url": "https://github.com/mongodb/mongo-go-driver",
+            "star": 9,
+            "description": "The Go driver for MongoDB"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 12,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "cloud-on-k8s",
+            "url": "https://github.com/elastic/cloud-on-k8s",
+            "star": 4,
+            "description": "Elastic Cloud on Kubernetes"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 51,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "serving",
+            "url": "https://github.com/knative/serving",
+            "star": 9,
+            "description": "Kubernetes-based, scale-to-zero, request-driven compute"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 66,
+            "description": "A platform for building proxies to bypass network restrictions."
+        }
+    ]
+}

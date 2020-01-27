@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-09",
+    "month": 10,
+    "day": 9,
+    "python": [
+        {
+            "name": "imagededup",
+            "url": "https://github.com/idealo/imagededup",
+            "star": 428,
+            "description": "😎Finding duplicate images made easy!"
+        },
+        {
+            "name": "GitHub-Chinese-Top-Charts",
+            "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+            "star": 493,
+            "description": "🇨🇳GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月1日，国庆节快乐🎉）"
+        },
+        {
+            "name": "python-ds",
+            "url": "https://github.com/prabhupant/python-ds",
+            "star": 86,
+            "description": "Repository for data structure and algorithms in Python"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 69,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 67,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "hydra",
+            "url": "https://github.com/facebookresearch/hydra",
+            "star": 81,
+            "description": "Hydra is a framework for elegantly configuring complex applications"
+        },
+        {
+            "name": "demo-self-driving",
+            "url": "https://github.com/streamlit/demo-self-driving",
+            "star": 45,
+            "description": "Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO."
+        },
+        {
+            "name": "odoo",
+            "url": "https://github.com/odoo/odoo",
+            "star": 40,
+            "description": "Odoo. Open Source Apps To Grow Your Business."
+        },
+        {
+            "name": "bcc",
+            "url": "https://github.com/iovisor/bcc",
+            "star": 50,
+            "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more"
+        },
+        {
+            "name": "pwnagotchi",
+            "url": "https://github.com/evilsocket/pwnagotchi",
+            "star": 44,
+            "description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning."
+        }
+    ],
+    "java": [
+        {
+            "name": "Anime4K",
+            "url": "https://github.com/bloc97/Anime4K",
+            "star": 702,
+            "description": "A High-Quality Real Time Upscaler for Anime Video"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 56,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "kafka-streams-examples",
+            "url": "https://github.com/confluentinc/kafka-streams-examples",
+            "star": 3,
+            "description": "Demo applications and code examples for Apache Kafka's Streams API."
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 152,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 229,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "star": 21,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+        },
+        {
+            "name": "guava",
+            "url": "https://github.com/google/guava",
+            "star": 23,
+            "description": "Google core libraries for Java"
+        },
+        {
+            "name": "Hystrix",
+            "url": "https://github.com/Netflix/Hystrix",
+            "star": 12,
+            "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 95,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "react-native-fbsdk",
+            "url": "https://github.com/facebook/react-native-fbsdk",
+            "star": 2,
+            "description": "A React Native wrapper around the Facebook SDKs for Android and iOS. Provides access to Facebook login, sharing, graph requests, app events etc."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 113,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 112,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "nlp-roadmap",
+            "url": "https://github.com/graykode/nlp-roadmap",
+            "star": 58,
+            "description": "ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 552,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "Flexbox30",
+            "url": "https://github.com/samanthaming/Flexbox30",
+            "star": 61,
+            "description": "Learn Flexbox in 30 days with 30 code tidbits✨"
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 79,
+            "description": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+        },
+        {
+            "name": "awesome-public-datasets",
+            "url": "https://github.com/awesomedata/awesome-public-datasets",
+            "star": 17,
+            "description": "A topic-centric list of HQ open datasets. PR ☛☛☛"
+        },
+        {
+            "name": "OnJava8",
+            "url": "https://github.com/LingCoder/OnJava8",
+            "star": 61,
+            "description": "《On Java 8》中文版，又名《Java编程思想》 第5版"
+        },
+        {
+            "name": "docker-compose-elasticsearch-kibana",
+            "url": "https://github.com/maxyermayank/docker-compose-elasticsearch-kibana",
+            "star": 0,
+            "description": "Docker Compose for Elasticsearch and Kibana"
+        },
+        {
+            "name": "eng-practices",
+            "url": "https://github.com/google/eng-practices",
+            "star": 111,
+            "description": "Google's Engineering Practices documentation"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "bustag",
+            "url": "https://github.com/gxtrobot/bustag",
+            "star": 287,
+            "description": "a tag and recommend system for old bus driver"
+        },
+        {
+            "name": "create-social-network",
+            "url": "https://github.com/udilia/create-social-network",
+            "star": 109,
+            "description": "Create Social Network by running one command. Demo: https://worldexplorer.netlify.com/"
+        },
+        {
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js",
+            "star": 44,
+            "description": "JavaScript 3D library."
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 55,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 168,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "CyberChef",
+            "url": "https://github.com/gchq/CyberChef",
+            "star": 53,
+            "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 34,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "appium",
+            "url": "https://github.com/appium/appium",
+            "star": 6,
+            "description": "📱Automation for iOS, Android, and Windows Apps."
+        },
+        {
+            "name": "strapi",
+            "url": "https://github.com/strapi/strapi",
+            "star": 60,
+            "description": "🚀Open source Node.js Headless CMS to easily build customisable APIs"
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 116,
+            "description": "Build blazing fast, modern apps and websites with React"
+        }
+    ],
+    "html": [
+        {
+            "name": "livestreamer_project_ideas",
+            "url": "https://github.com/bradtraversy/livestreamer_project_ideas",
+            "star": 27,
+            "description": "App for viewers to suggest ideas to livestreamer in realtime"
+        },
+        {
+            "name": "glastoselenium",
+            "url": "https://github.com/thomasms/glastoselenium",
+            "star": 23,
+            "description": "A bot for booking Glastonbury tickets using selenium"
+        },
+        {
+            "name": "dragon-book-exercise-answers",
+            "url": "https://github.com/fool2fish/dragon-book-exercise-answers",
+            "star": 5,
+            "description": "Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 3,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "coreui-free-bootstrap-admin-template",
+            "url": "https://github.com/coreui/coreui-free-bootstrap-admin-template",
+            "star": 7,
+            "description": "CoreUI is free bootstrap admin template"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 15,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "openshift-docs",
+            "url": "https://github.com/openshift/openshift-docs",
+            "star": 0,
+            "description": "OpenShift Documentation"
+        },
+        {
+            "name": "TheHive",
+            "url": "https://github.com/TheHive-Project/TheHive",
+            "star": 7,
+            "description": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform"
+        },
+        {
+            "name": "aws-well-architected-labs",
+            "url": "https://github.com/awslabs/aws-well-architected-labs",
+            "star": 3,
+            "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices."
+        },
+        {
+            "name": "18.06-linalg-notes",
+            "url": "https://github.com/apachecn/18.06-linalg-notes",
+            "star": 6,
+            "description": "MIT-18.06-线性代数-完整笔记"
+        }
+    ],
+    "go": [
+        {
+            "name": "env",
+            "url": "https://github.com/caarlos0/env",
+            "star": 80,
+            "description": "Simple lib to parse environment variables to structs"
+        },
+        {
+            "name": "sprig",
+            "url": "https://github.com/Masterminds/sprig",
+            "star": 18,
+            "description": "Useful template functions for Go templates."
+        },
+        {
+            "name": "beats",
+            "url": "https://github.com/elastic/beats",
+            "star": 6,
+            "description": "🐠Beats - Lightweight shippers for Elasticsearch & Logstash"
+        },
+        {
+            "name": "mc",
+            "url": "https://github.com/minio/mc",
+            "star": 8,
+            "description": "MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage."
+        },
+        {
+            "name": "argo",
+            "url": "https://github.com/argoproj/argo",
+            "star": 7,
+            "description": "Argo Workflows: Get stuff done with Kubernetes."
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 17,
+            "description": "Curated applications for Kubernetes"
+        },
+        {
+            "name": "flagger",
+            "url": "https://github.com/weaveworks/flagger",
+            "star": 6,
+            "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)"
+        },
+        {
+            "name": "oauth2_proxy",
+            "url": "https://github.com/pusher/oauth2_proxy",
+            "star": 21,
+            "description": "A reverse proxy that provides authentication with Google, Github or other providers. #Hacktoberfest"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 18,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "flannel",
+            "url": "https://github.com/coreos/flannel",
+            "star": 5,
+            "description": "flannel is a network fabric for containers, designed for Kubernetes"
+        }
+    ]
+}

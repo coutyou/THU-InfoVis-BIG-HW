@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-22",
+    "month": 4,
+    "day": 22,
+    "python": [
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 235,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "Photon",
+            "url": "https://github.com/s0md3v/Photon",
+            "star": 129,
+            "description": "Incredibly fast crawler designed for OSINT."
+        },
+        {
+            "name": "requests3",
+            "url": "https://github.com/kennethreitz/requests3",
+            "star": 130,
+            "description": "Requests 3.0, for Humans and Machines, alike.🤖"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 112,
+            "description": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "CornerNet-Lite",
+            "url": "https://github.com/princeton-vl/CornerNet-Lite",
+            "star": 105,
+            "description": ""
+        },
+        {
+            "name": "examples-of-web-crawlers",
+            "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+            "star": 70,
+            "description": "python爬虫例子,对新手比较友好。淘宝模拟登录,淘宝商品爬虫,淘宝我已购买的宝贝爬虫,天猫商品爬虫,每天不同时间段通过微信发消息提醒女友,爬取5K分辨率超清唯美壁纸,爬取豆瓣排行榜电影数据(含GUI界面版),多线程+代理池爬取天天基金网、股票数据(无需使用爬虫框架),一键生成微信个人专属数据报告(了解你的微信社交历史)"
+        },
+        {
+            "name": "hncynic",
+            "url": "https://github.com/leod/hncynic",
+            "star": 71,
+            "description": "Generate Hacker News Comments from Titles"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 60,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 47,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "manim",
+            "url": "https://github.com/3b1b/manim",
+            "star": 53,
+            "description": "Animation engine for explanatory math videos"
+        }
+    ],
+    "java": [
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 112,
+            "description": "✍ Halo 可能是最好的 Java 博客系统"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 86,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "HanLP",
+            "url": "https://github.com/hankcs/HanLP",
+            "star": 68,
+            "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁"
+        },
+        {
+            "name": "hutool",
+            "url": "https://github.com/looly/hutool",
+            "star": 65,
+            "description": "A set of tools that keep Java sweet."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 47,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "Spring-Boot-In-Action",
+            "url": "https://github.com/hansonwang99/Spring-Boot-In-Action",
+            "star": 42,
+            "description": "Spring Boot 系列实战合集"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 30,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 33,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "SpringBlade",
+            "url": "https://github.com/chillzhuang/SpringBlade",
+            "star": 33,
+            "description": "SpringBlade 是由一个商业级项目升级优化而来的SpringCloud微服务架构，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2 、Spring Cloud Finchley 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS微服务系统平台。 QQ群：477853168"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 25,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "commit-messages-guide",
+            "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+            "star": 612,
+            "description": "A guide to understand the importance of commit messages and how to write them well"
+        },
+        {
+            "name": "git-tips",
+            "url": "https://github.com/521xueweihan/git-tips",
+            "star": 254,
+            "description": "Git的奇技淫巧"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 212,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "golang-developer-roadmap",
+            "url": "https://github.com/Alikhll/golang-developer-roadmap",
+            "star": 174,
+            "description": "Roadmap to becoming a Go developer in 2019"
+        },
+        {
+            "name": "SJTU-Courses",
+            "url": "https://github.com/CoolPhilChen/SJTU-Courses",
+            "star": 91,
+            "description": "上海交通大学课程资料分享"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 80,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/aliyunfe/weekly",
+            "star": 74,
+            "description": "阿里云前端技术周刊"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 66,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 56,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 49,
+            "description": "A collection of useful .gitignore templates"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "tool",
+            "url": "https://github.com/Louiszhai/tool",
+            "star": 313,
+            "description": "开发效率提升：Mac生产力工具链推荐"
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 194,
+            "description": "贵校课程资料民间整理"
+        },
+        {
+            "name": "mockit",
+            "url": "https://github.com/boyney123/mockit",
+            "star": 210,
+            "description": "A tool to quickly mock out end points, setup delays and more..."
+        },
+        {
+            "name": "ikonate",
+            "url": "https://github.com/mikolajdobrucki/ikonate",
+            "star": 147,
+            "description": "fully customisable & accessible vector icons"
+        },
+        {
+            "name": "dsa.js",
+            "url": "https://github.com/amejiarosario/dsa.js",
+            "star": 118,
+            "description": "Data Structures and Algorithms explained and implemented in JavaScript"
+        },
+        {
+            "name": "canvas-sketch",
+            "url": "https://github.com/mattdesl/canvas-sketch",
+            "star": 92,
+            "description": "[beta] A framework for making generative artwork in JavaScript and the browser."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 75,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "spotless",
+            "url": "https://github.com/phandd/spotless",
+            "star": 84,
+            "description": "Too lazy to navigate to Spotify when you want to change your music? Spotless is here to help you controlling Spotify effortless!"
+        },
+        {
+            "name": "cxk-ball",
+            "url": "https://github.com/kasuganosoras/cxk-ball",
+            "star": 73,
+            "description": "Javascript 实现的 CXK 打篮球游戏"
+        },
+        {
+            "name": "bowser",
+            "url": "https://github.com/lancedikson/bowser",
+            "star": 73,
+            "description": "a browser detector"
+        }
+    ],
+    "html": [
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 126,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 57,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "py4e",
+            "url": "https://github.com/csev/py4e",
+            "star": 52,
+            "description": "Web site for www.py4e.com and source to the Python 3.0 textbook"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 31,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 24,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 22,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "OUCML",
+            "url": "https://github.com/OUCMachineLearning/OUCML",
+            "star": 21,
+            "description": ""
+        },
+        {
+            "name": "MikuTools",
+            "url": "https://github.com/Ice-Hazymoon/MikuTools",
+            "star": 20,
+            "description": "一个轻量的工具集合"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 21,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "subspace",
+            "url": "https://github.com/subspacecloud/subspace",
+            "star": 21,
+            "description": "A simple WireGuard VPN server GUI"
+        }
+    ],
+    "go": [
+        {
+            "name": "sshcode",
+            "url": "https://github.com/codercom/sshcode",
+            "star": 282,
+            "description": "Run VS Code on any server over SSH."
+        },
+        {
+            "name": "go-patterns",
+            "url": "https://github.com/tmrts/go-patterns",
+            "star": 256,
+            "description": "Curated list of Go design patterns, recipes and idioms"
+        },
+        {
+            "name": "hub",
+            "url": "https://github.com/github/hub",
+            "star": 142,
+            "description": "A command-line tool that makes git easier to use with GitHub."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 55,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 42,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 34,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 31,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "jingo",
+            "url": "https://github.com/bet365/jingo",
+            "star": 31,
+            "description": "This package provides the ability to encode golang structs to a buffer as JSON very quickly."
+        },
+        {
+            "name": "minikeyvalue",
+            "url": "https://github.com/geohot/minikeyvalue",
+            "star": 31,
+            "description": "A distributed key value store in under 200 lines"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 30,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        }
+    ]
+}

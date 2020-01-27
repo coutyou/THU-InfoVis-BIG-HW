@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-15",
+    "month": 9,
+    "day": 15,
+    "python": [
+        {
+            "name": "spaCy",
+            "url": "https://github.com/explosion/spaCy",
+            "star": 10,
+            "description": "💫Industrial-strength Natural Language Processing (NLP) with Python and Cython"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 114,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "30-seconds-of-python",
+            "url": "https://github.com/30-seconds/30-seconds-of-python",
+            "star": 93,
+            "description": "A curated collection of useful Python snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "django",
+            "url": "https://github.com/django/django",
+            "star": 19,
+            "description": "The Web framework for perfectionists with deadlines."
+        },
+        {
+            "name": "code_snippets",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "star": 9,
+            "description": ""
+        },
+        {
+            "name": "ctrl",
+            "url": "https://github.com/salesforce/ctrl",
+            "star": 55,
+            "description": "Conditional Transformer Language Model for Controllable Generation (https://einstein.ai/presentations/ctrl.pdf)"
+        },
+        {
+            "name": "redash",
+            "url": "https://github.com/getredash/redash",
+            "star": 4,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+        },
+        {
+            "name": "mypy",
+            "url": "https://github.com/python/mypy",
+            "star": 10,
+            "description": "Optional static typing for Python 3 and 2 (PEP 484)"
+        },
+        {
+            "name": "cpython",
+            "url": "https://github.com/python/cpython",
+            "star": 19,
+            "description": "The Python programming language"
+        },
+        {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "star": 18,
+            "description": "scikit-learn: machine learning in Python"
+        }
+    ],
+    "java": [
+        {
+            "name": "nifi",
+            "url": "https://github.com/apache/nifi",
+            "star": 4,
+            "description": "Mirror of Apache NiFi"
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 6,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "jabref",
+            "url": "https://github.com/JabRef/jabref",
+            "star": 1,
+            "description": "Graphical Java application for managing BibTeX and biblatex (.bib) databases"
+        },
+        {
+            "name": "invest-openapi-java-sdk",
+            "url": "https://github.com/TinkoffCreditSystems/invest-openapi-java-sdk",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "bytecode-viewer",
+            "url": "https://github.com/Konloch/bytecode-viewer",
+            "star": 5,
+            "description": "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)"
+        },
+        {
+            "name": "react-native-video",
+            "url": "https://github.com/react-native-community/react-native-video",
+            "star": 2,
+            "description": "A <Video /> component for react-native"
+        },
+        {
+            "name": "zalenium",
+            "url": "https://github.com/zalando/zalenium",
+            "star": 3,
+            "description": "A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard."
+        },
+        {
+            "name": "stripe-android",
+            "url": "https://github.com/stripe/stripe-android",
+            "star": 1,
+            "description": "Stripe Android SDK"
+        },
+        {
+            "name": "xDrip",
+            "url": "https://github.com/NightscoutFoundation/xDrip",
+            "star": 2,
+            "description": "Nightscout version of xDrip+"
+        },
+        {
+            "name": "beam",
+            "url": "https://github.com/apache/beam",
+            "star": 5,
+            "description": "Apache Beam"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "ECMAScript-new-features-list",
+            "url": "https://github.com/daumann/ECMAScript-new-features-list",
+            "star": 159,
+            "description": "A comprehensive list of new ES features, including ES2015 (ES6), ES2016 (ES7), ES2017 (ES8), ES2018 (ES9), ES2019 (ES10)"
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 213,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 125,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "Hacking-Security-Ebooks",
+            "url": "https://github.com/yeahhub/Hacking-Security-Ebooks",
+            "star": 226,
+            "description": "Top 100 Hacking & Security E-Books (Free Download) - Powered by Yeahhub.com"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 49,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome-blazor",
+            "url": "https://github.com/AdrienTorris/awesome-blazor",
+            "star": 5,
+            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+        },
+        {
+            "name": "awesome-dotnet",
+            "url": "https://github.com/quozd/awesome-dotnet",
+            "star": 9,
+            "description": "A collection of awesome .NET libraries, tools, frameworks and software"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 53,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "Active-Directory-Pentest-Notes",
+            "url": "https://github.com/uknowsec/Active-Directory-Pentest-Notes",
+            "star": 41,
+            "description": "个人域渗透学习笔记"
+        },
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 18,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "girls-reptile",
+            "url": "https://github.com/Licoy/girls-reptile",
+            "star": 57,
+            "description": "🎨Beautiful girl picture collector based on electron-vue development, Support for Mac/Windows"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 65,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "odoo",
+            "url": "https://github.com/odoo/odoo",
+            "star": 8,
+            "description": "Odoo. Open Source Apps To Grow Your Business."
+        },
+        {
+            "name": "react-table",
+            "url": "https://github.com/tannerlinsley/react-table",
+            "star": 91,
+            "description": "⚛️Hooks for building fast and extendable tables and datagrids for React"
+        },
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 60,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "grokking_algorithms",
+            "url": "https://github.com/egonSchiele/grokking_algorithms",
+            "star": 7,
+            "description": "Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)"
+        },
+        {
+            "name": "immer",
+            "url": "https://github.com/immerjs/immer",
+            "star": 40,
+            "description": "Create the next immutable state by mutating the current one"
+        },
+        {
+            "name": "deck.gl",
+            "url": "https://github.com/uber/deck.gl",
+            "star": 15,
+            "description": "WebGL2 powered geospatial visualization layers"
+        },
+        {
+            "name": "Rocket.Chat",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "star": 6,
+            "description": "The ultimate Free Open Source Solution for team communications."
+        },
+        {
+            "name": "gutenberg",
+            "url": "https://github.com/WordPress/gutenberg",
+            "star": 10,
+            "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository."
+        }
+    ],
+    "html": [
+        {
+            "name": "TranslatorX",
+            "url": "https://github.com/pingfangx/TranslatorX",
+            "star": 28,
+            "description": "JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.2 汉化包 DataGrip 2019.2 汉化包 GoLand 2019.2 汉化包 IntelliJ IDEA 2019.2 汉化包 PhpStorm 2019.2 汉化包 PyCharm 2019.2 汉化包 Rider 2019.2 汉化包 RubyMine 2019.2 汉化包 WebStorm 2019.2 汉化包"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 5,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/aws-amplify/docs",
+            "star": 0,
+            "description": "Amplify Framework Documentation"
+        },
+        {
+            "name": "startbootstrap-resume",
+            "url": "https://github.com/BlackrockDigital/startbootstrap-resume",
+            "star": 1,
+            "description": "A Bootstrap 4 resume/CV theme created by Start Bootstrap"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 10,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 13,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 3,
+            "description": ""
+        },
+        {
+            "name": "Screenshot-to-code",
+            "url": "https://github.com/emilwallner/Screenshot-to-code",
+            "star": 3,
+            "description": "A neural network that transforms a design mock-up into a static website."
+        },
+        {
+            "name": "laptop.css",
+            "url": "https://github.com/jjkaufman/laptop.css",
+            "star": 8,
+            "description": "laptop CSS for the modern world"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": 1,
+            "description": "This repo is for demonstration purposes only."
+        }
+    ],
+    "go": [
+        {
+            "name": "client",
+            "url": "https://github.com/keybase/client",
+            "star": 55,
+            "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron"
+        },
+        {
+            "name": "origin",
+            "url": "https://github.com/openshift/origin",
+            "star": 3,
+            "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone"
+        },
+        {
+            "name": "grpc-gateway",
+            "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+            "star": 9,
+            "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+        },
+        {
+            "name": "alertmanager",
+            "url": "https://github.com/prometheus/alertmanager",
+            "star": 1,
+            "description": "Prometheus Alertmanager"
+        },
+        {
+            "name": "kuma",
+            "url": "https://github.com/Kong/kuma",
+            "star": 59,
+            "description": "🐻The Universal Control Plane for Service Mesh"
+        },
+        {
+            "name": "skaffold",
+            "url": "https://github.com/GoogleContainerTools/skaffold",
+            "star": 3,
+            "description": "Easy and Repeatable Kubernetes Development"
+        },
+        {
+            "name": "cadence",
+            "url": "https://github.com/uber/cadence",
+            "star": 63,
+            "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way."
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 9,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "go-patterns",
+            "url": "https://github.com/tmrts/go-patterns",
+            "star": 35,
+            "description": "Curated list of Go design patterns, recipes and idioms"
+        },
+        {
+            "name": "rancher",
+            "url": "https://github.com/rancher/rancher",
+            "star": 4,
+            "description": "Complete container management platform"
+        }
+    ]
+}

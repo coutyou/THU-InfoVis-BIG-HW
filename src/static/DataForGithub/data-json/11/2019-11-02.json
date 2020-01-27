@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-02",
+    "month": 11,
+    "day": 2,
+    "python": [
+        {
+            "name": "streamlit",
+            "url": "https://github.com/streamlit/streamlit",
+            "star": 247,
+            "description": "Streamlit — The fastest way to build custom ML tools"
+        },
+        {
+            "name": "iOS-DeviceSupport",
+            "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+            "star": 99,
+            "description": "This repository holds the device support files for the iOS, and I will update it regularly."
+        },
+        {
+            "name": "SinGAN",
+            "url": "https://github.com/tamarott/SinGAN",
+            "star": 235,
+            "description": "Official pytorch implementation of the paper: \"SinGAN: Learning a Generative Model from a Single Natural Image\""
+        },
+        {
+            "name": "dash",
+            "url": "https://github.com/plotly/dash",
+            "star": 46,
+            "description": "Analytical Web Apps for Python & R. No JavaScript Required."
+        },
+        {
+            "name": "DeepLearningExamples",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "star": 49,
+            "description": "Deep Learning Examples"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 150,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "SlowFast",
+            "url": "https://github.com/facebookresearch/SlowFast",
+            "star": 89,
+            "description": "Present SlowFast networks for video recognition."
+        },
+        {
+            "name": "spleeter",
+            "url": "https://github.com/deezer/spleeter",
+            "star": 50,
+            "description": "Deezer source separation library including pretrained models."
+        },
+        {
+            "name": "BrachioGraph",
+            "url": "https://github.com/evildmp/BrachioGraph",
+            "star": 17,
+            "description": "BrachioGraph is an ultra-cheap (total cost of materials: €14) plotter that can be built with minimal skills."
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 101,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        }
+    ],
+    "java": [
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 141,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "Signal-Android",
+            "url": "https://github.com/signalapp/Signal-Android",
+            "star": 12,
+            "description": "A private messenger for Android."
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 72,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "jenkins",
+            "url": "https://github.com/jenkinsci/jenkins",
+            "star": 11,
+            "description": "Jenkins automation server"
+        },
+        {
+            "name": "spring-security",
+            "url": "https://github.com/spring-projects/spring-security",
+            "star": 4,
+            "description": "Spring Security"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 49,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 25,
+            "description": "一款基于代码生成器的JAVA快速开发平台！采用最新技术，前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "Mapper",
+            "url": "https://github.com/abel533/Mapper",
+            "star": 6,
+            "description": "Mybatis Common Mapper - Easy to use"
+        },
+        {
+            "name": "avro",
+            "url": "https://github.com/apache/avro",
+            "star": 1,
+            "description": "Apache Avro"
+        },
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 100,
+            "description": "大数据入门指南⭐️"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Best-websites-a-programmer-should-visit",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "star": 89,
+            "description": "🔗Some useful websites for programmers."
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 61,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "you-dont-know-js-ru",
+            "url": "https://github.com/azat-io/you-dont-know-js-ru",
+            "star": 13,
+            "description": "📚Russian translation of \"You Don't Know JS\" book series"
+        },
+        {
+            "name": "blockchain",
+            "url": "https://github.com/LiuBoyu/blockchain",
+            "star": 175,
+            "description": "区块链 - 中文资源"
+        },
+        {
+            "name": "The-Open-Book",
+            "url": "https://github.com/joeycastillo/The-Open-Book",
+            "star": 32,
+            "description": ""
+        },
+        {
+            "name": "amundsen",
+            "url": "https://github.com/lyft/amundsen",
+            "star": 10,
+            "description": "Repository for the Amundsen project"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 80,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "slides",
+            "url": "https://github.com/TritonHo/slides",
+            "star": 1,
+            "description": "it is a repository to store all slides used by Triton Ho's public presentation and course."
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 31,
+            "description": ""
+        },
+        {
+            "name": "README-template.md",
+            "url": "https://github.com/scottydocs/README-template.md",
+            "star": 96,
+            "description": "A README template for anyone to copy and use."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "smart-tracker",
+            "url": "https://github.com/airuikun/smart-tracker",
+            "star": 22,
+            "description": "smart-tracker简易型前端无痕埋点"
+        },
+        {
+            "name": "chinese-independent-blogs",
+            "url": "https://github.com/timqian/chinese-independent-blogs",
+            "star": 308,
+            "description": "中文独立博客列表"
+        },
+        {
+            "name": "BlockChain",
+            "url": "https://github.com/itheima1/BlockChain",
+            "star": 56,
+            "description": "黑马程序员 120天全栈区块链开发 开源教程"
+        },
+        {
+            "name": "taobaoVisitingVenues",
+            "url": "https://github.com/sleepybear1113/taobaoVisitingVenues",
+            "star": 103,
+            "description": "双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android"
+        },
+        {
+            "name": "AutoPiano",
+            "url": "https://github.com/WarpPrism/AutoPiano",
+            "star": 72,
+            "description": "自由钢琴🎹AutoPiano ( https://www.autopiano.cn ) Simple & Elegant Piano Online"
+        },
+        {
+            "name": "chakra-ui",
+            "url": "https://github.com/chakra-ui/chakra-ui",
+            "star": 226,
+            "description": "⚡️Simple, Modular & Accessible UI Components for your React Applications"
+        },
+        {
+            "name": "pdf.js",
+            "url": "https://github.com/mozilla/pdf.js",
+            "star": 17,
+            "description": "PDF Reader in JavaScript"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 100,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "jamstack-cms",
+            "url": "https://github.com/jamstack-cms/jamstack-cms",
+            "star": 64,
+            "description": "Modern full stack CMS. Built with GraphQL, AWS Amplify, and Serverless technologies."
+        },
+        {
+            "name": "slick",
+            "url": "https://github.com/kenwheeler/slick",
+            "star": 12,
+            "description": "the last carousel you'll ever need"
+        }
+    ],
+    "html": [
+        {
+            "name": "DevOps-Guide",
+            "url": "https://github.com/Tikam02/DevOps-Guide",
+            "star": 171,
+            "description": "DevOps Guide from basic to advanced with Interview Questions and Notes🔥"
+        },
+        {
+            "name": "DetectionLab",
+            "url": "https://github.com/clong/DetectionLab",
+            "star": 20,
+            "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices"
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/digitalocean/nginxconfig.io",
+            "star": 163,
+            "description": "⚙️NGiИX config generator on steroids💉"
+        },
+        {
+            "name": "blockchainlittlebook.com",
+            "url": "https://github.com/xiaolai/blockchainlittlebook.com",
+            "star": 39,
+            "description": "区块链小白书"
+        },
+        {
+            "name": "HiddenEye",
+            "url": "https://github.com/DarkSecDevelopers/HiddenEye",
+            "star": 6,
+            "description": "Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services [ Android-Support-Available ]"
+        },
+        {
+            "name": "tools",
+            "url": "https://github.com/googlecodelabs/tools",
+            "star": 4,
+            "description": "Codelabs management & hosting tools"
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 13,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 22,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 3,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "data_analysis",
+            "url": "https://github.com/zhouwei713/data_analysis",
+            "star": 10,
+            "description": "一些爬虫和数据分析相关实战练习"
+        }
+    ],
+    "go": [
+        {
+            "name": "shhgit",
+            "url": "https://github.com/eth0izzle/shhgit",
+            "star": 79,
+            "description": "Ah shhgit! Find GitHub secrets in real time"
+        },
+        {
+            "name": "grpc-gateway",
+            "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+            "star": 10,
+            "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+        },
+        {
+            "name": "restic",
+            "url": "https://github.com/restic/restic",
+            "star": 240,
+            "description": "Fast, secure, efficient backup program"
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 15,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "alertmanager",
+            "url": "https://github.com/prometheus/alertmanager",
+            "star": 6,
+            "description": "Prometheus Alertmanager"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 48,
+            "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk"
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 19,
+            "description": "Curated applications for Kubernetes"
+        },
+        {
+            "name": "origin",
+            "url": "https://github.com/openshift/origin",
+            "star": 5,
+            "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone"
+        },
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 15,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 56,
+            "description": "A platform for building proxies to bypass network restrictions."
+        }
+    ]
+}

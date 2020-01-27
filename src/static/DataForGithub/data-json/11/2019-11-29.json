@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-29",
+    "month": 11,
+    "day": 29,
+    "python": [
+        {
+            "name": "dimensionality_reduction_alo_codes",
+            "url": "https://github.com/heucoder/dimensionality_reduction_alo_codes",
+            "star": 39,
+            "description": "PCA、LDA、MDS、LLE、TSNE等降维算法的python实现"
+        },
+        {
+            "name": "sagemaker-python-sdk",
+            "url": "https://github.com/aws/sagemaker-python-sdk",
+            "star": 31,
+            "description": "A library for training and deploying machine learning models on Amazon SageMaker"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 22,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 71,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "multi-v2ray",
+            "url": "https://github.com/Jrohy/multi-v2ray",
+            "star": 22,
+            "description": "v2ray easy delpoy & manage tool， support multiple user & protocol manage"
+        },
+        {
+            "name": "efficientdet",
+            "url": "https://github.com/SweetyTian/efficientdet",
+            "star": 7,
+            "description": "unofficial EffcientDet implemented by mmdetection"
+        },
+        {
+            "name": "confluent-kafka-python",
+            "url": "https://github.com/confluentinc/confluent-kafka-python",
+            "star": 4,
+            "description": "Confluent's Kafka Python Client"
+        },
+        {
+            "name": "keras",
+            "url": "https://github.com/keras-team/keras",
+            "star": 38,
+            "description": "Deep Learning for humans"
+        },
+        {
+            "name": "sentry",
+            "url": "https://github.com/getsentry/sentry",
+            "star": 111,
+            "description": "Sentry is cross-platform application monitoring, with a focus on error reporting."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 56,
+            "description": "Models and examples built with TensorFlow"
+        }
+    ],
+    "java": [
+        {
+            "name": "Jetpack-MVVM-Best-Practice",
+            "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+            "star": 26,
+            "description": "是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！"
+        },
+        {
+            "name": "storm",
+            "url": "https://github.com/apache/storm",
+            "star": 2,
+            "description": "Mirror of Apache Storm"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 35,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 102,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "calcite",
+            "url": "https://github.com/apache/calcite",
+            "star": 6,
+            "description": "Mirror of Apache Calcite"
+        },
+        {
+            "name": "k-9",
+            "url": "https://github.com/k9mail/k-9",
+            "star": 17,
+            "description": "K-9 Mail – An Email app for Android"
+        },
+        {
+            "name": "quarkus-quickstarts",
+            "url": "https://github.com/quarkusio/quarkus-quickstarts",
+            "star": 2,
+            "description": "Quarkus quickstart code"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 52,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "testcontainers-java",
+            "url": "https://github.com/testcontainers/testcontainers-java",
+            "star": 3,
+            "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 34,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Production-Level-Deep-Learning",
+            "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+            "star": 153,
+            "description": "A guideline for building practical production-level deep learning systems to be deployed in real world applications."
+        },
+        {
+            "name": "Flutter-Course-Resources",
+            "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+            "star": 5,
+            "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+        },
+        {
+            "name": "awesome-cpp",
+            "url": "https://github.com/fffaraz/awesome-cpp",
+            "star": 87,
+            "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+        },
+        {
+            "name": "Awesome",
+            "url": "https://github.com/Awesome-Windows/Awesome",
+            "star": 30,
+            "description": "💻An awesome & curated list of best applications and tools for Windows."
+        },
+        {
+            "name": "specials",
+            "url": "https://github.com/RPiList/specials",
+            "star": 5,
+            "description": ""
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 62,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "awesome-lisp-languages",
+            "url": "https://github.com/dundalek/awesome-lisp-languages",
+            "star": 23,
+            "description": "A list of Lisp-flavored programming languages"
+        },
+        {
+            "name": "notable",
+            "url": "https://github.com/notable/notable",
+            "star": 39,
+            "description": "The Markdown-based note-taking app that doesn't suck."
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 38,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "smartdns",
+            "url": "https://github.com/pymumu/smartdns",
+            "star": 16,
+            "description": "smart dns server"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "ARC",
+            "url": "https://github.com/fchollet/ARC",
+            "star": 20,
+            "description": "The Abstraction and Reasoning Corpus"
+        },
+        {
+            "name": "jumpserver",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "star": 240,
+            "description": "Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。"
+        },
+        {
+            "name": "blocks",
+            "url": "https://github.com/blocks/blocks",
+            "star": 233,
+            "description": "A JSX-based page builder for creating beautiful websites without writing code"
+        },
+        {
+            "name": "Advanced-React",
+            "url": "https://github.com/wesbos/Advanced-React",
+            "star": 8,
+            "description": "Starter Files and Solutions for Full Stack Advanced React and GraphQL"
+        },
+        {
+            "name": "atom",
+            "url": "https://github.com/atom/atom",
+            "star": 18,
+            "description": "The hackable text editor"
+        },
+        {
+            "name": "kubernetes-external-secrets",
+            "url": "https://github.com/godaddy/kubernetes-external-secrets",
+            "star": 5,
+            "description": "Integrate external secret management systems with Kubernetes"
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 50,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 36,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer",
+            "star": 46,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "reactotron",
+            "url": "https://github.com/infinitered/reactotron",
+            "star": 10,
+            "description": "A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows."
+        }
+    ],
+    "html": [
+        {
+            "name": "machine-learning-systems-design",
+            "url": "https://github.com/chiphuyen/machine-learning-systems-design",
+            "star": 531,
+            "description": "A booklet on machine learning systems design with exercises"
+        },
+        {
+            "name": "PortFolio_Website",
+            "url": "https://github.com/akashyap2013/PortFolio_Website",
+            "star": 2,
+            "description": "Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch."
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 15,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "responsive-html-email-template",
+            "url": "https://github.com/leemunroe/responsive-html-email-template",
+            "star": 9,
+            "description": "A free simple responsive HTML email template"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 19,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 6,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "twemoji",
+            "url": "https://github.com/twitter/twemoji",
+            "star": 6,
+            "description": "Emoji for everyone. https://twemoji.twitter.com/"
+        },
+        {
+            "name": "stickyfill",
+            "url": "https://github.com/wilddeer/stickyfill",
+            "star": 0,
+            "description": "Polyfill for CSS `position: sticky`"
+        },
+        {
+            "name": "kyle-school",
+            "url": "https://github.com/zzsza/kyle-school",
+            "star": 6,
+            "description": "쏘카 데이터 그룹 사내 신입/인턴을 대상으로 한 카일 스쿨"
+        },
+        {
+            "name": "awesome-resume",
+            "url": "https://github.com/resumejob/awesome-resume",
+            "star": 65,
+            "description": "包含简历常用例句"
+        }
+    ],
+    "go": [
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 56,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 41,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "gorse",
+            "url": "https://github.com/zhenghaoz/gorse",
+            "star": 84,
+            "description": "An offline recommender system backend based on collaborative filtering written in Go"
+        },
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 20,
+            "description": "A Commander for modern Go CLI interactions"
+        },
+        {
+            "name": "dep",
+            "url": "https://github.com/golang/dep",
+            "star": 49,
+            "description": "Go dependency management tool"
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 40,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "traefik",
+            "url": "https://github.com/containous/traefik",
+            "star": 29,
+            "description": "The Cloud Native Edge Router"
+        },
+        {
+            "name": "etcd",
+            "url": "https://github.com/etcd-io/etcd",
+            "star": 22,
+            "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+        },
+        {
+            "name": "nomad",
+            "url": "https://github.com/hashicorp/nomad",
+            "star": 9,
+            "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 39,
+            "description": "Go support for Google's protocol buffers"
+        }
+    ]
+}

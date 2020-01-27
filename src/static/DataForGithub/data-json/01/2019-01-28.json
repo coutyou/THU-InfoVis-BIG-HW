@@ -1,0 +1,377 @@
+{
+    "date": "2019-01-28",
+    "month": 1,
+    "day": 28,
+    "python": [
+        {
+            "name": "CopyTranslator",
+            "url": "https://github.com/elliottzheng/CopyTranslator",
+            "star": 109,
+            "description": "Foreign language reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1)"
+        },
+        {
+            "name": "funNLP",
+            "url": "https://github.com/fighting41love/funNLP",
+            "star": 108,
+            "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 65,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 60,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/rg3/youtube-dl",
+            "star": 43,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "keras",
+            "url": "https://github.com/keras-team/keras",
+            "star": 36,
+            "description": "Deep Learning for humans"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 39,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 32,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "many-to-many-dijkstra",
+            "url": "https://github.com/facebookresearch/many-to-many-dijkstra",
+            "star": 39,
+            "description": "A predictive model developed to identify medium-voltage electrical distribution grid infrastructure using publicly available data sources."
+        },
+        {
+            "name": "deep-learning-ocean",
+            "url": "https://github.com/osforscience/deep-learning-ocean",
+            "star": 36,
+            "description": "📡All You Need to Know About Deep Learning - A kick-starter"
+        }
+    ],
+    "java": [
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 77,
+            "description": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 52,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 47,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "nacos",
+            "url": "https://github.com/alibaba/nacos",
+            "star": 38,
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 22,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 25,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 23,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "OpenCue",
+            "url": "https://github.com/imageworks/OpenCue",
+            "star": 24,
+            "description": "Render farm management software"
+        },
+        {
+            "name": "EdXposed",
+            "url": "https://github.com/solohsu/EdXposed",
+            "star": 25,
+            "description": "Elder driver Xposed Framework"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 20,
+            "description": "All Algorithms implemented in Java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-practical-linux-hardening-guide",
+            "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+            "star": 400,
+            "description": "🔥This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 321,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 195,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "awesome-mobile-web-development",
+            "url": "https://github.com/myshov/awesome-mobile-web-development",
+            "star": 184,
+            "description": "All that you need to create a great mobile web experience"
+        },
+        {
+            "name": "ml-feynman-experience",
+            "url": "https://github.com/leandromineti/ml-feynman-experience",
+            "star": 135,
+            "description": "A collection of statistical models implemented with Python on Google Colab"
+        },
+        {
+            "name": "HyperDL-Tutorial",
+            "url": "https://github.com/zeusees/HyperDL-Tutorial",
+            "star": 106,
+            "description": "深度学习教程整理 | 干货"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 102,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 96,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "queueing_theory",
+            "url": "https://github.com/joelparkerhenderson/queueing_theory",
+            "star": 85,
+            "description": "Queueing theory: an introduction for software development"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 64,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "hotkey",
+            "url": "https://github.com/github/hotkey",
+            "star": 134,
+            "description": "Global DOM element activation"
+        },
+        {
+            "name": "cloudquery",
+            "url": "https://github.com/cloudfetch/cloudquery",
+            "star": 119,
+            "description": "Turn any website to serverless API (support SPA!)"
+        },
+        {
+            "name": "fx",
+            "url": "https://github.com/antonmedv/fx",
+            "star": 116,
+            "description": "Command-line tool and terminal JSON viewer🔥"
+        },
+        {
+            "name": "react-fiber-implement",
+            "url": "https://github.com/tranbathanhtung/react-fiber-implement",
+            "star": 118,
+            "description": "re-implement react fiber"
+        },
+        {
+            "name": "script-8.github.io",
+            "url": "https://github.com/script-8/script-8.github.io",
+            "star": 80,
+            "description": "A fantasy computer for making, sharing, and playing tiny retro-looking games."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 73,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 65,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 74,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "nuclear",
+            "url": "https://github.com/nukeop/nuclear",
+            "star": 63,
+            "description": "Popcorn Time for music"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 45,
+            "description": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        }
+    ],
+    "html": [
+        {
+            "name": "flexsearch",
+            "url": "https://github.com/nextapps-de/flexsearch",
+            "star": 52,
+            "description": "Next-Generation full text search library for Browser and Node.js"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 25,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "sleek-dashboard",
+            "url": "https://github.com/tafcoder/sleek-dashboard",
+            "star": 27,
+            "description": "Sleek Dashboard - Free Bootstrap 4 Admin Template and UI Kit"
+        },
+        {
+            "name": "subspace",
+            "url": "https://github.com/subspacecloud/subspace",
+            "star": 23,
+            "description": "A simple WireGuard VPN server GUI"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 14,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "30-seconds-of-css",
+            "url": "https://github.com/30-seconds/30-seconds-of-css",
+            "star": 11,
+            "description": "A curated collection of useful CSS snippets you can understand in 30 seconds or less."
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 10,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 9,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "now-github-starter",
+            "url": "https://github.com/zeit/now-github-starter",
+            "star": null,
+            "description": "Starter project to demonstrate a project whose pull requests get automatically deployed"
+        }
+    ],
+    "go": [
+        {
+            "name": "websocketd",
+            "url": "https://github.com/joewalnes/websocketd",
+            "star": 442,
+            "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 43,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 33,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 31,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 29,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "aws-lambda-container-image-converter",
+            "url": "https://github.com/awslabs/aws-lambda-container-image-converter",
+            "star": 31,
+            "description": "The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda layers, and publishes them as new layer versions."
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 24,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "traefik",
+            "url": "https://github.com/containous/traefik",
+            "star": 24,
+            "description": "The Cloud Native Edge Router"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 24,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "badger",
+            "url": "https://github.com/dgraph-io/badger",
+            "star": 24,
+            "description": "Fast key-value DB in Go."
+        }
+    ]
+}

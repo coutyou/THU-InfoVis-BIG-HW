@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-14",
+    "month": 7,
+    "day": 14,
+    "python": [
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 152,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "EverydayWechat",
+            "url": "https://github.com/sfyc23/EverydayWechat",
+            "star": 48,
+            "description": "微信助手：1.每日定时给好友发送定制消息。2.自动回复好友。3.群助手功能。"
+        },
+        {
+            "name": "QCSuper",
+            "url": "https://github.com/P1sec/QCSuper",
+            "star": 32,
+            "description": "QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things."
+        },
+        {
+            "name": "vaex",
+            "url": "https://github.com/vaexio/vaex",
+            "star": 42,
+            "description": "Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second."
+        },
+        {
+            "name": "Archery",
+            "url": "https://github.com/hhyo/Archery",
+            "star": 17,
+            "description": "SQL审核查询平台"
+        },
+        {
+            "name": "serverless-application-model",
+            "url": "https://github.com/awslabs/serverless-application-model",
+            "star": 6,
+            "description": "AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications"
+        },
+        {
+            "name": "airflow",
+            "url": "https://github.com/apache/airflow",
+            "star": 6,
+            "description": "Apache Airflow"
+        },
+        {
+            "name": "Panda-Learning",
+            "url": "https://github.com/Alivon/Panda-Learning",
+            "star": 8,
+            "description": "学习强国 xuexiqiangguo 全网最好用学习强国助手：Panda_Learning 萌萌的熊猫帮你搞定学习强国"
+        },
+        {
+            "name": "DG-Net",
+            "url": "https://github.com/NVlabs/DG-Net",
+            "star": 11,
+            "description": "CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification"
+        },
+        {
+            "name": "kkFileView",
+            "url": "https://github.com/kekingcn/kkFileView",
+            "star": 18,
+            "description": "使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、mp4，mp3以及众多类文本如txt、html、xml、java、properties、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览"
+        }
+    ],
+    "java": [
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 155,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "SoloPi",
+            "url": "https://github.com/alipay/SoloPi",
+            "star": 50,
+            "description": "Soloπ 自动化测试工具"
+        },
+        {
+            "name": "cat",
+            "url": "https://github.com/dianping/cat",
+            "star": 34,
+            "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。"
+        },
+        {
+            "name": "APIJSON",
+            "url": "https://github.com/APIJSON/APIJSON",
+            "star": 18,
+            "description": "🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents."
+        },
+        {
+            "name": "MVPArms",
+            "url": "https://github.com/JessYanCoding/MVPArms",
+            "star": 5,
+            "description": "⚔️A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架)."
+        },
+        {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "star": 6,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+        },
+        {
+            "name": "Mycat-Server",
+            "url": "https://github.com/MyCATApache/Mycat-Server",
+            "star": 4,
+            "description": ""
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 61,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/zhangyd-c/JustAuth",
+            "star": 41,
+            "description": "💯史上最全的整合第三方登录的工具,目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软和今日头条等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "libgdx",
+            "url": "https://github.com/libgdx/libgdx",
+            "star": 3,
+            "description": "Desktop/Android/HTML5/iOS Java game development framework"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "modern-js-cheatsheet",
+            "url": "https://github.com/mbeaudru/modern-js-cheatsheet",
+            "star": 29,
+            "description": "Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 16,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "Awesome-Cellular-Hacking",
+            "url": "https://github.com/W00t3k/Awesome-Cellular-Hacking",
+            "star": 58,
+            "description": "Awesome-Cellular-Hacking"
+        },
+        {
+            "name": "curriculum",
+            "url": "https://github.com/PestoTech/curriculum",
+            "star": 2,
+            "description": ""
+        },
+        {
+            "name": "from_coder_to_expert",
+            "url": "https://github.com/0voice/from_coder_to_expert",
+            "star": 14,
+            "description": "2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 6,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/EDDYCJY/blog",
+            "star": 6,
+            "description": "煎鱼的博客，有点忙。"
+        },
+        {
+            "name": "presentation-2019-06-NDCOslo",
+            "url": "https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo",
+            "star": 7,
+            "description": "NDC Oslo 2019"
+        },
+        {
+            "name": "prisma2",
+            "url": "https://github.com/prisma/prisma2",
+            "star": 3,
+            "description": "👀Prisma 2 Preview"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/grandyang/leetcode",
+            "star": 25,
+            "description": "Provide all my solutions and explanations in Chinese for all the Leetcode coding problems."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 61,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "material-components-web",
+            "url": "https://github.com/material-components/material-components-web",
+            "star": 11,
+            "description": "Modular and customizable Material Design UI components for the web"
+        },
+        {
+            "name": "docusaurus",
+            "url": "https://github.com/facebook/docusaurus",
+            "star": 33,
+            "description": "Easy to maintain open source documentation websites."
+        },
+        {
+            "name": "netron",
+            "url": "https://github.com/lutzroeder/netron",
+            "star": 8,
+            "description": "Visualizer for neural network, deep learning and machine learning models"
+        },
+        {
+            "name": "pixi.js",
+            "url": "https://github.com/pixijs/pixi.js",
+            "star": 22,
+            "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+        },
+        {
+            "name": "Rocket.Chat",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "star": 11,
+            "description": "The ultimate Free Open Source Solution for team communications."
+        },
+        {
+            "name": "mnmlurl",
+            "url": "https://github.com/liyasthomas/mnmlurl",
+            "star": 13,
+            "description": "🔗Modern URL shortener with support for custom alias"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 25,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 1,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        },
+        {
+            "name": "SmoothScrollAnimations",
+            "url": "https://github.com/codrops/SmoothScrollAnimations",
+            "star": 9,
+            "description": "Demo of a tutorial on how to add smooth page scrolling with an inner image animation"
+        }
+    ],
+    "html": [
+        {
+            "name": "docsy",
+            "url": "https://github.com/google/docsy",
+            "star": 20,
+            "description": "A set of Hugo doc templates for launching open source content."
+        },
+        {
+            "name": "hover-effect",
+            "url": "https://github.com/robin-dela/hover-effect",
+            "star": 6,
+            "description": "Javascript library to draw and animate images on hover"
+        },
+        {
+            "name": "sourcegraph",
+            "url": "https://github.com/sourcegraph/sourcegraph",
+            "star": 2,
+            "description": "Code search and navigation tool (self-hosted)"
+        },
+        {
+            "name": "startbootstrap-resume",
+            "url": "https://github.com/BlackrockDigital/startbootstrap-resume",
+            "star": 1,
+            "description": "A Bootstrap 4 resume/CV theme created by Start Bootstrap"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 2,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "foundation-sites",
+            "url": "https://github.com/zurb/foundation-sites",
+            "star": 1,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device."
+        },
+        {
+            "name": "one-html-page-challenge",
+            "url": "https://github.com/Metroxe/one-html-page-challenge",
+            "star": 1,
+            "description": "Can you create something cool without modern tools?"
+        },
+        {
+            "name": "core",
+            "url": "https://github.com/stackblitz/core",
+            "star": 2,
+            "description": "Online IDE powered by Visual Studio Code⚡️"
+        },
+        {
+            "name": "speedtest",
+            "url": "https://github.com/adolfintel/speedtest",
+            "star": 7,
+            "description": "Self-hosted HTML5 Speedtest. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 9,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        }
+    ],
+    "go": [
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 55,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "inlets",
+            "url": "https://github.com/alexellis/inlets",
+            "star": 92,
+            "description": "Expose your local endpoints to the Internet"
+        },
+        {
+            "name": "jx",
+            "url": "https://github.com/jenkins-x/jx",
+            "star": 7,
+            "description": "Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm"
+        },
+        {
+            "name": "pq",
+            "url": "https://github.com/lib/pq",
+            "star": 5,
+            "description": "Pure Go Postgres driver for database/sql"
+        },
+        {
+            "name": "go-cloud",
+            "url": "https://github.com/google/go-cloud",
+            "star": 4,
+            "description": "The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go."
+        },
+        {
+            "name": "helm",
+            "url": "https://github.com/helm/helm",
+            "star": 16,
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "redis",
+            "url": "https://github.com/go-redis/redis",
+            "star": 8,
+            "description": "Type-safe Redis client for Golang"
+        },
+        {
+            "name": "flux",
+            "url": "https://github.com/fluxcd/flux",
+            "star": 13,
+            "description": "The GitOps Kubernetes operator"
+        },
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 12,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "contour",
+            "url": "https://github.com/heptio/contour",
+            "star": 5,
+            "description": "Contour is a Kubernetes ingress controller using Lyft's Envoy proxy."
+        }
+    ]
+}

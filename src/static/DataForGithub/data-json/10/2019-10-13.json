@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-13",
+    "month": 10,
+    "day": 13,
+    "python": [
+        {
+            "name": "detectron2",
+            "url": "https://github.com/facebookresearch/detectron2",
+            "star": 1324,
+            "description": "Detectron2 is FAIR's next-generation research platform for object detection and segmentation."
+        },
+        {
+            "name": "GitHub-Chinese-Top-Charts",
+            "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+            "star": 1715,
+            "description": "🇨🇳GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐🎉）"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 394,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "wtfpython-cn",
+            "url": "https://github.com/leisurelicht/wtfpython-cn",
+            "star": 38,
+            "description": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译"
+        },
+        {
+            "name": "insightface",
+            "url": "https://github.com/deepinsight/insightface",
+            "star": 5,
+            "description": "Face Analysis Project on MXNet"
+        },
+        {
+            "name": "fairseq",
+            "url": "https://github.com/pytorch/fairseq",
+            "star": 18,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+        },
+        {
+            "name": "black",
+            "url": "https://github.com/psf/black",
+            "star": 18,
+            "description": "The uncompromising Python code formatter"
+        },
+        {
+            "name": "Detectron",
+            "url": "https://github.com/facebookresearch/Detectron",
+            "star": 27,
+            "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet."
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 56,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        },
+        {
+            "name": "thefuck",
+            "url": "https://github.com/nvbn/thefuck",
+            "star": 38,
+            "description": "Magnificent app which corrects your previous console command."
+        }
+    ],
+    "java": [
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 177,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 82,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 236,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "xxl-job",
+            "url": "https://github.com/xuxueli/xxl-job",
+            "star": 24,
+            "description": "A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）"
+        },
+        {
+            "name": "nacos",
+            "url": "https://github.com/alibaba/nacos",
+            "star": 18,
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+        },
+        {
+            "name": "zheng",
+            "url": "https://github.com/shuzheng/zheng",
+            "star": 16,
+            "description": "基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。"
+        },
+        {
+            "name": "canal",
+            "url": "https://github.com/alibaba/canal",
+            "star": 15,
+            "description": "阿里巴巴 MySQL binlog 增量订阅&消费组件"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 22,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "hbase",
+            "url": "https://github.com/apache/hbase",
+            "star": 4,
+            "description": "Mirror of Apache HBase"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 159,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 78,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "nrol-39-logo",
+            "url": "https://github.com/palewire/nrol-39-logo",
+            "star": 102,
+            "description": "A vector PDF of the official mission logo of NROL-39"
+        },
+        {
+            "name": "free-api",
+            "url": "https://github.com/fangzesheng/free-api",
+            "star": 224,
+            "description": "收集免费的接口服务,做一个api的搬运工"
+        },
+        {
+            "name": "awesome-wechat-weapp",
+            "url": "https://github.com/justjavac/awesome-wechat-weapp",
+            "star": 160,
+            "description": "微信小程序开发资源汇总💯"
+        },
+        {
+            "name": "pwc",
+            "url": "https://github.com/zziz/pwc",
+            "star": 21,
+            "description": "Papers with code. Sorted by stars. Updated weekly."
+        },
+        {
+            "name": "TeachYourselfCS-CN",
+            "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+            "star": 14,
+            "description": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS"
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 8,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 190,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "Become-A-Full-Stack-Web-Developer",
+            "url": "https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer",
+            "star": 10,
+            "description": "Free resources for learning Full Stack Web Development"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 226,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 218,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "roughViz",
+            "url": "https://github.com/jwilber/roughViz",
+            "star": 169,
+            "description": "Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser."
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 38,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "ws",
+            "url": "https://github.com/websockets/ws",
+            "star": 4,
+            "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+        },
+        {
+            "name": "keeweb",
+            "url": "https://github.com/keeweb/keeweb",
+            "star": 9,
+            "description": "Free cross-platform password manager compatible with KeePass"
+        },
+        {
+            "name": "chinese-poetry",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "star": 34,
+            "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。"
+        },
+        {
+            "name": "is-website-vulnerable",
+            "url": "https://github.com/lirantal/is-website-vulnerable",
+            "star": 71,
+            "description": "finds publicly known security vulnerabilities in a website's frontend JavaScript libraries"
+        },
+        {
+            "name": "jsencrypt",
+            "url": "https://github.com/travist/jsencrypt",
+            "star": 6,
+            "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation."
+        },
+        {
+            "name": "plotly.js",
+            "url": "https://github.com/plotly/plotly.js",
+            "star": 11,
+            "description": "Open-source JavaScript charting library behind Plotly and Dash"
+        },
+        {
+            "name": "egg",
+            "url": "https://github.com/eggjs/egg",
+            "star": 14,
+            "description": "🥚Born to build better enterprise frameworks and apps with Node.js & Koa"
+        }
+    ],
+    "html": [
+        {
+            "name": "bandinchina",
+            "url": "https://github.com/caffeine-overload/bandinchina",
+            "star": 396,
+            "description": "Naming and shaming companies who kowtow to Chinese censorship requests"
+        },
+        {
+            "name": "treehouses.github.io",
+            "url": "https://github.com/treehouses/treehouses.github.io",
+            "star": 3,
+            "description": "A Markdown Wiki for treehouses🏡"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 6,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 15,
+            "description": "Free Bootstrap 3 Admin Template"
+        },
+        {
+            "name": "ng-alain",
+            "url": "https://github.com/ng-alain/ng-alain",
+            "star": 1,
+            "description": "NG-ZORRO admin panel front-end framework (netlify mirror https://netlify.ng-alain.com/)"
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 22,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 10,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "18.06-linalg-notes",
+            "url": "https://github.com/apachecn/18.06-linalg-notes",
+            "star": 4,
+            "description": "MIT-18.06-线性代数-完整笔记"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 4,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "foundation-sites",
+            "url": "https://github.com/foundation/foundation-sites",
+            "star": 1,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device."
+        }
+    ],
+    "go": [
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 36,
+            "description": "A Go microservices development framework"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 15,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 71,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "docx2md",
+            "url": "https://github.com/mattn/docx2md",
+            "star": 24,
+            "description": "Convert Microsoft Word Document to Markdown"
+        },
+        {
+            "name": "fasthttp",
+            "url": "https://github.com/valyala/fasthttp",
+            "star": 8,
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 10,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "dashboard",
+            "url": "https://github.com/kubernetes/dashboard",
+            "star": 10,
+            "description": "General-purpose web UI for Kubernetes clusters"
+        },
+        {
+            "name": "mysql",
+            "url": "https://github.com/go-sql-driver/mysql",
+            "star": 7,
+            "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 51,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "beats",
+            "url": "https://github.com/elastic/beats",
+            "star": 40,
+            "description": "🐠Beats - Lightweight shippers for Elasticsearch & Logstash"
+        }
+    ]
+}

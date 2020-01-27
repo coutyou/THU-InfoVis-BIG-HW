@@ -1,0 +1,377 @@
+{
+    "date": "2019-12-04",
+    "month": 12,
+    "day": 4,
+    "python": [
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 217,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 231,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "httpie",
+            "url": "https://github.com/jakubroztocil/httpie",
+            "star": 179,
+            "description": "As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp"
+        },
+        {
+            "name": "BlackFridayScrape",
+            "url": "https://github.com/KalleHallden/BlackFridayScrape",
+            "star": 15,
+            "description": ""
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 184,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "ml-agents",
+            "url": "https://github.com/Unity-Technologies/ml-agents",
+            "star": 8,
+            "description": "Unity Machine Learning Agents Toolkit"
+        },
+        {
+            "name": "tuya-convert",
+            "url": "https://github.com/ct-Open-Source/tuya-convert",
+            "star": 7,
+            "description": "A collection of scripts to flash Tuya IoT devices to alternative firmwares"
+        },
+        {
+            "name": "image-quality-assessment",
+            "url": "https://github.com/idealo/image-quality-assessment",
+            "star": 18,
+            "description": "Convolutional Neural Networks to predict the aesthetic and technical quality of images."
+        },
+        {
+            "name": "qiskit",
+            "url": "https://github.com/Qiskit/qiskit",
+            "star": 13,
+            "description": "Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms."
+        },
+        {
+            "name": "awesome-advent-of-code",
+            "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+            "star": 17,
+            "description": "A collection of awesome resources related to the yearly Advent of Code challenge."
+        }
+    ],
+    "java": [
+        {
+            "name": "djl",
+            "url": "https://github.com/awslabs/djl",
+            "star": 61,
+            "description": "An Engine-Agnostic Deep Learning Framework"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 98,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 108,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "Apktool",
+            "url": "https://github.com/iBotPeaches/Apktool",
+            "star": 12,
+            "description": "A tool for reverse engineering Android apk files"
+        },
+        {
+            "name": "Signal-Android",
+            "url": "https://github.com/signalapp/Signal-Android",
+            "star": 11,
+            "description": "A private messenger for Android."
+        },
+        {
+            "name": "Alink",
+            "url": "https://github.com/alibaba/Alink",
+            "star": 113,
+            "description": "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform."
+        },
+        {
+            "name": "VBlog",
+            "url": "https://github.com/lenve/VBlog",
+            "star": 23,
+            "description": "V部落，Vue+SpringBoot实现的多用户博客管理平台!"
+        },
+        {
+            "name": "MinecraftForge",
+            "url": "https://github.com/MinecraftForge/MinecraftForge",
+            "star": 5,
+            "description": "Modifications to the Minecraft base files to assist in compatibility between mods."
+        },
+        {
+            "name": "Auto.js",
+            "url": "https://github.com/hyb1996/Auto.js",
+            "star": 18,
+            "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)"
+        },
+        {
+            "name": "ddd-architecture-samples",
+            "url": "https://github.com/howiehu/ddd-architecture-samples",
+            "star": 11,
+            "description": ""
+        }
+    ],
+    "unknown": [
+        {
+            "name": "slides",
+            "url": "https://github.com/TritonHo/slides",
+            "star": 34,
+            "description": "it is a repository to store all slides used by Triton Ho's public presentation and course."
+        },
+        {
+            "name": "thc-tesla-powerwall2-hack",
+            "url": "https://github.com/hackerschoice/thc-tesla-powerwall2-hack",
+            "star": 31,
+            "description": "TESLA PowerWall 2 Security Shenanigans"
+        },
+        {
+            "name": "awesome-oss-funding",
+            "url": "https://github.com/sustainers/awesome-oss-funding",
+            "star": 44,
+            "description": "A curated list of awesome resources for funding open source projects and authors."
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 30,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "A-December-of-Algorithms-2019",
+            "url": "https://github.com/SVCE-ACM/A-December-of-Algorithms-2019",
+            "star": 6,
+            "description": "Welcome to another year of A December of Algorithms. This is a small collection of algorithms to implement this December. Finish it all to get a certificate.🎄"
+        },
+        {
+            "name": "25-days-of-serverless",
+            "url": "https://github.com/microsoft/25-days-of-serverless",
+            "star": 38,
+            "description": "Repository responsible for 25 days of Serverless challenges"
+        },
+        {
+            "name": "few-shot-vid2vid",
+            "url": "https://github.com/NVlabs/few-shot-vid2vid",
+            "star": 12,
+            "description": ""
+        },
+        {
+            "name": "miserable-world-of-it",
+            "url": "https://github.com/miserableworldofit/miserable-world-of-it",
+            "star": 14,
+            "description": "it悲惨世界--记录 IT 圈的悲惨事件"
+        },
+        {
+            "name": "Flutter-Course-Resources",
+            "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+            "star": 7,
+            "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp"
+        },
+        {
+            "name": "Awesome-Hacking",
+            "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+            "star": 25,
+            "description": "A collection of various awesome lists for hackers, pentesters and security researchers"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "evil-huawei",
+            "url": "https://github.com/evil-huawei/evil-huawei",
+            "star": 2003,
+            "description": "Evil Huawei - 华为作过的恶"
+        },
+        {
+            "name": "lighthouse-ci",
+            "url": "https://github.com/GoogleChrome/lighthouse-ci",
+            "star": 81,
+            "description": "Automate running Lighthouse for every commit, viewing the changes, and preventing regressions"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 69,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "litegraph.js",
+            "url": "https://github.com/jagenjo/litegraph.js",
+            "star": 135,
+            "description": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently."
+        },
+        {
+            "name": "flowy",
+            "url": "https://github.com/alyssaxuu/flowy",
+            "star": 235,
+            "description": "The minimal javascript library to create flowcharts✨"
+        },
+        {
+            "name": "unlock-music",
+            "url": "https://github.com/ix64/unlock-music",
+            "star": 144,
+            "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。"
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 60,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "tech-interview-handbook",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "star": 135,
+            "description": "💯Materials to help you rock your next coding interview"
+        },
+        {
+            "name": "GengShuang",
+            "url": "https://github.com/xwgmdjc/GengShuang",
+            "star": 124,
+            "description": "耿爽模拟器"
+        },
+        {
+            "name": "ARC",
+            "url": "https://github.com/fchollet/ARC",
+            "star": 19,
+            "description": "The Abstraction and Reasoning Corpus"
+        }
+    ],
+    "html": [
+        {
+            "name": "beginner-javascript",
+            "url": "https://github.com/wesbos/beginner-javascript",
+            "star": 266,
+            "description": "Slam Dunk JavaScript"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 7,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "zhihu-huawei251",
+            "url": "https://github.com/zhihu-huawei251/zhihu-huawei251",
+            "star": 62,
+            "description": "自动发布知乎试图打压的内容"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 18,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 8,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 20,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "datasciencecoursera",
+            "url": "https://github.com/mGalarnyk/datasciencecoursera",
+            "star": 0,
+            "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions."
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 29,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "proposal-temporal",
+            "url": "https://github.com/tc39/proposal-temporal",
+            "star": 12,
+            "description": "Provides standard objects and functions for working with dates and times."
+        },
+        {
+            "name": "taskmanager-10",
+            "url": "https://github.com/htmlacademy-ecmascript/taskmanager-10",
+            "star": 0,
+            "description": "Учебный демо-проект от HTML Academy"
+        }
+    ],
+    "go": [
+        {
+            "name": "flux",
+            "url": "https://github.com/fluxcd/flux",
+            "star": 44,
+            "description": "The GitOps Kubernetes operator"
+        },
+        {
+            "name": "chroma",
+            "url": "https://github.com/alecthomas/chroma",
+            "star": 21,
+            "description": "A general purpose syntax highlighter in pure Go"
+        },
+        {
+            "name": "caddy",
+            "url": "https://github.com/caddyserver/caddy",
+            "star": 28,
+            "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS"
+        },
+        {
+            "name": "goldmark",
+            "url": "https://github.com/yuin/goldmark",
+            "star": 20,
+            "description": "🏆A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured."
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 32,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "Dragonfly",
+            "url": "https://github.com/dragonflyoss/Dragonfly",
+            "star": 18,
+            "description": "Dragonfly is an intelligent P2P based image and file distribution system."
+        },
+        {
+            "name": "lumberjack",
+            "url": "https://github.com/natefinch/lumberjack",
+            "star": 8,
+            "description": "lumberjack is a log rolling package for Go"
+        },
+        {
+            "name": "ffuf",
+            "url": "https://github.com/ffuf/ffuf",
+            "star": 15,
+            "description": "Fast web fuzzer written in Go"
+        },
+        {
+            "name": "clash",
+            "url": "https://github.com/Dreamacro/clash",
+            "star": 13,
+            "description": "A rule-based tunnel in Go."
+        },
+        {
+            "name": "envconfig",
+            "url": "https://github.com/kelseyhightower/envconfig",
+            "star": 12,
+            "description": "Golang library for managing configuration data from environment variables"
+        }
+    ]
+}

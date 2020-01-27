@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-18",
+    "month": 7,
+    "day": 18,
+    "python": [
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 469,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 986,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "pytorch-transformers",
+            "url": "https://github.com/huggingface/pytorch-transformers",
+            "star": 523,
+            "description": "👾A library of state-of-the-art pretrained models for Natural Language Processing (NLP)"
+        },
+        {
+            "name": "Realistic-Neural-Talking-Head-Models",
+            "url": "https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models",
+            "star": 28,
+            "description": "My implementation of Few-Shot Adversarial Learning of Realistic Neural Talking Head Models (Egor Zakharov et al.)."
+        },
+        {
+            "name": "Osmedeus",
+            "url": "https://github.com/j3ssie/Osmedeus",
+            "star": 82,
+            "description": "Fully automated offensive security framework for reconnaissance and vulnerability scanning"
+        },
+        {
+            "name": "DeepLearningExamples",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "star": 110,
+            "description": "Deep Learning Examples"
+        },
+        {
+            "name": "pytorch-CycleGAN-and-pix2pix",
+            "url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+            "star": 21,
+            "description": "Image-to-image translation in PyTorch (e.g., horse2zebra, edges2cats, and more)"
+        },
+        {
+            "name": "mlflow",
+            "url": "https://github.com/mlflow/mlflow",
+            "star": 8,
+            "description": "Open source platform for the machine learning lifecycle"
+        },
+        {
+            "name": "text-detection-ctpn",
+            "url": "https://github.com/eragonruan/text-detection-ctpn",
+            "star": 9,
+            "description": "text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network"
+        },
+        {
+            "name": "Deep-Flow-Guided-Video-Inpainting",
+            "url": "https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting",
+            "star": 31,
+            "description": "pytorch implementation for \"Deep Flow-Guided Video Inpainting\"(CVPR'19)"
+        }
+    ],
+    "java": [
+        {
+            "name": "grpc-java",
+            "url": "https://github.com/grpc/grpc-java",
+            "star": 69,
+            "description": "The Java gRPC implementation. HTTP/2 based RPC"
+        },
+        {
+            "name": "cat",
+            "url": "https://github.com/dianping/cat",
+            "star": 132,
+            "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。"
+        },
+        {
+            "name": "openj9",
+            "url": "https://github.com/eclipse/openj9",
+            "star": 24,
+            "description": "Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo."
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 154,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "kafka-streams-examples",
+            "url": "https://github.com/confluentinc/kafka-streams-examples",
+            "star": 6,
+            "description": "Demo applications and code examples for Apache Kafka's Streams API."
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/zhangyd-c/JustAuth",
+            "star": 67,
+            "description": "💯史上最全的整合第三方登录的工具,目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软和今日头条等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "MPAndroidChart",
+            "url": "https://github.com/PhilJay/MPAndroidChart",
+            "star": 19,
+            "description": "A powerful🚀Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations."
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 47,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "dropwizard",
+            "url": "https://github.com/dropwizard/dropwizard",
+            "star": 3,
+            "description": "A damn simple library for building production-ready RESTful web services."
+        },
+        {
+            "name": "XPopup",
+            "url": "https://github.com/li-xiaojun/XPopup",
+            "star": 18,
+            "description": "🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.)"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-graph-classification",
+            "url": "https://github.com/benedekrozemberczki/awesome-graph-classification",
+            "star": 229,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations."
+        },
+        {
+            "name": "awesome-nodejs",
+            "url": "https://github.com/sindresorhus/awesome-nodejs",
+            "star": 154,
+            "description": "⚡️Delightful Node.js packages and resources"
+        },
+        {
+            "name": "awesome-sysadmin",
+            "url": "https://github.com/kahun/awesome-sysadmin",
+            "star": 84,
+            "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP."
+        },
+        {
+            "name": "1024app-android",
+            "url": "https://github.com/yuuwill/1024app-android",
+            "star": 112,
+            "description": "草榴官方客户端，小草客户端，Android"
+        },
+        {
+            "name": "Learn_Computer_Vision",
+            "url": "https://github.com/llSourcell/Learn_Computer_Vision",
+            "star": 72,
+            "description": "This is the curriculum for \"Learn Computer Vision\" by Siraj Raval on Youtube"
+        },
+        {
+            "name": "awesome-java-books",
+            "url": "https://github.com/sorenduan/awesome-java-books",
+            "star": 238,
+            "description": "Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。"
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 128,
+            "description": "Curated list of resources for college students"
+        },
+        {
+            "name": "Learn_Machine_Learning_in_3_Months",
+            "url": "https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months",
+            "star": 6,
+            "description": "This is the code for \"Learn Machine Learning in 3 Months\" by Siraj Raval on Youtube"
+        },
+        {
+            "name": "Penetration_Testing_Case",
+            "url": "https://github.com/r35tart/Penetration_Testing_Case",
+            "star": 38,
+            "description": "用于记录分享一些有趣的案例"
+        },
+        {
+            "name": "Interview_Question_for_Beginner",
+            "url": "https://github.com/JaeYeopHan/Interview_Question_for_Beginner",
+            "star": 3,
+            "description": "👦👧Technical-Interview guidelines written for those who started studying programming. I wish you all the best.👾"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 634,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "testcafe",
+            "url": "https://github.com/DevExpress/testcafe",
+            "star": 25,
+            "description": "A Node.js tool to automate end-to-end web testing."
+        },
+        {
+            "name": "quasar",
+            "url": "https://github.com/quasarframework/quasar",
+            "star": 56,
+            "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+        },
+        {
+            "name": "react-beautiful-dnd",
+            "url": "https://github.com/atlassian/react-beautiful-dnd",
+            "star": 24,
+            "description": "Beautiful and accessible drag and drop for lists with React"
+        },
+        {
+            "name": "fabric.js",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "star": 17,
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+        },
+        {
+            "name": "VvvebJs",
+            "url": "https://github.com/givanz/VvvebJs",
+            "star": 37,
+            "description": "Drag and drop website builder javascript library."
+        },
+        {
+            "name": "create-react-app",
+            "url": "https://github.com/facebook/create-react-app",
+            "star": 41,
+            "description": "Set up a modern web app by running one command."
+        },
+        {
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js",
+            "star": 46,
+            "description": "JavaScript 3D library."
+        },
+        {
+            "name": "500lines",
+            "url": "https://github.com/aosabook/500lines",
+            "star": 30,
+            "description": "500 Lines or Less"
+        },
+        {
+            "name": "vidly-mvc-5",
+            "url": "https://github.com/mosh-hamedani/vidly-mvc-5",
+            "star": 0,
+            "description": ""
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 14,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "docsy-example",
+            "url": "https://github.com/google/docsy-example",
+            "star": 0,
+            "description": "An example documentation site using the Docsy Hugo theme"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 12,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 17,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 2,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "Cerberus",
+            "url": "https://github.com/TedGoas/Cerberus",
+            "star": 2,
+            "description": "A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail."
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 3,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "TheHive",
+            "url": "https://github.com/TheHive-Project/TheHive",
+            "star": 1,
+            "description": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform"
+        },
+        {
+            "name": "all-contributors",
+            "url": "https://github.com/all-contributors/all-contributors",
+            "star": 8,
+            "description": "✨Recognize all contributors, not just the ones who push code✨"
+        },
+        {
+            "name": "openweb",
+            "url": "https://github.com/good/openweb",
+            "star": 2,
+            "description": ""
+        }
+    ],
+    "go": [
+        {
+            "name": "mux",
+            "url": "https://github.com/gorilla/mux",
+            "star": 14,
+            "description": "A powerful HTTP router and URL matcher for building Go web servers with🦍"
+        },
+        {
+            "name": "fasthttp",
+            "url": "https://github.com/valyala/fasthttp",
+            "star": 24,
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 24,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "mock",
+            "url": "https://github.com/golang/mock",
+            "star": 24,
+            "description": "GoMock is a mocking framework for the Go programming language."
+        },
+        {
+            "name": "wtf",
+            "url": "https://github.com/wtfutil/wtf",
+            "star": 17,
+            "description": "The personal information dashboard for your terminal."
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 13,
+            "description": "An open source, general-purpose policy engine."
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 13,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "client-go",
+            "url": "https://github.com/kubernetes/client-go",
+            "star": 5,
+            "description": "Go client for Kubernetes."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 79,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "martian",
+            "url": "https://github.com/google/martian",
+            "star": 32,
+            "description": "Martian is a library for building custom HTTP/S proxies"
+        }
+    ]
+}

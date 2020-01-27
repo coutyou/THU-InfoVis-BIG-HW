@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-21",
+    "month": 11,
+    "day": 21,
+    "python": [
+        {
+            "name": "HackingNeuralNetworks",
+            "url": "https://github.com/Kayzaks/HackingNeuralNetworks",
+            "star": 309,
+            "description": "A small course on exploiting and defending neural networks"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 100,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "star": 28,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+        },
+        {
+            "name": "streamlit",
+            "url": "https://github.com/streamlit/streamlit",
+            "star": 58,
+            "description": "Streamlit — The fastest way to build custom ML tools"
+        },
+        {
+            "name": "hue",
+            "url": "https://github.com/cloudera/hue",
+            "star": 8,
+            "description": "Open source SQL Query Assistant for Databases/Warehouses."
+        },
+        {
+            "name": "wait-for-it",
+            "url": "https://github.com/vishnubob/wait-for-it",
+            "star": 7,
+            "description": "Pure bash script to test and wait on the availability of a TCP host and port"
+        },
+        {
+            "name": "django-rest-framework",
+            "url": "https://github.com/encode/django-rest-framework",
+            "star": 21,
+            "description": "Web APIs for Django.🎸"
+        },
+        {
+            "name": "airflow",
+            "url": "https://github.com/apache/airflow",
+            "star": 10,
+            "description": "Apache Airflow"
+        },
+        {
+            "name": "zulip",
+            "url": "https://github.com/zulip/zulip",
+            "star": 6,
+            "description": "Zulip server - powerful open source team chat"
+        },
+        {
+            "name": "elasticsearch-dsl-py",
+            "url": "https://github.com/elastic/elasticsearch-dsl-py",
+            "star": 3,
+            "description": "High level Python client for Elasticsearch"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 227,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "flink-learning",
+            "url": "https://github.com/zhisheng17/flink-learning",
+            "star": 26,
+            "description": "flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 100,
+            "description": "📚技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "thingsboard",
+            "url": "https://github.com/thingsboard/thingsboard",
+            "star": 7,
+            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 35,
+            "description": "一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等"
+        },
+        {
+            "name": "retrofit",
+            "url": "https://github.com/square/retrofit",
+            "star": 42,
+            "description": "Type-safe HTTP client for Android and Java by Square, Inc."
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 38,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "cucumber",
+            "url": "https://github.com/cucumber/cucumber",
+            "star": 1,
+            "description": "Cucumber monorepo - building blocks for Cucumber in various languages"
+        },
+        {
+            "name": "dropwizard",
+            "url": "https://github.com/dropwizard/dropwizard",
+            "star": 2,
+            "description": "A damn simple library for building production-ready RESTful web services."
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 25,
+            "description": "Spring Framework"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "tamagotchiTemp",
+            "url": "https://github.com/graceavery/tamagotchiTemp",
+            "star": 76,
+            "description": ""
+        },
+        {
+            "name": "physical-docs",
+            "url": "https://github.com/trustedsec/physical-docs",
+            "star": 55,
+            "description": "This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments."
+        },
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 288,
+            "description": "【 互联网 Java 工程师大厂面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看。"
+        },
+        {
+            "name": "resources-of-learning",
+            "url": "https://github.com/tagnja/resources-of-learning",
+            "star": 4,
+            "description": "Documentations, books, courses, git repositories and so on."
+        },
+        {
+            "name": "Cookbook",
+            "url": "https://github.com/andkret/Cookbook",
+            "star": 8,
+            "description": "The Data Engineering Cookbook"
+        },
+        {
+            "name": "iCloudBypassCA",
+            "url": "https://github.com/crazymind90/iCloudBypassCA",
+            "star": 26,
+            "description": ""
+        },
+        {
+            "name": "gov-takedowns",
+            "url": "https://github.com/github/gov-takedowns",
+            "star": 12,
+            "description": "Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices."
+        },
+        {
+            "name": "aws-cloudformation-coverage-roadmap",
+            "url": "https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap",
+            "star": 6,
+            "description": "The AWS CloudFormation Public Coverage Roadmap"
+        },
+        {
+            "name": "LearningNotes",
+            "url": "https://github.com/francistao/LearningNotes",
+            "star": 9,
+            "description": "Enjoy Learning."
+        },
+        {
+            "name": "javascript-questions",
+            "url": "https://github.com/lydiahallie/javascript-questions",
+            "star": 18,
+            "description": "A long list of (advanced) JavaScript questions, and their explanations✨"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 69,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "Sortable",
+            "url": "https://github.com/SortableJS/Sortable",
+            "star": 14,
+            "description": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 78,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "mapbox-gl-js",
+            "url": "https://github.com/mapbox/mapbox-gl-js",
+            "star": 6,
+            "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+        },
+        {
+            "name": "remote-jobs",
+            "url": "https://github.com/remoteintech/remote-jobs",
+            "star": 30,
+            "description": "A list of semi to fully remote-friendly companies in tech."
+        },
+        {
+            "name": "design-system",
+            "url": "https://github.com/storybookjs/design-system",
+            "star": 5,
+            "description": "🗃Storybook Design System"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 41,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "Vue.Draggable",
+            "url": "https://github.com/SortableJS/Vue.Draggable",
+            "star": 24,
+            "description": "Vue drag-and-drop component based on Sortable.js"
+        },
+        {
+            "name": "openlayers",
+            "url": "https://github.com/openlayers/openlayers",
+            "star": 9,
+            "description": "OpenLayers"
+        },
+        {
+            "name": "jest",
+            "url": "https://github.com/facebook/jest",
+            "star": 23,
+            "description": "Delightful JavaScript Testing."
+        }
+    ],
+    "html": [
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 24,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "baremetrics-v1",
+            "url": "https://github.com/Baremetrics/baremetrics-v1",
+            "star": 4,
+            "description": "This was the very first version of Baremetrics from 2013. It's published here for posterity."
+        },
+        {
+            "name": "qcloud-documents",
+            "url": "https://github.com/tencentyun/qcloud-documents",
+            "star": 1,
+            "description": "腾讯云官方文档 使用Markdown自动构建"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 3,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "Crawler_Illegal_Cases_In_China",
+            "url": "https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China",
+            "star": 103,
+            "description": "Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 1,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "startbootstrap-resume",
+            "url": "https://github.com/BlackrockDigital/startbootstrap-resume",
+            "star": 1,
+            "description": "A Bootstrap 4 resume/CV theme created by Start Bootstrap"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 9,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 14,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "seleniumhq.github.io",
+            "url": "https://github.com/SeleniumHQ/seleniumhq.github.io",
+            "star": 0,
+            "description": "Official Selenium website and documentation"
+        }
+    ],
+    "go": [
+        {
+            "name": "bfe",
+            "url": "https://github.com/baidu/bfe",
+            "star": 435,
+            "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd"
+        },
+        {
+            "name": "external-storage",
+            "url": "https://github.com/kubernetes-incubator/external-storage",
+            "star": 3,
+            "description": "External storage plugins, provisioners, and helper libraries"
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 12,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "night-reading-go",
+            "url": "https://github.com/developer-learning/night-reading-go",
+            "star": 9,
+            "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。"
+        },
+        {
+            "name": "MailHog",
+            "url": "https://github.com/mailhog/MailHog",
+            "star": 13,
+            "description": "Web and API based SMTP testing"
+        },
+        {
+            "name": "thanos",
+            "url": "https://github.com/thanos-io/thanos",
+            "star": 11,
+            "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project."
+        },
+        {
+            "name": "prototool",
+            "url": "https://github.com/uber/prototool",
+            "star": 7,
+            "description": "Your Swiss Army Knife for Protocol Buffers"
+        },
+        {
+            "name": "minikube",
+            "url": "https://github.com/kubernetes/minikube",
+            "star": 15,
+            "description": "Run Kubernetes locally"
+        },
+        {
+            "name": "hcl",
+            "url": "https://github.com/hashicorp/hcl",
+            "star": 2,
+            "description": "HCL is the HashiCorp configuration language."
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 14,
+            "description": "An open source, general-purpose policy engine."
+        }
+    ]
+}

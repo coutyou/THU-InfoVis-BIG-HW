@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-01",
+    "month": 11,
+    "day": 1,
+    "python": [
+        {
+            "name": "iOS-DeviceSupport",
+            "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+            "star": 171,
+            "description": "This repository holds the device support files for the iOS, and I will update it regularly."
+        },
+        {
+            "name": "SinGAN",
+            "url": "https://github.com/tamarott/SinGAN",
+            "star": 124,
+            "description": "Official pytorch implementation of the paper: \"SinGAN: Learning a Generative Model from a Single Natural Image\""
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 131,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "dash",
+            "url": "https://github.com/plotly/dash",
+            "star": 16,
+            "description": "Analytical Web Apps for Python & R. No JavaScript Required."
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 75,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "bcc",
+            "url": "https://github.com/iovisor/bcc",
+            "star": 19,
+            "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more"
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 21,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/geekcomputers/Python",
+            "star": 56,
+            "description": "My Python Examples"
+        },
+        {
+            "name": "CppCoreGuidelines",
+            "url": "https://github.com/isocpp/CppCoreGuidelines",
+            "star": 16,
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++"
+        },
+        {
+            "name": "bitcoinbook",
+            "url": "https://github.com/bitcoinbook/bitcoinbook",
+            "star": 33,
+            "description": "Mastering Bitcoin 2nd Edition - Programming the Open Blockchain"
+        }
+    ],
+    "java": [
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 223,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "GSYVideoPlayer",
+            "url": "https://github.com/CarGuo/GSYVideoPlayer",
+            "star": 17,
+            "description": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。"
+        },
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 49,
+            "description": "大数据入门指南⭐️"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 127,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 50,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 55,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "AndroidUtilCode",
+            "url": "https://github.com/Blankj/AndroidUtilCode",
+            "star": 13,
+            "description": "🔥Android developers should collect the following utils(updating)."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 60,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 40,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 27,
+            "description": "The \"REST With Spring\" Course:"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "README-template.md",
+            "url": "https://github.com/scottydocs/README-template.md",
+            "star": 73,
+            "description": "A README template for anyone to copy and use."
+        },
+        {
+            "name": "free-books",
+            "url": "https://github.com/ruanyf/free-books",
+            "star": 188,
+            "description": "互联网上的免费书籍"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 73,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "python_for_data_analysis_2nd_chinese_version",
+            "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version",
+            "star": 36,
+            "description": "《利用Python进行数据分析·第2版》"
+        },
+        {
+            "name": "blockchain",
+            "url": "https://github.com/LiuBoyu/blockchain",
+            "star": 84,
+            "description": "区块链 - 中文资源"
+        },
+        {
+            "name": "eng-practices",
+            "url": "https://github.com/google/eng-practices",
+            "star": 55,
+            "description": "Google's Engineering Practices documentation"
+        },
+        {
+            "name": "gov-takedowns",
+            "url": "https://github.com/github/gov-takedowns",
+            "star": 122,
+            "description": "Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices."
+        },
+        {
+            "name": "CKAD-exercises",
+            "url": "https://github.com/dgkanatsios/CKAD-exercises",
+            "star": 50,
+            "description": "A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 138,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "gatsby-pt-BR",
+            "url": "https://github.com/gatsbyjs/gatsby-pt-BR",
+            "star": 9,
+            "description": "Brazilian Portuguese translation of Gatsbyjs.org"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 197,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "chinese-independent-blogs",
+            "url": "https://github.com/timqian/chinese-independent-blogs",
+            "star": 139,
+            "description": "中文独立博客列表"
+        },
+        {
+            "name": "workshop-webgl-glsl",
+            "url": "https://github.com/mattdesl/workshop-webgl-glsl",
+            "star": 96,
+            "description": "A workshop on WebGL and GLSL"
+        },
+        {
+            "name": "awesome-selfhosted",
+            "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+            "star": 181,
+            "description": "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers."
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 41,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 78,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "BlockChain",
+            "url": "https://github.com/itheima1/BlockChain",
+            "star": 30,
+            "description": "黑马程序员 120天全栈区块链开发 开源教程"
+        },
+        {
+            "name": "react-virtualized",
+            "url": "https://github.com/bvaughn/react-virtualized",
+            "star": 6,
+            "description": "React components for efficiently rendering large lists and tabular data"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 38,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "js-xlsx",
+            "url": "https://github.com/SheetJS/js-xlsx",
+            "star": 24,
+            "description": "📗SheetJS Community Edition -- Spreadsheet Data Toolkit"
+        }
+    ],
+    "html": [
+        {
+            "name": "DevOps-Guide",
+            "url": "https://github.com/Tikam02/DevOps-Guide",
+            "star": 96,
+            "description": "DevOps Guide from basic to advanced with Interview Questions and Notes🔥"
+        },
+        {
+            "name": "v2-ui",
+            "url": "https://github.com/sprov065/v2-ui",
+            "star": 13,
+            "description": "支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 13,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 7,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "bitcoin-whitepaper-chinese-translation",
+            "url": "https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation",
+            "star": 9,
+            "description": ""
+        },
+        {
+            "name": "devdocs",
+            "url": "https://github.com/magento/devdocs",
+            "star": 0,
+            "description": "Magento Developer Documentation"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 6,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 22,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "EIPs",
+            "url": "https://github.com/ethereum/EIPs",
+            "star": 2,
+            "description": "The Ethereum Improvement Proposal repository"
+        },
+        {
+            "name": "bandinchina",
+            "url": "https://github.com/caffeine-overload/bandinchina",
+            "star": 24,
+            "description": "Naming and shaming companies who kowtow to Chinese censorship requests"
+        }
+    ],
+    "go": [
+        {
+            "name": "go-admin",
+            "url": "https://github.com/GoAdminGroup/go-admin",
+            "star": 154,
+            "description": "A dataviz framework help gopher to build a admin panel in ten minutes"
+        },
+        {
+            "name": "autoscaler",
+            "url": "https://github.com/kubernetes/autoscaler",
+            "star": 8,
+            "description": "Autoscaling components for Kubernetes"
+        },
+        {
+            "name": "redis",
+            "url": "https://github.com/go-redis/redis",
+            "star": 5,
+            "description": "Type-safe Redis client for Golang"
+        },
+        {
+            "name": "go-ipfs",
+            "url": "https://github.com/ipfs/go-ipfs",
+            "star": 17,
+            "description": "IPFS implementation in Go"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 93,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 95,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "spikeSystem",
+            "url": "https://github.com/GuoZhaoran/spikeSystem",
+            "star": 57,
+            "description": ""
+        },
+        {
+            "name": "consul",
+            "url": "https://github.com/hashicorp/consul",
+            "star": 8,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+        },
+        {
+            "name": "ultimate-go",
+            "url": "https://github.com/hoanhan101/ultimate-go",
+            "star": 220,
+            "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →"
+        },
+        {
+            "name": "zerolog",
+            "url": "https://github.com/rs/zerolog",
+            "star": 14,
+            "description": "Zero Allocation JSON Logger"
+        }
+    ]
+}

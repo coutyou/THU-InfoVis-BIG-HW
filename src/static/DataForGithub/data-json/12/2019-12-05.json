@@ -1,0 +1,377 @@
+{
+    "date": "2019-12-05",
+    "month": 12,
+    "day": 5,
+    "python": [
+        {
+            "name": "serverless-application-model",
+            "url": "https://github.com/awslabs/serverless-application-model",
+            "star": 28,
+            "description": "AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications"
+        },
+        {
+            "name": "WEASEL",
+            "url": "https://github.com/facebookincubator/WEASEL",
+            "star": 195,
+            "description": "DNS covert channel implant for Red Teams."
+        },
+        {
+            "name": "GitHub-Chinese-Top-Charts",
+            "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+            "star": 209,
+            "description": "🇨🇳GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！"
+        },
+        {
+            "name": "vaex",
+            "url": "https://github.com/vaexio/vaex",
+            "star": 89,
+            "description": "Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second."
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/public-apis/public-apis",
+            "star": 174,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "algo",
+            "url": "https://github.com/wangzheng0822/algo",
+            "star": 118,
+            "description": "数据结构和算法必知必会的50个代码实现"
+        },
+        {
+            "name": "DB",
+            "url": "https://github.com/MhLiao/DB",
+            "star": 51,
+            "description": "A PyToch implementation of \"Real-time Scene Text Detection with Differentiable Binarization\"."
+        },
+        {
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi",
+            "star": 90,
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+        },
+        {
+            "name": "CheatSheetSeries",
+            "url": "https://github.com/OWASP/CheatSheetSeries",
+            "star": 19,
+            "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+        },
+        {
+            "name": "aws-serverless-airline-booking",
+            "url": "https://github.com/aws-samples/aws-serverless-airline-booking",
+            "star": 11,
+            "description": "Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking, Flight Preferences and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July."
+        }
+    ],
+    "java": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 255,
+            "description": "📚技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++"
+        },
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 293,
+            "description": "大数据入门指南⭐️"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 79,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "ImmersionBar",
+            "url": "https://github.com/gyf-dev/ImmersionBar",
+            "star": 16,
+            "description": "android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62"
+        },
+        {
+            "name": "aws-sdk-java",
+            "url": "https://github.com/aws/aws-sdk-java",
+            "star": 3,
+            "description": "The official AWS SDK for Java."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 25,
+            "description": "Just Announced - \"Learn Spring Security OAuth\":"
+        },
+        {
+            "name": "jib",
+            "url": "https://github.com/GoogleContainerTools/jib",
+            "star": 11,
+            "description": "🏗Build container images for your Java applications."
+        },
+        {
+            "name": "debezium",
+            "url": "https://github.com/debezium/debezium",
+            "star": 6,
+            "description": "Change data capture for a variety of databases. https://debezium.io Please log issues in our JIRA at https://issues.jboss.org/projects/DBZ/issues"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 177,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "ExoPlayer",
+            "url": "https://github.com/google/ExoPlayer",
+            "star": 7,
+            "description": "An extensible media player for Android"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "30min_guides",
+            "url": "https://github.com/qinjx/30min_guides",
+            "star": 48,
+            "description": "覃健祥的学习笔记，各种几十分钟入门的文档"
+        },
+        {
+            "name": "3y",
+            "url": "https://github.com/ZhongFuCheng3y/3y",
+            "star": 63,
+            "description": "📓从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点"
+        },
+        {
+            "name": "Best-websites-a-programmer-should-visit",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "star": 112,
+            "description": "🔗Some useful websites for programmers."
+        },
+        {
+            "name": "aws-deepcomposer-samples",
+            "url": "https://github.com/aws-samples/aws-deepcomposer-samples",
+            "star": 22,
+            "description": ""
+        },
+        {
+            "name": "Java-Interview",
+            "url": "https://github.com/gzc426/Java-Interview",
+            "star": 54,
+            "description": "Java 面试必会 直通BAT"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 65,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "aws-modern-application-workshop",
+            "url": "https://github.com/aws-samples/aws-modern-application-workshop",
+            "star": 7,
+            "description": "A tutorial for developers that want to learn about how to build modern applications on top of AWS. You will build a sample website that leverages infrastructure as code, containers, serverless code functions, CI/CD, and more."
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 14,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "OpenWrt-CI",
+            "url": "https://github.com/KFERMercer/OpenWrt-CI",
+            "star": 30,
+            "description": "OpenWrt CI 在线集成自动编译环境"
+        },
+        {
+            "name": "proposals",
+            "url": "https://github.com/tc39/proposals",
+            "star": 15,
+            "description": "Tracking ECMAScript Proposals"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "Mobile-Security-Framework-MobSF",
+            "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+            "star": 15,
+            "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis."
+        },
+        {
+            "name": "custom-select",
+            "url": "https://github.com/stringyland/custom-select",
+            "star": 19,
+            "description": "My version of a custom select input, with filtering"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 79,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/puppeteer/puppeteer",
+            "star": 38,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "reveal.js",
+            "url": "https://github.com/hakimel/reveal.js",
+            "star": 22,
+            "description": "The HTML Presentation Framework"
+        },
+        {
+            "name": "json-server",
+            "url": "https://github.com/typicode/json-server",
+            "star": 25,
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
+        },
+        {
+            "name": "eui",
+            "url": "https://github.com/elastic/eui",
+            "star": 19,
+            "description": "Elastic UI Framework🙌"
+        },
+        {
+            "name": "clean-code-javascript",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+            "star": 33,
+            "description": "🛁Clean Code concepts adapted for JavaScript"
+        },
+        {
+            "name": "luban-h5",
+            "url": "https://github.com/ly525/luban-h5",
+            "star": 10,
+            "description": "[WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具."
+        },
+        {
+            "name": "junior-recruit-scheduler",
+            "url": "https://github.com/jojoldu/junior-recruit-scheduler",
+            "star": 10,
+            "description": "주니어 개발자 채용 정보"
+        }
+    ],
+    "html": [
+        {
+            "name": "DevOps-Guide",
+            "url": "https://github.com/Tikam02/DevOps-Guide",
+            "star": 22,
+            "description": "DevOps Guide from basic to advanced with Interview Questions and Notes🔥"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 4,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "ImportJSON",
+            "url": "https://github.com/bradjasper/ImportJSON",
+            "star": 2,
+            "description": "Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet"
+        },
+        {
+            "name": "owasp-mstg",
+            "url": "https://github.com/OWASP/owasp-mstg",
+            "star": 7,
+            "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering."
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/aws-amplify/docs",
+            "star": 1,
+            "description": "Amplify Framework Documentation"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 31,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "Screenshot-to-code",
+            "url": "https://github.com/emilwallner/Screenshot-to-code",
+            "star": 40,
+            "description": "A neural network that transforms a design mock-up into a static website."
+        },
+        {
+            "name": "pdfs",
+            "url": "https://github.com/tpn/pdfs",
+            "star": 4,
+            "description": "Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 8,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "awesome-webpack",
+            "url": "https://github.com/webpack-contrib/awesome-webpack",
+            "star": 3,
+            "description": "A curated list of awesome Webpack resources, libraries and tools"
+        }
+    ],
+    "go": [
+        {
+            "name": "hubble",
+            "url": "https://github.com/cilium/hubble",
+            "star": 48,
+            "description": "Hubble - Network, Service & Security Observability for Kubernetes"
+        },
+        {
+            "name": "cluster-api",
+            "url": "https://github.com/kubernetes-sigs/cluster-api",
+            "star": 2,
+            "description": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle"
+        },
+        {
+            "name": "terraform-provider-google",
+            "url": "https://github.com/terraform-providers/terraform-provider-google",
+            "star": 11,
+            "description": "Terraform Google Cloud Platform provider"
+        },
+        {
+            "name": "thanos",
+            "url": "https://github.com/thanos-io/thanos",
+            "star": 7,
+            "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project."
+        },
+        {
+            "name": "origin",
+            "url": "https://github.com/openshift/origin",
+            "star": 9,
+            "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone"
+        },
+        {
+            "name": "go-sqlmock",
+            "url": "https://github.com/DATA-DOG/go-sqlmock",
+            "star": 7,
+            "description": "Sql mock driver for golang to test database interactions"
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 25,
+            "description": "Curated applications for Kubernetes"
+        },
+        {
+            "name": "lazydocker",
+            "url": "https://github.com/jesseduffield/lazydocker",
+            "star": 46,
+            "description": "The lazier way to manage everything docker"
+        },
+        {
+            "name": "encoding",
+            "url": "https://github.com/segmentio/encoding",
+            "star": 207,
+            "description": "Go package containing implementations of efficient encoding, decoding, and validation APIs."
+        },
+        {
+            "name": "terraform-provider-aws",
+            "url": "https://github.com/terraform-providers/terraform-provider-aws",
+            "star": 7,
+            "description": "Terraform AWS provider"
+        }
+    ]
+}

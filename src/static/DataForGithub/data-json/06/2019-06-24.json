@@ -1,0 +1,377 @@
+{
+    "date": "2019-06-24",
+    "month": 6,
+    "day": 24,
+    "python": [
+        {
+            "name": "keras-tuner",
+            "url": "https://github.com/keras-team/keras-tuner",
+            "star": 122,
+            "description": "Hyperparameter tuning for humans"
+        },
+        {
+            "name": "hacs",
+            "url": "https://github.com/custom-components/hacs",
+            "star": 16,
+            "description": "Manage (Install, track, upgrade) and discover custom elements for Home Assistant."
+        },
+        {
+            "name": "XLM",
+            "url": "https://github.com/facebookresearch/XLM",
+            "star": 35,
+            "description": "PyTorch original implementation of Cross-lingual Language Model Pretraining."
+        },
+        {
+            "name": "instabot.py",
+            "url": "https://github.com/instabot-py/instabot.py",
+            "star": 21,
+            "description": "Instagram bot. It works without instagram api, need only login and password. Write on python."
+        },
+        {
+            "name": "gryphon",
+            "url": "https://github.com/garethdmm/gryphon",
+            "star": 92,
+            "description": "Powerful, proven, and extensible framework for building trading strategies at any frequency, with a focus on crypto currencies. Battle-tested with billions traded."
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 116,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "Awesome-Linux-Software",
+            "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+            "star": 41,
+            "description": "A list of awesome applications, software, tools and other materials for Linux distros."
+        },
+        {
+            "name": "discord.py",
+            "url": "https://github.com/Rapptz/discord.py",
+            "star": 5,
+            "description": "An API wrapper for Discord written in Python."
+        },
+        {
+            "name": "python-binance",
+            "url": "https://github.com/sammchardy/python-binance",
+            "star": 3,
+            "description": "Binance Exchange API python implementation for automated trading"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 52,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        }
+    ],
+    "java": [
+        {
+            "name": "Anki-Android",
+            "url": "https://github.com/ankidroid/Anki-Android",
+            "star": 6,
+            "description": "AnkiDroid: Anki on Android"
+        },
+        {
+            "name": "Leetcode",
+            "url": "https://github.com/fishercoder1534/Leetcode",
+            "star": 10,
+            "description": "Complete solutions to Leetcode problems; updated daily. (I'm looking for long-term contributors/partners to this repo! Send me PRs if you're interested! - 9/5/2018)"
+        },
+        {
+            "name": "ripme",
+            "url": "https://github.com/RipMeApp/ripme",
+            "star": 4,
+            "description": "Downloads albums in bulk"
+        },
+        {
+            "name": "JDA",
+            "url": "https://github.com/DV8FromTheWorld/JDA",
+            "star": 2,
+            "description": "Java wrapper for the popular chat & VOIP service: Discord https://discordapp.com"
+        },
+        {
+            "name": "AndroidTutorialForBeginners",
+            "url": "https://github.com/hussien89aa/AndroidTutorialForBeginners",
+            "star": 4,
+            "description": "Step by step to build android apps with Android Studio. Code files for YouTube tutorial"
+        },
+        {
+            "name": "Arduino",
+            "url": "https://github.com/arduino/Arduino",
+            "star": 3,
+            "description": "open-source electronics prototyping platform"
+        },
+        {
+            "name": "canal",
+            "url": "https://github.com/alibaba/canal",
+            "star": 9,
+            "description": "阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal. Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by canal"
+        },
+        {
+            "name": "fastjson",
+            "url": "https://github.com/alibaba/fastjson",
+            "star": 11,
+            "description": "🚄A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson )"
+        },
+        {
+            "name": "EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "star": 2,
+            "description": "An Unofficial E-Hentai Application for Android"
+        },
+        {
+            "name": "presto",
+            "url": "https://github.com/prestodb/presto",
+            "star": 5,
+            "description": "The official home of the Presto distributed SQL query engine for big data"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "rfcs",
+            "url": "https://github.com/vuejs/rfcs",
+            "star": 36,
+            "description": "RFCs for substantial changes / feature additions to Vue core"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 86,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 70,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome-deep-learning",
+            "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+            "star": 31,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
+        },
+        {
+            "name": "SwiftUI-Cheat-Sheet",
+            "url": "https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet",
+            "star": 32,
+            "description": "SwiftUI Cheat Sheet"
+        },
+        {
+            "name": "Awesome",
+            "url": "https://github.com/Awesome-Windows/Awesome",
+            "star": 65,
+            "description": "💻An awesome & curated list of best applications and tools for Windows."
+        },
+        {
+            "name": "games",
+            "url": "https://github.com/leereilly/games",
+            "star": 35,
+            "description": "🎮A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine."
+        },
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 91,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "catj",
+            "url": "https://github.com/soheilpro/catj",
+            "star": 106,
+            "description": "Displays JSON files in a flat format."
+        },
+        {
+            "name": "distributed-consensus-reading-list",
+            "url": "https://github.com/heidi-ann/distributed-consensus-reading-list",
+            "star": 10,
+            "description": ""
+        }
+    ],
+    "javascript": [
+        {
+            "name": "awesome-selfhosted",
+            "url": "https://github.com/Kickball/awesome-selfhosted",
+            "star": 59,
+            "description": "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers."
+        },
+        {
+            "name": "PaperWM",
+            "url": "https://github.com/paperwm/PaperWM",
+            "star": 24,
+            "description": "Tiled scrollable window management for Gnome Shell"
+        },
+        {
+            "name": "wechatBot",
+            "url": "https://github.com/gengchen528/wechatBot",
+            "star": 24,
+            "description": "微信每日说，爬虫脚本每天定时给女(男)朋友发微信暖心消息"
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 39,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "clean-code-javascript",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+            "star": 17,
+            "description": "🛁Clean Code concepts adapted for JavaScript"
+        },
+        {
+            "name": "wp-calypso",
+            "url": "https://github.com/Automattic/wp-calypso",
+            "star": 7,
+            "description": "The JavaScript and API powered WordPress.com"
+        },
+        {
+            "name": "functions-samples",
+            "url": "https://github.com/firebase/functions-samples",
+            "star": 8,
+            "description": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase"
+        },
+        {
+            "name": "next.js",
+            "url": "https://github.com/zeit/next.js",
+            "star": 16,
+            "description": "The React Framework"
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 14,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "qdao-smartcontract-qdao-locker",
+            "url": "https://github.com/platinum-engineering/qdao-smartcontract-qdao-locker",
+            "star": 68,
+            "description": ""
+        }
+    ],
+    "html": [
+        {
+            "name": "FES",
+            "url": "https://github.com/topepo/FES",
+            "star": 10,
+            "description": "Code and Resources for \"Feature Engineering and Selection: A Practical Approach for Predictive Models\" by Kuhn and Johnson"
+        },
+        {
+            "name": "Machine-Learning",
+            "url": "https://github.com/Jack-Cherish/Machine-Learning",
+            "star": 4,
+            "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 10,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        },
+        {
+            "name": "html",
+            "url": "https://github.com/whatwg/html",
+            "star": 0,
+            "description": "HTML Standard"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 16,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 5,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "startbootstrap-resume",
+            "url": "https://github.com/BlackrockDigital/startbootstrap-resume",
+            "star": 7,
+            "description": "A Bootstrap 4 resume/CV theme created by Start Bootstrap"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 2,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "csswg-drafts",
+            "url": "https://github.com/w3c/csswg-drafts",
+            "star": 2,
+            "description": "CSS Working Group Editor Drafts"
+        },
+        {
+            "name": "bitcoin-whitepaper-chinese-translation",
+            "url": "https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation",
+            "star": 5,
+            "description": ""
+        }
+    ],
+    "go": [
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 753,
+            "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++."
+        },
+        {
+            "name": "bigcache",
+            "url": "https://github.com/allegro/bigcache",
+            "star": 39,
+            "description": "Efficient cache for gigabytes of data written in Go."
+        },
+        {
+            "name": "go-filecoin",
+            "url": "https://github.com/filecoin-project/go-filecoin",
+            "star": 6,
+            "description": "Filecoin Full Node Implementation in Go"
+        },
+        {
+            "name": "go-ipfs",
+            "url": "https://github.com/ipfs/go-ipfs",
+            "star": 13,
+            "description": "IPFS implementation in Go"
+        },
+        {
+            "name": "circl",
+            "url": "https://github.com/cloudflare/circl",
+            "star": 17,
+            "description": "Cloudflare Interoperable Reusable Cryptographic Library"
+        },
+        {
+            "name": "dnscrypt-proxy",
+            "url": "https://github.com/jedisct1/dnscrypt-proxy",
+            "star": 7,
+            "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols."
+        },
+        {
+            "name": "gdrive",
+            "url": "https://github.com/gdrive-org/gdrive",
+            "star": 11,
+            "description": "Google Drive CLI Client"
+        },
+        {
+            "name": "chat",
+            "url": "https://github.com/tinode/chat",
+            "star": 7,
+            "description": "Instant messaging server; backend in Go; Android, web command line clients; chatbots"
+        },
+        {
+            "name": "kcptun",
+            "url": "https://github.com/xtaci/kcptun",
+            "star": 11,
+            "description": "A Stable & Secure Tunnel Based On KCP with N:M Multiplexing"
+        },
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 9,
+            "description": "Official Go implementation of the Ethereum protocol"
+        }
+    ]
+}

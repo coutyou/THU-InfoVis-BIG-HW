@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-16",
+    "month": 7,
+    "day": 16,
+    "python": [
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 277,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "Osmedeus",
+            "url": "https://github.com/j3ssie/Osmedeus",
+            "star": 108,
+            "description": "Fully automated offensive security framework for reconnaissance and vulnerability scanning"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 117,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "ludwig",
+            "url": "https://github.com/uber/ludwig",
+            "star": 51,
+            "description": "Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code."
+        },
+        {
+            "name": "PyTorch_BlazeFace",
+            "url": "https://github.com/tkat0/PyTorch_BlazeFace",
+            "star": 28,
+            "description": "Unofficial PyTorch implementation of BlazeFace"
+        },
+        {
+            "name": "dc_tts",
+            "url": "https://github.com/Kyubyong/dc_tts",
+            "star": 4,
+            "description": "A TensorFlow Implementation of DC-TTS: yet another text-to-speech model"
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 656,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "abu",
+            "url": "https://github.com/bbfamily/abu",
+            "star": 26,
+            "description": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构"
+        },
+        {
+            "name": "unlocker",
+            "url": "https://github.com/DrDonk/unlocker",
+            "star": 16,
+            "description": "VMware Workstation macOS"
+        },
+        {
+            "name": "tfpyth",
+            "url": "https://github.com/BlackHC/tfpyth",
+            "star": 65,
+            "description": "Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters)."
+        }
+    ],
+    "java": [
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 217,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "cat",
+            "url": "https://github.com/dianping/cat",
+            "star": 87,
+            "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。"
+        },
+        {
+            "name": "baritone",
+            "url": "https://github.com/cabaletta/baritone",
+            "star": 13,
+            "description": "google maps for block game"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 161,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/zhangyd-c/JustAuth",
+            "star": 84,
+            "description": "💯史上最全的整合第三方登录的工具,目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软和今日头条等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "Algorithms",
+            "url": "https://github.com/williamfiset/Algorithms",
+            "star": 8,
+            "description": "A collection of algorithms"
+        },
+        {
+            "name": "NetGuard",
+            "url": "https://github.com/M66B/NetGuard",
+            "star": 5,
+            "description": "A simple way to block access to the internet per application"
+        },
+        {
+            "name": "interview",
+            "url": "https://github.com/mission-peace/interview",
+            "star": 2,
+            "description": "Interview questions"
+        },
+        {
+            "name": "pipeline",
+            "url": "https://github.com/PipelineAI/pipeline",
+            "star": 11,
+            "description": "PipelineAI: Real-Time Enterprise AI Platform"
+        },
+        {
+            "name": "EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "star": 9,
+            "description": "An Unofficial E-Hentai Application for Android"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 312,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        },
+        {
+            "name": "Awesome-Cellular-Hacking",
+            "url": "https://github.com/W00t3k/Awesome-Cellular-Hacking",
+            "star": 133,
+            "description": "Awesome-Cellular-Hacking"
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 49,
+            "description": "Curated list of resources for college students"
+        },
+        {
+            "name": "Beginner-Network-Pentesting",
+            "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+            "star": 69,
+            "description": "Notes for Beginner Network Pentesting Course"
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 27,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "awesome-for-beginners",
+            "url": "https://github.com/MunGell/awesome-for-beginners",
+            "star": 17,
+            "description": "A list of awesome beginners-friendly projects."
+        },
+        {
+            "name": "awesome-threat-intelligence",
+            "url": "https://github.com/hslatman/awesome-threat-intelligence",
+            "star": 3,
+            "description": "A curated list of Awesome Threat Intelligence resources"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 49,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "awesome-laravel",
+            "url": "https://github.com/chiraggude/awesome-laravel",
+            "star": 4,
+            "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem"
+        },
+        {
+            "name": "chromium",
+            "url": "https://github.com/jjqqkk/chromium",
+            "star": 11,
+            "description": "Chromium browser with SSL VPN. Use this browser to unblock websites."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 477,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "listmonk",
+            "url": "https://github.com/knadh/listmonk",
+            "star": 431,
+            "description": "High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React."
+        },
+        {
+            "name": "realworld",
+            "url": "https://github.com/gothinkster/realworld",
+            "star": 143,
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more🏅"
+        },
+        {
+            "name": "quasar",
+            "url": "https://github.com/quasarframework/quasar",
+            "star": 99,
+            "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+        },
+        {
+            "name": "preact",
+            "url": "https://github.com/preactjs/preact",
+            "star": 18,
+            "description": "⚛️Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+        },
+        {
+            "name": "nginx-proxy-manager",
+            "url": "https://github.com/jc21/nginx-proxy-manager",
+            "star": 24,
+            "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface"
+        },
+        {
+            "name": "docusaurus",
+            "url": "https://github.com/facebook/docusaurus",
+            "star": 56,
+            "description": "Easy to maintain open source documentation websites."
+        },
+        {
+            "name": "desafio-3",
+            "url": "https://github.com/maratonadev/desafio-3",
+            "star": 2,
+            "description": "Desafio 3 ~ UniJÁ"
+        },
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 32,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        },
+        {
+            "name": "homebridge",
+            "url": "https://github.com/nfarina/homebridge",
+            "star": 24,
+            "description": "HomeKit support for the impatient"
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 64,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "Tetris",
+            "url": "https://github.com/javascriptteacher/Tetris",
+            "star": 6,
+            "description": "On June 6, 2019 Tetris turned 35 years old. To celebrate, I wrote my own version and published it in my GitHub repo. No libraries. No frameworks. Just JavaScript. And no, this is not the best way, nor is it most-optimized version. It's just a simple break down."
+        },
+        {
+            "name": "Intro-to-Data-APIs-JS",
+            "url": "https://github.com/CodingTrain/Intro-to-Data-APIs-JS",
+            "star": 2,
+            "description": "Working with Data and APIs in JavaScript"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 1,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 1,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "startbootstrap-simple-sidebar",
+            "url": "https://github.com/BlackrockDigital/startbootstrap-simple-sidebar",
+            "star": 0,
+            "description": "An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 16,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "compat-table",
+            "url": "https://github.com/kangax/compat-table",
+            "star": 0,
+            "description": "ECMAScript 5/6/7 compatibility tables"
+        },
+        {
+            "name": "hakuneko",
+            "url": "https://github.com/manga-download/hakuneko",
+            "star": 1,
+            "description": "Manga & Anime Downloader for Linux, Windows & MacOS"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 4,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        }
+    ],
+    "go": [
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 53,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "gotop",
+            "url": "https://github.com/cjbassi/gotop",
+            "star": 23,
+            "description": "A terminal based graphical activity monitor inspired by gtop and vtop"
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 18,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "pixel",
+            "url": "https://github.com/faiface/pixel",
+            "star": 14,
+            "description": "A hand-crafted 2D game library in Go"
+        },
+        {
+            "name": "croc",
+            "url": "https://github.com/schollz/croc",
+            "star": 35,
+            "description": "Easily and securely send things from one computer to another🐊📦"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 30,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "yay",
+            "url": "https://github.com/Jguer/yay",
+            "star": 12,
+            "description": "Yet another Yogurt - An AUR Helper written in Go"
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 49,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "hostyoself",
+            "url": "https://github.com/schollz/hostyoself",
+            "star": 71,
+            "description": "Host yo' self from your browser, your phone, your toaster."
+        },
+        {
+            "name": "chat",
+            "url": "https://github.com/tinode/chat",
+            "star": 7,
+            "description": "Instant messaging server; backend in Go; Android, web command line clients; chatbots"
+        }
+    ]
+}

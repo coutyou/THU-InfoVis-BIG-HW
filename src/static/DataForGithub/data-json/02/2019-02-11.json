@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-11",
+    "month": 2,
+    "day": 11,
+    "python": [
+        {
+            "name": "clusterfuzz",
+            "url": "https://github.com/google/clusterfuzz",
+            "star": 257,
+            "description": "All your bug are belong to us."
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 193,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 175,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "stylegan",
+            "url": "https://github.com/NVlabs/stylegan",
+            "star": 88,
+            "description": "StyleGAN - Official TensorFlow Implementation"
+        },
+        {
+            "name": "alignedCelebFaces",
+            "url": "https://github.com/carykh/alignedCelebFaces",
+            "star": 61,
+            "description": "Better version of my face editing tool. Explanation video here: https://www.youtube.com/watch?v=NTlXEJjfsQU"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 61,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 32,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 35,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "ImageNet-Adversarial-Training",
+            "url": "https://github.com/facebookresearch/ImageNet-Adversarial-Training",
+            "star": 35,
+            "description": "Feature Denoising for Improving Adversarial Robustness"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/rg3/youtube-dl",
+            "star": 33,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        }
+    ],
+    "java": [
+        {
+            "name": "h4cker",
+            "url": "https://github.com/The-Art-of-Hacking/h4cker",
+            "star": 91,
+            "description": "This repository is primarily maintained by Omar Santos and includes resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more."
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 36,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 27,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 23,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "checkstyle",
+            "url": "https://github.com/checkstyle/checkstyle",
+            "star": 25,
+            "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 16,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "DETA_DataBase",
+            "url": "https://github.com/yaoguangluo/DETA_DataBase",
+            "star": 21,
+            "description": "🔥Deta quantum-field json PLSQL database integrated in deta《VPCS架构》http server. size 30KB / Json量子碎片去死锁带binlog动态回滚的PLSQL数据库"
+        },
+        {
+            "name": "Magisk",
+            "url": "https://github.com/topjohnwu/Magisk",
+            "star": 20,
+            "description": "A Magic Mask to Alter Android System Systemless-ly"
+        },
+        {
+            "name": "symphony",
+            "url": "https://github.com/b3log/symphony",
+            "star": 19,
+            "description": "🎶一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com"
+        },
+        {
+            "name": "nopen",
+            "url": "https://github.com/JakeWharton/nopen",
+            "star": 20,
+            "description": "An error-prone checker which requires that classes be final, abstract or annotated with @ Open."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "nginx-quick-reference",
+            "url": "https://github.com/trimstray/nginx-quick-reference",
+            "star": 401,
+            "description": "⚡️This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 127,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "How-To-Secure-A-Linux-Server",
+            "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+            "star": 109,
+            "description": "An evolving how-to guide for securing a Linux server."
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 86,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "AspNetCore-Developer-Roadmap",
+            "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+            "star": 82,
+            "description": "Roadmap to becoming an ASP.NET Core developer in 2019"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 51,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 37,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "rust-guide",
+            "url": "https://github.com/ANSSI-FR/rust-guide",
+            "star": 47,
+            "description": "Recommendations for secure applications development with Rust"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 32,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 26,
+            "description": "📚Freely available programming books"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "git-history",
+            "url": "https://github.com/pomber/git-history",
+            "star": 583,
+            "description": "Quickly browse the history of any GitHub file"
+        },
+        {
+            "name": "instant.page",
+            "url": "https://github.com/instantpage/instant.page",
+            "star": 458,
+            "description": "Make your site’s pages instant in 1 minute and improve your conversion rate by 1%"
+        },
+        {
+            "name": "not-paid",
+            "url": "https://github.com/kleampa/not-paid",
+            "star": 239,
+            "description": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away"
+        },
+        {
+            "name": "qoa",
+            "url": "https://github.com/klaussinani/qoa",
+            "star": 223,
+            "description": "💬Minimal interactive command-line prompts"
+        },
+        {
+            "name": "react-native-hooks",
+            "url": "https://github.com/react-native-community/react-native-hooks",
+            "star": 169,
+            "description": "React Native APIs turned into React Hooks for use in functional React components"
+        },
+        {
+            "name": "miniC-hosting",
+            "url": "https://github.com/vasyop/miniC-hosting",
+            "star": 150,
+            "description": "A simple stack-based virtual machine that runs C in the browser."
+        },
+        {
+            "name": "uppy",
+            "url": "https://github.com/transloadit/uppy",
+            "star": 129,
+            "description": "The next open source file uploader for web browsers🐶"
+        },
+        {
+            "name": "flexsearch",
+            "url": "https://github.com/nextapps-de/flexsearch",
+            "star": 119,
+            "description": "Next-Generation full text search library for Browser and Node.js"
+        },
+        {
+            "name": "windows95",
+            "url": "https://github.com/felixrieseberg/windows95",
+            "star": 112,
+            "description": "💩🚀Windows 95 in Electron. Runs on macOS, Linux, and Windows."
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 100,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        }
+    ],
+    "html": [
+        {
+            "name": "javascript-tutorial-en",
+            "url": "https://github.com/iliakan/javascript-tutorial-en",
+            "star": 27,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "w3develops",
+            "url": "https://github.com/w3develops/w3develops",
+            "star": 15,
+            "description": "The w3develops.org open source codebase - Learn, build, and meetup with other developers on DISCORD https://discord.gg/ckQ52gA and YOUTUBE http://bit.ly/w3dyt"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 5,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "PoCBox",
+            "url": "https://github.com/gh0stkey/PoCBox",
+            "star": 11,
+            "description": "PoCBox - 漏洞测试验证辅助平台"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 7,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "simple-icons",
+            "url": "https://github.com/simple-icons/simple-icons",
+            "star": 10,
+            "description": "SVG icons for popular brands"
+        },
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 9,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/valentinxxx/nginxconfig.io",
+            "star": 8,
+            "description": "⚙️NGiИX config generator on steroids💉"
+        },
+        {
+            "name": "inception",
+            "url": "https://github.com/proabiral/inception",
+            "star": 8,
+            "description": "A highly configurable tool to check for whatever you like against any number of hosts."
+        }
+    ],
+    "go": [
+        {
+            "name": "Gorsair",
+            "url": "https://github.com/Ullaakut/Gorsair",
+            "star": 193,
+            "description": "Gorsair hacks its way into remote docker containers that expose their APIs."
+        },
+        {
+            "name": "go-elasticsearch",
+            "url": "https://github.com/elastic/go-elasticsearch",
+            "star": 128,
+            "description": "The official Go client for Elasticsearch"
+        },
+        {
+            "name": "fathom",
+            "url": "https://github.com/usefathom/fathom",
+            "star": 89,
+            "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact."
+        },
+        {
+            "name": "gotop",
+            "url": "https://github.com/cjbassi/gotop",
+            "star": 83,
+            "description": "A terminal based graphical activity monitor inspired by gtop and vtop"
+        },
+        {
+            "name": "docui",
+            "url": "https://github.com/skanehira/docui",
+            "star": 76,
+            "description": "TUI Tool for Docker"
+        },
+        {
+            "name": "gitin",
+            "url": "https://github.com/isacikgoz/gitin",
+            "star": 61,
+            "description": "commit/branch/workdir explorer for git"
+        },
+        {
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s",
+            "star": 35,
+            "description": "🐶Kubernetes CLI To Manage Your Clusters In Style!"
+        },
+        {
+            "name": "filetype",
+            "url": "https://github.com/h2non/filetype",
+            "star": 32,
+            "description": "Small, dependency-free and fast Go package to infer file types based on its magic numbers signature"
+        },
+        {
+            "name": "tinygo",
+            "url": "https://github.com/tinygo-org/tinygo",
+            "star": 31,
+            "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 29,
+            "description": "Production-Grade Container Scheduling and Management"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-04",
+    "month": 5,
+    "day": 4,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 517,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "botorch",
+            "url": "https://github.com/pytorch/botorch",
+            "star": 122,
+            "description": "Bayesian optimization in PyTorch"
+        },
+        {
+            "name": "PySnooper",
+            "url": "https://github.com/cool-RR/PySnooper",
+            "star": 112,
+            "description": "Never use print for debugging again"
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 95,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "DeepSwarm",
+            "url": "https://github.com/Pattio/DeepSwarm",
+            "star": 86,
+            "description": "Neural Architecture Search Powered by Swarm Intelligence🐜"
+        },
+        {
+            "name": "black",
+            "url": "https://github.com/python/black",
+            "star": 67,
+            "description": "The uncompromising Python code formatter"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 53,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 35,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 44,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 42,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        }
+    ],
+    "java": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 121,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "bento",
+            "url": "https://github.com/Yelp/bento",
+            "star": 98,
+            "description": "A delicious framework for building modularized Android user interfaces, by Yelp."
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 73,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 62,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 50,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 51,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 46,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "flogger",
+            "url": "https://github.com/google/flogger",
+            "star": 52,
+            "description": "A Fluent Logging API for Java"
+        },
+        {
+            "name": "ghidra",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "star": 47,
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 35,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 258,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 166,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "commit-messages-guide",
+            "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+            "star": 164,
+            "description": "A guide to understand the importance of commit messages and how to write them well"
+        },
+        {
+            "name": "AndroidAppRE",
+            "url": "https://github.com/maddiestone/AndroidAppRE",
+            "star": 145,
+            "description": "Android App Reverse Engineering Workshop"
+        },
+        {
+            "name": "vscode-remote-release",
+            "url": "https://github.com/Microsoft/vscode-remote-release",
+            "star": 112,
+            "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set."
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 52,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 53,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 37,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 50,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "ui-libraries",
+            "url": "https://github.com/jefflombard/ui-libraries",
+            "star": 52,
+            "description": "A collection of UI Frameworks and their platform implementations."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 325,
+            "description": "leetcode题解，记录自己的leetcode解题之路。"
+        },
+        {
+            "name": "use-http",
+            "url": "https://github.com/alex-cory/use-http",
+            "star": 203,
+            "description": "🐶React hook for making isomorphic http requests"
+        },
+        {
+            "name": "UnblockNeteaseMusic",
+            "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+            "star": 175,
+            "description": "Revive unavailable songs for Netease Cloud Music"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/i0natan/nodebestpractices",
+            "star": 143,
+            "description": "✅The largest Node.js best practices list (April 2019)"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 134,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 98,
+            "description": "贵校课程资料民间整理"
+        },
+        {
+            "name": "response",
+            "url": "https://github.com/monzo/response",
+            "star": 104,
+            "description": "Monzo's real-time incident response and reporting tool⚡️"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 98,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "pastel",
+            "url": "https://github.com/vadimdemedes/pastel",
+            "star": 89,
+            "description": "🎨Framework for effortlessly building Ink apps"
+        },
+        {
+            "name": "ipfs-deploy",
+            "url": "https://github.com/agentofuser/ipfs-deploy",
+            "star": 84,
+            "description": "Zero-Config CLI to Deploy Static Websites to IPFS"
+        }
+    ],
+    "html": [
+        {
+            "name": "Python-100-Days",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "star": 790,
+            "description": "Python - 100天从新手到大师"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 116,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 41,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "watchme",
+            "url": "https://github.com/vsoch/watchme",
+            "star": 32,
+            "description": "Reproducible watchers for research"
+        },
+        {
+            "name": "impatient-js-zh",
+            "url": "https://github.com/apachecn/impatient-js-zh",
+            "star": 25,
+            "description": "📖[译] 写给不耐烦程序员的 JavaScript"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 21,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 19,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "design-tips",
+            "url": "https://github.com/caneco/design-tips",
+            "star": 18,
+            "description": "The “🔥Design Tips” series, now in TailwindCSS"
+        },
+        {
+            "name": "IsometricSass",
+            "url": "https://github.com/MorganCaron/IsometricSass",
+            "star": 16,
+            "description": "Sass library to make isometric 2D without javascript"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 15,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        }
+    ],
+    "go": [
+        {
+            "name": "tml",
+            "url": "https://github.com/liamg/tml",
+            "star": 239,
+            "description": "🌈💻🎨A tiny markup language for terminal output. Makes formatting output in CLI apps easier!"
+        },
+        {
+            "name": "gameboy.live",
+            "url": "https://github.com/HFO4/gameboy.live",
+            "star": 221,
+            "description": "🕹️A basic gameboy emulator with terminal \"Cloud Gaming\" support"
+        },
+        {
+            "name": "dexon",
+            "url": "https://github.com/dexon-foundation/dexon",
+            "star": 209,
+            "description": "Official golang DEXON fullnode implementation"
+        },
+        {
+            "name": "termdash",
+            "url": "https://github.com/mum4k/termdash",
+            "star": 158,
+            "description": "Terminal based dashboard."
+        },
+        {
+            "name": "terraformer",
+            "url": "https://github.com/GoogleCloudPlatform/terraformer",
+            "star": 147,
+            "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform)."
+        },
+        {
+            "name": "dexon-consensus",
+            "url": "https://github.com/dexon-foundation/dexon-consensus",
+            "star": 116,
+            "description": "DEXON consensus Implementation & Simulation"
+        },
+        {
+            "name": "pie",
+            "url": "https://github.com/elliotchance/pie",
+            "star": 60,
+            "description": "🍕Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 54,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 50,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "sshcode",
+            "url": "https://github.com/cdr/sshcode",
+            "star": 42,
+            "description": "Run VS Code on any server over SSH."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-09",
+    "month": 8,
+    "day": 9,
+    "python": [
+        {
+            "name": "UGATIT",
+            "url": "https://github.com/taki0112/UGATIT",
+            "star": 332,
+            "description": "Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation"
+        },
+        {
+            "name": "UGATIT-pytorch",
+            "url": "https://github.com/znxlwm/UGATIT-pytorch",
+            "star": 119,
+            "description": "Official PyTorch implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation"
+        },
+        {
+            "name": "sistine",
+            "url": "https://github.com/bijection/sistine",
+            "star": 91,
+            "description": "Turn a MacBook into a Touchscreen with $1 of Hardware"
+        },
+        {
+            "name": "nlp",
+            "url": "https://github.com/makcedward/nlp",
+            "star": 68,
+            "description": "📝This repository recorded my NLP journey."
+        },
+        {
+            "name": "tensorflow_object_counting_api",
+            "url": "https://github.com/ahmetozlu/tensorflow_object_counting_api",
+            "star": 37,
+            "description": "🚀The TensorFlow Object Counting API is an open source framework built on top of TensorFlow and Keras that makes it easy to develop object counting systems!"
+        },
+        {
+            "name": "handout",
+            "url": "https://github.com/danijar/handout",
+            "star": 250,
+            "description": "Turn Python scripts into handouts with Markdown and figures"
+        },
+        {
+            "name": "delta",
+            "url": "https://github.com/didi/delta",
+            "star": 147,
+            "description": "DELTA is a deep learning based natural language and speech processing platform."
+        },
+        {
+            "name": "mmdetection",
+            "url": "https://github.com/open-mmlab/mmdetection",
+            "star": 46,
+            "description": "Open MMLab Detection Toolbox and Benchmark"
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 96,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "python-fire",
+            "url": "https://github.com/google/python-fire",
+            "star": 17,
+            "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object."
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 62,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "Hystrix",
+            "url": "https://github.com/Netflix/Hystrix",
+            "star": 17,
+            "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 35,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "guava",
+            "url": "https://github.com/google/guava",
+            "star": 28,
+            "description": "Google core libraries for Java"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 328,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://bt.biedian.me"
+        },
+        {
+            "name": "C-OCR",
+            "url": "https://github.com/ctripcorp/C-OCR",
+            "star": 57,
+            "description": "C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。"
+        },
+        {
+            "name": "solo",
+            "url": "https://github.com/b3log/solo",
+            "star": 97,
+            "description": "🎸一款小而美的博客系统，专为程序员设计。"
+        },
+        {
+            "name": "libgdx",
+            "url": "https://github.com/libgdx/libgdx",
+            "star": 8,
+            "description": "Desktop/Android/HTML5/iOS Java game development framework"
+        },
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 39,
+            "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…"
+        },
+        {
+            "name": "HanLP",
+            "url": "https://github.com/hankcs/HanLP",
+            "star": 30,
+            "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "leeml-notes",
+            "url": "https://github.com/datawhalechina/leeml-notes",
+            "star": 507,
+            "description": "李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes"
+        },
+        {
+            "name": "LiteratureDL4Graph",
+            "url": "https://github.com/DeepGraphLearning/LiteratureDL4Graph",
+            "star": 41,
+            "description": ""
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 209,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "technology_books",
+            "url": "https://github.com/arpitjindal97/technology_books",
+            "star": 500,
+            "description": "Premium eBook free for Geeks"
+        },
+        {
+            "name": "awesome-react",
+            "url": "https://github.com/enaqx/awesome-react",
+            "star": 89,
+            "description": "A collection of awesome things regarding React ecosystem"
+        },
+        {
+            "name": "docker-cheat-sheet",
+            "url": "https://github.com/wsargent/docker-cheat-sheet",
+            "star": 8,
+            "description": "Docker Cheat Sheet"
+        },
+        {
+            "name": "awesome-javascript",
+            "url": "https://github.com/sorrycc/awesome-javascript",
+            "star": 8,
+            "description": "🐢A collection of awesome browser-side JavaScript libraries, resources and shiny things."
+        },
+        {
+            "name": "technology-budgeting",
+            "url": "https://github.com/18F/technology-budgeting",
+            "star": 13,
+            "description": "10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices."
+        },
+        {
+            "name": "xdown",
+            "url": "https://github.com/lib-xdown/xdown",
+            "star": 20,
+            "description": "免费的idm+torrent"
+        },
+        {
+            "name": "gdpr",
+            "url": "https://github.com/lknik/gdpr",
+            "star": 8,
+            "description": ""
+        }
+    ],
+    "javascript": [
+        {
+            "name": "dsa.js-data-structures-algorithms-javascript",
+            "url": "https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript",
+            "star": 267,
+            "description": "Data Structures and Algorithms explained and implemented in JavaScript"
+        },
+        {
+            "name": "blockly",
+            "url": "https://github.com/google/blockly",
+            "star": 125,
+            "description": "The web-based visual programming editor."
+        },
+        {
+            "name": "markdown-here",
+            "url": "https://github.com/adam-p/markdown-here",
+            "star": 38,
+            "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending."
+        },
+        {
+            "name": "style2paints",
+            "url": "https://github.com/lllyasviel/style2paints",
+            "star": 36,
+            "description": "sketch + style = paints🎨"
+        },
+        {
+            "name": "babel",
+            "url": "https://github.com/babel/babel",
+            "star": 14,
+            "description": "🐠Babel is a compiler for writing next generation JavaScript."
+        },
+        {
+            "name": "select2",
+            "url": "https://github.com/select2/select2",
+            "star": 8,
+            "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 30,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "phaser",
+            "url": "https://github.com/photonstorm/phaser",
+            "star": 16,
+            "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+        },
+        {
+            "name": "wekan",
+            "url": "https://github.com/wekan/wekan",
+            "star": 7,
+            "description": "The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add PR changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only."
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/apollographql/fullstack-tutorial",
+            "star": 34,
+            "description": "🚀The Apollo platform tutorial app"
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 76,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "ru.javascript.info",
+            "url": "https://github.com/javascript-tutorial/ru.javascript.info",
+            "star": 29,
+            "description": "Современный учебник JavaScript"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 7,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 8,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 8,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 2,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 5,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "Moon",
+            "url": "https://github.com/TaylanTatli/Moon",
+            "star": 3,
+            "description": "Moon is a minimal, one column jekyll theme."
+        },
+        {
+            "name": "foundation-emails",
+            "url": "https://github.com/zurb/foundation-emails",
+            "star": 3,
+            "description": "Quickly create responsive HTML emails that work on any device and client. Even Outlook."
+        },
+        {
+            "name": "sass-loader",
+            "url": "https://github.com/webpack-contrib/sass-loader",
+            "star": 1,
+            "description": "Compiles Sass to CSS"
+        }
+    ],
+    "go": [
+        {
+            "name": "TopList",
+            "url": "https://github.com/timeromantic/TopList",
+            "star": 296,
+            "description": "今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html"
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 356,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "rget",
+            "url": "https://github.com/merklecounty/rget",
+            "star": 35,
+            "description": "download URLs and verify the contents against a publicly recorded cryptographic log"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 93,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "migrate",
+            "url": "https://github.com/golang-migrate/migrate",
+            "star": 33,
+            "description": "Database migrations. CLI and Golang library."
+        },
+        {
+            "name": "kops",
+            "url": "https://github.com/kubernetes/kops",
+            "star": 12,
+            "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management"
+        },
+        {
+            "name": "postgres-operator",
+            "url": "https://github.com/zalando/postgres-operator",
+            "star": 5,
+            "description": "Postgres operator creates and manages PostgreSQL clusters running in Kubernetes"
+        },
+        {
+            "name": "viper",
+            "url": "https://github.com/spf13/viper",
+            "star": 27,
+            "description": "Go configuration with fangs"
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 6,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "gqlgen",
+            "url": "https://github.com/99designs/gqlgen",
+            "star": 11,
+            "description": "go generate based graphql server library"
+        }
+    ]
+}

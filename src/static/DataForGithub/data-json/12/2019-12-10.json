@@ -1,0 +1,377 @@
+{
+    "date": "2019-12-10",
+    "month": 12,
+    "day": 10,
+    "python": [
+        {
+            "name": "AIDungeon",
+            "url": "https://github.com/AIDungeon/AIDungeon",
+            "star": 415,
+            "description": "Infinite AI adventures await!"
+        },
+        {
+            "name": "PythonPlantsVsZombies",
+            "url": "https://github.com/marblexu/PythonPlantsVsZombies",
+            "star": 56,
+            "description": "a simple PlantsVsZombies game"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 426,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "cloud-custodian",
+            "url": "https://github.com/cloud-custodian/cloud-custodian",
+            "star": 7,
+            "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources"
+        },
+        {
+            "name": "PySyft",
+            "url": "https://github.com/OpenMined/PySyft",
+            "star": 11,
+            "description": "A library for encrypted, privacy preserving machine learning"
+        },
+        {
+            "name": "sigma",
+            "url": "https://github.com/Neo23x0/sigma",
+            "star": 17,
+            "description": "Generic Signature Format for SIEM Systems"
+        },
+        {
+            "name": "bert",
+            "url": "https://github.com/google-research/bert",
+            "star": 35,
+            "description": "TensorFlow code and pre-trained models for BERT"
+        },
+        {
+            "name": "alpha_vantage",
+            "url": "https://github.com/RomelTorres/alpha_vantage",
+            "star": 40,
+            "description": "A python wrapper for Alpha Vantage API for financial data."
+        },
+        {
+            "name": "Osmedeus",
+            "url": "https://github.com/j3ssie/Osmedeus",
+            "star": 48,
+            "description": "Fully automated offensive security framework for reconnaissance and vulnerability scanning"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 64,
+            "description": "All Algorithms implemented in Python"
+        }
+    ],
+    "java": [
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 39,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 59,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 100,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "flyway",
+            "url": "https://github.com/flyway/flyway",
+            "star": 8,
+            "description": "Flyway by Boxfuse • Database Migrations Made Easy."
+        },
+        {
+            "name": "thingsboard",
+            "url": "https://github.com/thingsboard/thingsboard",
+            "star": 18,
+            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+        },
+        {
+            "name": "servicecomb-pack",
+            "url": "https://github.com/apache/servicecomb-pack",
+            "star": 100,
+            "description": "Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent ."
+        },
+        {
+            "name": "flink-learning",
+            "url": "https://github.com/zhisheng17/flink-learning",
+            "star": 69,
+            "description": "flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。"
+        },
+        {
+            "name": "seata",
+            "url": "https://github.com/seata/seata",
+            "star": 23,
+            "description": "🔥Seata is an easy-to-use, high-performance, open source distributed transaction solution."
+        },
+        {
+            "name": "SpringCloudLearning",
+            "url": "https://github.com/forezp/SpringCloudLearning",
+            "star": 39,
+            "description": "《史上最简单的Spring Cloud教程源码》"
+        },
+        {
+            "name": "dropwizard",
+            "url": "https://github.com/dropwizard/dropwizard",
+            "star": 3,
+            "description": "A damn simple library for building production-ready RESTful web services."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 159,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "Production-Level-Deep-Learning",
+            "url": "https://github.com/alirezadir/Production-Level-Deep-Learning",
+            "star": 77,
+            "description": "A guideline for building practical production-level deep learning systems to be deployed in real world applications."
+        },
+        {
+            "name": "Best-websites-a-programmer-should-visit",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "star": 200,
+            "description": "🔗Some useful websites for programmers."
+        },
+        {
+            "name": "Huawei-Joke",
+            "url": "https://github.com/HuaweiJoke/Huawei-Joke",
+            "star": 111,
+            "description": "本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 84,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "incentivized-testnet-stakepool-registry",
+            "url": "https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "kubernetes-the-hard-way",
+            "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+            "star": 29,
+            "description": "Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts."
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 99,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 50,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 37,
+            "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 132,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "nodebestpractices",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "star": 101,
+            "description": "✅The largest Node.js best practices list (November 2019)"
+        },
+        {
+            "name": "serverless",
+            "url": "https://github.com/serverless/serverless",
+            "star": 25,
+            "description": "Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –"
+        },
+        {
+            "name": "CVE-2019-11708",
+            "url": "https://github.com/0vercl0k/CVE-2019-11708",
+            "star": 112,
+            "description": "Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit."
+        },
+        {
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js",
+            "star": 53,
+            "description": "JavaScript 3D library."
+        },
+        {
+            "name": "Google-Play-Music-Desktop-Player-UNOFFICIAL-",
+            "url": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
+            "star": 6,
+            "description": "A beautiful cross platform Desktop Player for Google Play Music"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 72,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 19,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "bootstrap-vue",
+            "url": "https://github.com/bootstrap-vue/bootstrap-vue",
+            "star": 9,
+            "description": "BootstrapVue, with over 40 plugins and more than 80 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup."
+        },
+        {
+            "name": "plugins",
+            "url": "https://github.com/rollup/plugins",
+            "star": 7,
+            "description": "🍣The one-stop shop for official Rollup plugins"
+        }
+    ],
+    "html": [
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 17,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "FOSSASAT-1",
+            "url": "https://github.com/FOSSASystems/FOSSASAT-1",
+            "star": 4,
+            "description": ""
+        },
+        {
+            "name": "python_ebook",
+            "url": "https://github.com/shihyu/python_ebook",
+            "star": 4,
+            "description": ""
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 4,
+            "description": ""
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 8,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 7,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "ckeditor5-build-classic",
+            "url": "https://github.com/ckeditor/ckeditor5-build-classic",
+            "star": 1,
+            "description": "The classic editor build of CKEditor 5."
+        },
+        {
+            "name": "go101",
+            "url": "https://github.com/go101/go101",
+            "star": 6,
+            "description": "An online book focusing on Go syntax/semantics."
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 11,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "foundation-sites",
+            "url": "https://github.com/foundation/foundation-sites",
+            "star": 4,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device."
+        }
+    ],
+    "go": [
+        {
+            "name": "rclone",
+            "url": "https://github.com/rclone/rclone",
+            "star": 102,
+            "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+        },
+        {
+            "name": "client_golang",
+            "url": "https://github.com/prometheus/client_golang",
+            "star": 4,
+            "description": "Prometheus instrumentation library for Go applications"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 7,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "sqlx",
+            "url": "https://github.com/jmoiron/sqlx",
+            "star": 9,
+            "description": "general purpose extensions to golang's database/sql"
+        },
+        {
+            "name": "swag",
+            "url": "https://github.com/swaggo/swag",
+            "star": 7,
+            "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go."
+        },
+        {
+            "name": "fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "star": 14,
+            "description": "Cross platform GUI in Go based on Material Design"
+        },
+        {
+            "name": "grpc-gateway",
+            "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+            "star": 19,
+            "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+        },
+        {
+            "name": "go-clean-arch",
+            "url": "https://github.com/bxcodec/go-clean-arch",
+            "star": 22,
+            "description": "Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture"
+        },
+        {
+            "name": "distribution",
+            "url": "https://github.com/docker/distribution",
+            "star": 3,
+            "description": "The Docker toolset to pack, ship, store, and deliver content"
+        },
+        {
+            "name": "hcl",
+            "url": "https://github.com/hashicorp/hcl",
+            "star": 2,
+            "description": "HCL is the HashiCorp configuration language."
+        }
+    ]
+}

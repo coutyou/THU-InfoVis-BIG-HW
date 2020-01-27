@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-30",
+    "month": 8,
+    "day": 30,
+    "python": [
+        {
+            "name": "nlp",
+            "url": "https://github.com/microsoft/nlp",
+            "star": 239,
+            "description": "Natural Language Processing Best Practices & Examples"
+        },
+        {
+            "name": "ML-From-Scratch",
+            "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+            "star": 253,
+            "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning."
+        },
+        {
+            "name": "pytorch-transformers",
+            "url": "https://github.com/huggingface/pytorch-transformers",
+            "star": 70,
+            "description": "👾A library of state-of-the-art pretrained models for Natural Language Processing (NLP)"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 65,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/Kr1s77/awesome-python-login-model",
+            "star": 29,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 31,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "mmsr",
+            "url": "https://github.com/open-mmlab/mmsr",
+            "star": 37,
+            "description": "Open MMLab Image and Video Super-Resolution Toolbox, , including SRResNet, SRGAN, ESRGAN, EDVR, etc."
+        },
+        {
+            "name": "mmdetection",
+            "url": "https://github.com/open-mmlab/mmdetection",
+            "star": 26,
+            "description": "Open MMLab Detection Toolbox and Benchmark"
+        },
+        {
+            "name": "netbox",
+            "url": "https://github.com/netbox-community/netbox",
+            "star": 15,
+            "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool."
+        },
+        {
+            "name": "gensim",
+            "url": "https://github.com/RaRe-Technologies/gensim",
+            "star": 4,
+            "description": "Topic Modelling for Humans"
+        }
+    ],
+    "java": [
+        {
+            "name": "hope-boot",
+            "url": "https://github.com/hope-for/hope-boot",
+            "star": 129,
+            "description": "🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。"
+        },
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 124,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "rocketmq-externals",
+            "url": "https://github.com/apache/rocketmq-externals",
+            "star": 7,
+            "description": "Mirror of Apache RocketMQ (Incubating)"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 29,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 50,
+            "description": "一款基于代码生成器的JAVA快速开发平台！采用最新技术，前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 38,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 55,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 43,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "HanLP",
+            "url": "https://github.com/hankcs/HanLP",
+            "star": 29,
+            "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁"
+        },
+        {
+            "name": "jdk",
+            "url": "https://github.com/openjdk/jdk",
+            "star": 3,
+            "description": "Read-only mirror of https://hg.openjdk.java.net/jdk/jdk"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "fsharp-companies",
+            "url": "https://github.com/Kavignon/fsharp-companies",
+            "star": 23,
+            "description": "Community curated list of companies that use F#"
+        },
+        {
+            "name": "renzhengfei",
+            "url": "https://github.com/debitCrossBlockchain/renzhengfei",
+            "star": 31,
+            "description": "https://github.com/benmahr/RenZhengfei"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 138,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "pumpkin-book",
+            "url": "https://github.com/datawhalechina/pumpkin-book",
+            "star": 45,
+            "description": "《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 39,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "awesome-vue",
+            "url": "https://github.com/vuejs/awesome-vue",
+            "star": 51,
+            "description": "🎉A curated list of awesome things related to Vue.js"
+        },
+        {
+            "name": "TL-TROJAN",
+            "url": "https://github.com/threatland/TL-TROJAN",
+            "star": 7,
+            "description": "A collection of source code for various RATs, Stealers, and other Trojans."
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 79,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 28,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "git-tips",
+            "url": "https://github.com/521xueweihan/git-tips",
+            "star": 20,
+            "description": "Git的奇技淫巧"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "WebGL-Fluid-Simulation",
+            "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+            "star": 401,
+            "description": "Play with fluids in your browser (works even on mobile)"
+        },
+        {
+            "name": "outline",
+            "url": "https://github.com/outline/outline",
+            "star": 195,
+            "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source."
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 109,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "todoist",
+            "url": "https://github.com/karlhadwen/todoist",
+            "star": 64,
+            "description": "Building Todoist Using React (Custom Hooks, Context), Firebase & React Testing Library"
+        },
+        {
+            "name": "rebass",
+            "url": "https://github.com/rebassjs/rebass",
+            "star": 9,
+            "description": "⚛️React primitive UI components built with styled-system."
+        },
+        {
+            "name": "nuxt.js",
+            "url": "https://github.com/nuxt/nuxt.js",
+            "star": 23,
+            "description": "The Vue.js Framework"
+        },
+        {
+            "name": "vis-network",
+            "url": "https://github.com/visjs/vis-network",
+            "star": 15,
+            "description": "💫Display dynamic, automatically organised, customizable network views."
+        },
+        {
+            "name": "aos",
+            "url": "https://github.com/michalsnik/aos",
+            "star": 58,
+            "description": "Animate on scroll library"
+        },
+        {
+            "name": "styled-components",
+            "url": "https://github.com/styled-components/styled-components",
+            "star": 27,
+            "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress💅"
+        },
+        {
+            "name": "odoo",
+            "url": "https://github.com/odoo/odoo",
+            "star": 15,
+            "description": "Odoo. Open Source Apps To Grow Your Business."
+        }
+    ],
+    "html": [
+        {
+            "name": "meu-primeiro-jogo-multiplayer",
+            "url": "https://github.com/filipedeschamps/meu-primeiro-jogo-multiplayer",
+            "star": 24,
+            "description": "Um jogo multiplayer bastante simples para testarmos o Socket.io"
+        },
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 90,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "shiro-example",
+            "url": "https://github.com/zhangkaitao/shiro-example",
+            "star": 1,
+            "description": "跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 7,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 11,
+            "description": ""
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 8,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "proposal-decorators",
+            "url": "https://github.com/tc39/proposal-decorators",
+            "star": 1,
+            "description": "Decorators for ES6 classes"
+        },
+        {
+            "name": "web-moderno",
+            "url": "https://github.com/cod3rcursos/web-moderno",
+            "star": 1,
+            "description": ""
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 12,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 5,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        }
+    ],
+    "go": [
+        {
+            "name": "TopList",
+            "url": "https://github.com/tophubs/TopList",
+            "star": 204,
+            "description": "今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 36,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "presidio",
+            "url": "https://github.com/microsoft/presidio",
+            "star": 89,
+            "description": "Context aware, pluggable and customizable data protection and PII data anonymization service for text and images"
+        },
+        {
+            "name": "rancher",
+            "url": "https://github.com/rancher/rancher",
+            "star": 14,
+            "description": "Complete container management platform"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 59,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 43,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "alertmanager",
+            "url": "https://github.com/prometheus/alertmanager",
+            "star": 4,
+            "description": "Prometheus Alertmanager"
+        },
+        {
+            "name": "helm",
+            "url": "https://github.com/helm/helm",
+            "star": 32,
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 19,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "wtf",
+            "url": "https://github.com/wtfutil/wtf",
+            "star": 130,
+            "description": "The personal information dashboard for your terminal."
+        }
+    ]
+}

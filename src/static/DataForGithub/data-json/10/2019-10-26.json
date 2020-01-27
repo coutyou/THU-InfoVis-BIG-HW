@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-26",
+    "month": 10,
+    "day": 26,
+    "python": [
+        {
+            "name": "UhOh365",
+            "url": "https://github.com/Raikia/UhOh365",
+            "star": 28,
+            "description": "A script that can see if an email address is valid in Office365 (user/email enumeration). This does not perform any login attempts, is unthrottled, and is incredibly useful for social engineering assessments to find which emails exist and which don't."
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 114,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "google-research",
+            "url": "https://github.com/google-research/google-research",
+            "star": 126,
+            "description": "Google AI Research"
+        },
+        {
+            "name": "trip-planner",
+            "url": "https://github.com/adl1995/trip-planner",
+            "star": 20,
+            "description": "A CLI tool for planning trip itinerary."
+        },
+        {
+            "name": "chineseGLUE",
+            "url": "https://github.com/chineseGLUE/chineseGLUE",
+            "star": 70,
+            "description": "Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard"
+        },
+        {
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi",
+            "star": 34,
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 58,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        },
+        {
+            "name": "text-to-text-transfer-transformer",
+            "url": "https://github.com/google-research/text-to-text-transfer-transformer",
+            "star": 310,
+            "description": ""
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/PaddlePaddle/models",
+            "star": 12,
+            "description": "Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）"
+        },
+        {
+            "name": "flask",
+            "url": "https://github.com/pallets/flask",
+            "star": 25,
+            "description": "The Python micro framework for building web applications."
+        }
+    ],
+    "java": [
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 101,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 52,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 26,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "mantis",
+            "url": "https://github.com/Netflix/mantis",
+            "star": 19,
+            "description": "A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 91,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "canal",
+            "url": "https://github.com/alibaba/canal",
+            "star": 17,
+            "description": "阿里巴巴 MySQL binlog 增量订阅&消费组件"
+        },
+        {
+            "name": "tablesaw",
+            "url": "https://github.com/jtablesaw/tablesaw",
+            "star": 69,
+            "description": "Java dataframe and visualization library"
+        },
+        {
+            "name": "Auto.js",
+            "url": "https://github.com/hyb1996/Auto.js",
+            "star": 91,
+            "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 94,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "DataX",
+            "url": "https://github.com/alibaba/DataX",
+            "star": 9,
+            "description": ""
+        }
+    ],
+    "unknown": [
+        {
+            "name": "USA-Constitution",
+            "url": "https://github.com/JesseKPhillips/USA-Constitution",
+            "star": 445,
+            "description": "A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting."
+        },
+        {
+            "name": "free-books",
+            "url": "https://github.com/ruanyf/free-books",
+            "star": 90,
+            "description": "互联网上的免费书籍"
+        },
+        {
+            "name": "LearningNotes",
+            "url": "https://github.com/francistao/LearningNotes",
+            "star": 13,
+            "description": "Enjoy Learning."
+        },
+        {
+            "name": "chromium",
+            "url": "https://github.com/chromium/chromium",
+            "star": 11,
+            "description": "The official GitHub mirror of the Chromium source"
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 7,
+            "description": "✅Curated list of resources for college students"
+        },
+        {
+            "name": "knowledge",
+            "url": "https://github.com/nikitavoloboev/knowledge",
+            "star": 15,
+            "description": "Everything I know"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 28,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "from_coder_to_expert",
+            "url": "https://github.com/0voice/from_coder_to_expert",
+            "star": 17,
+            "description": "2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 121,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "cordova-support-google-services",
+            "url": "https://github.com/chemerisuk/cordova-support-google-services",
+            "star": 0,
+            "description": "Cordova plugin to add google service support"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "cube.js",
+            "url": "https://github.com/cube-js/cube.js",
+            "star": 62,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "kubernetes-basicLearning",
+            "url": "https://github.com/knrt10/kubernetes-basicLearning",
+            "star": 96,
+            "description": "Understand kubernetes step by step. A simple repo for beginners🔥"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 75,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "stealing-ur-feelings",
+            "url": "https://github.com/noahlevenson/stealing-ur-feelings",
+            "star": 62,
+            "description": "Winner of Mozilla's $50,000 award for art and advocacy exploring AI"
+        },
+        {
+            "name": "Ghost",
+            "url": "https://github.com/TryGhost/Ghost",
+            "star": 27,
+            "description": "👻The #1 headless Node.js CMS for professional publishing"
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 77,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "p5.js",
+            "url": "https://github.com/processing/p5.js",
+            "star": 17,
+            "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —"
+        },
+        {
+            "name": "next.js",
+            "url": "https://github.com/zeit/next.js",
+            "star": 29,
+            "description": "The React Framework"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 26,
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 166,
+            "description": "The best design tools and plugins for everything👉"
+        }
+    ],
+    "html": [
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 21,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "react-typical",
+            "url": "https://github.com/catalinmiron/react-typical",
+            "star": 23,
+            "description": "React Animated typing in ~400 bytes🐡of JavaScript."
+        },
+        {
+            "name": "meu-primeiro-jogo-multiplayer",
+            "url": "https://github.com/filipedeschamps/meu-primeiro-jogo-multiplayer",
+            "star": 6,
+            "description": "Um jogo multiplayer bastante simples para testarmos o Socket.io"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 9,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "keep-a-changelog",
+            "url": "https://github.com/olivierlacan/keep-a-changelog",
+            "star": 4,
+            "description": "If you build software, keep a changelog."
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 5,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "solar-vue",
+            "url": "https://github.com/atJiangBei/solar-vue",
+            "star": 57,
+            "description": ""
+        },
+        {
+            "name": "hacktoberfest",
+            "url": "https://github.com/AliceWonderland/hacktoberfest",
+            "star": 1,
+            "description": "Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest"
+        },
+        {
+            "name": "glTF",
+            "url": "https://github.com/KhronosGroup/glTF",
+            "star": 4,
+            "description": "glTF – Runtime 3D Asset Delivery"
+        },
+        {
+            "name": "blog",
+            "url": "https://github.com/biaochenxuying/blog",
+            "star": 8,
+            "description": "大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。"
+        }
+    ],
+    "go": [
+        {
+            "name": "phuip-fpizdam",
+            "url": "https://github.com/neex/phuip-fpizdam",
+            "star": 96,
+            "description": "Exploit for CVE-2019-11043"
+        },
+        {
+            "name": "Yearning",
+            "url": "https://github.com/cookieY/Yearning",
+            "star": 80,
+            "description": "受欢迎的 Mysql sql审核平台"
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 26,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        },
+        {
+            "name": "testify",
+            "url": "https://github.com/stretchr/testify",
+            "star": 11,
+            "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+        },
+        {
+            "name": "logrus",
+            "url": "https://github.com/sirupsen/logrus",
+            "star": 9,
+            "description": "Structured, pluggable logging for Go."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 43,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "grpc-gateway",
+            "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+            "star": 5,
+            "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 21,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "pg",
+            "url": "https://github.com/go-pg/pg",
+            "star": 0,
+            "description": "Golang ORM with focus on PostgreSQL features and performance"
+        },
+        {
+            "name": "yay",
+            "url": "https://github.com/Jguer/yay",
+            "star": 50,
+            "description": "Yet another Yogurt - An AUR Helper written in Go"
+        }
+    ]
+}

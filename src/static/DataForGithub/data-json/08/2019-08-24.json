@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-24",
+    "month": 8,
+    "day": 24,
+    "python": [
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 409,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "HungaBunga",
+            "url": "https://github.com/ypeleg/HungaBunga",
+            "star": 40,
+            "description": "HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!"
+        },
+        {
+            "name": "kubernetes-workshop",
+            "url": "https://github.com/eon01/kubernetes-workshop",
+            "star": 45,
+            "description": "⚙️A Gentle introduction to Kubernetes with more than just the basics.🌟Give it a star if you like it."
+        },
+        {
+            "name": "mmdetection",
+            "url": "https://github.com/open-mmlab/mmdetection",
+            "star": 19,
+            "description": "Open MMLab Detection Toolbox and Benchmark"
+        },
+        {
+            "name": "stylegan",
+            "url": "https://github.com/NVlabs/stylegan",
+            "star": 6,
+            "description": "StyleGAN - Official TensorFlow Implementation"
+        },
+        {
+            "name": "open_model_zoo",
+            "url": "https://github.com/opencv/open_model_zoo",
+            "star": 11,
+            "description": "Pre-trained Deep Learning models and samples (high quality and extremely fast)"
+        },
+        {
+            "name": "prophet",
+            "url": "https://github.com/facebook/prophet",
+            "star": 9,
+            "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth."
+        },
+        {
+            "name": "gcn",
+            "url": "https://github.com/tkipf/gcn",
+            "star": 5,
+            "description": "Implementation of Graph Convolutional Networks in TensorFlow"
+        },
+        {
+            "name": "former",
+            "url": "https://github.com/pbloem/former",
+            "star": 38,
+            "description": "Simple transformer implementation from scratch in pytorch."
+        },
+        {
+            "name": "hacktronian",
+            "url": "https://github.com/thehackingsage/hacktronian",
+            "star": 20,
+            "description": "All in One Hacking Tool for Linux & Android"
+        }
+    ],
+    "java": [
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/justauth/JustAuth",
+            "star": 153,
+            "description": "💯史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 164,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 40,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        },
+        {
+            "name": "cim",
+            "url": "https://github.com/crossoverJie/cim",
+            "star": 45,
+            "description": "📲cim(cross IM) 适用于开发者的即时通讯系统"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 62,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "piggymetrics",
+            "url": "https://github.com/sqshq/piggymetrics",
+            "star": 6,
+            "description": "Microservice Architecture with Spring Boot, Spring Cloud and Docker"
+        },
+        {
+            "name": "flink-recommandSystem-demo",
+            "url": "https://github.com/CheckChe0803/flink-recommandSystem-demo",
+            "star": 12,
+            "description": "🚁🚀基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。"
+        },
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 20,
+            "description": "Apache Flink"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 24,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "bistoury",
+            "url": "https://github.com/qunarcorp/bistoury",
+            "star": 13,
+            "description": "Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "free-books",
+            "url": "https://github.com/ruanyf/free-books",
+            "star": 241,
+            "description": "互联网上的免费书籍"
+        },
+        {
+            "name": "awesome-coding-js",
+            "url": "https://github.com/ConardLi/awesome-coding-js",
+            "star": 58,
+            "description": "用JavaScript实现的算法和数据结构，附详细解释和刷题指南"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 103,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 36,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "RedTeam-BCS",
+            "url": "https://github.com/Mel0day/RedTeam-BCS",
+            "star": 21,
+            "description": "BCS（北京网络安全大会）2019 红队行动会议重点内容"
+        },
+        {
+            "name": "StabilityGuide",
+            "url": "https://github.com/StabilityMan/StabilityGuide",
+            "star": 8,
+            "description": "【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。"
+        },
+        {
+            "name": "react-typescript-cheatsheet",
+            "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+            "star": 12,
+            "description": "Cheatsheets for experienced React developers getting started with TypeScript"
+        },
+        {
+            "name": "awesome-actions",
+            "url": "https://github.com/sdras/awesome-actions",
+            "star": 26,
+            "description": "A curated list of awesome actions to use on GitHub"
+        },
+        {
+            "name": "webkit",
+            "url": "https://github.com/WebKit/webkit",
+            "star": 1,
+            "description": "Unofficial mirror of the WebKit SVN repository"
+        },
+        {
+            "name": "Raytracer-In-Excel",
+            "url": "https://github.com/s0lly/Raytracer-In-Excel",
+            "star": 19,
+            "description": "Raytracer in our favourite spreadsheet application!"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "incubator-superset",
+            "url": "https://github.com/apache/incubator-superset",
+            "star": 55,
+            "description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application"
+        },
+        {
+            "name": "flv.js",
+            "url": "https://github.com/bilibili/flv.js",
+            "star": 43,
+            "description": "HTML5 FLV Player"
+        },
+        {
+            "name": "admin-bro",
+            "url": "https://github.com/SoftwareBrothers/admin-bro",
+            "star": 80,
+            "description": "AdminBro is an admin panel for apps written in node.js"
+        },
+        {
+            "name": "yapi",
+            "url": "https://github.com/YMFE/yapi",
+            "star": 46,
+            "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台"
+        },
+        {
+            "name": "gridstudio",
+            "url": "https://github.com/ricklamers/gridstudio",
+            "star": 22,
+            "description": "Grid studio is a web-based spreadsheet application with full integration of the Python programming language."
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 55,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "grapesjs",
+            "url": "https://github.com/artf/grapesjs",
+            "star": 12,
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding"
+        },
+        {
+            "name": "react-select",
+            "url": "https://github.com/JedWatson/react-select",
+            "star": 7,
+            "description": "The Select Component for React.js"
+        },
+        {
+            "name": "label-studio",
+            "url": "https://github.com/heartexlabs/label-studio",
+            "star": 23,
+            "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format"
+        },
+        {
+            "name": "cypress-example-recipes",
+            "url": "https://github.com/cypress-io/cypress-example-recipes",
+            "star": 5,
+            "description": "Various recipes for testing common scenarios with Cypress"
+        }
+    ],
+    "html": [
+        {
+            "name": "ppts",
+            "url": "https://github.com/iv-web/ppts",
+            "star": 60,
+            "description": "团队对外分享ppt"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 8,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "owasp-mstg",
+            "url": "https://github.com/OWASP/owasp-mstg",
+            "star": 4,
+            "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering."
+        },
+        {
+            "name": "mkdocs-material",
+            "url": "https://github.com/squidfunk/mkdocs-material",
+            "star": 1,
+            "description": "A Material Design theme for MkDocs"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 6,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "Disease-detection-using-chest-xrays",
+            "url": "https://github.com/SGNovice/Disease-detection-using-chest-xrays",
+            "star": 1,
+            "description": "For the demo. Click on the link."
+        },
+        {
+            "name": "WebFundamentals",
+            "url": "https://github.com/google/WebFundamentals",
+            "star": 3,
+            "description": "Best practices for modern web development"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 12,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "cloud-run-hello",
+            "url": "https://github.com/GoogleCloudPlatform/cloud-run-hello",
+            "star": 3,
+            "description": "Sample Cloud Run application"
+        },
+        {
+            "name": "core",
+            "url": "https://github.com/stackblitz/core",
+            "star": 5,
+            "description": "Online IDE powered by Visual Studio Code⚡️"
+        }
+    ],
+    "go": [
+        {
+            "name": "go-ethereum",
+            "url": "https://github.com/ethereum/go-ethereum",
+            "star": 19,
+            "description": "Official Go implementation of the Ethereum protocol"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 41,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "govalidator",
+            "url": "https://github.com/asaskevich/govalidator",
+            "star": 8,
+            "description": "[Go] Package of validators and sanitizers for strings, numerics, slices and structs"
+        },
+        {
+            "name": "mysql",
+            "url": "https://github.com/go-sql-driver/mysql",
+            "star": 8,
+            "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 5,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "external-dns",
+            "url": "https://github.com/kubernetes-incubator/external-dns",
+            "star": 8,
+            "description": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 7,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "cloud-run-button",
+            "url": "https://github.com/GoogleCloudPlatform/cloud-run-button",
+            "star": 18,
+            "description": "Let anyone deploy your GitHub repos to Google Cloud Run with a single click"
+        },
+        {
+            "name": "annie",
+            "url": "https://github.com/iawia002/annie",
+            "star": 41,
+            "description": "👾Fast, simple and clean video downloader"
+        },
+        {
+            "name": "ginkgo",
+            "url": "https://github.com/onsi/ginkgo",
+            "star": 17,
+            "description": "BDD Testing Framework for Go"
+        }
+    ]
+}

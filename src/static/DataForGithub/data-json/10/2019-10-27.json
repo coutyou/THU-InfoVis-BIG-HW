@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-27",
+    "month": 10,
+    "day": 27,
+    "python": [
+        {
+            "name": "google-research",
+            "url": "https://github.com/google-research/google-research",
+            "star": 148,
+            "description": "Google AI Research"
+        },
+        {
+            "name": "pytorch_geometric",
+            "url": "https://github.com/rusty1s/pytorch_geometric",
+            "star": 8,
+            "description": "Geometric Deep Learning Extension Library for PyTorch"
+        },
+        {
+            "name": "text-to-text-transfer-transformer",
+            "url": "https://github.com/google-research/text-to-text-transfer-transformer",
+            "star": 111,
+            "description": ""
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 96,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "zulip",
+            "url": "https://github.com/zulip/zulip",
+            "star": 10,
+            "description": "Zulip server - powerful open source team chat"
+        },
+        {
+            "name": "apex",
+            "url": "https://github.com/NVIDIA/apex",
+            "star": 16,
+            "description": "A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch"
+        },
+        {
+            "name": "chainer",
+            "url": "https://github.com/chainer/chainer",
+            "star": 3,
+            "description": "A flexible framework of neural networks for deep learning"
+        },
+        {
+            "name": "napari",
+            "url": "https://github.com/napari/napari",
+            "star": 30,
+            "description": "napari: a fast, interactive, multi-dimensional image viewer for python"
+        },
+        {
+            "name": "jet-bridge",
+            "url": "https://github.com/jet-admin/jet-bridge",
+            "star": 7,
+            "description": "Jet Bridge (Universal) for Jet Admin – API-based Admin Panel Framework for your application"
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 21,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        }
+    ],
+    "java": [
+        {
+            "name": "algorithm004-01",
+            "url": "https://github.com/algorithm004-01/algorithm004-01",
+            "star": 92,
+            "description": ""
+        },
+        {
+            "name": "Auto.js",
+            "url": "https://github.com/hyb1996/Auto.js",
+            "star": 35,
+            "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)"
+        },
+        {
+            "name": "lucene-solr",
+            "url": "https://github.com/apache/lucene-solr",
+            "star": 2,
+            "description": "Apache Lucene and Solr open-source search software"
+        },
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 7,
+            "description": "Apache Flink"
+        },
+        {
+            "name": "hbase",
+            "url": "https://github.com/apache/hbase",
+            "star": 3,
+            "description": "Mirror of Apache HBase"
+        },
+        {
+            "name": "thingsboard",
+            "url": "https://github.com/thingsboard/thingsboard",
+            "star": 2,
+            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+        },
+        {
+            "name": "pulsar",
+            "url": "https://github.com/apache/pulsar",
+            "star": 8,
+            "description": "Apache Pulsar - distributed pub-sub messaging system"
+        },
+        {
+            "name": "Android-CandyCodedApplication",
+            "url": "https://github.com/pluralsight-projects/Android-CandyCodedApplication",
+            "star": 3,
+            "description": ""
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 14,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "netty",
+            "url": "https://github.com/netty/netty",
+            "star": 10,
+            "description": "Netty project - an event-driven asynchronous network application framework"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "free-books",
+            "url": "https://github.com/ruanyf/free-books",
+            "star": 176,
+            "description": "互联网上的免费书籍"
+        },
+        {
+            "name": "devmap",
+            "url": "https://github.com/zualex/devmap",
+            "star": 12,
+            "description": "Карта развития веб-разработчика"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 74,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "cordova-support-google-services",
+            "url": "https://github.com/chemerisuk/cordova-support-google-services",
+            "star": 0,
+            "description": "Cordova plugin to add google service support"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 32,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "MIT-Linear-Algebra-Notes",
+            "url": "https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes",
+            "star": 19,
+            "description": "Notes for MIT-Linear-Algebra"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 45,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "nlp-datasets",
+            "url": "https://github.com/niderhoff/nlp-datasets",
+            "star": 4,
+            "description": "Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)"
+        },
+        {
+            "name": "awesome-haskell",
+            "url": "https://github.com/albohlabs/awesome-haskell",
+            "star": 10,
+            "description": "A curated list of amazingly awesome Haskell articles and talks for beginners."
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 7,
+            "description": "科技爱好者周刊，每周五发布"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "folio-2019",
+            "url": "https://github.com/brunosimon/folio-2019",
+            "star": 276,
+            "description": ""
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 82,
+            "description": "The best design tools and plugins for everything👉"
+        },
+        {
+            "name": "axios",
+            "url": "https://github.com/axios/axios",
+            "star": 35,
+            "description": "Promise based HTTP client for the browser and node.js"
+        },
+        {
+            "name": "mattermost-webapp",
+            "url": "https://github.com/mattermost/mattermost-webapp",
+            "star": 2,
+            "description": "Webapp of Mattermost server: https://github.com/mattermost/mattermost-server"
+        },
+        {
+            "name": "mitt",
+            "url": "https://github.com/developit/mitt",
+            "star": 63,
+            "description": "🥊Tiny 200 byte functional event emitter / pubsub."
+        },
+        {
+            "name": "cube.js",
+            "url": "https://github.com/cube-js/cube.js",
+            "star": 86,
+            "description": "📊Cube.js - Open Source Analytics Framework"
+        },
+        {
+            "name": "reactjs.org",
+            "url": "https://github.com/reactjs/reactjs.org",
+            "star": 6,
+            "description": "The React documentation website"
+        },
+        {
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js",
+            "star": 35,
+            "description": "JavaScript 3D library."
+        },
+        {
+            "name": "aimAndShoot",
+            "url": "https://github.com/victorqribeiro/aimAndShoot",
+            "star": 41,
+            "description": "A neuroevolution game experiment."
+        },
+        {
+            "name": "carbon",
+            "url": "https://github.com/carbon-design-system/carbon",
+            "star": 7,
+            "description": "A design system built by IBM"
+        }
+    ],
+    "html": [
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 3,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "pybluez",
+            "url": "https://github.com/pybluez/pybluez",
+            "star": 2,
+            "description": "Bluetooth Python extension module"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 20,
+            "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 7,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "github-markdown-css",
+            "url": "https://github.com/sindresorhus/github-markdown-css",
+            "star": 2,
+            "description": "The minimal amount of CSS to replicate the GitHub Markdown style"
+        },
+        {
+            "name": "flag-icon-css",
+            "url": "https://github.com/lipis/flag-icon-css",
+            "star": 0,
+            "description": "🎏A collection of all country flags in SVG — plus the CSS for easier integration"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 7,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 2,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "pure",
+            "url": "https://github.com/pure-css/pure",
+            "star": 3,
+            "description": "A set of small, responsive CSS modules that you can use in every web project."
+        },
+        {
+            "name": "embeddedsw",
+            "url": "https://github.com/Xilinx/embeddedsw",
+            "star": 0,
+            "description": "Xilinx Embedded Software (embeddedsw) Development"
+        }
+    ],
+    "go": [
+        {
+            "name": "fasthttp",
+            "url": "https://github.com/valyala/fasthttp",
+            "star": 16,
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http"
+        },
+        {
+            "name": "phuip-fpizdam",
+            "url": "https://github.com/neex/phuip-fpizdam",
+            "star": 69,
+            "description": "Exploit for CVE-2019-11043"
+        },
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 8,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/gogo/protobuf",
+            "star": 7,
+            "description": "Protocol Buffers for Go with Gadgets"
+        },
+        {
+            "name": "sourcegraph",
+            "url": "https://github.com/sourcegraph/sourcegraph",
+            "star": 6,
+            "description": "Code search and navigation tool (self-hosted)"
+        },
+        {
+            "name": "go-admin",
+            "url": "https://github.com/GoAdminGroup/go-admin",
+            "star": 13,
+            "description": "A dataviz framework help gopher to build a admin panel in ten minutes"
+        },
+        {
+            "name": "client-go",
+            "url": "https://github.com/kubernetes/client-go",
+            "star": 3,
+            "description": "Go client for Kubernetes."
+        },
+        {
+            "name": "yay",
+            "url": "https://github.com/Jguer/yay",
+            "star": 37,
+            "description": "Yet another Yogurt - An AUR Helper written in Go"
+        },
+        {
+            "name": "chromedp",
+            "url": "https://github.com/chromedp/chromedp",
+            "star": 6,
+            "description": "A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol."
+        },
+        {
+            "name": "test-infra",
+            "url": "https://github.com/kubernetes/test-infra",
+            "star": 1,
+            "description": "Test infrastructure for the Kubernetes project."
+        }
+    ]
+}

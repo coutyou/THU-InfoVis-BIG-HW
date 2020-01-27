@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-23",
+    "month": 10,
+    "day": 23,
+    "python": [
+        {
+            "name": "zipline",
+            "url": "https://github.com/quantopian/zipline",
+            "star": 76,
+            "description": "Zipline, a Pythonic Algorithmic Trading Library"
+        },
+        {
+            "name": "data-science-ipython-notebooks",
+            "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+            "star": 20,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+        },
+        {
+            "name": "thefuck",
+            "url": "https://github.com/nvbn/thefuck",
+            "star": 178,
+            "description": "Magnificent app which corrects your previous console command."
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 139,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "pwnagotchi",
+            "url": "https://github.com/evilsocket/pwnagotchi",
+            "star": 219,
+            "description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning."
+        },
+        {
+            "name": "tensortrade",
+            "url": "https://github.com/notadamking/tensortrade",
+            "star": 107,
+            "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents."
+        },
+        {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "star": 18,
+            "description": "🔎Find usernames across social networks"
+        },
+        {
+            "name": "c9-python-getting-started",
+            "url": "https://github.com/microsoft/c9-python-getting-started",
+            "star": 55,
+            "description": "Sample code for Channel 9 Python for Beginners course"
+        },
+        {
+            "name": "NLP-progress",
+            "url": "https://github.com/sebastianruder/NLP-progress",
+            "star": 18,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+        },
+        {
+            "name": "nni",
+            "url": "https://github.com/microsoft/nni",
+            "star": 7,
+            "description": "An open source AutoML toolkit for neural architecture search and hyper-parameter tuning."
+        }
+    ],
+    "java": [
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 63,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 41,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 40,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 155,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 61,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "Sentinel",
+            "url": "https://github.com/alibaba/Sentinel",
+            "star": 22,
+            "description": "A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)"
+        },
+        {
+            "name": "h2o-3",
+            "url": "https://github.com/h2oai/h2o-3",
+            "star": 4,
+            "description": "Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc."
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 18,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 29,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 99,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 54,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        },
+        {
+            "name": "Machine-Learning-Yearning-Vietnamese-Translation",
+            "url": "https://github.com/aivivn/Machine-Learning-Yearning-Vietnamese-Translation",
+            "star": 25,
+            "description": ""
+        },
+        {
+            "name": "p1xt-guides",
+            "url": "https://github.com/P1xt/p1xt-guides",
+            "star": 16,
+            "description": "Programming curricula"
+        },
+        {
+            "name": "PLMpapers",
+            "url": "https://github.com/thunlp/PLMpapers",
+            "star": 60,
+            "description": "Must-read Papers on pre-trained language models."
+        },
+        {
+            "name": "AZ-103-MicrosoftAzureAdministrator",
+            "url": "https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+            "star": 3,
+            "description": "AZ-103: Microsoft Azure Administrator"
+        },
+        {
+            "name": "reverse-interview-zh",
+            "url": "https://github.com/yifeikong/reverse-interview-zh",
+            "star": 281,
+            "description": "技术面试最后反问面试官的话"
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 9,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "reactjs-interview-questions",
+            "url": "https://github.com/sudheerj/reactjs-interview-questions",
+            "star": 16,
+            "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 66,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "javascript-testing-best-practices",
+            "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+            "star": 48,
+            "description": "📗🌐🚢Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "incubator-echarts",
+            "url": "https://github.com/apache/incubator-echarts",
+            "star": 34,
+            "description": "A powerful, interactive charting and visualization library for browser"
+        },
+        {
+            "name": "hyper",
+            "url": "https://github.com/zeit/hyper",
+            "star": 54,
+            "description": "A terminal built on web technologies"
+        },
+        {
+            "name": "protractor",
+            "url": "https://github.com/angular/protractor",
+            "star": 6,
+            "description": "E2E test framework for Angular apps"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 53,
+            "description": "Headless Chrome Node.js API"
+        },
+        {
+            "name": "react-native-firebase",
+            "url": "https://github.com/invertase/react-native-firebase",
+            "star": 9,
+            "description": "🔥A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 194,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/stephentian/33-js-concepts",
+            "star": 53,
+            "description": "📜每个 JavaScript 工程师都应懂的33个概念 @leonardomso"
+        },
+        {
+            "name": "react-developer-roadmap",
+            "url": "https://github.com/adam-golab/react-developer-roadmap",
+            "star": 56,
+            "description": "Roadmap to becoming a React developer in 2019"
+        },
+        {
+            "name": "Sortable",
+            "url": "https://github.com/SortableJS/Sortable",
+            "star": 21,
+            "description": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap."
+        },
+        {
+            "name": "salgode-mobile",
+            "url": "https://github.com/salgode/salgode-mobile",
+            "star": 6,
+            "description": "Salgo De Mobile App"
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 474,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "3d-force-graph",
+            "url": "https://github.com/vasturiano/3d-force-graph",
+            "star": 2,
+            "description": "3D force-directed graph component using ThreeJS/WebGL"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 23,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "screenfull.js",
+            "url": "https://github.com/sindresorhus/screenfull.js",
+            "star": 4,
+            "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API"
+        },
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 1,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 29,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "shiro-example",
+            "url": "https://github.com/zhangkaitao/shiro-example",
+            "star": 3,
+            "description": "跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）"
+        },
+        {
+            "name": "tiny-slider",
+            "url": "https://github.com/ganlanyuan/tiny-slider",
+            "star": 9,
+            "description": "Vanilla javascript slider for all purposes."
+        },
+        {
+            "name": "ng-alain",
+            "url": "https://github.com/ng-alain/ng-alain",
+            "star": 2,
+            "description": "NG-ZORRO admin panel front-end framework (netlify mirror https://netlify.ng-alain.com/)"
+        },
+        {
+            "name": "node-interview",
+            "url": "https://github.com/ElemeFE/node-interview",
+            "star": 6,
+            "description": "How to pass the Node.js interview of ElemeFE."
+        }
+    ],
+    "go": [
+        {
+            "name": "go",
+            "url": "https://github.com/json-iterator/go",
+            "star": 46,
+            "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\""
+        },
+        {
+            "name": "rancher",
+            "url": "https://github.com/rancher/rancher",
+            "star": 23,
+            "description": "Complete container management platform"
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 13,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 31,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "nomad",
+            "url": "https://github.com/hashicorp/nomad",
+            "star": 10,
+            "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+        },
+        {
+            "name": "btcd",
+            "url": "https://github.com/btcsuite/btcd",
+            "star": 2,
+            "description": "An alternative full node bitcoin implementation written in Go (golang)"
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 17,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 4,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 18,
+            "description": "Curated applications for Kubernetes"
+        },
+        {
+            "name": "gocache",
+            "url": "https://github.com/eko/gocache",
+            "star": 29,
+            "description": "☔️A complete Go cache library that brings you multiple ways of managing your caches"
+        }
+    ]
+}

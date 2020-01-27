@@ -1,0 +1,377 @@
+{
+    "date": "2019-02-27",
+    "month": 2,
+    "day": 27,
+    "python": [
+        {
+            "name": "subsync",
+            "url": "https://github.com/smacke/subsync",
+            "star": 1290,
+            "description": "Automagically synchronize subtitles with video."
+        },
+        {
+            "name": "zero",
+            "url": "https://github.com/remoteinterview/zero",
+            "star": 1107,
+            "description": "Zero is a web server to simplify web development."
+        },
+        {
+            "name": "Algorithm_Interview_Notes-Chinese",
+            "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+            "star": 765,
+            "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记"
+        },
+        {
+            "name": "bullet",
+            "url": "https://github.com/Mckinsey666/bullet",
+            "star": 737,
+            "description": "🚅Beautiful Python prompts made simple. Build a prompt like stacking blocks."
+        },
+        {
+            "name": "AdaBound",
+            "url": "https://github.com/Luolc/AdaBound",
+            "star": 570,
+            "description": "An optimizer that trains as fast as Adam and as good as SGD."
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 363,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "lingvo",
+            "url": "https://github.com/tensorflow/lingvo",
+            "star": 290,
+            "description": "Lingvo"
+        },
+        {
+            "name": "gpt-2",
+            "url": "https://github.com/openai/gpt-2",
+            "star": 130,
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\""
+        },
+        {
+            "name": "face.evoLVe.PyTorch",
+            "url": "https://github.com/ZhaoJ9014/face.evoLVe.PyTorch",
+            "star": 110,
+            "description": "🔥🔥High-Performance Face Recognition Library on PyTorch🔥🔥"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 106,
+            "description": "A collective list of free APIs for use in software and web development."
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 269,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "XPopup",
+            "url": "https://github.com/li-xiaojun/XPopup",
+            "star": 190,
+            "description": "🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom Popup View.)"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 130,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "DoraemonKit",
+            "url": "https://github.com/didi/DoraemonKit",
+            "star": 120,
+            "description": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 79,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 58,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 58,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 59,
+            "description": "🔥Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 44,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "nacos",
+            "url": "https://github.com/alibaba/nacos",
+            "star": 52,
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 546,
+            "description": "The best design tools for everything."
+        },
+        {
+            "name": "Awesome-WAF",
+            "url": "https://github.com/0xInfection/Awesome-WAF",
+            "star": 434,
+            "description": "🔥A curated list of awesome web-app firewall (WAF) stuff."
+        },
+        {
+            "name": "Micro8",
+            "url": "https://github.com/Micropoor/Micro8",
+            "star": 313,
+            "description": "Gitbook"
+        },
+        {
+            "name": "Nodejs-Developer-Roadmap",
+            "url": "https://github.com/aliyr/Nodejs-Developer-Roadmap",
+            "star": 260,
+            "description": "A Developer Roadmap to becoming a Node.js developer in 2019"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 216,
+            "description": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 184,
+            "description": "😋技术面试必备基础知识"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 172,
+            "description": "⭐️A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "awesome-css-learning",
+            "url": "https://github.com/micromata/awesome-css-learning",
+            "star": 161,
+            "description": "A tiny list limited to the best CSS Learning Resources"
+        },
+        {
+            "name": "ShadowsocksBio",
+            "url": "https://github.com/JadaGates/ShadowsocksBio",
+            "star": 147,
+            "description": "记录一下SS的前世今生，以及一个简单的教程总结"
+        },
+        {
+            "name": "deep-learning-drizzle",
+            "url": "https://github.com/kmario23/deep-learning-drizzle",
+            "star": 133,
+            "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "cleave.js",
+            "url": "https://github.com/nosir/cleave.js",
+            "star": 403,
+            "description": "Format input text content when you are typing..."
+        },
+        {
+            "name": "react-three-fiber",
+            "url": "https://github.com/drcmda/react-three-fiber",
+            "star": 376,
+            "description": "👌React-fiber renderer for THREE.js"
+        },
+        {
+            "name": "nsfwjs",
+            "url": "https://github.com/infinitered/nsfwjs",
+            "star": 335,
+            "description": "NSFW detection on the client-side via Tensorflow JS"
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 298,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "chameleon",
+            "url": "https://github.com/didi/chameleon",
+            "star": 186,
+            "description": "🦎一套代码运行多端，一端所见即多端所见"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 134,
+            "description": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 119,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "filepond",
+            "url": "https://github.com/pqina/filepond",
+            "star": 115,
+            "description": "🌊A flexible and fun JavaScript file upload library"
+        },
+        {
+            "name": "video-maker",
+            "url": "https://github.com/filipedeschamps/video-maker",
+            "star": 96,
+            "description": "Projeto open source para fazer vídeos automatizados"
+        },
+        {
+            "name": "react-native",
+            "url": "https://github.com/facebook/react-native",
+            "star": 88,
+            "description": "A framework for building native apps with React."
+        }
+    ],
+    "html": [
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/almasaeed2010/AdminLTE",
+            "star": 22,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 25,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 21,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 22,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        },
+        {
+            "name": "googlefonts-font-display-helper",
+            "url": "https://github.com/iamakulov/googlefonts-font-display-helper",
+            "star": 23,
+            "description": "A snippet generator to speed up Google Fonts rendering with font-display"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 15,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 21,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "awesome-IT-films",
+            "url": "https://github.com/greybax/awesome-IT-films",
+            "star": 22,
+            "description": "📺A curated list of awesome films about IT & geek people."
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 17,
+            "description": "Style guides for Google-originated open-source projects"
+        }
+    ],
+    "go": [
+        {
+            "name": "k3s",
+            "url": "https://github.com/rancher/k3s",
+            "star": 381,
+            "description": "Lightweight Kubernetes. 5 less than k8s."
+        },
+        {
+            "name": "go2-book",
+            "url": "https://github.com/chai2010/go2-book",
+            "star": 134,
+            "description": "📚《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性"
+        },
+        {
+            "name": "cds",
+            "url": "https://github.com/ovh/cds",
+            "star": 89,
+            "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 73,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 64,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "inlets",
+            "url": "https://github.com/alexellis/inlets",
+            "star": 52,
+            "description": "Expose your local endpoints to the Internet"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 49,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "Amass",
+            "url": "https://github.com/OWASP/Amass",
+            "star": 48,
+            "description": "In-depth DNS Enumeration and Network Mapping"
+        },
+        {
+            "name": "dgraph",
+            "url": "https://github.com/dgraph-io/dgraph",
+            "star": 46,
+            "description": "Fast, Distributed Graph DB"
+        },
+        {
+            "name": "cli",
+            "url": "https://github.com/smallstep/cli",
+            "star": 43,
+            "description": "A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc."
+        }
+    ]
+}

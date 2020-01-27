@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-02",
+    "month": 7,
+    "day": 2,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 428,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "mps-youtube",
+            "url": "https://github.com/mps-youtube/mps-youtube",
+            "star": 116,
+            "description": "Terminal based YouTube player and downloader"
+        },
+        {
+            "name": "DeepNude-an-Image-to-Image-technology",
+            "url": "https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology",
+            "star": 156,
+            "description": "Research techniques and papers related to image generation and image restoration used by DeepNude. 研究DeepNude使用的图像生成和图像修复相关的技术和论文。"
+        },
+        {
+            "name": "Infosec_Reference",
+            "url": "https://github.com/rmusser01/Infosec_Reference",
+            "star": 81,
+            "description": "An Information Security Reference That Doesn't Suck"
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 71,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "faceswap",
+            "url": "https://github.com/deepfakes/faceswap",
+            "star": 65,
+            "description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!"
+        },
+        {
+            "name": "machine_learning_examples",
+            "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+            "star": 126,
+            "description": "A collection of machine learning examples and tutorials."
+        },
+        {
+            "name": "ptf",
+            "url": "https://github.com/trustedsec/ptf",
+            "star": 9,
+            "description": "The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools."
+        },
+        {
+            "name": "DeepCTR",
+            "url": "https://github.com/shenweichen/DeepCTR",
+            "star": 11,
+            "description": "Easy-to-use,Modular and Extendible package of deep-learning based CTR models.DeepFM,DeepInterestNetwork(DIN),DeepInterestEvolutionNetwork(DIEN),DeepCrossNetwork(DCN),AttentionalFactorizationMachine(AFM),Neural Factorization Machine(NFM),AutoInt,Deep Session Interest Network(DSIN)"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 46,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        }
+    ],
+    "java": [
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 195,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "MyBookshelf",
+            "url": "https://github.com/gedoor/MyBookshelf",
+            "star": 29,
+            "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 72,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "SpringBootLearning",
+            "url": "https://github.com/forezp/SpringBootLearning",
+            "star": 23,
+            "description": "《Spring Boot教程》源码"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 36,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "hsweb-framework",
+            "url": "https://github.com/hs-web/hsweb-framework",
+            "star": 21,
+            "description": "hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:便捷的通用增删改查,强大的权限管理,动态多数据源,动态表单,在线数据库维护等. 基于 spring-boot,mybaits."
+        },
+        {
+            "name": "TheFatRat",
+            "url": "https://github.com/Screetsec/TheFatRat",
+            "star": 10,
+            "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software …"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 3,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 3,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/spring-cloud-incubator/spring-cloud-alibaba",
+            "star": 31,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Awesome-Chinese-NLP",
+            "url": "https://github.com/crownpku/Awesome-Chinese-NLP",
+            "star": 70,
+            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料"
+        },
+        {
+            "name": "GitHubDaily",
+            "url": "https://github.com/GitHubDaily/GitHubDaily",
+            "star": 138,
+            "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+        },
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 207,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 124,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "awesome-osint",
+            "url": "https://github.com/jivoi/awesome-osint",
+            "star": 57,
+            "description": "😱A curated list of amazingly awesome OSINT"
+        },
+        {
+            "name": "xray",
+            "url": "https://github.com/chaitin/xray",
+            "star": 26,
+            "description": "xray 安全评估工具"
+        },
+        {
+            "name": "awesome-community-detection",
+            "url": "https://github.com/benedekrozemberczki/awesome-community-detection",
+            "star": 14,
+            "description": "A curated list of community detection research papers with implementations."
+        },
+        {
+            "name": "gans-awesome-applications",
+            "url": "https://github.com/nashory/gans-awesome-applications",
+            "star": 9,
+            "description": "Curated list of awesome GAN applications and demo"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 58,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "Cheatsheet-God",
+            "url": "https://github.com/OlivierLaflamme/Cheatsheet-God",
+            "star": 2,
+            "description": "Penetration Testing / OSCP Biggest Reference Bank / Cheatsheet"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 405,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "opencti",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "star": 138,
+            "description": "Open Cyber Threat Intelligence Platform"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 83,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "complete-javascript-course",
+            "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+            "star": 10,
+            "description": "Starter files, final projects and FAQ for my Complete JavaScript course"
+        },
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 128,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 43,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "discord.js",
+            "url": "https://github.com/discordjs/discord.js",
+            "star": 21,
+            "description": "A powerful JavaScript library for interacting with the Discord API"
+        },
+        {
+            "name": "yox",
+            "url": "https://github.com/yoxjs/yox",
+            "star": 79,
+            "description": "A lightweight mvvm framework"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/mgechev/javascript-algorithms",
+            "star": 45,
+            "description": "JavaScript implementation of different computer science algorithms."
+        },
+        {
+            "name": "uBlock",
+            "url": "https://github.com/gorhill/uBlock",
+            "star": 16,
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+        }
+    ],
+    "html": [
+        {
+            "name": "Home-Assistant-Config",
+            "url": "https://github.com/JamesMcCarthy79/Home-Assistant-Config",
+            "star": 0,
+            "description": "Home Assistant Configuration & Documentation for my Smart House."
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 54,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 38,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 6,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "zfaka",
+            "url": "https://github.com/zlkbdotnet/zfaka",
+            "star": 6,
+            "description": "免费、安全、稳定、高效的发卡系统，值得拥有!"
+        },
+        {
+            "name": "python-getting-started",
+            "url": "https://github.com/heroku/python-getting-started",
+            "star": 2,
+            "description": "Getting Started with Python on Heroku."
+        },
+        {
+            "name": "Markdown-Resume",
+            "url": "https://github.com/CyC2018/Markdown-Resume",
+            "star": 3,
+            "description": "⭐️Markdown 简历模版"
+        },
+        {
+            "name": "grao",
+            "url": "https://github.com/fakedob/grao",
+            "star": 9,
+            "description": "PoC Stara Zagora GRAO Personal data leak"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 37,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "Front-end-Developer-Interview-Questions",
+            "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+            "star": 20,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+        }
+    ],
+    "go": [
+        {
+            "name": "vault",
+            "url": "https://github.com/hashicorp/vault",
+            "star": 16,
+            "description": "A tool for secrets management, encryption as a service, and privileged access management"
+        },
+        {
+            "name": "gocui",
+            "url": "https://github.com/jroimartin/gocui",
+            "star": 109,
+            "description": "Minimalist Go package aimed at creating Console User Interfaces."
+        },
+        {
+            "name": "ko",
+            "url": "https://github.com/google/ko",
+            "star": 35,
+            "description": "Build and deploy Go applications on Kubernetes"
+        },
+        {
+            "name": "lnd",
+            "url": "https://github.com/lightningnetwork/lnd",
+            "star": 10,
+            "description": "Lightning Network Daemon⚡️"
+        },
+        {
+            "name": "rio",
+            "url": "https://github.com/rancher/rio",
+            "star": 14,
+            "description": "Kubernetes based MicroPaaS"
+        },
+        {
+            "name": "dicom",
+            "url": "https://github.com/suyashkumar/dicom",
+            "star": 20,
+            "description": "⚡High Performance DICOM Medical Image Parser in Go."
+        },
+        {
+            "name": "colly",
+            "url": "https://github.com/gocolly/colly",
+            "star": 8,
+            "description": "Elegant Scraper and Crawler Framework for Golang"
+        },
+        {
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit",
+            "star": 69,
+            "description": "simple terminal UI for git commands"
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 21,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 12,
+            "description": "An open source, general-purpose policy engine."
+        }
+    ]
+}

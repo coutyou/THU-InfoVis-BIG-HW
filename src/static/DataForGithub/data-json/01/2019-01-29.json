@@ -1,0 +1,377 @@
+{
+    "date": "2019-01-29",
+    "month": 1,
+    "day": 29,
+    "python": [
+        {
+            "name": "funNLP",
+            "url": "https://github.com/fighting41love/funNLP",
+            "star": 315,
+            "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…"
+        },
+        {
+            "name": "yodaos",
+            "url": "https://github.com/yodaos-project/yodaos",
+            "star": 162,
+            "description": "AI OS for Web Community"
+        },
+        {
+            "name": "rtv",
+            "url": "https://github.com/michael-lazar/rtv",
+            "star": 137,
+            "description": "Browse Reddit from your terminal"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 69,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 73,
+            "description": "分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️"
+        },
+        {
+            "name": "click-web",
+            "url": "https://github.com/fredrik-corneliusson/click-web",
+            "star": 73,
+            "description": "Serve click scripts over the web"
+        },
+        {
+            "name": "LASER",
+            "url": "https://github.com/facebookresearch/LASER",
+            "star": 69,
+            "description": "Language-Agnostic SEntence Representations"
+        },
+        {
+            "name": "CopyTranslator",
+            "url": "https://github.com/elliottzheng/CopyTranslator",
+            "star": 66,
+            "description": "Foreign language reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1)"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 49,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 56,
+            "description": "12306智能刷票，订票"
+        }
+    ],
+    "java": [
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 491,
+            "description": "Apache Flink"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 120,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 104,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "fescar",
+            "url": "https://github.com/alibaba/fescar",
+            "star": 92,
+            "description": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution."
+        },
+        {
+            "name": "nacos",
+            "url": "https://github.com/alibaba/nacos",
+            "star": 68,
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+        },
+        {
+            "name": "hope-plus",
+            "url": "https://github.com/java-aodeng/hope-plus",
+            "star": 57,
+            "description": "Hope-plus是一款nice的权限管理系统。基于Springboot2开发，整合使用mybatis+shiro+redis+thymeleaf+maven等实用技术。🏷"
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 53,
+            "description": "⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 41,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 40,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 44,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-practical-linux-hardening-guide",
+            "url": "https://github.com/trimstray/the-practical-linux-hardening-guide",
+            "star": 621,
+            "description": "🔥This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress."
+        },
+        {
+            "name": "open-source-cs",
+            "url": "https://github.com/ForrestKnight/open-source-cs",
+            "star": 343,
+            "description": "Video discussing this curriculum:"
+        },
+        {
+            "name": "awesome-mobile-web-development",
+            "url": "https://github.com/myshov/awesome-mobile-web-development",
+            "star": 246,
+            "description": "All that you need to create a great mobile web experience"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 227,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "HyperDL-Tutorial",
+            "url": "https://github.com/zeusees/HyperDL-Tutorial",
+            "star": 170,
+            "description": "深度学习教程整理 | 干货"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 125,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 94,
+            "description": "⚡️A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers."
+        },
+        {
+            "name": "Girl-Dress-",
+            "url": "https://github.com/greenaway07/Girl-Dress-",
+            "star": 93,
+            "description": "看到女装的项目的issue建议妹子建一个男装的项目，但是考虑到github的女性用户 数量貌似并不能达到女装的效果2333总之先建一个。"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 82,
+            "description": "😎Curated list of awesome lists"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 68,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink",
+            "star": 682,
+            "description": "🌈React for interactive command-line apps"
+        },
+        {
+            "name": "x-spreadsheet",
+            "url": "https://github.com/myliang/x-spreadsheet",
+            "star": 668,
+            "description": "a javascript spreadsheet for web"
+        },
+        {
+            "name": "mintable",
+            "url": "https://github.com/kevinschaich/mintable",
+            "star": 288,
+            "description": "Roll-your own Mint clone for managing personal finances using the Google Sheets and Plaid APIs."
+        },
+        {
+            "name": "brumadinho_location",
+            "url": "https://github.com/dieegom/brumadinho_location",
+            "star": 260,
+            "description": "Criamos uma primeira versão de uma ferramenta para colocar latitude e longitude dos desaparecidos e, com base no fluxo de rejeitos, estimar a possível localização da pessoa."
+        },
+        {
+            "name": "hotkey",
+            "url": "https://github.com/github/hotkey",
+            "star": 254,
+            "description": "Global DOM element activation"
+        },
+        {
+            "name": "fx",
+            "url": "https://github.com/antonmedv/fx",
+            "star": 211,
+            "description": "Command-line tool and terminal JSON viewer🔥"
+        },
+        {
+            "name": "react-fiber-implement",
+            "url": "https://github.com/tranbathanhtung/react-fiber-implement",
+            "star": 155,
+            "description": "re-implement react fiber"
+        },
+        {
+            "name": "xhgui-branch",
+            "url": "https://github.com/laynefyc/xhgui-branch",
+            "star": 130,
+            "description": "PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。---提交问题请带上操作系统和PHP版本等信息"
+        },
+        {
+            "name": "cloudquery",
+            "url": "https://github.com/cloudfetch/cloudquery",
+            "star": 127,
+            "description": "Turn any website to serverless API (support SPA!)"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 118,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        }
+    ],
+    "html": [
+        {
+            "name": "flexsearch",
+            "url": "https://github.com/nextapps-de/flexsearch",
+            "star": 82,
+            "description": "Next-Generation full text search library for Browser and Node.js"
+        },
+        {
+            "name": "build-your-own-mint",
+            "url": "https://github.com/yyx990803/build-your-own-mint",
+            "star": 51,
+            "description": "Build your own personal finance analytics using Plaid, Google Sheets and CircleCI."
+        },
+        {
+            "name": "patchwork",
+            "url": "https://github.com/jlord/patchwork",
+            "star": 5,
+            "description": "All the Git-it Workshop completers!"
+        },
+        {
+            "name": "sleek-dashboard",
+            "url": "https://github.com/tafcoder/sleek-dashboard",
+            "star": 36,
+            "description": "Sleek Dashboard - Free Bootstrap 4 Admin Template and UI Kit"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 36,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "terminal.css",
+            "url": "https://github.com/Gioni06/terminal.css",
+            "star": 37,
+            "description": "Modern and minimalistic CSS framework for terminal enthusiasts"
+        },
+        {
+            "name": "manuals",
+            "url": "https://github.com/skr-shop/manuals",
+            "star": 31,
+            "description": "Do design No code📖"
+        },
+        {
+            "name": "ionic",
+            "url": "https://github.com/ionic-team/ionic",
+            "star": 31,
+            "description": "Build amazing native and progressive web apps with open web technologies. One app running on everything🎉"
+        },
+        {
+            "name": "Google-UX-Playbook-for-Retail-translate",
+            "url": "https://github.com/Wcc723/Google-UX-Playbook-for-Retail-translate",
+            "star": 29,
+            "description": "Google UX Playbook for Retail 中文化版本"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 26,
+            "description": "《Flutter实战》电子书"
+        }
+    ],
+    "go": [
+        {
+            "name": "websocketd",
+            "url": "https://github.com/joewalnes/websocketd",
+            "star": 522,
+            "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets."
+        },
+        {
+            "name": "build-web-application-with-golang",
+            "url": "https://github.com/astaxie/build-web-application-with-golang",
+            "star": 74,
+            "description": "A golang ebook intro how to build a web with golang"
+        },
+        {
+            "name": "aws-lambda-container-image-converter",
+            "url": "https://github.com/awslabs/aws-lambda-container-image-converter",
+            "star": 61,
+            "description": "The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda layers, and publishes them as new layer versions."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 50,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 46,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 46,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 46,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "chisel",
+            "url": "https://github.com/jpillora/chisel",
+            "star": 48,
+            "description": "A fast TCP tunnel over HTTP"
+        },
+        {
+            "name": "mkcert",
+            "url": "https://github.com/FiloSottile/mkcert",
+            "star": 44,
+            "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+        },
+        {
+            "name": "kingbus",
+            "url": "https://github.com/flike/kingbus",
+            "star": 41,
+            "description": "A distributed MySQL binlog storage system built on Raft"
+        }
+    ]
+}

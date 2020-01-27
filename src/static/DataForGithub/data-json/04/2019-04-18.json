@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-18",
+    "month": 4,
+    "day": 18,
+    "python": [
+        {
+            "name": "USTC-Course",
+            "url": "https://github.com/USTC-Resource/USTC-Course",
+            "star": 300,
+            "description": "❤️中国科学技术大学课程资源"
+        },
+        {
+            "name": "pyodide",
+            "url": "https://github.com/iodide-project/pyodide",
+            "star": 322,
+            "description": "The Python scientific stack, compiled to WebAssembly"
+        },
+        {
+            "name": "CenterNet",
+            "url": "https://github.com/xingyizhou/CenterNet",
+            "star": 213,
+            "description": "Object detection, 3D detection, and pose estimation using center point detection:"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 166,
+            "description": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "yolov3-tf2",
+            "url": "https://github.com/zzh8829/yolov3-tf2",
+            "star": 150,
+            "description": "YoloV3 Implemented in Tensorflow 2.0"
+        },
+        {
+            "name": "spacy-course",
+            "url": "https://github.com/ines/spacy-course",
+            "star": 151,
+            "description": "👩‍🏫Advanced NLP with spaCy: A free online course"
+        },
+        {
+            "name": "eht-imaging",
+            "url": "https://github.com/achael/eht-imaging",
+            "star": 134,
+            "description": "Imaging, analysis, and simulation software for radio interferometry"
+        },
+        {
+            "name": "meshroom",
+            "url": "https://github.com/alicevision/meshroom",
+            "star": 130,
+            "description": "3D Reconstruction Software"
+        },
+        {
+            "name": "OctaveConv",
+            "url": "https://github.com/terrychenism/OctaveConv",
+            "star": 116,
+            "description": "A MXNet Implementation for Drop an Octave"
+        },
+        {
+            "name": "SPADE",
+            "url": "https://github.com/NVlabs/SPADE",
+            "star": 106,
+            "description": "Semantic Image Synthesis with SPADE"
+        }
+    ],
+    "java": [
+        {
+            "name": "litemall",
+            "url": "https://github.com/linlinjava/litemall",
+            "star": 390,
+            "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 182,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 129,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "metatron-discovery",
+            "url": "https://github.com/metatron-app/metatron-discovery",
+            "star": 83,
+            "description": "Powerful & Easy way for big data discovery"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 69,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 69,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 42,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 62,
+            "description": "Jeecg-boot 是一款基于代码生成器的智能开发平台！采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。提供强大的代码生成器， 前端页面代码和后端代码一键生成，不需要写任何代码，保持jeecg一贯的强大，绝对是全栈开发者福音！！ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同时，提高开发效率，追求更高的能力，No代码概念，一系列智能化在线开发。"
+        },
+        {
+            "name": "jib",
+            "url": "https://github.com/GoogleContainerTools/jib",
+            "star": 67,
+            "description": "⛵️Build container images for your Java applications."
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 57,
+            "description": "Design patterns implemented in Java"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "git-tips",
+            "url": "https://github.com/521xueweihan/git-tips",
+            "star": 494,
+            "description": "Git的奇技淫巧"
+        },
+        {
+            "name": "SJTU-Courses",
+            "url": "https://github.com/CoolPhilChen/SJTU-Courses",
+            "star": 326,
+            "description": "上海交通大学课程资料分享"
+        },
+        {
+            "name": "Weekly-FE-Interview",
+            "url": "https://github.com/airuikun/Weekly-FE-Interview",
+            "star": 224,
+            "description": "每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。"
+        },
+        {
+            "name": "xg2xg",
+            "url": "https://github.com/jhuangtw-dev/xg2xg",
+            "star": 183,
+            "description": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+        },
+        {
+            "name": "datascience",
+            "url": "https://github.com/r0f1/datascience",
+            "star": 154,
+            "description": "Curated list of Python resources for data science."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 145,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 145,
+            "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+        },
+        {
+            "name": "Android-Daily-Interview",
+            "url": "https://github.com/Moosphan/Android-Daily-Interview",
+            "star": 139,
+            "description": "每工作日更新一道 Android 面试题，小聚成河，大聚成江，共勉之～"
+        },
+        {
+            "name": "BestNote",
+            "url": "https://github.com/pengMaster/BestNote",
+            "star": 136,
+            "description": "👊Java Android 近几年最全面的技术点以及面试题 供自己学习使用"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 102,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 603,
+            "description": "贵校课程资料民间整理"
+        },
+        {
+            "name": "React95",
+            "url": "https://github.com/arturbien/React95",
+            "star": 573,
+            "description": "🌈🕹Refreshed Windows 95 style UI components for your React app"
+        },
+        {
+            "name": "squeezer",
+            "url": "https://github.com/SqueezerIO/squeezer",
+            "star": 568,
+            "description": "Squeezer Framework - Build serverless dApps"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 131,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "playroom",
+            "url": "https://github.com/seek-oss/playroom",
+            "star": 127,
+            "description": "Design with JSX, powered by your own component library."
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 105,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "AreaCity-JsSpider-StatsGov",
+            "url": "https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov",
+            "star": 110,
+            "description": "国家统计局中的省市区镇行政区划数据带拼音标注，高德地图的坐标和行政区域边界范围，在浏览器里面运行js代码采集的2019年发布的最新数据，含采集源码，提供csv格式数据，支持csv转成省市区多级联动js代码"
+        },
+        {
+            "name": "nicedoc.io",
+            "url": "https://github.com/IBM/nicedoc.io",
+            "star": 95,
+            "description": "pretty README as service."
+        },
+        {
+            "name": "fluent",
+            "url": "https://github.com/projectfluent/fluent",
+            "star": 92,
+            "description": "Fluent — planning, spec and documentation"
+        },
+        {
+            "name": "js-cloudimage-360-view",
+            "url": "https://github.com/scaleflex/js-cloudimage-360-view",
+            "star": 89,
+            "description": "Engage your customers with a stunning 360 view of your products"
+        }
+    ],
+    "html": [
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 451,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 220,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 100,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "public-sans",
+            "url": "https://github.com/uswds/public-sans",
+            "star": 60,
+            "description": "A strong, neutral, principles-driven, open-source typeface for text or display"
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 38,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 24,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "CLRS",
+            "url": "https://github.com/walkccc/CLRS",
+            "star": 25,
+            "description": "📚Solutions to Introduction to Algorithms Third Edition"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 23,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "speedtest",
+            "url": "https://github.com/adolfintel/speedtest",
+            "star": 24,
+            "description": "Self-hosted HTML5 Speedtest. Easy setup, examples, configurable, responsive and mobile friendly. Supports PHP, Node, and more."
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 19,
+            "description": "Modern JavaScript Tutorial"
+        }
+    ],
+    "go": [
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 73,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 68,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "owlcache",
+            "url": "https://github.com/xssed/owlcache",
+            "star": 63,
+            "description": "🦉owlcache is a lightweight, high-performance, non-centralized, distributed Key/Value memory-cached data sharing application written by Go . keyword : golang cache、go cache、golang nosql"
+        },
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 63,
+            "description": "Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++."
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 57,
+            "description": "百度网盘客户端 - Go语言编写"
+        },
+        {
+            "name": "space-cloud",
+            "url": "https://github.com/spaceuptech/space-cloud",
+            "star": 56,
+            "description": "Space Cloud is an open source, web server that provides instant Realtime APIs on any database of your choice. Build highly scalable apps with the agility of a prototype!"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 48,
+            "description": "The world’s fastest framework for building websites."
+        },
+        {
+            "name": "prometheus",
+            "url": "https://github.com/prometheus/prometheus",
+            "star": 44,
+            "description": "The Prometheus monitoring system and time series database."
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 42,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 40,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        }
+    ]
+}

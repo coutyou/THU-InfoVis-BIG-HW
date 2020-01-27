@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-18",
+    "month": 11,
+    "day": 18,
+    "python": [
+        {
+            "name": "Deep-Learning-with-TensorFlow-book",
+            "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+            "star": 1222,
+            "description": "深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework."
+        },
+        {
+            "name": "modin",
+            "url": "https://github.com/modin-project/modin",
+            "star": 157,
+            "description": "Modin: Speed up your Pandas workflows by changing a single line of code"
+        },
+        {
+            "name": "tuya-convert",
+            "url": "https://github.com/ct-Open-Source/tuya-convert",
+            "star": 20,
+            "description": "A collection of scripts to flash Tuya IoT devices to alternative firmwares"
+        },
+        {
+            "name": "cpython",
+            "url": "https://github.com/python/cpython",
+            "star": 72,
+            "description": "The Python programming language"
+        },
+        {
+            "name": "numpy-ml",
+            "url": "https://github.com/ddbourgin/numpy-ml",
+            "star": 84,
+            "description": "Machine learning, in numpy"
+        },
+        {
+            "name": "gym",
+            "url": "https://github.com/openai/gym",
+            "star": 43,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+        },
+        {
+            "name": "PayloadsAllTheThings",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "star": 80,
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF"
+        },
+        {
+            "name": "FALdetector",
+            "url": "https://github.com/PeterWang512/FALdetector",
+            "star": 84,
+            "description": "Code for the paper: Detecting Photoshopped Faces by Scripting Photoshop"
+        },
+        {
+            "name": "keras",
+            "url": "https://github.com/keras-team/keras",
+            "star": 97,
+            "description": "Deep Learning for humans"
+        },
+        {
+            "name": "ipwndfu",
+            "url": "https://github.com/axi0mX/ipwndfu",
+            "star": 26,
+            "description": "open-source jailbreaking tool for many iOS devices"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 481,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "NewPipe",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "star": 23,
+            "description": "A libre lightweight streaming front-end for Android."
+        },
+        {
+            "name": "Spring-Boot-In-Action",
+            "url": "https://github.com/hansonwang99/Spring-Boot-In-Action",
+            "star": 57,
+            "description": "Spring Boot 系列实战合集"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 87,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 185,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "interview",
+            "url": "https://github.com/mission-peace/interview",
+            "star": 25,
+            "description": "Interview questions"
+        },
+        {
+            "name": "Discovery",
+            "url": "https://github.com/Nepxion/Discovery",
+            "star": 68,
+            "description": "🐳Nepxion Discovery is an enhancement for Spring Cloud Discovery with gray release, router, weight, limitation, circuit breaker, degrade, isolation, monitor, tracing 灰度发布、路由、权重、限流、熔断、降级、隔离、监控、追踪"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 74,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习"
+        },
+        {
+            "name": "magnetW",
+            "url": "https://github.com/dengyuhan/magnetW",
+            "star": 43,
+            "description": "磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw"
+        },
+        {
+            "name": "netty",
+            "url": "https://github.com/netty/netty",
+            "star": 59,
+            "description": "Netty project - an event-driven asynchronous network application framework"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "starter-workflows",
+            "url": "https://github.com/actions/starter-workflows",
+            "star": 67,
+            "description": "Accelerating new GitHub Actions workflows"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/googlehosts/hosts",
+            "star": 10,
+            "description": "镜像：https://coding.net/u/scaffrey/p/hosts/git"
+        },
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 175,
+            "description": "【 互联网 Java 工程师大厂面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看。"
+        },
+        {
+            "name": "awesome-actions",
+            "url": "https://github.com/sdras/awesome-actions",
+            "star": 22,
+            "description": "A curated list of awesome actions to use on GitHub"
+        },
+        {
+            "name": "new-pac",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "star": 40,
+            "description": "科学/自由上网，免费ss/ssr/v2ray/goflyway账号，搭建教程"
+        },
+        {
+            "name": "react-redux-complete-playlist",
+            "url": "https://github.com/iamshaunjp/react-redux-complete-playlist",
+            "star": 1,
+            "description": "The course files for the React & Redux Complete tutorial playlist on The Net Ninja YouTube channel."
+        },
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 18,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "new-grads-2020",
+            "url": "https://github.com/cmackenzie1/new-grads-2020",
+            "star": 0,
+            "description": "A collection of new grad roles for 2020"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 14,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "shadowsocks-rss",
+            "url": "https://github.com/shadowsocksr-backup/shadowsocks-rss",
+            "star": 5,
+            "description": "ShadowsocksR update rss, SSR organization"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "DPlayer",
+            "url": "https://github.com/MoePlayer/DPlayer",
+            "star": 26,
+            "description": "🍭Wow, such a lovely HTML5 danmaku video player"
+        },
+        {
+            "name": "fanqiang",
+            "url": "https://github.com/bannedbook/fanqiang",
+            "star": 60,
+            "description": "翻墙-科学上网"
+        },
+        {
+            "name": "fabric.js",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "star": 113,
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 328,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "Awesome-Design-Tools",
+            "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+            "star": 62,
+            "description": "The best design tools and plugins for everything👉"
+        },
+        {
+            "name": "uBlock",
+            "url": "https://github.com/gorhill/uBlock",
+            "star": 31,
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+        },
+        {
+            "name": "joplin",
+            "url": "https://github.com/laurent22/joplin",
+            "star": 206,
+            "description": "Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/"
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 156,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "organice",
+            "url": "https://github.com/200ok-ch/organice",
+            "star": 109,
+            "description": "An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers"
+        },
+        {
+            "name": "didact",
+            "url": "https://github.com/pomber/didact",
+            "star": 169,
+            "description": "A DIY guide to build your own React"
+        }
+    ],
+    "html": [
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 8,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 14,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 33,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 13,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "qiubaiying.github.io",
+            "url": "https://github.com/qiubaiying/qiubaiying.github.io",
+            "star": 3,
+            "description": "BY Blog ->"
+        },
+        {
+            "name": "blaze",
+            "url": "https://github.com/blenderskool/blaze",
+            "star": 9,
+            "description": "⚡️File sharing progressive web app built using WebRTC and WebSockets"
+        },
+        {
+            "name": "node-ytdl-core",
+            "url": "https://github.com/fent/node-ytdl-core",
+            "star": 3,
+            "description": "YouTube video downloader in javascript."
+        },
+        {
+            "name": "coreui-free-bootstrap-admin-template",
+            "url": "https://github.com/coreui/coreui-free-bootstrap-admin-template",
+            "star": 1,
+            "description": "CoreUI is free bootstrap admin template"
+        },
+        {
+            "name": "zenbot",
+            "url": "https://github.com/DeviaVir/zenbot",
+            "star": 3,
+            "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB."
+        },
+        {
+            "name": "gohugo-theme-ananke",
+            "url": "https://github.com/budparr/gohugo-theme-ananke",
+            "star": 2,
+            "description": "Ananke: A theme for Hugo Sites"
+        }
+    ],
+    "go": [
+        {
+            "name": "OpenDiablo2",
+            "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+            "star": 1834,
+            "description": "An open source re-implementation of Diablo 2"
+        },
+        {
+            "name": "pan-light",
+            "url": "https://github.com/peterq/pan-light",
+            "star": 40,
+            "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+        },
+        {
+            "name": "bfe",
+            "url": "https://github.com/baidu/bfe",
+            "star": 265,
+            "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd"
+        },
+        {
+            "name": "inlets",
+            "url": "https://github.com/inlets/inlets",
+            "star": 62,
+            "description": "Expose your local endpoints to the Internet"
+        },
+        {
+            "name": "gopl.io",
+            "url": "https://github.com/adonovan/gopl.io",
+            "star": 23,
+            "description": "Example programs from \"The Go Programming Language\""
+        },
+        {
+            "name": "validator",
+            "url": "https://github.com/go-playground/validator",
+            "star": 199,
+            "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+        },
+        {
+            "name": "FreeNet",
+            "url": "https://github.com/xiaoming2028/FreeNet",
+            "star": 42,
+            "description": "科学上网/梯子/自由上网/翻墙 SSR/V2Ray/Brook 最全搭建教程"
+        },
+        {
+            "name": "gitops-engine",
+            "url": "https://github.com/argoproj/gitops-engine",
+            "star": 103,
+            "description": ""
+        },
+        {
+            "name": "fzf",
+            "url": "https://github.com/junegunn/fzf",
+            "star": 108,
+            "description": "🌸A command-line fuzzy finder"
+        },
+        {
+            "name": "firebolt",
+            "url": "https://github.com/digitalocean/firebolt",
+            "star": 26,
+            "description": "Golang framework for streaming ETL, observability data pipeline, and event processing apps"
+        }
+    ]
+}

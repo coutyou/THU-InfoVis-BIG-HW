@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-22",
+    "month": 5,
+    "day": 22,
+    "python": [
+        {
+            "name": "DeleteFB",
+            "url": "https://github.com/weskerfoot/DeleteFB",
+            "star": 1053,
+            "description": "Selenium script to delete all of your Facebook wall posts"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 676,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "pythia",
+            "url": "https://github.com/facebookresearch/pythia",
+            "star": 174,
+            "description": "A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)"
+        },
+        {
+            "name": "machine-learning-course",
+            "url": "https://github.com/machinelearningmindset/machine-learning-course",
+            "star": 143,
+            "description": "💬Machine Learning Course with Python"
+        },
+        {
+            "name": "uxy",
+            "url": "https://github.com/sustrik/uxy",
+            "star": 91,
+            "description": ""
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 64,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "uds",
+            "url": "https://github.com/stewartmcgown/uds",
+            "star": 80,
+            "description": "Unlimited Drive Storage by splitting binary files into base64"
+        },
+        {
+            "name": "CVE-2019-0708-PoC-Hitting-Path",
+            "url": "https://github.com/digital-missiles/CVE-2019-0708-PoC-Hitting-Path",
+            "star": 64,
+            "description": "It's only hitting vulnerable path in termdd.sys!!! NOT DOS"
+        },
+        {
+            "name": "ChineseBQB",
+            "url": "https://github.com/zhaoolee/ChineseBQB",
+            "star": 69,
+            "description": "🇨🇳Chinese sticker pack / 中国表情包大集合"
+        },
+        {
+            "name": "examples-of-web-crawlers",
+            "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+            "star": 56,
+            "description": "python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。"
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 568,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 204,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 178,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 179,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 104,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 102,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 60,
+            "description": "Jeecg-Boot 是一款基于代码生成器的智能开发平台！采用前后端分离架构：SpringBoot，Mybatis，Shiro，JWT，Vue&Ant Design。强大的代码生成器让前端和后台代码一键生成，不需要写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "flutter_boost",
+            "url": "https://github.com/alibaba/flutter_boost",
+            "star": 65,
+            "description": "FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 51,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 58,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "StanfordDoggoProject",
+            "url": "https://github.com/Nate711/StanfordDoggoProject",
+            "star": 438,
+            "description": ""
+        },
+        {
+            "name": "hacker-laws-zh",
+            "url": "https://github.com/nusr/hacker-laws-zh",
+            "star": 323,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)"
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 273,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful."
+        },
+        {
+            "name": "Emergency-Response-Notes",
+            "url": "https://github.com/Bypass007/Emergency-Response-Notes",
+            "star": 255,
+            "description": "应急响应实战笔记，一个安全工程师的自我修养。"
+        },
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 221,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "The-Hackers-Hardware-Toolkit",
+            "url": "https://github.com/yadox666/The-Hackers-Hardware-Toolkit",
+            "star": 155,
+            "description": "The best hacker's gadgets for Red Team pentesters and security researchers."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 87,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 62,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 69,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 65,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "WebGL-Fluid-Simulation",
+            "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+            "star": 1024,
+            "description": "Play with fluids in your browser (works even on mobile)"
+        },
+        {
+            "name": "gitfolio",
+            "url": "https://github.com/imfunniee/gitfolio",
+            "star": 438,
+            "description": "personal website + blog for every github user"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 236,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "svelte",
+            "url": "https://github.com/sveltejs/svelte",
+            "star": 202,
+            "description": "Cybernetically enhanced web apps"
+        },
+        {
+            "name": "ola",
+            "url": "https://github.com/franciscop/ola",
+            "star": 187,
+            "description": "🌊Smooth animation library for interpolating numbers"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 133,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "star": 127,
+            "description": "A full-featured download manager."
+        },
+        {
+            "name": "tornis",
+            "url": "https://github.com/robb0wen/tornis",
+            "star": 113,
+            "description": "Tornis helps you watch and respond to changes in your browser's viewport🌲"
+        },
+        {
+            "name": "react",
+            "url": "https://github.com/facebook/react",
+            "star": 96,
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 90,
+            "description": "贵校课程资料民间整理"
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 47,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 43,
+            "description": "A collection of resources on modern C++"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 33,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 27,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 18,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "GAPITA",
+            "url": "https://github.com/ehsan-mohammadi/GAPITA",
+            "star": 20,
+            "description": "An anonymous and random chat messaging for talking to strangers! (Using SignalR C# and TypeScript)"
+        },
+        {
+            "name": "nginx-admins-handbook",
+            "url": "https://github.com/trimstray/nginx-admins-handbook",
+            "star": 19,
+            "description": "These notes describes how to improve NGINX performance, security and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100."
+        },
+        {
+            "name": "technical_books",
+            "url": "https://github.com/TIM168/technical_books",
+            "star": 16,
+            "description": "IT技术书籍，不间断更新中"
+        },
+        {
+            "name": "TrackRay",
+            "url": "https://github.com/iSafeBlue/TrackRay",
+            "star": 17,
+            "description": "溯光 (TrackRay) 3 插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit）"
+        },
+        {
+            "name": "Electron-elf",
+            "url": "https://github.com/fguby/Electron-elf",
+            "star": 16,
+            "description": "使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）"
+        }
+    ],
+    "go": [
+        {
+            "name": "reading-go",
+            "url": "https://github.com/developer-learning/reading-go",
+            "star": 221,
+            "description": "Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题。"
+        },
+        {
+            "name": "simple-computer",
+            "url": "https://github.com/djhworld/simple-computer",
+            "star": 128,
+            "description": "the scott CPU from \"But How Do It Know?\" by J. Clark Scott"
+        },
+        {
+            "name": "trivy",
+            "url": "https://github.com/knqyf263/trivy",
+            "star": 90,
+            "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI"
+        },
+        {
+            "name": "cloud-on-k8s",
+            "url": "https://github.com/elastic/cloud-on-k8s",
+            "star": 86,
+            "description": "Elastic Cloud on Kubernetes"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 70,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "sail",
+            "url": "https://github.com/cdr/sail",
+            "star": 72,
+            "description": "The universal standard for instant, pre-configured development environments."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 63,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "werf",
+            "url": "https://github.com/flant/werf",
+            "star": 63,
+            "description": "Werf (previously known as dapp) helps to implement and support Continuous Integration and Continuous Delivery"
+        },
+        {
+            "name": "conftest",
+            "url": "https://github.com/instrumenta/conftest",
+            "star": 50,
+            "description": "Write tests against structured configuration data using the Rego query language"
+        },
+        {
+            "name": "minigo",
+            "url": "https://github.com/DQNEO/minigo",
+            "star": 45,
+            "description": "a Go compiler from scratch. It can compile itself."
+        }
+    ]
+}

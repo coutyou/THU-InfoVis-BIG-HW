@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-25",
+    "month": 9,
+    "day": 25,
+    "python": [
+        {
+            "name": "c9-python-getting-started",
+            "url": "https://github.com/microsoft/c9-python-getting-started",
+            "star": 747,
+            "description": "Sample code for Channel 9 Python for Beginners course"
+        },
+        {
+            "name": "FinMind",
+            "url": "https://github.com/linsamtw/FinMind",
+            "star": 24,
+            "description": "Open Data, more than 50 financial data. 提供超過 50 個金融資料，每天更新"
+        },
+        {
+            "name": "compose",
+            "url": "https://github.com/docker/compose",
+            "star": 15,
+            "description": "Define and run multi-container applications with Docker"
+        },
+        {
+            "name": "gym",
+            "url": "https://github.com/openai/gym",
+            "star": 15,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+        },
+        {
+            "name": "ambassador",
+            "url": "https://github.com/datawire/ambassador",
+            "star": 1,
+            "description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy"
+        },
+        {
+            "name": "ceph-ansible",
+            "url": "https://github.com/ceph/ceph-ansible",
+            "star": 3,
+            "description": "Ansible playbooks to deploy Ceph, the distributed filesystem."
+        },
+        {
+            "name": "examples",
+            "url": "https://github.com/pytorch/examples",
+            "star": 23,
+            "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc."
+        },
+        {
+            "name": "locust",
+            "url": "https://github.com/locustio/locust",
+            "star": 6,
+            "description": "Scalable user load testing tool written in Python"
+        },
+        {
+            "name": "ckan",
+            "url": "https://github.com/ckan/ckan",
+            "star": 5,
+            "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites."
+        },
+        {
+            "name": "examples",
+            "url": "https://github.com/ros2/examples",
+            "star": 1,
+            "description": "Example packages for ROS2"
+        }
+    ],
+    "java": [
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 45,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "mall-learning",
+            "url": "https://github.com/macrozheng/mall-learning",
+            "star": 28,
+            "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。"
+        },
+        {
+            "name": "bigbluebutton",
+            "url": "https://github.com/bigbluebutton/bigbluebutton",
+            "star": 5,
+            "description": "Complete open source web conferencing system."
+        },
+        {
+            "name": "lottie-android",
+            "url": "https://github.com/airbnb/lottie-android",
+            "star": 20,
+            "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+        },
+        {
+            "name": "SpringAll",
+            "url": "https://github.com/wuyouzhuguli/SpringAll",
+            "star": 58,
+            "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码"
+        },
+        {
+            "name": "react-native-webview",
+            "url": "https://github.com/react-native-community/react-native-webview",
+            "star": 7,
+            "description": "React Native Cross-Platform WebView"
+        },
+        {
+            "name": "graylog2-server",
+            "url": "https://github.com/Graylog2/graylog2-server",
+            "star": 0,
+            "description": "Free and open source log management"
+        },
+        {
+            "name": "phonegap-plugin-push",
+            "url": "https://github.com/phonegap/phonegap-plugin-push",
+            "star": 0,
+            "description": "Register and receive push notifications"
+        },
+        {
+            "name": "zipkin",
+            "url": "https://github.com/openzipkin/zipkin",
+            "star": 6,
+            "description": "Zipkin is a distributed tracing system"
+        },
+        {
+            "name": "web3j",
+            "url": "https://github.com/web3j/web3j",
+            "star": 3,
+            "description": "Lightweight Java and Android library for integration with Ethereum clients"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Machine-Learning-Session",
+            "url": "https://github.com/shuhuai007/Machine-Learning-Session",
+            "star": 31,
+            "description": ""
+        },
+        {
+            "name": "Specs",
+            "url": "https://github.com/CocoaPods/Specs",
+            "star": 3,
+            "description": "The CocoaPods Master Repo"
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 121,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        },
+        {
+            "name": "IntelliJ-IDEA-Tutorial",
+            "url": "https://github.com/judasn/IntelliJ-IDEA-Tutorial",
+            "star": 17,
+            "description": "IntelliJ IDEA 简体中文专题教程"
+        },
+        {
+            "name": "MacOSX-SDKs",
+            "url": "https://github.com/phracker/MacOSX-SDKs",
+            "star": 1,
+            "description": "A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX10.13.sdk"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 38,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "ansible-role-postgresql",
+            "url": "https://github.com/geerlingguy/ansible-role-postgresql",
+            "star": 0,
+            "description": "Ansible Role - PostgreSQL"
+        },
+        {
+            "name": "awesome-go-cn",
+            "url": "https://github.com/yinggaozhen/awesome-go-cn",
+            "star": 10,
+            "description": "一个很棒的Go框架、库和软件的中文收录大全。⏰脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~"
+        },
+        {
+            "name": "new-grads-2020",
+            "url": "https://github.com/cmackenzie1/new-grads-2020",
+            "star": 8,
+            "description": "A collection of new grad roles for 2020"
+        },
+        {
+            "name": "awesome-wechat-weapp",
+            "url": "https://github.com/justjavac/awesome-wechat-weapp",
+            "star": 23,
+            "description": "微信小程序开发资源汇总💯"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "morse-decoder",
+            "url": "https://github.com/romacher/morse-decoder",
+            "star": 5,
+            "description": ""
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 58,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "Auto.js_Projects",
+            "url": "https://github.com/SuperMonster003/Auto.js_Projects",
+            "star": 7,
+            "description": "基于Auto.js的辅助工具项目 Auto.js-based assistant tools projects"
+        },
+        {
+            "name": "engine",
+            "url": "https://github.com/cocos-creator/engine",
+            "star": 4,
+            "description": "Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms."
+        },
+        {
+            "name": "single-spa",
+            "url": "https://github.com/CanopyTax/single-spa",
+            "star": 27,
+            "description": "Microfrontends made easy"
+        },
+        {
+            "name": "selectize.js",
+            "url": "https://github.com/selectize/selectize.js",
+            "star": 2,
+            "description": "Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc."
+        },
+        {
+            "name": "fabric.js",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "star": 11,
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+        },
+        {
+            "name": "sinon",
+            "url": "https://github.com/sinonjs/sinon",
+            "star": 4,
+            "description": "Test spies, stubs and mocks for JavaScript."
+        },
+        {
+            "name": "wix-style-react",
+            "url": "https://github.com/wix/wix-style-react",
+            "star": 1,
+            "description": "Common React UI components for all Wix verticals developing in React"
+        },
+        {
+            "name": "CodeceptJS",
+            "url": "https://github.com/Codeception/CodeceptJS",
+            "star": 4,
+            "description": "Modern Era Acceptance Testing Framework for NodeJS"
+        }
+    ],
+    "html": [
+        {
+            "name": "paper.lnmiit",
+            "url": "https://github.com/OpenSouce-LNMIIT/paper.lnmiit",
+            "star": 2,
+            "description": "A collection of question papers for all subjects for all available years."
+        },
+        {
+            "name": "texts",
+            "url": "https://github.com/jehyunlee/texts",
+            "star": 0,
+            "description": "texts, mainly translation"
+        },
+        {
+            "name": "haproxy-boshrelease",
+            "url": "https://github.com/cloudfoundry-incubator/haproxy-boshrelease",
+            "star": 0,
+            "description": "A BOSH release for haproxy (based on cf-release's haproxy job)"
+        },
+        {
+            "name": "api-doc-test",
+            "url": "https://github.com/shalousun/api-doc-test",
+            "star": 0,
+            "description": ""
+        },
+        {
+            "name": "algebra-intermediate-book",
+            "url": "https://github.com/philschatz/algebra-intermediate-book",
+            "star": 1,
+            "description": "📙Intermediate Algebra Textbook (Openstax)"
+        },
+        {
+            "name": "community",
+            "url": "https://github.com/ansible/community",
+            "star": 0,
+            "description": "This repository is for management of all Ansible community related initiatives."
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 15,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "chart-doctor",
+            "url": "https://github.com/ft-interactive/chart-doctor",
+            "star": 3,
+            "description": "Sample files to accompany the FT's Chart Doctor column"
+        },
+        {
+            "name": "stdarch",
+            "url": "https://github.com/rust-lang/stdarch",
+            "star": 0,
+            "description": "Rust's standard library vendor-specific APIs and run-time feature detection"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 7,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        }
+    ],
+    "go": [
+        {
+            "name": "ristretto",
+            "url": "https://github.com/dgraph-io/ristretto",
+            "star": 128,
+            "description": "A high performance memory-bound Go cache"
+        },
+        {
+            "name": "protobuf",
+            "url": "https://github.com/golang/protobuf",
+            "star": 8,
+            "description": "Go support for Google's protocol buffers"
+        },
+        {
+            "name": "gitea",
+            "url": "https://github.com/go-gitea/gitea",
+            "star": 21,
+            "description": "Git with a cup of tea, painless self-hosted git service"
+        },
+        {
+            "name": "fasthttp",
+            "url": "https://github.com/valyala/fasthttp",
+            "star": 36,
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http"
+        },
+        {
+            "name": "client_golang",
+            "url": "https://github.com/prometheus/client_golang",
+            "star": 2,
+            "description": "Prometheus instrumentation library for Go applications"
+        },
+        {
+            "name": "go-elasticsearch",
+            "url": "https://github.com/elastic/go-elasticsearch",
+            "star": 3,
+            "description": "The official Go client for Elasticsearch"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 190,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "gopsutil",
+            "url": "https://github.com/shirou/gopsutil",
+            "star": 4,
+            "description": "psutil for golang"
+        },
+        {
+            "name": "ldap",
+            "url": "https://github.com/go-ldap/ldap",
+            "star": 4,
+            "description": "Basic LDAP v3 functionality for the GO programming language."
+        },
+        {
+            "name": "gosec",
+            "url": "https://github.com/securego/gosec",
+            "star": 3,
+            "description": "Golang security checker"
+        }
+    ]
+}

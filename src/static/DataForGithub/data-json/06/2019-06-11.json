@@ -1,0 +1,377 @@
+{
+    "date": "2019-06-11",
+    "month": 6,
+    "day": 11,
+    "python": [
+        {
+            "name": "EverydayWechat",
+            "url": "https://github.com/sfyc23/EverydayWechat",
+            "star": 511,
+            "description": "每日自动给女朋友发微信暖心话。"
+        },
+        {
+            "name": "d2l-zh",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "star": 241,
+            "description": "《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 200,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "GPT2",
+            "url": "https://github.com/ConnorJL/GPT2",
+            "star": 204,
+            "description": "An implementation of training for GPT2, supports TPUs"
+        },
+        {
+            "name": "football",
+            "url": "https://github.com/google-research/football",
+            "star": 154,
+            "description": ""
+        },
+        {
+            "name": "begoneads",
+            "url": "https://github.com/anned20/begoneads",
+            "star": 131,
+            "description": "BeGoneAds is a script that puts some popular hosts file lists into the systems hosts file as a adblocker measure."
+        },
+        {
+            "name": "examples-of-web-crawlers",
+            "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+            "star": 92,
+            "description": "python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 74,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 64,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "mathAI",
+            "url": "https://github.com/Roujack/mathAI",
+            "star": 66,
+            "description": "一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。This is a mathematic expression recognition project."
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 385,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 265,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 248,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 122,
+            "description": "✍ Halo 一款现代化的个人独立博客系统"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 106,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 81,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 54,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 53,
+            "description": "一款基于代码生成器的Java快速开发平台！全新技术,前后端分离架构：SpringBoot 2.x，Mybatis，Shiro，JWT，Vue&Ant Design。强大的代码生成器让前端和后台代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。"
+        },
+        {
+            "name": "dubbo",
+            "url": "https://github.com/apache/dubbo",
+            "star": 41,
+            "description": "Apache Dubbo is a high-performance, java based, open source RPC framework."
+        },
+        {
+            "name": "arthas",
+            "url": "https://github.com/alibaba/arthas",
+            "star": 43,
+            "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "from_coder_to_expert",
+            "url": "https://github.com/0voice/from_coder_to_expert",
+            "star": 797,
+            "description": "2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT"
+        },
+        {
+            "name": "Enterprise-Registration-Data-of-Chinese-Mainland",
+            "url": "https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland",
+            "star": 653,
+            "description": "中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。"
+        },
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 442,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 379,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "The-Documentation-Compendium",
+            "url": "https://github.com/kylelobo/The-Documentation-Compendium",
+            "star": 357,
+            "description": "📢Various README templates & tips on writing high-quality documentation that people want to read."
+        },
+        {
+            "name": "GSYFlutterBook",
+            "url": "https://github.com/CarGuo/GSYFlutterBook",
+            "star": 291,
+            "description": "Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。"
+        },
+        {
+            "name": "SwiftUI-Cheat-Sheet",
+            "url": "https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet",
+            "star": 188,
+            "description": "SwiftUI Cheat Sheet"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 127,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "gold-miner",
+            "url": "https://github.com/xitu/gold-miner",
+            "star": 95,
+            "description": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台："
+        },
+        {
+            "name": "awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "star": 87,
+            "description": "😎Awesome lists about all kinds of interesting topics"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 205,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "buster",
+            "url": "https://github.com/dessant/buster",
+            "star": 168,
+            "description": "Captcha solver extension for humans"
+        },
+        {
+            "name": "entropic",
+            "url": "https://github.com/entropic-dev/entropic",
+            "star": 150,
+            "description": "🦝📦a package registry for anything, but mostly javascript 🦝 🦝 🦝"
+        },
+        {
+            "name": "laravel",
+            "url": "https://github.com/pipe-dream/laravel",
+            "star": 145,
+            "description": "Create Laravel projects really fast"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 112,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "rxdb",
+            "url": "https://github.com/pubkey/rxdb",
+            "star": 106,
+            "description": "💻📱A realtime Database for the Web"
+        },
+        {
+            "name": "filepond",
+            "url": "https://github.com/pqina/filepond",
+            "star": 97,
+            "description": "🌊A flexible and fun JavaScript file upload library"
+        },
+        {
+            "name": "zdog",
+            "url": "https://github.com/metafizzy/zdog",
+            "star": 94,
+            "description": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG"
+        },
+        {
+            "name": "hat.sh",
+            "url": "https://github.com/sh-dv/hat.sh",
+            "star": 90,
+            "description": "Free, Fast, Secure client-side File Encryption and Decryption . encrypt and decrypt files in your browser using the web crypto api"
+        },
+        {
+            "name": "breaking_the_physical_limits_of_fonts",
+            "url": "https://github.com/graphitemaster/breaking_the_physical_limits_of_fonts",
+            "star": 91,
+            "description": "Breaking the physical limits of fonts"
+        }
+    ],
+    "html": [
+        {
+            "name": "china-indie-podcasts",
+            "url": "https://github.com/typlog/china-indie-podcasts",
+            "star": 138,
+            "description": "发现与推荐高质量的中文独立播客"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 52,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 26,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 20,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "beautiful-web-type",
+            "url": "https://github.com/ubuwaits/beautiful-web-type",
+            "star": 21,
+            "description": "In-depth guide to the best open-source typefaces: https://beautifulwebtype.com"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 16,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 19,
+            "description": ""
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "Java_Study_Zhao",
+            "url": "https://github.com/dixonzhao/Java_Study_Zhao",
+            "star": 16,
+            "description": ""
+        },
+        {
+            "name": "EosioBet",
+            "url": "https://github.com/EosioBet/EosioBet",
+            "star": 15,
+            "description": "EosioBet , An Open Source EOS bet DAPP Project .You can deloy EOS bet game demo on your local computer . Welcome to star"
+        }
+    ],
+    "go": [
+        {
+            "name": "cloud-game",
+            "url": "https://github.com/giongto35/cloud-game",
+            "star": 152,
+            "description": "Web-based Cloud Gaming Service"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 126,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "script",
+            "url": "https://github.com/bitfield/script",
+            "star": 134,
+            "description": "Making it easy to write shell-like scripts in Go"
+        },
+        {
+            "name": "dive",
+            "url": "https://github.com/wagoodman/dive",
+            "star": 102,
+            "description": "A tool for exploring each layer in a docker image"
+        },
+        {
+            "name": "restic",
+            "url": "https://github.com/restic/restic",
+            "star": 69,
+            "description": "Fast, secure, efficient backup program"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 54,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 42,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "lantern",
+            "url": "https://github.com/getlantern/lantern",
+            "star": 44,
+            "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download🔴Lantern Latest Download https://github.com/getlantern/download🔴"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 44,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "terraformer",
+            "url": "https://github.com/GoogleCloudPlatform/terraformer",
+            "star": 47,
+            "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-20",
+    "month": 7,
+    "day": 20,
+    "python": [
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 818,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "video-object-removal",
+            "url": "https://github.com/zllrunning/video-object-removal",
+            "star": 130,
+            "description": "Just draw a bounding box and you can remove the object you want to remove."
+        },
+        {
+            "name": "pytorch-transformers",
+            "url": "https://github.com/huggingface/pytorch-transformers",
+            "star": 175,
+            "description": "👾A library of state-of-the-art pretrained models for Natural Language Processing (NLP)"
+        },
+        {
+            "name": "DeepLearningExamples",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "star": 38,
+            "description": "Deep Learning Examples"
+        },
+        {
+            "name": "faceai",
+            "url": "https://github.com/vipstone/faceai",
+            "star": 123,
+            "description": "一款入门级的人脸、视频、文字检测以及识别的项目."
+        },
+        {
+            "name": "SiamMask",
+            "url": "https://github.com/foolwood/SiamMask",
+            "star": 18,
+            "description": "[CVPR2019] Fast Online Object Tracking and Segmentation: A Unifying Approach"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 38,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "nni",
+            "url": "https://github.com/microsoft/nni",
+            "star": 6,
+            "description": "An open source AutoML toolkit for neural architecture search and hyper-parameter tuning."
+        },
+        {
+            "name": "learn_python3_spider",
+            "url": "https://github.com/wistbean/learn_python3_spider",
+            "star": 47,
+            "description": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，爬虫项目实战实例等"
+        },
+        {
+            "name": "NeuralNLP-NeuralClassifier",
+            "url": "https://github.com/Tencent/NeuralNLP-NeuralClassifier",
+            "star": 23,
+            "description": "An Open-source Neural Hierarchical Multi-label Text Classification Toolkit"
+        }
+    ],
+    "java": [
+        {
+            "name": "kafka",
+            "url": "https://github.com/apache/kafka",
+            "star": 64,
+            "description": "Mirror of Apache Kafka"
+        },
+        {
+            "name": "openj9",
+            "url": "https://github.com/eclipse/openj9",
+            "star": 19,
+            "description": "Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo."
+        },
+        {
+            "name": "java-design-patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "star": 317,
+            "description": "Design patterns implemented in Java"
+        },
+        {
+            "name": "cat",
+            "url": "https://github.com/dianping/cat",
+            "star": 61,
+            "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。"
+        },
+        {
+            "name": "grpc-java",
+            "url": "https://github.com/grpc/grpc-java",
+            "star": 16,
+            "description": "The Java gRPC implementation. HTTP/2 based RPC"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 16,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "solo",
+            "url": "https://github.com/b3log/solo",
+            "star": 118,
+            "description": "🎸一款小而美的博客系统，专为程序员设计。https://hacpai.com/tag/solo"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 34,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "karate",
+            "url": "https://github.com/intuit/karate",
+            "star": 8,
+            "description": "Web-Services Testing Made Simple"
+        },
+        {
+            "name": "rest-assured",
+            "url": "https://github.com/rest-assured/rest-assured",
+            "star": 0,
+            "description": "Java DSL for easy testing of REST services"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-java-books",
+            "url": "https://github.com/sorenduan/awesome-java-books",
+            "star": 115,
+            "description": "Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。"
+        },
+        {
+            "name": "1024app-android",
+            "url": "https://github.com/yuuwill/1024app-android",
+            "star": 36,
+            "description": "草榴官方客户端，小草客户端，Android"
+        },
+        {
+            "name": "awesome-nodejs",
+            "url": "https://github.com/sindresorhus/awesome-nodejs",
+            "star": 77,
+            "description": "⚡️Delightful Node.js packages and resources"
+        },
+        {
+            "name": "awesome-sysadmin",
+            "url": "https://github.com/kahun/awesome-sysadmin",
+            "star": 52,
+            "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP."
+        },
+        {
+            "name": "awesome-graph-classification",
+            "url": "https://github.com/benedekrozemberczki/awesome-graph-classification",
+            "star": 66,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations."
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 43,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "BitTigerLab",
+            "url": "https://github.com/Fabsqrt/BitTigerLab",
+            "star": 2,
+            "description": "沁原的硅谷创新课"
+        },
+        {
+            "name": "DevMoneySharing",
+            "url": "https://github.com/loonggg/DevMoneySharing",
+            "star": 14,
+            "description": "独立开发者赚钱经验分享"
+        },
+        {
+            "name": "awesome-test-automation",
+            "url": "https://github.com/atinfo/awesome-test-automation",
+            "star": 3,
+            "description": "A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com"
+        },
+        {
+            "name": "javaok",
+            "url": "https://github.com/sayhiai/javaok",
+            "star": 10,
+            "description": "必看！java后端，亮剑诛仙。java发展路线技术要点。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 308,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。 https://hacpai.com/tag/bnd"
+        },
+        {
+            "name": "AnotherRedisDesktopManager",
+            "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+            "star": 65,
+            "description": "🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys."
+        },
+        {
+            "name": "clean-code-javascript",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+            "star": 215,
+            "description": "🛁Clean Code concepts adapted for JavaScript"
+        },
+        {
+            "name": "search-ui",
+            "url": "https://github.com/elastic/search-ui",
+            "star": 19,
+            "description": "Libraries for the fast development of modern, engaging search experiences."
+        },
+        {
+            "name": "mdx-deck",
+            "url": "https://github.com/jxnblk/mdx-deck",
+            "star": 9,
+            "description": "♠️React MDX-based presentation decks"
+        },
+        {
+            "name": "next-i18next",
+            "url": "https://github.com/isaachinman/next-i18next",
+            "star": 6,
+            "description": "The easiest way to translate your NextJs apps."
+        },
+        {
+            "name": "fithero",
+            "url": "https://github.com/ferrannp/fithero",
+            "star": 25,
+            "description": "Track your gym progress with FitHero. Built with React Native."
+        },
+        {
+            "name": "swagger-ui",
+            "url": "https://github.com/swagger-api/swagger-ui",
+            "star": 12,
+            "description": "Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API."
+        },
+        {
+            "name": "slick",
+            "url": "https://github.com/kenwheeler/slick",
+            "star": 11,
+            "description": "the last carousel you'll ever need"
+        },
+        {
+            "name": "pdf.js",
+            "url": "https://github.com/mozilla/pdf.js",
+            "star": 11,
+            "description": "PDF Reader in JavaScript"
+        }
+    ],
+    "html": [
+        {
+            "name": "professional-services",
+            "url": "https://github.com/GoogleCloudPlatform/professional-services",
+            "star": 4,
+            "description": "Common solutions and tools developed by Google Cloud's Professional Services team"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 3,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 25,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "wpt",
+            "url": "https://github.com/web-platform-tests/wpt",
+            "star": 2,
+            "description": "Test suites for Web platform specs — including WHATWG, W3C, and others"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 2,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "REKCARC-TSC-UHT",
+            "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "star": 14,
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+        },
+        {
+            "name": "istio.io",
+            "url": "https://github.com/istio/istio.io",
+            "star": 0,
+            "description": "Source for the istio.io site"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 14,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 0,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "devopsdays-web",
+            "url": "https://github.com/devopsdays/devopsdays-web",
+            "star": 0,
+            "description": "This is the website for devopsdays"
+        }
+    ],
+    "go": [
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 24,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "vugu",
+            "url": "https://github.com/vugu/vugu",
+            "star": 126,
+            "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)"
+        },
+        {
+            "name": "soar",
+            "url": "https://github.com/XiaoMi/soar",
+            "star": 27,
+            "description": "SQL Optimizer And Rewriter"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 5,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "lindb",
+            "url": "https://github.com/eleme/lindb",
+            "star": 12,
+            "description": "LinDB is a scalable, distributed, high performance, high availability Time Series Database."
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 12,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "beego",
+            "url": "https://github.com/astaxie/beego",
+            "star": 20,
+            "description": "beego is an open-source, high-performance web framework for the Go programming language."
+        },
+        {
+            "name": "docker-ce",
+            "url": "https://github.com/docker/docker-ce",
+            "star": 3,
+            "description": "Docker CE"
+        },
+        {
+            "name": "aws-nuke",
+            "url": "https://github.com/rebuy-de/aws-nuke",
+            "star": 7,
+            "description": "Nuke a whole AWS account and delete all its resources."
+        },
+        {
+            "name": "redis",
+            "url": "https://github.com/go-redis/redis",
+            "star": 10,
+            "description": "Type-safe Redis client for Golang"
+        }
+    ]
+}

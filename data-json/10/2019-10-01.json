@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-01",
+    "month": 10,
+    "day": 1,
+    "python": [
+        {
+            "name": "ipwndfu",
+            "url": "https://github.com/axi0mX/ipwndfu",
+            "star": 706,
+            "description": "open-source jailbreaking tool for many iOS devices"
+        },
+        {
+            "name": "impersonator",
+            "url": "https://github.com/svip-lab/impersonator",
+            "star": 108,
+            "description": "PyTorch implementation of our ICCV 2019 paper: Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/geekcomputers/Python",
+            "star": 250,
+            "description": "My Python Examples"
+        },
+        {
+            "name": "albert_zh",
+            "url": "https://github.com/brightmart/albert_zh",
+            "star": 89,
+            "description": "海量中文预训练ALBERT模型, A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS"
+        },
+        {
+            "name": "HelloGitHub",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "star": 46,
+            "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目"
+        },
+        {
+            "name": "transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "star": 200,
+            "description": "🤗Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch."
+        },
+        {
+            "name": "JiaGuoMeng",
+            "url": "https://github.com/SQRPI/JiaGuoMeng",
+            "star": 23,
+            "description": "家国梦建筑摆放计算"
+        },
+        {
+            "name": "thefuck",
+            "url": "https://github.com/nvbn/thefuck",
+            "star": 297,
+            "description": "Magnificent app which corrects your previous console command."
+        },
+        {
+            "name": "fav-up",
+            "url": "https://github.com/pielco11/fav-up",
+            "star": 64,
+            "description": "IP lookup from favicon using Shodan"
+        },
+        {
+            "name": "code_snippets",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "star": 10,
+            "description": ""
+        }
+    ],
+    "java": [
+        {
+            "name": "Mindustry",
+            "url": "https://github.com/Anuken/Mindustry",
+            "star": 78,
+            "description": "A sandbox tower defense game"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 65,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "proxyee-down",
+            "url": "https://github.com/proxyee-down-org/proxyee-down",
+            "star": 7,
+            "description": "http下载工具，基于http代理，支持多连接分块下载"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 7,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 37,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "rocketmq",
+            "url": "https://github.com/apache/rocketmq",
+            "star": 11,
+            "description": "Mirror of Apache RocketMQ"
+        },
+        {
+            "name": "Java",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "star": 43,
+            "description": "All Algorithms implemented in Java"
+        },
+        {
+            "name": "dubbo",
+            "url": "https://github.com/apache/dubbo",
+            "star": 12,
+            "description": "Apache Dubbo is a high-performance, java based, open source RPC framework."
+        },
+        {
+            "name": "SpringCloudLearning",
+            "url": "https://github.com/forezp/SpringCloudLearning",
+            "star": 17,
+            "description": "《史上最简单的Spring Cloud教程源码》"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 94,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "machine-learning-for-software-engineers",
+            "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+            "star": 7,
+            "description": "A complete daily plan for studying to become a machine learning engineer."
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 52,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "awesome-spider",
+            "url": "https://github.com/facert/awesome-spider",
+            "star": 21,
+            "description": "爬虫集合"
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/ruanyf/weekly",
+            "star": 20,
+            "description": "科技爱好者周刊，每周五发布"
+        },
+        {
+            "name": "1024app-android",
+            "url": "https://github.com/yuuwill/1024app-android",
+            "star": 8,
+            "description": "草榴官方客户端，小草客户端，Android"
+        },
+        {
+            "name": "Machine-learning-learning-notes",
+            "url": "https://github.com/Vay-keen/Machine-learning-learning-notes",
+            "star": 103,
+            "description": "周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！"
+        },
+        {
+            "name": "deep_learning_object_detection",
+            "url": "https://github.com/hoya012/deep_learning_object_detection",
+            "star": 10,
+            "description": "A paper list of object detection using deep learning."
+        },
+        {
+            "name": "alloc8",
+            "url": "https://github.com/axi0mX/alloc8",
+            "star": 13,
+            "description": "Write-up for alloc8 untethered bootrom exploit for iPhone 3GS"
+        },
+        {
+            "name": "PLMpapers",
+            "url": "https://github.com/thunlp/PLMpapers",
+            "star": 71,
+            "description": "Must-read Papers on pre-trained language models."
+        },
+        {
+            "name": "Beginner-Network-Pentesting",
+            "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+            "star": 9,
+            "description": "Notes for Beginner Network Pentesting Course"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 85,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "Web",
+            "url": "https://github.com/qianguyihao/Web",
+            "star": 95,
+            "description": "前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新..."
+        },
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 43,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "openlayers",
+            "url": "https://github.com/openlayers/openlayers",
+            "star": 23,
+            "description": "OpenLayers"
+        },
+        {
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "star": 4,
+            "description": "Zigbee🐝to MQTT bridge🌉, get rid of your proprietary Zigbee bridges🔨"
+        },
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 42,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "javascript",
+            "url": "https://github.com/airbnb/javascript",
+            "star": 37,
+            "description": "JavaScript Style Guide"
+        },
+        {
+            "name": "RSSHub",
+            "url": "https://github.com/DIYgod/RSSHub",
+            "star": 10,
+            "description": "🍰万物皆可 RSS"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 67,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "d2-admin",
+            "url": "https://github.com/d2-projects/d2-admin",
+            "star": 9,
+            "description": "🌈An elegant dashboard"
+        }
+    ],
+    "html": [
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 200,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 24,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 25,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "kubernetes-failure-stories",
+            "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+            "star": 5,
+            "description": "Compilation of public failure/horror stories related to Kubernetes"
+        },
+        {
+            "name": "FLY_US",
+            "url": "https://github.com/hot13399/FLY_US",
+            "star": 4,
+            "description": "美国大学备考资料 How to apply US colleges"
+        },
+        {
+            "name": "craftinginterpreters",
+            "url": "https://github.com/munificent/craftinginterpreters",
+            "star": 4,
+            "description": "Repository for the book \"Crafting Interpreters\""
+        },
+        {
+            "name": "beautiful-jekyll",
+            "url": "https://github.com/daattali/beautiful-jekyll",
+            "star": 4,
+            "description": "✨Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 5,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "mescroll",
+            "url": "https://github.com/mescroll/mescroll",
+            "star": 3,
+            "description": "精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)"
+        },
+        {
+            "name": "awesome-modern-cpp",
+            "url": "https://github.com/rigtorp/awesome-modern-cpp",
+            "star": 4,
+            "description": "A collection of resources on modern C++"
+        }
+    ],
+    "go": [
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 49,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "go-spring",
+            "url": "https://github.com/didi/go-spring",
+            "star": 143,
+            "description": "模仿 Java 的 Spring 全家桶实现的一套 GoLang 的应用程序框架🚀"
+        },
+        {
+            "name": "tidb",
+            "url": "https://github.com/pingcap/tidb",
+            "star": 19,
+            "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol"
+        },
+        {
+            "name": "sqlflow",
+            "url": "https://github.com/sql-machine-learning/sqlflow",
+            "star": 18,
+            "description": "Brings SQL and AI together."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/micro-in-cn/tutorials",
+            "star": 4,
+            "description": "Micro 中文示例、教程、资料，源码解读"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "star": 20,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "night-reading-go",
+            "url": "https://github.com/developer-learning/night-reading-go",
+            "star": 12,
+            "description": "Go 夜读 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。"
+        },
+        {
+            "name": "rudder-server",
+            "url": "https://github.com/rudderlabs/rudder-server",
+            "star": 222,
+            "description": "Privacy and Security focused Segment-alternative, in Golang and React"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 31,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 23,
+            "description": "百度网盘客户端 - Go语言编写"
+        }
+    ]
+}

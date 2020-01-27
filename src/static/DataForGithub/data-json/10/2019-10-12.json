@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-12",
+    "month": 10,
+    "day": 12,
+    "python": [
+        {
+            "name": "GitHub-Chinese-Top-Charts",
+            "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+            "star": 1188,
+            "description": "🇨🇳GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（最近更新于10月9日，上班快乐🎉）"
+        },
+        {
+            "name": "face_recognition",
+            "url": "https://github.com/ageitgey/face_recognition",
+            "star": 39,
+            "description": "The world's simplest facial recognition api for Python and the command line"
+        },
+        {
+            "name": "seq2seq-couplet",
+            "url": "https://github.com/wb14123/seq2seq-couplet",
+            "star": 101,
+            "description": "Play couplet with seq2seq model. 用深度学习对对联。"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 404,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        },
+        {
+            "name": "torchbeast",
+            "url": "https://github.com/facebookresearch/torchbeast",
+            "star": 16,
+            "description": "A PyTorch Platform for Distributed RL"
+        },
+        {
+            "name": "30-seconds-of-python",
+            "url": "https://github.com/30-seconds/30-seconds-of-python",
+            "star": 31,
+            "description": "A curated collection of useful Python snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "12306",
+            "url": "https://github.com/testerSunshine/12306",
+            "star": 77,
+            "description": "12306智能刷票，订票"
+        },
+        {
+            "name": "Towards-Realtime-MOT",
+            "url": "https://github.com/Zhongdao/Towards-Realtime-MOT",
+            "star": 26,
+            "description": "Joint Detection and Embedding for fast multi-object tracking"
+        },
+        {
+            "name": "d2l-zh",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "star": 73,
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。"
+        },
+        {
+            "name": "tensorflow-handbook",
+            "url": "https://github.com/snowkylin/tensorflow-handbook",
+            "star": 165,
+            "description": "简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 204,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 28,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 44,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "spring-boot-examples",
+            "url": "https://github.com/ityouknow/spring-boot-examples",
+            "star": 30,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。"
+        },
+        {
+            "name": "netty",
+            "url": "https://github.com/netty/netty",
+            "star": 30,
+            "description": "Netty project - an event-driven asynchronous network application framework"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 148,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 148,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "HanLP",
+            "url": "https://github.com/hankcs/HanLP",
+            "star": 27,
+            "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁"
+        },
+        {
+            "name": "fastjson",
+            "url": "https://github.com/alibaba/fastjson",
+            "star": 15,
+            "description": "🚄A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson )"
+        },
+        {
+            "name": "incubator-dolphinscheduler",
+            "url": "https://github.com/apache/incubator-dolphinscheduler",
+            "star": 18,
+            "description": "Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "nrol-39-logo",
+            "url": "https://github.com/palewire/nrol-39-logo",
+            "star": 137,
+            "description": "A vector PDF of the official mission logo of NROL-39"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 87,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "awesome-wechat-weapp",
+            "url": "https://github.com/justjavac/awesome-wechat-weapp",
+            "star": 171,
+            "description": "微信小程序开发资源汇总💯"
+        },
+        {
+            "name": "computer-science",
+            "url": "https://github.com/ossu/computer-science",
+            "star": 421,
+            "description": "🎓Path to a free self-taught education in Computer Science!"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 50,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 98,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 10,
+            "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 78,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "Blog",
+            "url": "https://github.com/mqyqingfeng/Blog",
+            "star": 20,
+            "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+        },
+        {
+            "name": "DeepLearning-500-questions",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "star": 181,
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 150,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "sql-mysteries",
+            "url": "https://github.com/NUKnightLab/sql-mysteries",
+            "star": 32,
+            "description": "Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!"
+        },
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 118,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "Sortable",
+            "url": "https://github.com/SortableJS/Sortable",
+            "star": 31,
+            "description": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap."
+        },
+        {
+            "name": "typescript-tutorial",
+            "url": "https://github.com/xcatliu/typescript-tutorial",
+            "star": 29,
+            "description": "TypeScript 入门教程"
+        },
+        {
+            "name": "marktext",
+            "url": "https://github.com/marktext/marktext",
+            "star": 27,
+            "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+        },
+        {
+            "name": "uni-app",
+            "url": "https://github.com/dcloudio/uni-app",
+            "star": 53,
+            "description": "uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架"
+        },
+        {
+            "name": "qs",
+            "url": "https://github.com/ljharb/qs",
+            "star": 7,
+            "description": "A querystring parser with nesting support"
+        },
+        {
+            "name": "AutoPiano",
+            "url": "https://github.com/WarpPrism/AutoPiano",
+            "star": 68,
+            "description": "自由钢琴🎹AutoPiano ( https://www.autopiano.cn ) Simple & Elegant Piano Online"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 100,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        }
+    ],
+    "html": [
+        {
+            "name": "bandinchina",
+            "url": "https://github.com/caffeine-overload/bandinchina",
+            "star": 374,
+            "description": "Naming and shaming companies who kowtow to Chinese censorship requests"
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/digitalocean/nginxconfig.io",
+            "star": 28,
+            "description": "⚙️NGiИX config generator on steroids💉"
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 10,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 12,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 3,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "WebFundamentals",
+            "url": "https://github.com/google/WebFundamentals",
+            "star": 7,
+            "description": "Best practices for modern web development"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 2,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "uPlot",
+            "url": "https://github.com/leeoniya/uPlot",
+            "star": 100,
+            "description": "An exceptionally fast, tiny time series chart"
+        },
+        {
+            "name": "treehouses.github.io",
+            "url": "https://github.com/treehouses/treehouses.github.io",
+            "star": 19,
+            "description": "A Markdown Wiki for treehouses🏡"
+        },
+        {
+            "name": "git-it-electron",
+            "url": "https://github.com/jlord/git-it-electron",
+            "star": 1,
+            "description": "💻🎓Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub"
+        }
+    ],
+    "go": [
+        {
+            "name": "beats",
+            "url": "https://github.com/elastic/beats",
+            "star": 64,
+            "description": "🐠Beats - Lightweight shippers for Elasticsearch & Logstash"
+        },
+        {
+            "name": "gorm",
+            "url": "https://github.com/jinzhu/gorm",
+            "star": 19,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+        },
+        {
+            "name": "excelize",
+            "url": "https://github.com/360EntSecGroup-Skylar/excelize",
+            "star": 17,
+            "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 49,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "influxdb",
+            "url": "https://github.com/influxdata/influxdb",
+            "star": 4,
+            "description": "Scalable datastore for metrics, events, and real-time analytics"
+        },
+        {
+            "name": "websocket",
+            "url": "https://github.com/gorilla/websocket",
+            "star": 14,
+            "description": "A fast, well-tested and widely used WebSocket implementation for Go."
+        },
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 25,
+            "description": "A Go microservices development framework"
+        },
+        {
+            "name": "node_exporter",
+            "url": "https://github.com/prometheus/node_exporter",
+            "star": 6,
+            "description": "Exporter for machine metrics"
+        },
+        {
+            "name": "viper",
+            "url": "https://github.com/spf13/viper",
+            "star": 14,
+            "description": "Go configuration with fangs"
+        },
+        {
+            "name": "containerd",
+            "url": "https://github.com/containerd/containerd",
+            "star": 9,
+            "description": "An open and reliable container runtime"
+        }
+    ]
+}

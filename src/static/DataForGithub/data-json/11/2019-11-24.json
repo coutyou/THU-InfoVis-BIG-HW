@@ -1,0 +1,129 @@
+{
+    "date": "2019-11-24",
+    "month": 11,
+    "day": 24,
+    "html": [
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 14,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 11,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 3,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "node-ytdl-core",
+            "url": "https://github.com/fent/node-ytdl-core",
+            "star": 2,
+            "description": "YouTube video downloader in javascript."
+        },
+        {
+            "name": "haproxy-boshrelease",
+            "url": "https://github.com/cloudfoundry-incubator/haproxy-boshrelease",
+            "star": 0,
+            "description": "A BOSH release for haproxy (based on cf-release's haproxy job)"
+        },
+        {
+            "name": "riots_chile_analisis",
+            "url": "https://github.com/connectalabs/riots_chile_analisis",
+            "star": 3,
+            "description": "Análisis Twitter en las Protestas de Chile"
+        },
+        {
+            "name": "gentelella",
+            "url": "https://github.com/ColorlibHQ/gentelella",
+            "star": 12,
+            "description": "Free Bootstrap 4 Admin Dashboard Template"
+        },
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 23,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "aplus",
+            "url": "https://github.com/betagouv/aplus",
+            "star": 0,
+            "description": "Administration+"
+        },
+        {
+            "name": "THC-Archive",
+            "url": "https://github.com/vanhauser-thc/THC-Archive",
+            "star": 4,
+            "description": "All releases of the security research group (a.k.a. hackers) The Hacker's Choice"
+        }
+    ],
+    "go": [
+        {
+            "name": "advanced-go-programming-book",
+            "url": "https://github.com/chai2010/advanced-go-programming-book",
+            "star": 176,
+            "description": "📚《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+        },
+        {
+            "name": "loki",
+            "url": "https://github.com/grafana/loki",
+            "star": 54,
+            "description": "Like Prometheus, but for logs."
+        },
+        {
+            "name": "bigcache",
+            "url": "https://github.com/allegro/bigcache",
+            "star": 27,
+            "description": "Efficient cache for gigabytes of data written in Go."
+        },
+        {
+            "name": "pq",
+            "url": "https://github.com/lib/pq",
+            "star": 6,
+            "description": "Pure Go Postgres driver for database/sql"
+        },
+        {
+            "name": "cosmos-sdk",
+            "url": "https://github.com/cosmos/cosmos-sdk",
+            "star": 2,
+            "description": "⛓A Framework for Building High Value Public Blockchains✨"
+        },
+        {
+            "name": "ginkgo",
+            "url": "https://github.com/onsi/ginkgo",
+            "star": 3,
+            "description": "BDD Testing Framework for Go"
+        },
+        {
+            "name": "mux",
+            "url": "https://github.com/gorilla/mux",
+            "star": 17,
+            "description": "A powerful HTTP router and URL matcher for building Go web servers with🦍"
+        },
+        {
+            "name": "gatekeeper",
+            "url": "https://github.com/open-policy-agent/gatekeeper",
+            "star": 5,
+            "description": "Gatekeeper - Policy Controller for Kubernetes"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 44,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "sqlx",
+            "url": "https://github.com/jmoiron/sqlx",
+            "star": 16,
+            "description": "general purpose extensions to golang's database/sql"
+        }
+    ]
+}

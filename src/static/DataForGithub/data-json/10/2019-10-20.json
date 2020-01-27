@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-20",
+    "month": 10,
+    "day": 20,
+    "python": [
+        {
+            "name": "KnowledgeGraphData",
+            "url": "https://github.com/ownthink/KnowledgeGraphData",
+            "star": 431,
+            "description": "史上最大规模1.4亿中文知识图谱开源下载"
+        },
+        {
+            "name": "python-cheatsheet",
+            "url": "https://github.com/gto76/python-cheatsheet",
+            "star": 98,
+            "description": "Comprehensive Python Cheatsheet"
+        },
+        {
+            "name": "helm-charts",
+            "url": "https://github.com/elastic/helm-charts",
+            "star": 2,
+            "description": "You know, for Kubernetes"
+        },
+        {
+            "name": "tensortrade",
+            "url": "https://github.com/notadamking/tensortrade",
+            "star": 25,
+            "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents."
+        },
+        {
+            "name": "botorch",
+            "url": "https://github.com/pytorch/botorch",
+            "star": 56,
+            "description": "Bayesian optimization in PyTorch"
+        },
+        {
+            "name": "100-Days-of-ML-Code-Chinese-Version",
+            "url": "https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version",
+            "star": 82,
+            "description": "Chinese Translation for Machine Learning Infographics"
+        },
+        {
+            "name": "volatility",
+            "url": "https://github.com/volatilityfoundation/volatility",
+            "star": 6,
+            "description": "An advanced memory forensics framework"
+        },
+        {
+            "name": "Jiagu",
+            "url": "https://github.com/ownthink/Jiagu",
+            "star": 45,
+            "description": "Jiagu深度学习自然语言处理工具 知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类"
+        },
+        {
+            "name": "Agriculture_KnowledgeGraph",
+            "url": "https://github.com/qq547276542/Agriculture_KnowledgeGraph",
+            "star": 8,
+            "description": "农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策"
+        },
+        {
+            "name": "PhoneSploit",
+            "url": "https://github.com/metachar/PhoneSploit",
+            "star": 16,
+            "description": "Using open Adb ports we can exploit a Andriod Device"
+        }
+    ],
+    "java": [
+        {
+            "name": "bazel",
+            "url": "https://github.com/bazelbuild/bazel",
+            "star": 70,
+            "description": "a fast, scalable, multi-language and extensible build system"
+        },
+        {
+            "name": "eladmin",
+            "url": "https://github.com/elunez/eladmin",
+            "star": 70,
+            "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由"
+        },
+        {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "star": 16,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+        },
+        {
+            "name": "grpc-java",
+            "url": "https://github.com/grpc/grpc-java",
+            "star": 8,
+            "description": "The Java gRPC implementation. HTTP/2 based RPC"
+        },
+        {
+            "name": "kafka",
+            "url": "https://github.com/apache/kafka",
+            "star": 19,
+            "description": "Mirror of Apache Kafka"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 41,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 36,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "spring-framework",
+            "url": "https://github.com/spring-projects/spring-framework",
+            "star": 35,
+            "description": "Spring Framework"
+        },
+        {
+            "name": "jib",
+            "url": "https://github.com/GoogleContainerTools/jib",
+            "star": 30,
+            "description": "🏗Build container images for your Java applications."
+        },
+        {
+            "name": "ignite",
+            "url": "https://github.com/apache/ignite",
+            "star": 4,
+            "description": "Mirror of Apache Ignite"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "reverse-interview-zh",
+            "url": "https://github.com/yifeikong/reverse-interview-zh",
+            "star": 287,
+            "description": "技术面试最后反问面试官的话"
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 157,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "xg2xg",
+            "url": "https://github.com/jhuangtw-dev/xg2xg",
+            "star": 327,
+            "description": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+        },
+        {
+            "name": "docs",
+            "url": "https://github.com/dapr/docs",
+            "star": 54,
+            "description": "User documentation for Dapr"
+        },
+        {
+            "name": "spec",
+            "url": "https://github.com/oam-dev/spec",
+            "star": 115,
+            "description": "The Open Application Model specification"
+        },
+        {
+            "name": "the-incredible-pytorch",
+            "url": "https://github.com/ritchieng/the-incredible-pytorch",
+            "star": 29,
+            "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+        },
+        {
+            "name": "Kimera",
+            "url": "https://github.com/MIT-SPARK/Kimera",
+            "star": 26,
+            "description": "Index repo for Kimera code"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 56,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "vagas",
+            "url": "https://github.com/react-brasil/vagas",
+            "star": 5,
+            "description": "Espaço para divulgação de vagas relacionadas com React"
+        },
+        {
+            "name": "wildcat-vip-account",
+            "url": "https://github.com/wuxingsanren/wildcat-vip-account",
+            "star": 11,
+            "description": "野猫VIP帐号 - 每天分享最新的百度网盘svip、迅雷超级会员、苹果id等等各类vip帐号，随取随用，完全免费，绝无套路，欢迎推荐分享给好友！"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "33-js-concepts",
+            "url": "https://github.com/leonardomso/33-js-concepts",
+            "star": 106,
+            "description": "📜33 concepts every JavaScript developer should know."
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 121,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "rest-api-nodejs-mongodb",
+            "url": "https://github.com/maitraysuthar/rest-api-nodejs-mongodb",
+            "star": 38,
+            "description": "A boilerplate for REST API Development with Node.js, Express, and MongoDB"
+        },
+        {
+            "name": "material-ui",
+            "url": "https://github.com/mui-org/material-ui",
+            "star": 44,
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "vue-cli",
+            "url": "https://github.com/vuejs/vue-cli",
+            "star": 37,
+            "description": "🛠️Standard Tooling for Vue.js Development"
+        },
+        {
+            "name": "samples",
+            "url": "https://github.com/dapr/samples",
+            "star": 25,
+            "description": "Dapr Samples Repository"
+        },
+        {
+            "name": "vue-enterprise-boilerplate",
+            "url": "https://github.com/chrisvfritz/vue-enterprise-boilerplate",
+            "star": 50,
+            "description": "An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3."
+        },
+        {
+            "name": "rollup",
+            "url": "https://github.com/rollup/rollup",
+            "star": 20,
+            "description": "Next-generation ES module bundler"
+        },
+        {
+            "name": "cypress-example-recipes",
+            "url": "https://github.com/cypress-io/cypress-example-recipes",
+            "star": 5,
+            "description": "Various recipes for testing common scenarios with Cypress"
+        },
+        {
+            "name": "mobx",
+            "url": "https://github.com/mobxjs/mobx",
+            "star": 16,
+            "description": "Simple, scalable state management."
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 490,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 100,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 24,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 15,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 3,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 8,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 11,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "data_analysis",
+            "url": "https://github.com/zhouwei713/data_analysis",
+            "star": 8,
+            "description": "一些爬虫和数据分析相关实战练习"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 5,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "awesome-creative-coding",
+            "url": "https://github.com/terkelg/awesome-creative-coding",
+            "star": 12,
+            "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources."
+        }
+    ],
+    "go": [
+        {
+            "name": "dapr",
+            "url": "https://github.com/dapr/dapr",
+            "star": 591,
+            "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge."
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 43,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "helm",
+            "url": "https://github.com/helm/helm",
+            "star": 37,
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "charts",
+            "url": "https://github.com/helm/charts",
+            "star": 19,
+            "description": "Curated applications for Kubernetes"
+        },
+        {
+            "name": "terratest",
+            "url": "https://github.com/gruntwork-io/terratest",
+            "star": 5,
+            "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code."
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 22,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 67,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "mapstructure",
+            "url": "https://github.com/mitchellh/mapstructure",
+            "star": 7,
+            "description": "Go library for decoding generic map values into native Go structures."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/json-iterator/go",
+            "star": 32,
+            "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\""
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 25,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        }
+    ]
+}

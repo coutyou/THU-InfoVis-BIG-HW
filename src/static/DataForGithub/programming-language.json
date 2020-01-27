@@ -1,0 +1,9 @@
+{
+  "python": "Python",
+  "java": "Java",
+  "unknown": "Other",
+  "javascript": "Javascript",
+  "html": "HTML",
+  "go": "Go",
+  "dart": "Dart"
+}

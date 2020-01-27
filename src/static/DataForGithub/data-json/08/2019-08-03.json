@@ -1,0 +1,315 @@
+{
+    "date": "2019-08-03",
+    "month": 8,
+    "day": 3,
+    "java": [
+        {
+            "name": "spring-boot-plus",
+            "url": "https://github.com/geekidea/spring-boot-plus",
+            "star": 39,
+            "description": "🔥spring-boot-plus集成Spring Boot 2.1.6,Mybatis,Mybatis Plus,Druid,FastJson,Redis,Rabbit MQ,Kafka等，可使用代码生成器快速开发项目🚀"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 83,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "data-transfer-project",
+            "url": "https://github.com/google/data-transfer-project",
+            "star": 51,
+            "description": "The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers."
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 82,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "SmartSwipe",
+            "url": "https://github.com/luckybilly/SmartSwipe",
+            "star": 42,
+            "description": "An android library to make swipe more easier and more powerful. 关于侧滑，有这一个就够了"
+        },
+        {
+            "name": "android-developer-roadmap",
+            "url": "https://github.com/MindorksOpenSource/android-developer-roadmap",
+            "star": 22,
+            "description": "Android Developer Roadmap - A complete roadmap to learn Android App Development"
+        },
+        {
+            "name": "jeewx-boot",
+            "url": "https://github.com/zhangdaiscott/jeewx-boot",
+            "star": 10,
+            "description": "基于SpringBoot的免费微信管家平台。支持微信公众号、微信第三方平台、小程序官网、小程序商城、微信抽奖活动。Jeewx-Boot实现了微信公众号管理、小程序CMS、微信抽奖活动等基础功能，便于二次开发，可以快速搭建微信应用！Jeewx-Boot独创插件开发机制，实现了每一抽奖活动（砸金蛋、刮刮乐、砍价等）、官网、商城都是一个独立的插件，对JAVA来讲就是一个JAR包，可以很方便的做插拔，最终打造像Discuz、微擎一样的插件生态圈。"
+        },
+        {
+            "name": "ksql",
+            "url": "https://github.com/confluentinc/ksql",
+            "star": 3,
+            "description": "KSQL - the Streaming SQL Engine for Apache Kafka"
+        },
+        {
+            "name": "GSYVideoPlayer",
+            "url": "https://github.com/CarGuo/GSYVideoPlayer",
+            "star": 24,
+            "description": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。"
+        },
+        {
+            "name": "quickstart-android",
+            "url": "https://github.com/firebase/quickstart-android",
+            "star": 8,
+            "description": "Firebase Quickstart Samples for Android"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 248,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "Beginner-Network-Pentesting",
+            "url": "https://github.com/hmaverickadams/Beginner-Network-Pentesting",
+            "star": 72,
+            "description": "Notes for Beginner Network Pentesting Course"
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 230,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 146,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "awesome-indie",
+            "url": "https://github.com/josephchang10/awesome-indie",
+            "star": 41,
+            "description": "awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理"
+        },
+        {
+            "name": "A-to-Z-Resources-for-Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+            "star": 23,
+            "description": "Curated list of resources for college students"
+        },
+        {
+            "name": "books",
+            "url": "https://github.com/programthink/books",
+            "star": 3,
+            "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）"
+        },
+        {
+            "name": "awesome-blazor",
+            "url": "https://github.com/AdrienTorris/awesome-blazor",
+            "star": 7,
+            "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly."
+        },
+        {
+            "name": "deep_learning_object_detection",
+            "url": "https://github.com/hoya012/deep_learning_object_detection",
+            "star": 5,
+            "description": "A paper list of object detection using deep learning."
+        },
+        {
+            "name": "StabilityGuide",
+            "url": "https://github.com/StabilityMan/StabilityGuide",
+            "star": 20,
+            "description": "【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "gridstudio",
+            "url": "https://github.com/ricklamers/gridstudio",
+            "star": 194,
+            "description": "Grid studio is a web-based spreadsheet application with full integration of the Python programming language."
+        },
+        {
+            "name": "react-admin",
+            "url": "https://github.com/marmelab/react-admin",
+            "star": 49,
+            "description": "A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design"
+        },
+        {
+            "name": "hackathon-starter",
+            "url": "https://github.com/sahat/hackathon-starter",
+            "star": 77,
+            "description": "A boilerplate for Node.js web applications"
+        },
+        {
+            "name": "plotly.js",
+            "url": "https://github.com/plotly/plotly.js",
+            "star": 13,
+            "description": "Open-source JavaScript charting library behind Plotly and Dash"
+        },
+        {
+            "name": "puppeteer",
+            "url": "https://github.com/GoogleChrome/puppeteer",
+            "star": 40,
+            "description": "Headless Chrome Node API"
+        },
+        {
+            "name": "google-access-helper",
+            "url": "https://github.com/haotian-wang/google-access-helper",
+            "star": 40,
+            "description": "谷歌访问助手破解版"
+        },
+        {
+            "name": "Daily-Interview-Question",
+            "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+            "star": 47,
+            "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。"
+        },
+        {
+            "name": "Blog",
+            "url": "https://github.com/ljianshu/Blog",
+            "star": 13,
+            "description": "关注基础知识，打造优质前端博客，公众号[前端工匠]的作者"
+        },
+        {
+            "name": "FileSaver.js",
+            "url": "https://github.com/eligrey/FileSaver.js",
+            "star": 6,
+            "description": "An HTML5 saveAs() FileSaver implementation"
+        },
+        {
+            "name": "generator-jhipster",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "star": 8,
+            "description": "Open Source application generator for creating Spring Boot + Angular/React projects in seconds!"
+        }
+    ],
+    "html": [
+        {
+            "name": "frontend-tech-list",
+            "url": "https://github.com/alienzhou/frontend-tech-list",
+            "star": 65,
+            "description": "a frontend tech list for developers"
+        },
+        {
+            "name": "ru.javascript.info",
+            "url": "https://github.com/javascript-tutorial/ru.javascript.info",
+            "star": 13,
+            "description": "Современный учебник JavaScript"
+        },
+        {
+            "name": "DetectionLab",
+            "url": "https://github.com/clong/DetectionLab",
+            "star": 1,
+            "description": "Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices"
+        },
+        {
+            "name": "fastText",
+            "url": "https://github.com/facebookresearch/fastText",
+            "star": 34,
+            "description": "Library for fast text representation and classification."
+        },
+        {
+            "name": "Front-end-Web-Development-Interview-Question",
+            "url": "https://github.com/paddingme/Front-end-Web-Development-Interview-Question",
+            "star": 6,
+            "description": "前端开发面试题大收集，前端面试集锦❤️💝💘"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 4,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "webdevbootcamp",
+            "url": "https://github.com/nax3t/webdevbootcamp",
+            "star": 4,
+            "description": "All source code for back-end projects from the Web Developer Bootcamp"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 6,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "nginxconfig.io",
+            "url": "https://github.com/digitalocean/nginxconfig.io",
+            "star": 7,
+            "description": "⚙️NGiИX config generator on steroids💉"
+        },
+        {
+            "name": "SuperTinyIcons",
+            "url": "https://github.com/edent/SuperTinyIcons",
+            "star": 4,
+            "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos"
+        }
+    ],
+    "go": [
+        {
+            "name": "amazon-vpc-cni-k8s",
+            "url": "https://github.com/aws/amazon-vpc-cni-k8s",
+            "star": 2,
+            "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS"
+        },
+        {
+            "name": "vegeta",
+            "url": "https://github.com/tsenart/vegeta",
+            "star": 10,
+            "description": "HTTP load testing tool and library. It's over 9000!"
+        },
+        {
+            "name": "dgraph",
+            "url": "https://github.com/dgraph-io/dgraph",
+            "star": 27,
+            "description": "Fast, Distributed Graph DB"
+        },
+        {
+            "name": "mattermost-server",
+            "url": "https://github.com/mattermost/mattermost-server",
+            "star": 6,
+            "description": "Open source Slack-alternative in Golang and React - Mattermost"
+        },
+        {
+            "name": "polaris",
+            "url": "https://github.com/FairwindsOps/polaris",
+            "star": 7,
+            "description": "Validation of best practices in your Kubernetes clusters"
+        },
+        {
+            "name": "bfe",
+            "url": "https://github.com/baidu/bfe",
+            "star": 13,
+            "description": ""
+        },
+        {
+            "name": "bk-cmdb",
+            "url": "https://github.com/Tencent/bk-cmdb",
+            "star": 3,
+            "description": "蓝鲸智云配置平台(BlueKing CMDB)"
+        },
+        {
+            "name": "lefthook",
+            "url": "https://github.com/Arkweid/lefthook",
+            "star": 32,
+            "description": "Fast and powerful Git hooks manager for any type of projects."
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 17,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "concourse",
+            "url": "https://github.com/concourse/concourse",
+            "star": 6,
+            "description": "Concourse is a container-based continuous thing-doer written in Go and Elm."
+        }
+    ]
+}

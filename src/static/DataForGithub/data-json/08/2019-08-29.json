@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-29",
+    "month": 8,
+    "day": 29,
+    "python": [
+        {
+            "name": "nlp",
+            "url": "https://github.com/microsoft/nlp",
+            "star": 172,
+            "description": "Natural Language Processing Best Practices & Examples"
+        },
+        {
+            "name": "ML-From-Scratch",
+            "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+            "star": 246,
+            "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning."
+        },
+        {
+            "name": "pytorch-transformers",
+            "url": "https://github.com/huggingface/pytorch-transformers",
+            "star": 117,
+            "description": "👾A library of state-of-the-art pretrained models for Natural Language Processing (NLP)"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 73,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "awesome-python-login-model",
+            "url": "https://github.com/Kr1s77/awesome-python-login-model",
+            "star": 31,
+            "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟"
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+            "star": 78,
+            "description": "100 Days of ML Coding"
+        },
+        {
+            "name": "mmsr",
+            "url": "https://github.com/open-mmlab/mmsr",
+            "star": 103,
+            "description": "Open MMLab Image and Video Super-Resolution Toolbox, , including SRResNet, SRGAN, ESRGAN, EDVR, etc."
+        },
+        {
+            "name": "mmdetection",
+            "url": "https://github.com/open-mmlab/mmdetection",
+            "star": 43,
+            "description": "Open MMLab Detection Toolbox and Benchmark"
+        },
+        {
+            "name": "netbox",
+            "url": "https://github.com/netbox-community/netbox",
+            "star": 4,
+            "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool."
+        },
+        {
+            "name": "gensim",
+            "url": "https://github.com/RaRe-Technologies/gensim",
+            "star": 10,
+            "description": "Topic Modelling for Humans"
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-analysis",
+            "url": "https://github.com/seaswalker/spring-analysis",
+            "star": 196,
+            "description": "Spring源码阅读"
+        },
+        {
+            "name": "elasticsearch",
+            "url": "https://github.com/elastic/elasticsearch",
+            "star": 54,
+            "description": "Open Source, Distributed, RESTful Search Engine"
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 68,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 37,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 133,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "vhr",
+            "url": "https://github.com/lenve/vhr",
+            "star": 47,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"
+        },
+        {
+            "name": "solo",
+            "url": "https://github.com/b3log/solo",
+            "star": 78,
+            "description": "🎸一款小而美的博客系统，专为程序员设计。"
+        },
+        {
+            "name": "hope-boot",
+            "url": "https://github.com/hope-for/hope-boot",
+            "star": 38,
+            "description": "🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。"
+        },
+        {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "star": 15,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+        },
+        {
+            "name": "fastjson",
+            "url": "https://github.com/alibaba/fastjson",
+            "star": 19,
+            "description": "🚄A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson )"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex",
+            "star": 347,
+            "description": "Learn regex the easy way"
+        },
+        {
+            "name": "data-science-career",
+            "url": "https://github.com/firmai/data-science-career",
+            "star": 69,
+            "description": "Data Science, Machine Learning, Big Data and Business Analytics Career Repository"
+        },
+        {
+            "name": "Privilege-Escalation",
+            "url": "https://github.com/Ignitetechnologies/Privilege-Escalation",
+            "star": 88,
+            "description": "This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples."
+        },
+        {
+            "name": "coding-interview-university",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "star": 126,
+            "description": "A complete computer science study plan to become a software engineer."
+        },
+        {
+            "name": "Awesome-design-tools",
+            "url": "https://github.com/phh95/Awesome-design-tools",
+            "star": 96,
+            "description": ""
+        },
+        {
+            "name": "unc0ver-localizations",
+            "url": "https://github.com/Samgisaninja/unc0ver-localizations",
+            "star": 7,
+            "description": "Translations of the unc0ver jailbreak"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 65,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 12,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "awesome-wechat-weapp",
+            "url": "https://github.com/justjavac/awesome-wechat-weapp",
+            "star": 46,
+            "description": "微信小程序开发资源汇总💯"
+        },
+        {
+            "name": "chromium",
+            "url": "https://github.com/chromium/chromium",
+            "star": 11,
+            "description": "The official GitHub mirror of the Chromium source"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "WebGL-Fluid-Simulation",
+            "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+            "star": 426,
+            "description": "Play with fluids in your browser (works even on mobile)"
+        },
+        {
+            "name": "bank",
+            "url": "https://github.com/pietrzakadrian/bank",
+            "star": 55,
+            "description": "Full Stack Web Application using ReactJS+Redux with NodeJS (Express+TypeORM), WebSocket, RESTful API and MySQL"
+        },
+        {
+            "name": "awesome-selfhosted",
+            "url": "https://github.com/Kickball/awesome-selfhosted",
+            "star": 81,
+            "description": "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers."
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 93,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "MagicMirror",
+            "url": "https://github.com/MichMich/MagicMirror",
+            "star": 40,
+            "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+        },
+        {
+            "name": "standard",
+            "url": "https://github.com/standard/standard",
+            "star": 26,
+            "description": "🌟JavaScript Style Guide, with linter & automatic code fixer"
+        },
+        {
+            "name": "webpack",
+            "url": "https://github.com/webpack/webpack",
+            "star": 17,
+            "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+        },
+        {
+            "name": "github-do-not-ban-us",
+            "url": "https://github.com/1995parham/github-do-not-ban-us",
+            "star": 17,
+            "description": "GitHub do not ban us from open source world🇮🇷"
+        },
+        {
+            "name": "vant",
+            "url": "https://github.com/youzan/vant",
+            "star": 20,
+            "description": "Lightweight Mobile UI Components built on Vue"
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 119,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        }
+    ],
+    "html": [
+        {
+            "name": "awesome-piracy",
+            "url": "https://github.com/Igglybuff/awesome-piracy",
+            "star": 14,
+            "description": "A curated list of awesome warez and piracy links"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 11,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "training-kit",
+            "url": "https://github.com/github/training-kit",
+            "star": 3,
+            "description": "Open source cheat sheets for Git and GitHub"
+        },
+        {
+            "name": "proposal-optional-chaining",
+            "url": "https://github.com/tc39/proposal-optional-chaining",
+            "star": 18,
+            "description": ""
+        },
+        {
+            "name": "zfaka",
+            "url": "https://github.com/zlkbdotnet/zfaka",
+            "star": 9,
+            "description": "免费、安全、稳定、高效的发卡系统，值得拥有!"
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 10,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "500LineorLess_CN",
+            "url": "https://github.com/HT524/500LineorLess_CN",
+            "star": 1,
+            "description": "500 line or less 中文翻译计划。"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 12,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "mxgraph",
+            "url": "https://github.com/jgraph/mxgraph",
+            "star": 6,
+            "description": "mxGraph is a fully client side JavaScript diagramming library"
+        },
+        {
+            "name": "awesome-competitive-programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "star": 5,
+            "description": "💎A curated list of awesome Competitive Programming, Algorithm and Data Structure resources"
+        }
+    ],
+    "go": [
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 53,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "TopList",
+            "url": "https://github.com/tophubs/TopList",
+            "star": 43,
+            "description": "今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html"
+        },
+        {
+            "name": "golang-design-pattern",
+            "url": "https://github.com/senghoo/golang-design-pattern",
+            "star": 66,
+            "description": "设计模式 Golang实现－《研磨设计模式》读书笔记"
+        },
+        {
+            "name": "presidio",
+            "url": "https://github.com/microsoft/presidio",
+            "star": 74,
+            "description": "Context aware, pluggable and customizable data protection and PII data anonymization service for text and images"
+        },
+        {
+            "name": "minikube",
+            "url": "https://github.com/kubernetes/minikube",
+            "star": 22,
+            "description": "Run Kubernetes locally"
+        },
+        {
+            "name": "istio",
+            "url": "https://github.com/istio/istio",
+            "star": 23,
+            "description": "Connect, secure, control, and observe services."
+        },
+        {
+            "name": "HFish",
+            "url": "https://github.com/hacklcx/HFish",
+            "star": 27,
+            "description": "Extend the enterprise security test open source honeypot system , Record hacker attacks. 扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段"
+        },
+        {
+            "name": "octant",
+            "url": "https://github.com/vmware/octant",
+            "star": 47,
+            "description": "A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters."
+        },
+        {
+            "name": "go-prompt",
+            "url": "https://github.com/c-bata/go-prompt",
+            "star": 12,
+            "description": "Building powerful interactive prompts in Go, inspired by python-prompt-toolkit."
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 70,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        }
+    ]
+}

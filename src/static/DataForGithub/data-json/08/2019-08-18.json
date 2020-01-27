@@ -1,0 +1,377 @@
+{
+    "date": "2019-08-18",
+    "month": 8,
+    "day": 18,
+    "python": [
+        {
+            "name": "ML-From-Scratch",
+            "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+            "star": 36,
+            "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning."
+        },
+        {
+            "name": "video-object-removal",
+            "url": "https://github.com/zllrunning/video-object-removal",
+            "star": 34,
+            "description": "Just draw a bounding box and you can remove the object you want to remove."
+        },
+        {
+            "name": "snorkel",
+            "url": "https://github.com/snorkel-team/snorkel",
+            "star": 32,
+            "description": "A system for quickly generating training data with weak supervision"
+        },
+        {
+            "name": "spaCy",
+            "url": "https://github.com/explosion/spaCy",
+            "star": 5,
+            "description": "💫Industrial-strength Natural Language Processing (NLP) with Python and Cython"
+        },
+        {
+            "name": "xlnet",
+            "url": "https://github.com/zihangdai/xlnet",
+            "star": 9,
+            "description": "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+        },
+        {
+            "name": "skillbox-chat",
+            "url": "https://github.com/manchenkoff/skillbox-chat",
+            "star": 1,
+            "description": "Skillbox demo application for the Python course"
+        },
+        {
+            "name": "django",
+            "url": "https://github.com/django/django",
+            "star": 16,
+            "description": "The Web framework for perfectionists with deadlines."
+        },
+        {
+            "name": "awesome-machine-learning",
+            "url": "https://github.com/josephmisiti/awesome-machine-learning",
+            "star": 14,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+        },
+        {
+            "name": "cookiecutter-django",
+            "url": "https://github.com/pydanny/cookiecutter-django",
+            "star": 4,
+            "description": "Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly."
+        },
+        {
+            "name": "transferlearning",
+            "url": "https://github.com/jindongwang/transferlearning",
+            "star": 3,
+            "description": "Everything about Transfer Learning and Domain Adaptation--迁移学习"
+        }
+    ],
+    "java": [
+        {
+            "name": "spring-boot-demo",
+            "url": "https://github.com/xkcoding/spring-boot-demo",
+            "star": 148,
+            "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 10,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "testcontainers-java",
+            "url": "https://github.com/testcontainers/testcontainers-java",
+            "star": 2,
+            "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+        },
+        {
+            "name": "hbase",
+            "url": "https://github.com/apache/hbase",
+            "star": 1,
+            "description": "Mirror of Apache HBase"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 27,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka"
+        },
+        {
+            "name": "flinkStreamSQL",
+            "url": "https://github.com/DTStack/flinkStreamSQL",
+            "star": 1,
+            "description": "基于开源的flink，对其实时sql进行扩展；主要实现了流与维表的join，支持原生flink SQL所有的语法"
+        },
+        {
+            "name": "kubernetes-plugin",
+            "url": "https://github.com/jenkinsci/kubernetes-plugin",
+            "star": 3,
+            "description": "Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment"
+        },
+        {
+            "name": "android-mvp-mvvm-flytour",
+            "url": "https://github.com/mxdldev/android-mvp-mvvm-flytour",
+            "star": 131,
+            "description": "🔥🔥🔥FlyTour是Android组件化+MVVM+MVP+RxJava+Retrofit+Dagger2组成的双架构框架，工程架构采用gradle配置实现组件化，模块的架构采用典型的MVVM+MVP架构，MVVM和MVP根据自己的项目实际需求去决定使用，该框架是Android组件化、Android MVVM架构、Android MVP架构的集大成者，帮助你快速的搭建自己的App项目开发框架，以便把主要的精力放在自己的项目的业务功能实现上，另外在长期的工作实践中总结整理大量的实用工具类在项目lib_common组件的util包当中方便大家调用。"
+        },
+        {
+            "name": "JustAuth",
+            "url": "https://github.com/justauth/JustAuth",
+            "star": 41,
+            "description": "💯史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!"
+        },
+        {
+            "name": "constellation",
+            "url": "https://github.com/constellation-app/constellation",
+            "star": 24,
+            "description": "A graph-focused data visualisation and interactive analysis application."
+        }
+    ],
+    "unknown": [
+        {
+            "name": "javascript-testing-best-practices",
+            "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+            "star": 385,
+            "description": "📗🌐🚢Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 47,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "books",
+            "url": "https://github.com/programthink/books",
+            "star": 74,
+            "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）"
+        },
+        {
+            "name": "30-seconds-zh_CN",
+            "url": "https://github.com/b3log/30-seconds-zh_CN",
+            "star": 38,
+            "description": "📙前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。"
+        },
+        {
+            "name": "the-book-of-secret-knowledge",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "star": 55,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 31,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "test-your-sysadmin-skills",
+            "url": "https://github.com/trimstray/test-your-sysadmin-skills",
+            "star": 23,
+            "description": "A collection of *nix Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A."
+        },
+        {
+            "name": "chromium",
+            "url": "https://github.com/jjqqkk/chromium",
+            "star": 8,
+            "description": "Chromium browser with SSL VPN. Use this browser to unblock websites."
+        },
+        {
+            "name": "security-bulletins",
+            "url": "https://github.com/Netflix/security-bulletins",
+            "star": 4,
+            "description": "Security Bulletins that relate to Netflix Open Source"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 41,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "baidu-netdisk-downloaderx",
+            "url": "https://github.com/b3log/baidu-netdisk-downloaderx",
+            "star": 195,
+            "description": "⚡️一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。"
+        },
+        {
+            "name": "jumpserver",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "star": 68,
+            "description": "Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。"
+        },
+        {
+            "name": "label-studio",
+            "url": "https://github.com/heartexlabs/label-studio",
+            "star": 38,
+            "description": "Label Studio is a multi-domain data labeling tool with standardized output format"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 59,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "baiduyun",
+            "url": "https://github.com/syhyz1990/baiduyun",
+            "star": 65,
+            "description": "🖖油猴脚本 一个脚本搞定百度网盘下载"
+        },
+        {
+            "name": "swiper",
+            "url": "https://github.com/nolimits4web/swiper",
+            "star": 15,
+            "description": "Most modern mobile touch slider with hardware accelerated transitions"
+        },
+        {
+            "name": "inertia",
+            "url": "https://github.com/inertiajs/inertia",
+            "star": 32,
+            "description": "A framework for creating server-driven single page apps."
+        },
+        {
+            "name": "react-native-calendars",
+            "url": "https://github.com/wix/react-native-calendars",
+            "star": 2,
+            "description": "React Native Calendar Components📆"
+        },
+        {
+            "name": "reactide",
+            "url": "https://github.com/reactide/reactide",
+            "star": 24,
+            "description": "Reactide is the first dedicated IDE for React web application development."
+        },
+        {
+            "name": "react-admin",
+            "url": "https://github.com/marmelab/react-admin",
+            "star": 11,
+            "description": "A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design"
+        }
+    ],
+    "html": [
+        {
+            "name": "website",
+            "url": "https://github.com/letsencrypt/website",
+            "star": 13,
+            "description": "Let's Encrypt Website and Documentation"
+        },
+        {
+            "name": "react-tetris-starter-files",
+            "url": "https://github.com/weibenfalk/react-tetris-starter-files",
+            "star": 1,
+            "description": "Starter files for the React-Tetris tutorial"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 1,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "html",
+            "url": "https://github.com/whatwg/html",
+            "star": 2,
+            "description": "HTML Standard"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 10,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "sourcegraph",
+            "url": "https://github.com/sourcegraph/sourcegraph",
+            "star": 1,
+            "description": "Code search and navigation tool (self-hosted)"
+        },
+        {
+            "name": "blackeye",
+            "url": "https://github.com/thelinuxchoice/blackeye",
+            "star": 22,
+            "description": "The most complete Phishing Tool, with 32 templates +1 customizable"
+        },
+        {
+            "name": "training-kit",
+            "url": "https://github.com/github/training-kit",
+            "star": 2,
+            "description": "Open source cheat sheets for Git and GitHub"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 7,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "ng-alain",
+            "url": "https://github.com/ng-alain/ng-alain",
+            "star": 1,
+            "description": "NG-ZORRO admin panel front-end framework (netlify mirror https://netlify.ng-alain.com/)"
+        }
+    ],
+    "go": [
+        {
+            "name": "learn-go-with-tests",
+            "url": "https://github.com/quii/learn-go-with-tests",
+            "star": 192,
+            "description": "Learn Go with test-driven development"
+        },
+        {
+            "name": "ultimate-go",
+            "url": "https://github.com/hoanhan101/ultimate-go",
+            "star": 233,
+            "description": "Ultimate Go study guides, with heavily documented code and programs analysis all in 1 place"
+        },
+        {
+            "name": "aws-sdk-go",
+            "url": "https://github.com/aws/aws-sdk-go",
+            "star": 8,
+            "description": "AWS SDK for the Go programming language."
+        },
+        {
+            "name": "prometheus",
+            "url": "https://github.com/prometheus/prometheus",
+            "star": 25,
+            "description": "The Prometheus monitoring system and time series database."
+        },
+        {
+            "name": "go-github",
+            "url": "https://github.com/google/go-github",
+            "star": 5,
+            "description": "Go library for accessing the GitHub API"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 24,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "vugu",
+            "url": "https://github.com/vugu/vugu",
+            "star": 14,
+            "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)"
+        },
+        {
+            "name": "aks-engine",
+            "url": "https://github.com/Azure/aks-engine",
+            "star": 0,
+            "description": "AKS Engine: Units of Kubernetes on Azure!"
+        },
+        {
+            "name": "packer",
+            "url": "https://github.com/hashicorp/packer",
+            "star": 0,
+            "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "url": "https://github.com/iikira/BaiduPCS-Go",
+            "star": 18,
+            "description": "百度网盘客户端 - Go语言编写"
+        }
+    ]
+}

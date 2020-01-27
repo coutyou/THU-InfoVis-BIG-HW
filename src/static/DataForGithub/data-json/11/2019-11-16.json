@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-16",
+    "month": 11,
+    "day": 16,
+    "python": [
+        {
+            "name": "Deep-Learning-with-TensorFlow-book",
+            "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+            "star": 394,
+            "description": "深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework."
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 1338,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "seq2seq-couplet",
+            "url": "https://github.com/wb14123/seq2seq-couplet",
+            "star": 97,
+            "description": "Play couplet with seq2seq model. 用深度学习对对联。"
+        },
+        {
+            "name": "quay",
+            "url": "https://github.com/quay/quay",
+            "star": 321,
+            "description": "Build, Store, and Distribute your Applications and Containers"
+        },
+        {
+            "name": "azure-cli",
+            "url": "https://github.com/Azure/azure-cli",
+            "star": 7,
+            "description": "Command-line tools for Azure."
+        },
+        {
+            "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "star": 68,
+            "description": "💎1MB lightweight face detection model (1MB轻量级人脸检测模型)"
+        },
+        {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "star": 264,
+            "description": "💻A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!"
+        },
+        {
+            "name": "c9-python-getting-started",
+            "url": "https://github.com/microsoft/c9-python-getting-started",
+            "star": 27,
+            "description": "Sample code for Channel 9 Python for Beginners course"
+        },
+        {
+            "name": "qiling",
+            "url": "https://github.com/qilingframework/qiling",
+            "star": 86,
+            "description": "Qiling Advanced Binary Emulation framework"
+        },
+        {
+            "name": "TGBullshitGeneratorBot",
+            "url": "https://github.com/abc1763613206/TGBullshitGeneratorBot",
+            "star": 30,
+            "description": "\"狗屁不通文章生成器\" (https://github.com/menzi11/BullshitGenerator) 的 Telegram Bot 移植版"
+        }
+    ],
+    "java": [
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 303,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 104,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "easyexcel",
+            "url": "https://github.com/alibaba/easyexcel",
+            "star": 56,
+            "description": "快速、简单避免OOM的java处理Excel工具"
+        },
+        {
+            "name": "Sentinel",
+            "url": "https://github.com/alibaba/Sentinel",
+            "star": 87,
+            "description": "A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)"
+        },
+        {
+            "name": "DataX",
+            "url": "https://github.com/alibaba/DataX",
+            "star": 49,
+            "description": ""
+        },
+        {
+            "name": "nacos",
+            "url": "https://github.com/alibaba/nacos",
+            "star": 45,
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+        },
+        {
+            "name": "ksql",
+            "url": "https://github.com/confluentinc/ksql",
+            "star": 20,
+            "description": "KSQL - the Streaming SQL Engine for Apache Kafka"
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 37,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "redis-manager",
+            "url": "https://github.com/ngbdf/redis-manager",
+            "star": 190,
+            "description": "Redis 一站式管理平台，支持集群创建、管理、监控、报警"
+        },
+        {
+            "name": "flink",
+            "url": "https://github.com/apache/flink",
+            "star": 33,
+            "description": "Apache Flink"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 373,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "JavaFamily",
+            "url": "https://github.com/AobingJava/JavaFamily",
+            "star": 95,
+            "description": "【 互联网 Java 工程师大厂面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，后端同学必看，前端同学也可学习。"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 196,
+            "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "awesome-ida",
+            "url": "https://github.com/xrkk/awesome-ida",
+            "star": 116,
+            "description": "awesome IDA Pro resources collections. For Github Repos, extra info included: Star, Last Commit Time, Main Programming Language. Update Regularly!"
+        },
+        {
+            "name": "starter-workflows",
+            "url": "https://github.com/actions/starter-workflows",
+            "star": 52,
+            "description": "Accelerating new GitHub Actions workflows"
+        },
+        {
+            "name": "download",
+            "url": "https://github.com/getlantern/download",
+            "star": 31,
+            "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 56,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "git-flight-rules",
+            "url": "https://github.com/k88hudson/git-flight-rules",
+            "star": 97,
+            "description": "Flight rules for git"
+        },
+        {
+            "name": "GNNPapers",
+            "url": "https://github.com/thunlp/GNNPapers",
+            "star": 40,
+            "description": "Must-read papers on graph neural networks (GNN)"
+        },
+        {
+            "name": "vagas",
+            "url": "https://github.com/frontendbr/vagas",
+            "star": 9,
+            "description": "🔬Espaço para divulgação de vagas para front-enders."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "BullshitGenerator",
+            "url": "https://github.com/menzi11/BullshitGenerator",
+            "star": 2381,
+            "description": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this."
+        },
+        {
+            "name": "drawio-desktop",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "star": 179,
+            "description": "Official electron build of draw.io"
+        },
+        {
+            "name": "d2-admin",
+            "url": "https://github.com/d2-projects/d2-admin",
+            "star": 115,
+            "description": "🌈An elegant dashboard"
+        },
+        {
+            "name": "WheelChair",
+            "url": "https://github.com/hrt/WheelChair",
+            "star": 9,
+            "description": "State of the art, cutting edge Neo man"
+        },
+        {
+            "name": "fabric.js",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "star": 23,
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+        },
+        {
+            "name": "quark-h5",
+            "url": "https://github.com/huangwei9527/quark-h5",
+            "star": 315,
+            "description": "基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具"
+        },
+        {
+            "name": "axios",
+            "url": "https://github.com/axios/axios",
+            "star": 88,
+            "description": "Promise based HTTP client for the browser and node.js"
+        },
+        {
+            "name": "flow-typed",
+            "url": "https://github.com/flow-typed/flow-typed",
+            "star": 6,
+            "description": "A central repository for Flow library definitions"
+        },
+        {
+            "name": "brave-browser",
+            "url": "https://github.com/brave/brave-browser",
+            "star": 82,
+            "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android"
+        },
+        {
+            "name": "wechat-app-mall",
+            "url": "https://github.com/EastWorld/wechat-app-mall",
+            "star": 19,
+            "description": "微信小程序商城，微信小程序微店"
+        }
+    ],
+    "html": [
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 46,
+            "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning"
+        },
+        {
+            "name": "cypress-example-kitchensink",
+            "url": "https://github.com/cypress-io/cypress-example-kitchensink",
+            "star": 3,
+            "description": "This is an example app used to showcase Cypress.io testing."
+        },
+        {
+            "name": "purecss-lace",
+            "url": "https://github.com/cyanharlow/purecss-lace",
+            "star": 49,
+            "description": "HTML/CSS drawing inspired by Flemish baroque oil portraits. Hand-coded entirely in HTML & CSS."
+        },
+        {
+            "name": "glTF",
+            "url": "https://github.com/KhronosGroup/glTF",
+            "star": 6,
+            "description": "glTF – Runtime 3D Asset Delivery"
+        },
+        {
+            "name": "html",
+            "url": "https://github.com/whatwg/html",
+            "star": 8,
+            "description": "HTML Standard"
+        },
+        {
+            "name": "boost",
+            "url": "https://github.com/boostorg/boost",
+            "star": 9,
+            "description": "Super-project for modularized Boost"
+        },
+        {
+            "name": "500LineorLess_CN",
+            "url": "https://github.com/HT524/500LineorLess_CN",
+            "star": 9,
+            "description": "500 line or less 中文翻译计划。"
+        },
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 54,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 13,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "responsive-html-email-template",
+            "url": "https://github.com/leemunroe/responsive-html-email-template",
+            "star": 14,
+            "description": "A free simple responsive HTML email template"
+        }
+    ],
+    "go": [
+        {
+            "name": "OpenDiablo2",
+            "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+            "star": 1433,
+            "description": "An open source re-implementation of Diablo 2"
+        },
+        {
+            "name": "validator",
+            "url": "https://github.com/go-playground/validator",
+            "star": 85,
+            "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 36,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        },
+        {
+            "name": "kubeedge",
+            "url": "https://github.com/kubeedge/kubeedge",
+            "star": 24,
+            "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 48,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "operator-lifecycle-manager",
+            "url": "https://github.com/operator-framework/operator-lifecycle-manager",
+            "star": 12,
+            "description": "A management framework for extending Kubernetes with Operators"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 120,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "moby",
+            "url": "https://github.com/moby/moby",
+            "star": 43,
+            "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+        },
+        {
+            "name": "jwt-go",
+            "url": "https://github.com/dgrijalva/jwt-go",
+            "star": 15,
+            "description": "Golang implementation of JSON Web Tokens (JWT)"
+        },
+        {
+            "name": "mattermost-server",
+            "url": "https://github.com/mattermost/mattermost-server",
+            "star": 25,
+            "description": "Open source Slack-alternative in Golang and React - Mattermost"
+        }
+    ]
+}

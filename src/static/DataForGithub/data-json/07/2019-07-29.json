@@ -1,0 +1,315 @@
+{
+    "date": "2019-07-29",
+    "month": 7,
+    "day": 29,
+    "python": [
+        {
+            "name": "grapheneX",
+            "url": "https://github.com/grapheneX/grapheneX",
+            "star": 75,
+            "description": "Automated System Hardening Framework"
+        },
+        {
+            "name": "tensorpack",
+            "url": "https://github.com/tensorpack/tensorpack",
+            "star": 51,
+            "description": "A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility"
+        },
+        {
+            "name": "chromego",
+            "url": "https://github.com/killgcd/chromego",
+            "star": 92,
+            "description": "ChromeGo 翻墙工具包"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 79,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "wagtail",
+            "url": "https://github.com/wagtail/wagtail",
+            "star": 34,
+            "description": "A Django content management system focused on flexibility and user experience"
+        },
+        {
+            "name": "unlocker",
+            "url": "https://github.com/DrDonk/unlocker",
+            "star": 53,
+            "description": "VMware Workstation macOS"
+        },
+        {
+            "name": "esptool",
+            "url": "https://github.com/espressif/esptool",
+            "star": 3,
+            "description": "ESP8266 and ESP32 serial bootloader utility"
+        },
+        {
+            "name": "zhao",
+            "url": "https://github.com/programthink/zhao",
+            "star": 9,
+            "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵"
+        },
+        {
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models",
+            "star": 107,
+            "description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more"
+        },
+        {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "star": 16,
+            "description": "scikit-learn: machine learning in Python"
+        }
+    ],
+    "java": [
+        {
+            "name": "EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "star": 56,
+            "description": "An Unofficial E-Hentai Application for Android"
+        },
+        {
+            "name": "web-flash",
+            "url": "https://github.com/enilu/web-flash",
+            "star": 67,
+            "description": "WEB-FLASH -- Admin Framework and Mobile Website Based on Spring Boot and Vue.js"
+        },
+        {
+            "name": "milkman",
+            "url": "https://github.com/warmuuh/milkman",
+            "star": 15,
+            "description": ""
+        },
+        {
+            "name": "NewPipe",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "star": 13,
+            "description": "A libre lightweight streaming front-end for Android."
+        },
+        {
+            "name": "tink",
+            "url": "https://github.com/google/tink",
+            "star": 25,
+            "description": "Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse."
+        },
+        {
+            "name": "toBeTopJavaer",
+            "url": "https://github.com/hollischuang/toBeTopJavaer",
+            "star": 67,
+            "description": "To Be Top Javaer - Java工程师成神之路"
+        },
+        {
+            "name": "runelite",
+            "url": "https://github.com/runelite/runelite",
+            "star": 2,
+            "description": "Open source Old School RuneScape client"
+        },
+        {
+            "name": "Signal-Android",
+            "url": "https://github.com/signalapp/Signal-Android",
+            "star": 6,
+            "description": "A private messenger for Android."
+        },
+        {
+            "name": "spring-boot-plus",
+            "url": "https://github.com/geekidea/spring-boot-plus",
+            "star": 35,
+            "description": "spring-boot-plus集成Spring Boot 2.1.6,Mybatis,Mybatis Plus,Druid,FastJson,Redis,Rabbit MQ,Kafka等，可使用代码生成器快速开发项目"
+        },
+        {
+            "name": "Leetcode",
+            "url": "https://github.com/fishercoder1534/Leetcode",
+            "star": 10,
+            "description": "Complete solutions to Leetcode problems; updated daily. (I'm looking for long-term contributors/partners to this repo! Send me PRs if you're interested! - 9/5/2018)"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "awesome-architecture",
+            "url": "https://github.com/toutiaoio/awesome-architecture",
+            "star": 410,
+            "description": "架构师技术图谱，助你早日成为架构师"
+        },
+        {
+            "name": "AWS-IAM-Privilege-Escalation",
+            "url": "https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation",
+            "star": 64,
+            "description": "A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs."
+        },
+        {
+            "name": "git-flight-rules",
+            "url": "https://github.com/k88hudson/git-flight-rules",
+            "star": 147,
+            "description": "Flight rules for git"
+        },
+        {
+            "name": "awesome-java",
+            "url": "https://github.com/akullpp/awesome-java",
+            "star": 86,
+            "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 104,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "awesome-computer-vision",
+            "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+            "star": 6,
+            "description": "A curated list of awesome computer vision resources"
+        },
+        {
+            "name": "sequelize-docs-Zh-CN",
+            "url": "https://github.com/demopark/sequelize-docs-Zh-CN",
+            "star": 6,
+            "description": "Sequelize 文档的中文版本 , 更新至 v5.8.6 版本."
+        },
+        {
+            "name": "HAHA",
+            "url": "https://github.com/cvb941/HAHA",
+            "star": 7,
+            "description": "Highly Available Home Assistant - a solution for running a redundant installation of Home Assistant"
+        },
+        {
+            "name": "petition",
+            "url": "https://github.com/otvorete/petition",
+            "star": 114,
+            "description": "ПОКАЖЕТЕ НИ КОДА!"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 68,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "NeteaseCloudMusicApi",
+            "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+            "star": 141,
+            "description": "网易云音乐 Node.js API service"
+        },
+        {
+            "name": "laravel-auth",
+            "url": "https://github.com/jeremykenedy/laravel-auth",
+            "star": 29,
+            "description": "Laravel 5.8 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection. Uses offical [Bootstrap 4](http://getbootstrap.com). This also makes full use of Controllers for the routes, templates for the views, and makes use of middleware for routing. Project can be stood up …"
+        },
+        {
+            "name": "gridstudio",
+            "url": "https://github.com/ricklamers/gridstudio",
+            "star": 70,
+            "description": "Grid studio is a web-based spreadsheet application with full integration of the Python programming language."
+        },
+        {
+            "name": "Signal-Desktop",
+            "url": "https://github.com/signalapp/Signal-Desktop",
+            "star": 8,
+            "description": "Signal — Private Messenger for Windows, Mac, and Linux"
+        },
+        {
+            "name": "MikuTools",
+            "url": "https://github.com/Ice-Hazymoon/MikuTools",
+            "star": 50,
+            "description": "一个轻量的工具集合"
+        },
+        {
+            "name": "jexcel",
+            "url": "https://github.com/paulhodel/jexcel",
+            "star": 99,
+            "description": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software."
+        },
+        {
+            "name": "ch-download",
+            "url": "https://github.com/alekseylovchikov/ch-download",
+            "star": 9,
+            "description": "download video from coursehunters.net"
+        },
+        {
+            "name": "create-nuxt-app",
+            "url": "https://github.com/nuxt/create-nuxt-app",
+            "star": 11,
+            "description": "Create Nuxt.js App in seconds."
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/CodingTrain/website",
+            "star": 8,
+            "description": "Coding Train website"
+        },
+        {
+            "name": "hyper",
+            "url": "https://github.com/zeit/hyper",
+            "star": 21,
+            "description": "A terminal built on web technologies"
+        }
+    ],
+    "go": [
+        {
+            "name": "gotraining",
+            "url": "https://github.com/ardanlabs/gotraining",
+            "star": 146,
+            "description": "Go Training Class Material :"
+        },
+        {
+            "name": "tinygo",
+            "url": "https://github.com/tinygo-org/tinygo",
+            "star": 83,
+            "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM."
+        },
+        {
+            "name": "gitea",
+            "url": "https://github.com/go-gitea/gitea",
+            "star": 41,
+            "description": "Git with a cup of tea, painless self-hosted git service"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 54,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "yaegi",
+            "url": "https://github.com/containous/yaegi",
+            "star": 64,
+            "description": "Yaegi is Another Elegant Go Interpreter"
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 16,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "buildah",
+            "url": "https://github.com/containers/buildah",
+            "star": 32,
+            "description": "A tool that facilitates building OCI images"
+        },
+        {
+            "name": "memguard",
+            "url": "https://github.com/awnumar/memguard",
+            "star": 31,
+            "description": "Secure software enclave for storage of sensitive information in memory."
+        },
+        {
+            "name": "lazydocker",
+            "url": "https://github.com/jesseduffield/lazydocker",
+            "star": 57,
+            "description": "The lazier way to manage everything docker"
+        },
+        {
+            "name": "hugo",
+            "url": "https://github.com/gohugoio/hugo",
+            "star": 48,
+            "description": "The world’s fastest framework for building websites."
+        }
+    ]
+}

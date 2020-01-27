@@ -1,0 +1,377 @@
+{
+    "date": "2019-10-19",
+    "month": 10,
+    "day": 19,
+    "python": [
+        {
+            "name": "KnowledgeGraphData",
+            "url": "https://github.com/ownthink/KnowledgeGraphData",
+            "star": 441,
+            "description": "史上最大规模1.4亿中文知识图谱开源下载"
+        },
+        {
+            "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+            "star": 248,
+            "description": "💎1MB轻量级人脸检测模型"
+        },
+        {
+            "name": "albert_zh",
+            "url": "https://github.com/brightmart/albert_zh",
+            "star": 44,
+            "description": "A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型"
+        },
+        {
+            "name": "botorch",
+            "url": "https://github.com/pytorch/botorch",
+            "star": 47,
+            "description": "Bayesian optimization in PyTorch"
+        },
+        {
+            "name": "gpytorch",
+            "url": "https://github.com/cornellius-gp/gpytorch",
+            "star": 12,
+            "description": "A highly efficient and modular implementation of Gaussian Processes in PyTorch"
+        },
+        {
+            "name": "100-Days-of-ML-Code-Chinese-Version",
+            "url": "https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version",
+            "star": 124,
+            "description": "Chinese Translation for Machine Learning Infographics"
+        },
+        {
+            "name": "sagemaker-python-sdk",
+            "url": "https://github.com/aws/sagemaker-python-sdk",
+            "star": 1,
+            "description": "A library for training and deploying machine learning models on Amazon SageMaker"
+        },
+        {
+            "name": "mlflow",
+            "url": "https://github.com/mlflow/mlflow",
+            "star": 20,
+            "description": "Open source platform for the machine learning lifecycle"
+        },
+        {
+            "name": "wait-for-it",
+            "url": "https://github.com/vishnubob/wait-for-it",
+            "star": 8,
+            "description": "Pure bash script to test and wait on the availability of a TCP host and port"
+        },
+        {
+            "name": "sentry",
+            "url": "https://github.com/getsentry/sentry",
+            "star": 13,
+            "description": "Sentry is cross-platform application monitoring, with a focus on error reporting."
+        }
+    ],
+    "java": [
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 25,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "gpmall",
+            "url": "https://github.com/2227324689/gpmall",
+            "star": 13,
+            "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch"
+        },
+        {
+            "name": "zuul",
+            "url": "https://github.com/Netflix/zuul",
+            "star": 6,
+            "description": "Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more."
+        },
+        {
+            "name": "hutool",
+            "url": "https://github.com/looly/hutool",
+            "star": 26,
+            "description": "A set of tools that keep Java sweet."
+        },
+        {
+            "name": "spring-cloud-alibaba",
+            "url": "https://github.com/alibaba/spring-cloud-alibaba",
+            "star": 46,
+            "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware."
+        },
+        {
+            "name": "nifi",
+            "url": "https://github.com/apache/nifi",
+            "star": 4,
+            "description": "Mirror of Apache NiFi"
+        },
+        {
+            "name": "rabbitmq-tutorials",
+            "url": "https://github.com/rabbitmq/rabbitmq-tutorials",
+            "star": 3,
+            "description": "Tutorials for using RabbitMQ in various ways"
+        },
+        {
+            "name": "google-cloud-java",
+            "url": "https://github.com/googleapis/google-cloud-java",
+            "star": 2,
+            "description": "Google Cloud Client Library for Java"
+        },
+        {
+            "name": "wiremock",
+            "url": "https://github.com/tomakehurst/wiremock",
+            "star": 3,
+            "description": "A tool for mocking HTTP services"
+        },
+        {
+            "name": "geoserver",
+            "url": "https://github.com/geoserver/geoserver",
+            "star": 4,
+            "description": "Official GeoServer repository"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "docs",
+            "url": "https://github.com/dapr/docs",
+            "star": 44,
+            "description": "User documentation for Dapr"
+        },
+        {
+            "name": "spec",
+            "url": "https://github.com/oam-dev/spec",
+            "star": 109,
+            "description": "The Open Application Model specification"
+        },
+        {
+            "name": "the-incredible-pytorch",
+            "url": "https://github.com/ritchieng/the-incredible-pytorch",
+            "star": 30,
+            "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+        },
+        {
+            "name": "xg2xg",
+            "url": "https://github.com/jhuangtw-dev/xg2xg",
+            "star": 314,
+            "description": "by ex-googlers, for ex-googlers - a lookup table of similar tech & services"
+        },
+        {
+            "name": "chapter",
+            "url": "https://github.com/freeCodeCamp/chapter",
+            "star": 170,
+            "description": "A self-hosted event management tool for nonprofits"
+        },
+        {
+            "name": "free-api",
+            "url": "https://github.com/fangzesheng/free-api",
+            "star": 296,
+            "description": "收集免费的接口服务,做一个api的搬运工"
+        },
+        {
+            "name": "awesome-nodejs",
+            "url": "https://github.com/sindresorhus/awesome-nodejs",
+            "star": 13,
+            "description": "⚡️Delightful Node.js packages and resources"
+        },
+        {
+            "name": "rust-for-js-people",
+            "url": "https://github.com/yoshuawuyts/rust-for-js-people",
+            "star": 32,
+            "description": "Know JS, want to try Rust, but not sure where to start? This is for you!"
+        },
+        {
+            "name": "awesome-libra",
+            "url": "https://github.com/reed-hong/awesome-libra",
+            "star": 144,
+            "description": "A Curated List of Awesome Facebook Libra Resources"
+        },
+        {
+            "name": "YubiKey-Guide",
+            "url": "https://github.com/drduh/YubiKey-Guide",
+            "star": 2,
+            "description": "Guide to using YubiKey for GPG and SSH"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "strapi",
+            "url": "https://github.com/strapi/strapi",
+            "star": 72,
+            "description": "🚀Open source Node.js Headless CMS to easily build customisable APIs"
+        },
+        {
+            "name": "generator-jhipster",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "star": 21,
+            "description": "Open Source application platform for creating Spring Boot + Angular/React projects in seconds!"
+        },
+        {
+            "name": "Rocket.Chat",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "star": 12,
+            "description": "The ultimate Free Open Source Solution for team communications."
+        },
+        {
+            "name": "vue-cli",
+            "url": "https://github.com/vuejs/vue-cli",
+            "star": 33,
+            "description": "🛠️Standard Tooling for Vue.js Development"
+        },
+        {
+            "name": "30-seconds-of-code",
+            "url": "https://github.com/30-seconds/30-seconds-of-code",
+            "star": 142,
+            "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "next.js",
+            "url": "https://github.com/zeit/next.js",
+            "star": 35,
+            "description": "The React Framework"
+        },
+        {
+            "name": "react-native-website",
+            "url": "https://github.com/facebook/react-native-website",
+            "star": 3,
+            "description": "The site and docs for React Native"
+        },
+        {
+            "name": "samples",
+            "url": "https://github.com/dapr/samples",
+            "star": 20,
+            "description": "Dapr Samples Repository"
+        },
+        {
+            "name": "docusaurus",
+            "url": "https://github.com/facebook/docusaurus",
+            "star": 30,
+            "description": "Easy to maintain open source documentation websites."
+        },
+        {
+            "name": "react-vis",
+            "url": "https://github.com/uber/react-vis",
+            "star": 10,
+            "description": "Data Visualization Components"
+        }
+    ],
+    "html": [
+        {
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "star": 184,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 75,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 23,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "JavaScript30",
+            "url": "https://github.com/wesbos/JavaScript30",
+            "star": 14,
+            "description": "30 Day Vanilla JS Challenge"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 3,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "swagger-codegen",
+            "url": "https://github.com/swagger-api/swagger-codegen",
+            "star": 7,
+            "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition."
+        },
+        {
+            "name": "AR.js",
+            "url": "https://github.com/jeromeetienne/AR.js",
+            "star": 6,
+            "description": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+        },
+        {
+            "name": "data_analysis",
+            "url": "https://github.com/zhouwei713/data_analysis",
+            "star": 9,
+            "description": "一些爬虫和数据分析相关实战练习"
+        },
+        {
+            "name": "quickstart-js",
+            "url": "https://github.com/firebase/quickstart-js",
+            "star": 3,
+            "description": "Firebase Quickstart Samples for Web"
+        },
+        {
+            "name": "awesome-creative-coding",
+            "url": "https://github.com/terkelg/awesome-creative-coding",
+            "star": 10,
+            "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources."
+        }
+    ],
+    "go": [
+        {
+            "name": "dapr",
+            "url": "https://github.com/dapr/dapr",
+            "star": 557,
+            "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge."
+        },
+        {
+            "name": "libpod",
+            "url": "https://github.com/containers/libpod",
+            "star": 19,
+            "description": "libpod is a library used to create container pods. Home of Podman."
+        },
+        {
+            "name": "nats-server",
+            "url": "https://github.com/nats-io/nats-server",
+            "star": 5,
+            "description": "High-Performance server for NATS, the cloud native messaging system."
+        },
+        {
+            "name": "client_golang",
+            "url": "https://github.com/prometheus/client_golang",
+            "star": 5,
+            "description": "Prometheus instrumentation library for Go applications"
+        },
+        {
+            "name": "redis",
+            "url": "https://github.com/go-redis/redis",
+            "star": 15,
+            "description": "Type-safe Redis client for Golang"
+        },
+        {
+            "name": "mapstructure",
+            "url": "https://github.com/mitchellh/mapstructure",
+            "star": 8,
+            "description": "Go library for decoding generic map values into native Go structures."
+        },
+        {
+            "name": "pacgo",
+            "url": "https://github.com/danicat/pacgo",
+            "star": 51,
+            "description": "A Pac Man clone written in Go (with emojis!)"
+        },
+        {
+            "name": "grpc-go",
+            "url": "https://github.com/grpc/grpc-go",
+            "star": 53,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+        },
+        {
+            "name": "validator",
+            "url": "https://github.com/go-playground/validator",
+            "star": 7,
+            "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+        },
+        {
+            "name": "terraform",
+            "url": "https://github.com/hashicorp/terraform",
+            "star": 20,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+        }
+    ]
+}

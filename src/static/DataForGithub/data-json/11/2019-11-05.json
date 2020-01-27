@@ -1,0 +1,377 @@
+{
+    "date": "2019-11-05",
+    "month": 11,
+    "day": 5,
+    "python": [
+        {
+            "name": "spleeter",
+            "url": "https://github.com/deezer/spleeter",
+            "star": 1269,
+            "description": "Deezer source separation library including pretrained models."
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 49,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "searx",
+            "url": "https://github.com/asciimoo/searx",
+            "star": 43,
+            "description": "Privacy-respecting metasearch engine"
+        },
+        {
+            "name": "streamlit",
+            "url": "https://github.com/streamlit/streamlit",
+            "star": 171,
+            "description": "Streamlit — The fastest way to build custom ML tools"
+        },
+        {
+            "name": "Machine-Learning-Yearning-Vietnamese-Translation",
+            "url": "https://github.com/aivivn/Machine-Learning-Yearning-Vietnamese-Translation",
+            "star": 9,
+            "description": ""
+        },
+        {
+            "name": "rockstar",
+            "url": "https://github.com/avinassh/rockstar",
+            "star": 30,
+            "description": "Makes you a Rockstar C++ Programmer in 2 minutes"
+        },
+        {
+            "name": "Real-Time-Voice-Cloning",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "star": 43,
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+        },
+        {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "star": 476,
+            "description": "💻A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!"
+        },
+        {
+            "name": "interpy-zh",
+            "url": "https://github.com/eastlakeside/interpy-zh",
+            "star": 35,
+            "description": "📘《Python进阶》（Intermediate Python 中文版）"
+        },
+        {
+            "name": "whapa",
+            "url": "https://github.com/B16f00t/whapa",
+            "star": 10,
+            "description": "WhatsApp Parser Toolset v1.14"
+        }
+    ],
+    "java": [
+        {
+            "name": "BigData-Notes",
+            "url": "https://github.com/heibaiying/BigData-Notes",
+            "star": 125,
+            "description": "大数据入门指南⭐️"
+        },
+        {
+            "name": "SkyStone",
+            "url": "https://github.com/FIRST-Tech-Challenge/SkyStone",
+            "star": 3,
+            "description": "FTC SDK"
+        },
+        {
+            "name": "CtCI-6th-Edition",
+            "url": "https://github.com/careercup/CtCI-6th-Edition",
+            "star": 12,
+            "description": "Cracking the Coding Interview 6th Ed. Solutions"
+        },
+        {
+            "name": "HanLP",
+            "url": "https://github.com/hankcs/HanLP",
+            "star": 266,
+            "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁"
+        },
+        {
+            "name": "cassandra",
+            "url": "https://github.com/apache/cassandra",
+            "star": 4,
+            "description": "Mirror of Apache Cassandra"
+        },
+        {
+            "name": "LintCode",
+            "url": "https://github.com/awangdev/LintCode",
+            "star": 3,
+            "description": "Java Solutions to problems on LintCode/LeetCode"
+        },
+        {
+            "name": "Play-with-Data-Structures",
+            "url": "https://github.com/liuyubobobo/Play-with-Data-Structures",
+            "star": 4,
+            "description": "Codes of my MOOC Course <Play Data Structures in Java>. Updated contents and practices are also included. 我在慕课网上的课程《Java语言玩转数据结构》示例代码。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。"
+        },
+        {
+            "name": "termux-app",
+            "url": "https://github.com/termux/termux-app",
+            "star": 16,
+            "description": "Android terminal and Linux environment - app repository."
+        },
+        {
+            "name": "interviews",
+            "url": "https://github.com/kdn251/interviews",
+            "star": 33,
+            "description": "Everything you need to know to get the job."
+        },
+        {
+            "name": "Pix-EzViewer",
+            "url": "https://github.com/Notsfsssf/Pix-EzViewer",
+            "star": 2,
+            "description": "一个支持免代理直连及查看动图的第三方Pixiv android客户端"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 1593,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "awesome-interview-questions",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "star": 303,
+            "description": "A curated awesome list of lists of interview questions. Feel free to contribute!🎓"
+        },
+        {
+            "name": "goodies",
+            "url": "https://github.com/rsapkf/goodies",
+            "star": 183,
+            "description": "Collection of GitHub repos, blogs and websites to learn cool things"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 98,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 55,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "trackerslist",
+            "url": "https://github.com/ngosang/trackerslist",
+            "star": 140,
+            "description": "Updated list of public BitTorrent trackers"
+        },
+        {
+            "name": "awesome-robotic-tooling",
+            "url": "https://github.com/Ly0n/awesome-robotic-tooling",
+            "star": 301,
+            "description": "Just a bunch of powerful robotic resources and tools for professional robotic development with ROS in C++ and Python."
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 49,
+            "description": "Curated list of project-based tutorials"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/googlehosts/hosts",
+            "star": 24,
+            "description": "镜像：https://coding.net/u/scaffrey/p/hosts/git"
+        },
+        {
+            "name": "Cookbook",
+            "url": "https://github.com/andkret/Cookbook",
+            "star": 141,
+            "description": "The Data Engineering Cookbook"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "BullshitGenerator",
+            "url": "https://github.com/menzi11/BullshitGenerator",
+            "star": 665,
+            "description": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this."
+        },
+        {
+            "name": "taobaoVisitingVenues",
+            "url": "https://github.com/sleepybear1113/taobaoVisitingVenues",
+            "star": 110,
+            "description": "双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android"
+        },
+        {
+            "name": "homebridge",
+            "url": "https://github.com/nfarina/homebridge",
+            "star": 7,
+            "description": "HomeKit support for the impatient"
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/iptv-org/iptv",
+            "star": 163,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        },
+        {
+            "name": "BlockChain",
+            "url": "https://github.com/itheima1/BlockChain",
+            "star": 268,
+            "description": "黑马程序员 120天全栈区块链开发 开源教程"
+        },
+        {
+            "name": "Kuiper",
+            "url": "https://github.com/DFIRKuiper/Kuiper",
+            "star": 20,
+            "description": "Digital Investigation Platform"
+        },
+        {
+            "name": "dyo",
+            "url": "https://github.com/dyo/dyo",
+            "star": 96,
+            "description": "Dyo is a JavaScript library for building user interfaces."
+        },
+        {
+            "name": "AutoPiano",
+            "url": "https://github.com/WarpPrism/AutoPiano",
+            "star": 74,
+            "description": "自由钢琴🎹AutoPiano ( https://www.autopiano.cn ) Simple & Elegant Piano Online"
+        },
+        {
+            "name": "node-red",
+            "url": "https://github.com/node-red/node-red",
+            "star": 14,
+            "description": "Low-code programming for event-driven applications"
+        },
+        {
+            "name": "webogram",
+            "url": "https://github.com/zhukov/webogram",
+            "star": 11,
+            "description": "Telegram web application, GPL v3"
+        }
+    ],
+    "html": [
+        {
+            "name": "Disclosures",
+            "url": "https://github.com/badd1e/Disclosures",
+            "star": 29,
+            "description": "Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts"
+        },
+        {
+            "name": "subspace",
+            "url": "https://github.com/subspacecloud/subspace",
+            "star": 29,
+            "description": "A simple WireGuard VPN server GUI"
+        },
+        {
+            "name": "CLRS",
+            "url": "https://github.com/walkccc/CLRS",
+            "star": 6,
+            "description": "📚Solutions to Introduction to Algorithms Third Edition"
+        },
+        {
+            "name": "learning-area",
+            "url": "https://github.com/mdn/learning-area",
+            "star": 5,
+            "description": "Github repo for the MDN Learning Area."
+        },
+        {
+            "name": "home-assistant.io",
+            "url": "https://github.com/home-assistant/home-assistant.io",
+            "star": 0,
+            "description": "📘Home Assistant User documentation"
+        },
+        {
+            "name": "Java-Interview-Advanced",
+            "url": "https://github.com/shishan100/Java-Interview-Advanced",
+            "star": 11,
+            "description": "中华石杉--互联网Java进阶面试训练营"
+        },
+        {
+            "name": "pcc_2e",
+            "url": "https://github.com/ehmatthes/pcc_2e",
+            "star": 0,
+            "description": "Online resources for Python Crash Course (Second Edition), from No Starch Press"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 28,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "manual",
+            "url": "https://github.com/v2ray/manual",
+            "star": 3,
+            "description": "Source code for https://www.v2ray.com/"
+        },
+        {
+            "name": "go101",
+            "url": "https://github.com/go101/go101",
+            "star": 14,
+            "description": "An online book focusing on Go syntax/semantics."
+        }
+    ],
+    "go": [
+        {
+            "name": "go-micro",
+            "url": "https://github.com/micro/go-micro",
+            "star": 38,
+            "description": "A Go microservices development framework"
+        },
+        {
+            "name": "FreeNet",
+            "url": "https://github.com/xiaoming2028/FreeNet",
+            "star": 26,
+            "description": "科学上网/梯子/自由上网/翻墙 SSR/V2Ray/Brook 最全搭建教程"
+        },
+        {
+            "name": "go-git",
+            "url": "https://github.com/src-d/go-git",
+            "star": 14,
+            "description": "A highly extensible Git implementation in pure Go."
+        },
+        {
+            "name": "nsq",
+            "url": "https://github.com/nsqio/nsq",
+            "star": 9,
+            "description": "A realtime distributed messaging platform"
+        },
+        {
+            "name": "coredns",
+            "url": "https://github.com/coredns/coredns",
+            "star": 11,
+            "description": "CoreDNS is a DNS server that chains plugins"
+        },
+        {
+            "name": "opentelemetry-go",
+            "url": "https://github.com/open-telemetry/opentelemetry-go",
+            "star": 11,
+            "description": ""
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 51,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "ent",
+            "url": "https://github.com/facebookincubator/ent",
+            "star": 27,
+            "description": "An entity framework for Go"
+        },
+        {
+            "name": "OpenDiablo2",
+            "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+            "star": 10,
+            "description": "An open source re-implementation of Diablo 2"
+        },
+        {
+            "name": "client",
+            "url": "https://github.com/keybase/client",
+            "star": 11,
+            "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron"
+        }
+    ]
+}

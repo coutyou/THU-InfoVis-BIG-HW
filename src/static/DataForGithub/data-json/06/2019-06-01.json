@@ -1,0 +1,377 @@
+{
+    "date": "2019-06-01",
+    "month": 6,
+    "day": 1,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 223,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "BlueKeep",
+            "url": "https://github.com/Ekultek/BlueKeep",
+            "star": 205,
+            "description": "Proof of concept for CVE-2019-0708"
+        },
+        {
+            "name": "CVE-2019-0708",
+            "url": "https://github.com/n1xbyte/CVE-2019-0708",
+            "star": 122,
+            "description": "dump"
+        },
+        {
+            "name": "opendevops",
+            "url": "https://github.com/opendevops-cn/opendevops",
+            "star": 92,
+            "description": "CODO是为用户提供企业多混合云、自动化运维、完全开源的云管理平台"
+        },
+        {
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models",
+            "star": 94,
+            "description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 73,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 76,
+            "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "star": 69,
+            "description": "A collective list of free APIs for use in software and web development."
+        },
+        {
+            "name": "BitGlitter",
+            "url": "https://github.com/MarkMichon1/BitGlitter",
+            "star": 73,
+            "description": "⚡ Embed data payloads inside of ordinary images or video with high-performance 2-D barcodes."
+        },
+        {
+            "name": "SMRCToolkit",
+            "url": "https://github.com/sogou/SMRCToolkit",
+            "star": 64,
+            "description": "This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes."
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 261,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 140,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 133,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 106,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 86,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "HanLP",
+            "url": "https://github.com/hankcs/HanLP",
+            "star": 69,
+            "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁"
+        },
+        {
+            "name": "RxHttp",
+            "url": "https://github.com/liujingxing/RxHttp",
+            "star": 62,
+            "description": "OkHttp+RxJava 一条链发送请求，Activity/Fragment销毁 自动关闭未完成的请求，新一代Http请求神器"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 50,
+            "description": "✍ Halo 可能是最好的 Java 博客系统"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 37,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "learnxinyminutes-docs",
+            "url": "https://github.com/adambard/learnxinyminutes-docs",
+            "star": 43,
+            "description": "Code documentation written as code! How novel and totally my idea!"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 347,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 258,
+            "description": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "PHP-Interview-QA",
+            "url": "https://github.com/colinlet/PHP-Interview-QA",
+            "star": 162,
+            "description": "PHP面试问答"
+        },
+        {
+            "name": "ds-cheatsheets",
+            "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+            "star": 108,
+            "description": "List of Data Science Cheatsheets to rule the world"
+        },
+        {
+            "name": "EfficientNet-PyTorch",
+            "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+            "star": 84,
+            "description": "A PyTorch implementation of EfficientNet"
+        },
+        {
+            "name": "gitignore",
+            "url": "https://github.com/github/gitignore",
+            "star": 57,
+            "description": "A collection of useful .gitignore templates"
+        },
+        {
+            "name": "free-programming-books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "star": 73,
+            "description": "📚Freely available programming books"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 72,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 75,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 61,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        }
+    ],
+    "javascript": [
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 844,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "zdog",
+            "url": "https://github.com/metafizzy/zdog",
+            "star": 590,
+            "description": "Flat, round, designer-friendly pseudo-3D engine"
+        },
+        {
+            "name": "medium-to-own-blog",
+            "url": "https://github.com/mathieudutour/medium-to-own-blog",
+            "star": 450,
+            "description": "Switch from Medium to your own blog in a few minutes"
+        },
+        {
+            "name": "FunctionScript",
+            "url": "https://github.com/FunctionScript/FunctionScript",
+            "star": 319,
+            "description": "A language and specification for turning JavaScript functions into typed HTTP APIs"
+        },
+        {
+            "name": "hyper",
+            "url": "https://github.com/zeit/hyper",
+            "star": 245,
+            "description": "A terminal built on web technologies"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 147,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 126,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "graphql-engine",
+            "url": "https://github.com/hasura/graphql-engine",
+            "star": 142,
+            "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events."
+        },
+        {
+            "name": "alita",
+            "url": "https://github.com/areslabs/alita",
+            "star": 101,
+            "description": "一套把React Native代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把RN扩展到微信小程序端。"
+        },
+        {
+            "name": "nightfall",
+            "url": "https://github.com/EYBlockchain/nightfall",
+            "star": 91,
+            "description": "EY's Nightfall protocols for private transactions on the Ethereum blockchain using zk-snarks"
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 52,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "Spoon-Knife",
+            "url": "https://github.com/octocat/Spoon-Knife",
+            "star": null,
+            "description": "This repo is for demonstration purposes only."
+        },
+        {
+            "name": "universal-resume",
+            "url": "https://github.com/WebPraktikos/universal-resume",
+            "star": 36,
+            "description": "Resume website template that works on a monitor, paper, and phone."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 30,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "Scala-CheatSheet",
+            "url": "https://github.com/riiswa/Scala-CheatSheet",
+            "star": 19,
+            "description": "The Biggest Scala Cheat-Sheet."
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 15,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "star": 12,
+            "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 11,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "mikutap",
+            "url": "https://github.com/HFIProgramming/mikutap",
+            "star": 14,
+            "description": "A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 12,
+            "description": "Simple management UI for Docker"
+        }
+    ],
+    "go": [
+        {
+            "name": "unioffice",
+            "url": "https://github.com/unidoc/unioffice",
+            "star": 228,
+            "description": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents"
+        },
+        {
+            "name": "ojichat",
+            "url": "https://github.com/greymd/ojichat",
+            "star": 175,
+            "description": "おじさんがLINEやメールで送ってきそうな文を生成する"
+        },
+        {
+            "name": "go-ext-wasm",
+            "url": "https://github.com/wasmerio/go-ext-wasm",
+            "star": 130,
+            "description": "🐹🕸️Go library to run WebAssembly binaries."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 61,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 49,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp",
+            "star": 52,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+        },
+        {
+            "name": "annie",
+            "url": "https://github.com/iawia002/annie",
+            "star": 50,
+            "description": "👾Fast, simple and clean video downloader"
+        },
+        {
+            "name": "viper",
+            "url": "https://github.com/spf13/viper",
+            "star": 43,
+            "description": "Go configuration with fangs"
+        },
+        {
+            "name": "pilosa",
+            "url": "https://github.com/pilosa/pilosa",
+            "star": 44,
+            "description": "Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets."
+        },
+        {
+            "name": "music-get",
+            "url": "https://github.com/winterssy/music-get",
+            "star": 39,
+            "description": "网易云音乐、QQ音乐一键下载工具"
+        }
+    ]
+}

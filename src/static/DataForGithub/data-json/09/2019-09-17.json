@@ -1,0 +1,377 @@
+{
+    "date": "2019-09-17",
+    "month": 9,
+    "day": 17,
+    "python": [
+        {
+            "name": "d2l-zh",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "star": 216,
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。"
+        },
+        {
+            "name": "mne-python",
+            "url": "https://github.com/mne-tools/mne-python",
+            "star": 29,
+            "description": "MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python"
+        },
+        {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "star": 36,
+            "description": "🏡Open source home automation that puts local control and privacy first"
+        },
+        {
+            "name": "30-seconds-of-python",
+            "url": "https://github.com/30-seconds/30-seconds-of-python",
+            "star": 252,
+            "description": "A curated collection of useful Python snippets that you can understand in 30 seconds or less."
+        },
+        {
+            "name": "DeepPrivacy",
+            "url": "https://github.com/hukkelas/DeepPrivacy",
+            "star": 91,
+            "description": "DeepPrivacy: A Generative Adversarial Network for Face Anonymization"
+        },
+        {
+            "name": "NeMo",
+            "url": "https://github.com/NVIDIA/NeMo",
+            "star": 243,
+            "description": "Neural Modules: a toolkit for conversational AI"
+        },
+        {
+            "name": "ctrl",
+            "url": "https://github.com/salesforce/ctrl",
+            "star": 121,
+            "description": "Conditional Transformer Language Model for Controllable Generation"
+        },
+        {
+            "name": "spaCy",
+            "url": "https://github.com/explosion/spaCy",
+            "star": 19,
+            "description": "💫Industrial-strength Natural Language Processing (NLP) with Python and Cython"
+        },
+        {
+            "name": "mlcourse.ai",
+            "url": "https://github.com/Yorko/mlcourse.ai",
+            "star": 18,
+            "description": "Open Machine Learning Course"
+        },
+        {
+            "name": "interview_internal_reference",
+            "url": "https://github.com/0voice/interview_internal_reference",
+            "star": 39,
+            "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。"
+        }
+    ],
+    "java": [
+        {
+            "name": "TubeMQ",
+            "url": "https://github.com/Tencent/TubeMQ",
+            "star": 142,
+            "description": "TubeMQ focuses on high-performance storage and transmission of massive data in large data scenarios"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 121,
+            "description": "📚Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 104,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 123,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "nifi",
+            "url": "https://github.com/apache/nifi",
+            "star": 4,
+            "description": "Mirror of Apache NiFi"
+        },
+        {
+            "name": "system-design",
+            "url": "https://github.com/FreemanZhang/system-design",
+            "star": 34,
+            "description": "Preparing for system design interview questions"
+        },
+        {
+            "name": "SkyStone",
+            "url": "https://github.com/FIRST-Tech-Challenge/SkyStone",
+            "star": 7,
+            "description": "FTC SDK"
+        },
+        {
+            "name": "baritone",
+            "url": "https://github.com/cabaletta/baritone",
+            "star": 2,
+            "description": "google maps for block game"
+        },
+        {
+            "name": "quarkus",
+            "url": "https://github.com/quarkusio/quarkus",
+            "star": 8,
+            "description": "Quarkus: Supersonic Subatomic Java."
+        },
+        {
+            "name": "NetGuard",
+            "url": "https://github.com/M66B/NetGuard",
+            "star": 17,
+            "description": "A simple way to block access to the internet per application"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "Active-Directory-Pentest-Notes",
+            "url": "https://github.com/uknowsec/Active-Directory-Pentest-Notes",
+            "star": 109,
+            "description": "个人域渗透学习笔记"
+        },
+        {
+            "name": "build-your-own-x",
+            "url": "https://github.com/danistefanovic/build-your-own-x",
+            "star": 280,
+            "description": "🤓Build your own (insert technology here)"
+        },
+        {
+            "name": "Hacking-Security-Ebooks",
+            "url": "https://github.com/yeahhub/Hacking-Security-Ebooks",
+            "star": 452,
+            "description": "Top 100 Hacking & Security E-Books (Free Download) - Powered by Yeahhub.com"
+        },
+        {
+            "name": "Data-Science--Cheat-Sheet",
+            "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+            "star": 95,
+            "description": "Cheat Sheets"
+        },
+        {
+            "name": "ECMAScript-new-features-list",
+            "url": "https://github.com/daumann/ECMAScript-new-features-list",
+            "star": 439,
+            "description": "A comprehensive list of new ES features, including ES2015 (ES6), ES2016 (ES7), ES2017 (ES8), ES2018 (ES9), ES2019 (ES10)"
+        },
+        {
+            "name": "hosts",
+            "url": "https://github.com/googlehosts/hosts",
+            "star": 30,
+            "description": "镜像：https://coding.net/u/scaffrey/p/hosts/git"
+        },
+        {
+            "name": "developer-portfolios",
+            "url": "https://github.com/emmawedekind/developer-portfolios",
+            "star": 73,
+            "description": "A list of developer portfolios for your inspiration"
+        },
+        {
+            "name": "kubernetes-the-hard-way",
+            "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+            "star": 78,
+            "description": "Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts."
+        },
+        {
+            "name": "books",
+            "url": "https://github.com/programthink/books",
+            "star": 9,
+            "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）"
+        },
+        {
+            "name": "project-based-learning",
+            "url": "https://github.com/tuvtran/project-based-learning",
+            "star": 185,
+            "description": "Curated list of project-based tutorials"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "bustag",
+            "url": "https://github.com/gxtrobot/bustag",
+            "star": 353,
+            "description": "a tag and recommend system for old bus driver"
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 168,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "star": 142,
+            "description": "⭐️Companies that don't have a broken hiring process"
+        },
+        {
+            "name": "gatsby",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "star": 40,
+            "description": "Build blazing fast, modern apps and websites with React"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/CodingTrain/website",
+            "star": 12,
+            "description": "Coding Train website"
+        },
+        {
+            "name": "immer",
+            "url": "https://github.com/immerjs/immer",
+            "star": 66,
+            "description": "Create the next immutable state by mutating the current one"
+        },
+        {
+            "name": "borderlands",
+            "url": "https://github.com/rockdevourer/borderlands",
+            "star": 42,
+            "description": "Interact with Shift"
+        },
+        {
+            "name": "DataTypes",
+            "url": "https://github.com/HowProgrammingWorks/DataTypes",
+            "star": 6,
+            "description": "Built-in data types"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 41,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "iptv",
+            "url": "https://github.com/freearhey/iptv",
+            "star": 54,
+            "description": "Collection of 8000+ publicly available IPTV channels from all over the world"
+        }
+    ],
+    "html": [
+        {
+            "name": "KubeInvaders",
+            "url": "https://github.com/lucky-sideburn/KubeInvaders",
+            "star": 9,
+            "description": "Chaos Engineering Tool for Kubernetes and Openshift"
+        },
+        {
+            "name": "deeplearning_ai_books",
+            "url": "https://github.com/fengdu78/deeplearning_ai_books",
+            "star": 20,
+            "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）"
+        },
+        {
+            "name": "blog_os",
+            "url": "https://github.com/phil-opp/blog_os",
+            "star": 4,
+            "description": "Writing an OS in Rust"
+        },
+        {
+            "name": "shellphish",
+            "url": "https://github.com/thelinuxchoice/shellphish",
+            "star": 1,
+            "description": "Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 2,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "computer-science-flash-cards",
+            "url": "https://github.com/jwasham/computer-science-flash-cards",
+            "star": 3,
+            "description": "Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization."
+        },
+        {
+            "name": "python",
+            "url": "https://github.com/Show-Me-the-Code/python",
+            "star": 4,
+            "description": "Show Me the Code Python version."
+        },
+        {
+            "name": "learnyounode",
+            "url": "https://github.com/workshopper/learnyounode",
+            "star": 3,
+            "description": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops."
+        },
+        {
+            "name": "datasciencecoursera",
+            "url": "https://github.com/mGalarnyk/datasciencecoursera",
+            "star": 1,
+            "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions."
+        },
+        {
+            "name": "caniemail",
+            "url": "https://github.com/hteumeuleu/caniemail",
+            "star": 17,
+            "description": "Can I email… Support tables for HTML and CSS in emails."
+        }
+    ],
+    "go": [
+        {
+            "name": "clash",
+            "url": "https://github.com/Dreamacro/clash",
+            "star": 80,
+            "description": "A rule-based tunnel in Go."
+        },
+        {
+            "name": "v2ray-core",
+            "url": "https://github.com/v2ray/v2ray-core",
+            "star": 78,
+            "description": "A platform for building proxies to bypass network restrictions."
+        },
+        {
+            "name": "rio",
+            "url": "https://github.com/rancher/rio",
+            "star": 8,
+            "description": "Kubernetes based MicroPaaS"
+        },
+        {
+            "name": "kubeval",
+            "url": "https://github.com/instrumenta/kubeval",
+            "star": 10,
+            "description": "Validate your Kubernetes configuration files, supports multiple Kubernetes versions"
+        },
+        {
+            "name": "aquatone",
+            "url": "https://github.com/michenriksen/aquatone",
+            "star": 20,
+            "description": "A Tool for Domain Flyovers"
+        },
+        {
+            "name": "reviewdog",
+            "url": "https://github.com/reviewdog/reviewdog",
+            "star": 6,
+            "description": "🐶Automated code review tool integrated with any code analysis tools regardless of programming language"
+        },
+        {
+            "name": "xray",
+            "url": "https://github.com/chaitin/xray",
+            "star": 34,
+            "description": "xray 安全评估工具"
+        },
+        {
+            "name": "ssh-chat",
+            "url": "https://github.com/shazow/ssh-chat",
+            "star": 10,
+            "description": "Chat over SSH."
+        },
+        {
+            "name": "cadence",
+            "url": "https://github.com/uber/cadence",
+            "star": 140,
+            "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way."
+        },
+        {
+            "name": "color",
+            "url": "https://github.com/fatih/color",
+            "star": 2,
+            "description": "Color package for Go (golang)"
+        }
+    ]
+}

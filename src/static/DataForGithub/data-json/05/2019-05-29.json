@@ -1,0 +1,377 @@
+{
+    "date": "2019-05-29",
+    "month": 5,
+    "day": 29,
+    "python": [
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 237,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "minimalRL",
+            "url": "https://github.com/seungeunrho/minimalRL",
+            "star": 176,
+            "description": "Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)"
+        },
+        {
+            "name": "ring",
+            "url": "https://github.com/youknowone/ring",
+            "star": 120,
+            "description": "Python cache interface with clean API and built-in memcache & redis + asyncio support."
+        },
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 85,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "fatt",
+            "url": "https://github.com/0x4D31/fatt",
+            "star": 86,
+            "description": "fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic"
+        },
+        {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "star": 69,
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 48,
+            "description": "Models and examples built with TensorFlow"
+        },
+        {
+            "name": "face_recognition",
+            "url": "https://github.com/ageitgey/face_recognition",
+            "star": 67,
+            "description": "The world's simplest facial recognition api for Python and the command line"
+        },
+        {
+            "name": "youtube-dl",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "star": 69,
+            "description": "Command-line program to download videos from YouTube.com and other video sites"
+        },
+        {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "star": 60,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 323,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 178,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 173,
+            "description": "📚技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 144,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "SoulPermission",
+            "url": "https://github.com/soulqw/SoulPermission",
+            "star": 106,
+            "description": "a permission check or request for android"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 92,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 60,
+            "description": "Spring Boot"
+        },
+        {
+            "name": "apollo",
+            "url": "https://github.com/ctripcorp/apollo",
+            "star": 58,
+            "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 31,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 50,
+            "description": "✍ Halo 可能是最好的 Java 博客系统"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "star": 706,
+            "description": "Master the command line, in one page"
+        },
+        {
+            "name": "awesome-scalability",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "star": 559,
+            "description": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+        },
+        {
+            "name": "android-developer-roadmap",
+            "url": "https://github.com/anacoimbrag/android-developer-roadmap",
+            "star": 351,
+            "description": "Android Developer Roadmap 2019"
+        },
+        {
+            "name": "stanford-cs-221-artificial-intelligence",
+            "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence",
+            "star": 139,
+            "description": "VIP cheatsheets for Stanford's CS 221 Artificial Intelligence"
+        },
+        {
+            "name": "hacker-laws",
+            "url": "https://github.com/dwmkerr/hacker-laws",
+            "star": 136,
+            "description": "💻📖Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+        },
+        {
+            "name": "ds-cheatsheets",
+            "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+            "star": 85,
+            "description": "List of Data Science Cheatsheets to rule the world"
+        },
+        {
+            "name": "pentest",
+            "url": "https://github.com/ring04h/pentest",
+            "star": 80,
+            "description": "渗透测试用到的东东"
+        },
+        {
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+            "star": 82,
+            "description": "📚免费的计算机编程类中文书籍，欢迎投稿"
+        },
+        {
+            "name": "You-Dont-Know-JS",
+            "url": "https://github.com/getify/You-Dont-Know-JS",
+            "star": 76,
+            "description": "A book series on JavaScript. @YDKJS on twitter."
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 81,
+            "description": "Roadmap to becoming a web developer in 2019"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "youtube-dl-interactive",
+            "url": "https://github.com/synox/youtube-dl-interactive",
+            "star": 405,
+            "description": "Interactively select the quality and format for youtube-dl"
+        },
+        {
+            "name": "zdog",
+            "url": "https://github.com/metafizzy/zdog",
+            "star": 379,
+            "description": "Flat, round, designer-friendly pseudo-3D engine"
+        },
+        {
+            "name": "xstyled",
+            "url": "https://github.com/smooth-code/xstyled",
+            "star": 373,
+            "description": "Consistent theme based CSS for styled-components💅"
+        },
+        {
+            "name": "imgsquash",
+            "url": "https://github.com/eashish93/imgsquash",
+            "star": 230,
+            "description": "Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice."
+        },
+        {
+            "name": "react-vertex",
+            "url": "https://github.com/sghall/react-vertex",
+            "star": 199,
+            "description": "◾️React Vertex | Hooks-based WebGL library for React"
+        },
+        {
+            "name": "awesome-mac",
+            "url": "https://github.com/jaywcjlove/awesome-mac",
+            "star": 191,
+            "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+        },
+        {
+            "name": "leetcode",
+            "url": "https://github.com/azl397985856/leetcode",
+            "star": 164,
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 120,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "tiptap",
+            "url": "https://github.com/scrumpy/tiptap",
+            "star": 121,
+            "description": "A rich-text editor for Vue.js"
+        },
+        {
+            "name": "Springboot_v2",
+            "url": "https://github.com/fuce1314/Springboot_v2",
+            "star": 95,
+            "description": "SpringBoot_v2项目是努力打造springboot框架的极致细腻的脚手架。包括一套漂亮的前台。无其他杂七杂八的功能，原生纯净。"
+        }
+    ],
+    "html": [
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 170,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "nullboard",
+            "url": "https://github.com/apankrat/nullboard",
+            "star": 47,
+            "description": "Nullboard is a minimalist kanban board, focused on compactness and readability."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 35,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 19,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "en.javascript.info",
+            "url": "https://github.com/javascript-tutorial/en.javascript.info",
+            "star": 16,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "ATTACK-Tools",
+            "url": "https://github.com/nshalabi/ATTACK-Tools",
+            "star": 16,
+            "description": "Utilities for MITRE™ ATT&CK"
+        },
+        {
+            "name": "hyperblog",
+            "url": "https://github.com/freddier/hyperblog",
+            "star": 11,
+            "description": "Un blog increíble para el curso de Git y Github de Platzi"
+        },
+        {
+            "name": "documentation",
+            "url": "https://github.com/pantheon-systems/documentation",
+            "star": 13,
+            "description": "Pantheon Docs"
+        },
+        {
+            "name": "website",
+            "url": "https://github.com/kubernetes/website",
+            "star": 10,
+            "description": "Kubernetes website and documentation repo:"
+        },
+        {
+            "name": "index",
+            "url": "https://github.com/openspug/index",
+            "star": 13,
+            "description": "企业内部导航页"
+        }
+    ],
+    "go": [
+        {
+            "name": "dive-to-gosync-workshop",
+            "url": "https://github.com/smallnest/dive-to-gosync-workshop",
+            "star": 168,
+            "description": "深入Go并发编程研讨课"
+        },
+        {
+            "name": "xuperunion",
+            "url": "https://github.com/xuperchain/xuperunion",
+            "star": 157,
+            "description": "A highly flexible blockchain architecture with great transaction performance."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 70,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 68,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "unipdf",
+            "url": "https://github.com/unidoc/unipdf",
+            "star": 70,
+            "description": "Golang PDF library for creating and processing PDF files (pure go)"
+        },
+        {
+            "name": "Gaea",
+            "url": "https://github.com/XiaoMi/Gaea",
+            "star": 65,
+            "description": "Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team."
+        },
+        {
+            "name": "expr",
+            "url": "https://github.com/antonmedv/expr",
+            "star": 64,
+            "description": "Evaluate expression in Go"
+        },
+        {
+            "name": "gin",
+            "url": "https://github.com/gin-gonic/gin",
+            "star": 51,
+            "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+        },
+        {
+            "name": "gones",
+            "url": "https://github.com/vfreex/gones",
+            "star": 50,
+            "description": "Yet Another NES Emulator Written in Go"
+        },
+        {
+            "name": "nps",
+            "url": "https://github.com/cnlh/nps",
+            "star": 47,
+            "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。"
+        }
+    ]
+}

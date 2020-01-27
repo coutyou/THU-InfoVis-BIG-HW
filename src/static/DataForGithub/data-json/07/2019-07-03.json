@@ -1,0 +1,377 @@
+{
+    "date": "2019-07-03",
+    "month": 7,
+    "day": 3,
+    "python": [
+        {
+            "name": "DeepNude-an-Image-to-Image-technology",
+            "url": "https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology",
+            "star": 258,
+            "description": "Research techniques and papers related to image generation and image restoration used by DeepNude. 研究DeepNude使用的图像生成和图像修复相关的技术和论文。"
+        },
+        {
+            "name": "Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "star": 311,
+            "description": "All Algorithms implemented in Python"
+        },
+        {
+            "name": "PyRoyale",
+            "url": "https://github.com/Igoorx/PyRoyale",
+            "star": 32,
+            "description": "A open-source server emulator for Mario Royale browser game."
+        },
+        {
+            "name": "machine_learning_examples",
+            "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+            "star": 85,
+            "description": "A collection of machine learning examples and tutorials."
+        },
+        {
+            "name": "mmaction",
+            "url": "https://github.com/open-mmlab/mmaction",
+            "star": 25,
+            "description": ""
+        },
+        {
+            "name": "DeepPavlov",
+            "url": "https://github.com/deepmipt/DeepPavlov",
+            "star": 8,
+            "description": "An open source library for deep learning end-to-end dialog systems and chatbots."
+        },
+        {
+            "name": "CRAFT-pytorch",
+            "url": "https://github.com/clovaai/CRAFT-pytorch",
+            "star": 14,
+            "description": "Pytorch implementation of CRAFT text detector"
+        },
+        {
+            "name": "pytest",
+            "url": "https://github.com/pytest-dev/pytest",
+            "star": 10,
+            "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+        },
+        {
+            "name": "manim",
+            "url": "https://github.com/3b1b/manim",
+            "star": 47,
+            "description": "Animation engine for explanatory math videos"
+        },
+        {
+            "name": "nlp_xiaojiang",
+            "url": "https://github.com/yongzhuo/nlp_xiaojiang",
+            "star": 16,
+            "description": "自然语言处理（nlp），闲聊机器人（chatbot），BERT句向量-相似度（Sentence Similarity），文本分类（Text classify）， 实体提取（ner，bert+bilstm+crf），数据增强（text augment enhance），同义句同义词生成，句子主干提取（mainpart），中文汉语短文本相似度，文本特征工程，keras-http-service调用"
+        }
+    ],
+    "java": [
+        {
+            "name": "LeetCodeAnimation",
+            "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+            "star": 170,
+            "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
+        },
+        {
+            "name": "thingsboard",
+            "url": "https://github.com/thingsboard/thingsboard",
+            "star": 58,
+            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+        },
+        {
+            "name": "miaosha",
+            "url": "https://github.com/qiurunze123/miaosha",
+            "star": 122,
+            "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓"
+        },
+        {
+            "name": "SpringCloudLearning",
+            "url": "https://github.com/forezp/SpringCloudLearning",
+            "star": 52,
+            "description": "《史上最简单的Spring Cloud教程源码》"
+        },
+        {
+            "name": "v9porn",
+            "url": "https://github.com/techGay/v9porn",
+            "star": 59,
+            "description": "9*Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频"
+        },
+        {
+            "name": "server",
+            "url": "https://github.com/wildfirechat/server",
+            "star": 28,
+            "description": "全开源即时通讯(IM)系统"
+        },
+        {
+            "name": "MyBookshelf",
+            "url": "https://github.com/gedoor/MyBookshelf",
+            "star": 33,
+            "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+        },
+        {
+            "name": "tutorials",
+            "url": "https://github.com/eugenp/tutorials",
+            "star": 36,
+            "description": "The \"REST With Spring\" Course:"
+        },
+        {
+            "name": "Interview-Questions",
+            "url": "https://github.com/rishabh115/Interview-Questions",
+            "star": 7,
+            "description": "Most comprehensive list📋of interview questions📘of companies scraped from Geeksforgeeks, CareerCup and Glassdoor."
+        },
+        {
+            "name": "ZXBlog",
+            "url": "https://github.com/ZXZxin/ZXBlog",
+            "star": 32,
+            "description": "记录各种学习笔记(算法、Java、数据库、并发......)"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "The-Documentation-Compendium",
+            "url": "https://github.com/kylelobo/The-Documentation-Compendium",
+            "star": 77,
+            "description": "📢Various README templates & tips on writing high-quality documentation that people want to read."
+        },
+        {
+            "name": "GitHubDaily",
+            "url": "https://github.com/GitHubDaily/GitHubDaily",
+            "star": 115,
+            "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。"
+        },
+        {
+            "name": "ds-cheatsheets",
+            "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+            "star": 21,
+            "description": "List of Data Science Cheatsheets to rule the world"
+        },
+        {
+            "name": "one-python-craftsman",
+            "url": "https://github.com/piglei/one-python-craftsman",
+            "star": 46,
+            "description": "来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。"
+        },
+        {
+            "name": "xray",
+            "url": "https://github.com/chaitin/xray",
+            "star": 11,
+            "description": "xray 安全评估工具"
+        },
+        {
+            "name": "architect-awesome",
+            "url": "https://github.com/xingshaocheng/architect-awesome",
+            "star": 98,
+            "description": "后端架构师技术图谱"
+        },
+        {
+            "name": "zircon",
+            "url": "https://github.com/fuchsia-mirror/zircon",
+            "star": 2,
+            "description": "Zircon Kernel, Core Drivers, and Services"
+        },
+        {
+            "name": "PENTESTING-BIBLE",
+            "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+            "star": 17,
+            "description": "Leran Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources."
+        },
+        {
+            "name": "weekly",
+            "url": "https://github.com/aliyunfe/weekly",
+            "star": 8,
+            "description": "《阿里云前端技术周刊》"
+        },
+        {
+            "name": "SparkInternals",
+            "url": "https://github.com/JerryLead/SparkInternals",
+            "star": 5,
+            "description": "Notes talking about the design and implementation of Apache Spark"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "algorithm-visualizer",
+            "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+            "star": 215,
+            "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "star": 87,
+            "description": "📝Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+        },
+        {
+            "name": "opencti",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "star": 120,
+            "description": "Open Cyber Threat Intelligence Platform"
+        },
+        {
+            "name": "fe-interview",
+            "url": "https://github.com/haizlin/fe-interview",
+            "star": 296,
+            "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）"
+        },
+        {
+            "name": "urlpages",
+            "url": "https://github.com/jstrieb/urlpages",
+            "star": 91,
+            "description": "Create and view web pages stored entirely in the URL"
+        },
+        {
+            "name": "fullstack-tutorial",
+            "url": "https://github.com/frank-lam/fullstack-tutorial",
+            "star": 29,
+            "description": "🚀fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试"
+        },
+        {
+            "name": "TypeScript-Vue-Starter",
+            "url": "https://github.com/microsoft/TypeScript-Vue-Starter",
+            "star": 13,
+            "description": "A starter template for TypeScript and Vue with a detailed README describing how to use the two together."
+        },
+        {
+            "name": "react-material-dashboard",
+            "url": "https://github.com/devias-io/react-material-dashboard",
+            "star": 11,
+            "description": "React Dashboard made with Material UI’s components, React and of course create-react-app to boost your app development process!"
+        },
+        {
+            "name": "javascript-algorithms",
+            "url": "https://github.com/mgechev/javascript-algorithms",
+            "star": 22,
+            "description": "JavaScript implementation of different computer science algorithms."
+        },
+        {
+            "name": "d2-admin",
+            "url": "https://github.com/d2-projects/d2-admin",
+            "star": 21,
+            "description": "🌈An elegant dashboard"
+        }
+    ],
+    "html": [
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 74,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "skill-map",
+            "url": "https://github.com/TeamStuQ/skill-map",
+            "star": 11,
+            "description": "程序员技能图谱"
+        },
+        {
+            "name": "hylia",
+            "url": "https://github.com/andybelldesign/hylia",
+            "star": 9,
+            "description": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website."
+        },
+        {
+            "name": "flutter-in-action",
+            "url": "https://github.com/flutterchina/flutter-in-action",
+            "star": 36,
+            "description": "《Flutter实战》电子书"
+        },
+        {
+            "name": "hugo-academic",
+            "url": "https://github.com/gcushen/hugo-academic",
+            "star": 5,
+            "description": "📝The website builder for Hugo. Build and deploy a beautiful website in minutes!"
+        },
+        {
+            "name": "Markdown-Resume",
+            "url": "https://github.com/CyC2018/Markdown-Resume",
+            "star": 5,
+            "description": "⭐️Markdown 简历模版"
+        },
+        {
+            "name": "portainer",
+            "url": "https://github.com/portainer/portainer",
+            "star": 23,
+            "description": "Making Docker management easy."
+        },
+        {
+            "name": "grao",
+            "url": "https://github.com/fakedob/grao",
+            "star": 0,
+            "description": "PoC Stara Zagora GRAO Personal data leak"
+        },
+        {
+            "name": "zh.javascript.info",
+            "url": "https://github.com/javascript-tutorial/zh.javascript.info",
+            "star": 1,
+            "description": "Modern JavaScript Tutorial"
+        },
+        {
+            "name": "mescroll",
+            "url": "https://github.com/mescroll/mescroll",
+            "star": 4,
+            "description": "精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)"
+        }
+    ],
+    "go": [
+        {
+            "name": "lazydocker",
+            "url": "https://github.com/jesseduffield/lazydocker",
+            "star": 1074,
+            "description": "The lazier way to manage everything docker"
+        },
+        {
+            "name": "gocui",
+            "url": "https://github.com/jroimartin/gocui",
+            "star": 114,
+            "description": "Minimalist Go package aimed at creating Console User Interfaces."
+        },
+        {
+            "name": "opa",
+            "url": "https://github.com/open-policy-agent/opa",
+            "star": 10,
+            "description": "An open source, general-purpose policy engine."
+        },
+        {
+            "name": "Amass",
+            "url": "https://github.com/OWASP/Amass",
+            "star": 35,
+            "description": "In-depth DNS Enumeration and Network Mapping"
+        },
+        {
+            "name": "cloud-on-k8s",
+            "url": "https://github.com/elastic/cloud-on-k8s",
+            "star": 4,
+            "description": "Elastic Cloud on Kubernetes"
+        },
+        {
+            "name": "cobra",
+            "url": "https://github.com/spf13/cobra",
+            "star": 16,
+            "description": "A Commander for modern Go CLI interactions"
+        },
+        {
+            "name": "node_exporter",
+            "url": "https://github.com/prometheus/node_exporter",
+            "star": 11,
+            "description": "Exporter for machine metrics"
+        },
+        {
+            "name": "operator-sdk",
+            "url": "https://github.com/operator-framework/operator-sdk",
+            "star": 4,
+            "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+        },
+        {
+            "name": "learn-go-with-tests",
+            "url": "https://github.com/quii/learn-go-with-tests",
+            "star": 20,
+            "description": "Learn Go with test-driven development"
+        },
+        {
+            "name": "hydra",
+            "url": "https://github.com/ory/hydra",
+            "star": 52,
+            "description": "OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language."
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "date": "2019-04-20",
+    "month": 4,
+    "day": 20,
+    "python": [
+        {
+            "name": "AiLearning",
+            "url": "https://github.com/apachecn/AiLearning",
+            "star": 530,
+            "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP"
+        },
+        {
+            "name": "ChromeAppHeroes",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+            "star": 429,
+            "description": "🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~"
+        },
+        {
+            "name": "spacy-course",
+            "url": "https://github.com/ines/spacy-course",
+            "star": 226,
+            "description": "👩‍🏫Advanced NLP with spaCy: A free online course"
+        },
+        {
+            "name": "CenterNet",
+            "url": "https://github.com/xingyizhou/CenterNet",
+            "star": 156,
+            "description": "Object detection, 3D detection, and pose estimation using center point detection:"
+        },
+        {
+            "name": "pyodide",
+            "url": "https://github.com/iodide-project/pyodide",
+            "star": 115,
+            "description": "The Python scientific stack, compiled to WebAssembly"
+        },
+        {
+            "name": "morph-net",
+            "url": "https://github.com/google-research/morph-net",
+            "star": 100,
+            "description": "Fast & Simple Resource-Constrained Learning of Deep Network Structure"
+        },
+        {
+            "name": "CenterNet",
+            "url": "https://github.com/Duankaiwen/CenterNet",
+            "star": 90,
+            "description": "Codes for our paper \"CenterNet: Keypoint Triplets for Object Detection\" ."
+        },
+        {
+            "name": "CornerNet-Lite",
+            "url": "https://github.com/princeton-vl/CornerNet-Lite",
+            "star": 93,
+            "description": ""
+        },
+        {
+            "name": "requests3",
+            "url": "https://github.com/kennethreitz/requests3",
+            "star": 90,
+            "description": "Requests 3.0, for Humans and Machines, alike.🤖"
+        },
+        {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "star": 53,
+            "description": "Models and examples built with TensorFlow"
+        }
+    ],
+    "java": [
+        {
+            "name": "halo",
+            "url": "https://github.com/halo-dev/halo",
+            "star": 264,
+            "description": "✍ Halo 可能是最好的 Java 博客系统"
+        },
+        {
+            "name": "hutool",
+            "url": "https://github.com/looly/hutool",
+            "star": 196,
+            "description": "A set of tools that keep Java sweet."
+        },
+        {
+            "name": "JavaGuide",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "star": 191,
+            "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+        },
+        {
+            "name": "advanced-java",
+            "url": "https://github.com/doocs/advanced-java",
+            "star": 124,
+            "description": "😮互联网 Java 工程师进阶知识完全扫盲"
+        },
+        {
+            "name": "Spring-Boot-In-Action",
+            "url": "https://github.com/hansonwang99/Spring-Boot-In-Action",
+            "star": 93,
+            "description": "Spring Boot 系列实战合集"
+        },
+        {
+            "name": "mall",
+            "url": "https://github.com/macrozheng/mall",
+            "star": 72,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。"
+        },
+        {
+            "name": "skywalking",
+            "url": "https://github.com/apache/skywalking",
+            "star": 73,
+            "description": "APM, Application Performance Monitoring System"
+        },
+        {
+            "name": "litemall",
+            "url": "https://github.com/linlinjava/litemall",
+            "star": 68,
+            "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端"
+        },
+        {
+            "name": "jeecg-boot",
+            "url": "https://github.com/zhangdaiscott/jeecg-boot",
+            "star": 57,
+            "description": "Jeecg-boot 是一款基于代码生成器的智能开发平台！采用前后端分离技术:SpringBoot，Mybatis，Shiro，JWT，Vue & Ant Design。提供强大的代码生成器， 前端页面和后台代码一键生成，不需要写任何代码，保持jeecg一贯的强大，绝对是全栈开发者福音！！ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同时提高开发效率，追求更高的能力，No代码概念，一系列智能化在线开发。"
+        },
+        {
+            "name": "spring-boot",
+            "url": "https://github.com/spring-projects/spring-boot",
+            "star": 52,
+            "description": "Spring Boot"
+        }
+    ],
+    "unknown": [
+        {
+            "name": "golang-developer-roadmap",
+            "url": "https://github.com/Alikhll/golang-developer-roadmap",
+            "star": 472,
+            "description": "Roadmap to becoming a Go developer in 2019"
+        },
+        {
+            "name": "git-tips",
+            "url": "https://github.com/521xueweihan/git-tips",
+            "star": 371,
+            "description": "Git的奇技淫巧"
+        },
+        {
+            "name": "app-ideas",
+            "url": "https://github.com/florinpop17/app-ideas",
+            "star": 209,
+            "description": "A Collection of application ideas which can be used to improve your coding skills."
+        },
+        {
+            "name": "china_area_mysql",
+            "url": "https://github.com/kakuilan/china_area_mysql",
+            "star": 152,
+            "description": "中国5级行政区域mysql库"
+        },
+        {
+            "name": "SJTU-Courses",
+            "url": "https://github.com/CoolPhilChen/SJTU-Courses",
+            "star": 143,
+            "description": "上海交通大学课程资料分享"
+        },
+        {
+            "name": "awesome-roadmaps",
+            "url": "https://github.com/orsanawwad/awesome-roadmaps",
+            "star": 128,
+            "description": "View roadmaps about developer roles to help you learn"
+        },
+        {
+            "name": "developer-roadmap",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "star": 100,
+            "description": "Roadmap to becoming a web developer in 2019"
+        },
+        {
+            "name": "CS-Notes",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "star": 91,
+            "description": "📚技术面试必备基础知识"
+        },
+        {
+            "name": "955.WLB",
+            "url": "https://github.com/formulahendry/955.WLB",
+            "star": 98,
+            "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)"
+        },
+        {
+            "name": "Weekly-FE-Interview",
+            "url": "https://github.com/airuikun/Weekly-FE-Interview",
+            "star": 94,
+            "description": "每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。"
+        }
+    ],
+    "javascript": [
+        {
+            "name": "ikonate",
+            "url": "https://github.com/mikolajdobrucki/ikonate",
+            "star": 637,
+            "description": "fully customisable & accessible vector icons"
+        },
+        {
+            "name": "libpku",
+            "url": "https://github.com/lib-pku/libpku",
+            "star": 382,
+            "description": "贵校课程资料民间整理"
+        },
+        {
+            "name": "dsa.js",
+            "url": "https://github.com/amejiarosario/dsa.js",
+            "star": 400,
+            "description": "Data Structures and Algorithms explained and implemented in JavaScript"
+        },
+        {
+            "name": "React95",
+            "url": "https://github.com/arturbien/React95",
+            "star": 342,
+            "description": "🌈🕹Refreshed Windows 95 style UI components for your React app"
+        },
+        {
+            "name": "tool",
+            "url": "https://github.com/Louiszhai/tool",
+            "star": 215,
+            "description": "开发效率提升：Mac生产力工具链推荐"
+        },
+        {
+            "name": "squeezer",
+            "url": "https://github.com/SqueezerIO/squeezer",
+            "star": 164,
+            "description": "Squeezer Framework - Build serverless dApps"
+        },
+        {
+            "name": "glicky",
+            "url": "https://github.com/alex-saunders/glicky",
+            "star": 149,
+            "description": "🐭An in-browser task runner for modern web development"
+        },
+        {
+            "name": "vue",
+            "url": "https://github.com/vuejs/vue",
+            "star": 119,
+            "description": "🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+        },
+        {
+            "name": "cxk-ball",
+            "url": "https://github.com/kasuganosoras/cxk-ball",
+            "star": 117,
+            "description": "Javascript 实现的蔡徐坤打篮球游戏"
+        },
+        {
+            "name": "js-cloudimage-360-view",
+            "url": "https://github.com/scaleflex/js-cloudimage-360-view",
+            "star": 105,
+            "description": "Engage your customers with a stunning 360 view of your products"
+        }
+    ],
+    "html": [
+        {
+            "name": "zju-icicles",
+            "url": "https://github.com/QSCTech/zju-icicles",
+            "star": 226,
+            "description": "浙江大学课程攻略共享计划"
+        },
+        {
+            "name": "front-end-handbook-2019",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
+            "star": 110,
+            "description": "[Book] 2019 edition of our front-end development handbook"
+        },
+        {
+            "name": "nndl.github.io",
+            "url": "https://github.com/nndl/nndl.github.io",
+            "star": 62,
+            "description": "《神经网络与深度学习》 Neural Network and Deep Learning"
+        },
+        {
+            "name": "Coursera-ML-AndrewNg-Notes",
+            "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+            "star": 25,
+            "description": "吴恩达老师的机器学习课程个人笔记"
+        },
+        {
+            "name": "OUCML",
+            "url": "https://github.com/OUCMachineLearning/OUCML",
+            "star": 26,
+            "description": ""
+        },
+        {
+            "name": "water.css",
+            "url": "https://github.com/kognise/water.css",
+            "star": 28,
+            "description": "A just-add-css collection of styles to make simple websites just a little nicer"
+        },
+        {
+            "name": "styleguide",
+            "url": "https://github.com/google/styleguide",
+            "star": 22,
+            "description": "Style guides for Google-originated open-source projects"
+        },
+        {
+            "name": "linux-command",
+            "url": "https://github.com/jaywcjlove/linux-command",
+            "star": 21,
+            "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux"
+        },
+        {
+            "name": "personal-website",
+            "url": "https://github.com/github/personal-website",
+            "star": 11,
+            "description": "Code that'll help you kickstart a personal website that showcases your work as a software developer."
+        },
+        {
+            "name": "CLRS",
+            "url": "https://github.com/walkccc/CLRS",
+            "star": 15,
+            "description": "📚Solutions to Introduction to Algorithms Third Edition"
+        }
+    ],
+    "go": [
+        {
+            "name": "jingo",
+            "url": "https://github.com/bet365/jingo",
+            "star": 119,
+            "description": "This package provides the ability to encode golang structs to a buffer as JSON very quickly."
+        },
+        {
+            "name": "go",
+            "url": "https://github.com/golang/go",
+            "star": 72,
+            "description": "The Go programming language"
+        },
+        {
+            "name": "revive",
+            "url": "https://github.com/mgechev/revive",
+            "star": 73,
+            "description": "🔥~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint."
+        },
+        {
+            "name": "v",
+            "url": "https://github.com/vlang/v",
+            "star": 69,
+            "description": "Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++."
+        },
+        {
+            "name": "kubernetes",
+            "url": "https://github.com/kubernetes/kubernetes",
+            "star": 49,
+            "description": "Production-Grade Container Scheduling and Management"
+        },
+        {
+            "name": "docker-slim",
+            "url": "https://github.com/docker-slim/docker-slim",
+            "star": 55,
+            "description": "DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)"
+        },
+        {
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go",
+            "star": 45,
+            "description": "A curated list of awesome Go frameworks, libraries and software"
+        },
+        {
+            "name": "miniredis",
+            "url": "https://github.com/alicebob/miniredis",
+            "star": 43,
+            "description": "Pure Go Redis server for Go unittests"
+        },
+        {
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+            "star": 42,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+        },
+        {
+            "name": "go-fastdfs",
+            "url": "https://github.com/sjqzhang/go-fastdfs",
+            "star": 40,
+            "description": "A simple fast, easy use distributed file system written by golang(similar fastdfs).go-fastdfs 是一个简单的分布式文件存储，具有高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。"
+        }
+    ]
+}
